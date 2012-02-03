@@ -3,19 +3,13 @@
 # encoding: utf-8
 
 schema:
-  schema_id: luna_pinyin
-  name: 朙月拼音
+  schema_id: luna_pinyin_fluency
+  name: 語句流
   version: "0.9.6"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
-    Thanks to the following works:
-      * CC-CEDICT
-      * Android open source project
-      * Chewing - 新酷音
-      * 三拼簡繁詞庫
-      * opencc - 開放中文轉換
-
+    朙月拼音語句流錄入！
 switches:
   - name: ascii_mode
     reset: 0
@@ -34,7 +28,7 @@ engine:
     - punctuator
     - selector
     - navigator
-    - express_editor
+    - fluency_editor
   segmentors:
     - ascii_segmentor
     - matcher
@@ -67,6 +61,7 @@ speller:
 
 translator:
   dictionary: luna_pinyin
+  prism: luna_pinyin_fluency
   preedit_format:
    - xform/([nl])v/$1ü/
 

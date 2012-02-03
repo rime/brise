@@ -5,7 +5,7 @@
 schema:
   schema_id: luna_pinyin_simp
   name: 简化字
-  version: "0.9.5.1"
+  version: "0.9.6"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -17,7 +17,7 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: simplification
+  - name: zh_simp
     reset: 1
     states: [ 漢字, 汉字 ]
 
@@ -47,24 +47,27 @@ engine:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: "'"
+  delimiter: " '"
   algebra:
-    - "xform/^xx$/uu/"
-    - "abbrev/^([a-z]).+$/$1/"
-    - "abbrev/^([zcs]h).+$/$1/"
-    - "derive/^([nl])ve$/$1ue/"
-    - "derive/ui$/uei/"
-    - "derive/iu$/iou/"
-    - "derive/([aeiou])ng$/$1gn/"
-    - "derive/ong$/on/"
-    - "derive/ao$/oa/"
-    - "derive/([iu])a(o|ng?)$/a$1$2/"
+    - xform/^xx$/uu/
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([zcs]h).+$/$1/
+    - derive/^([nl])ve$/$1ue/
+    - derive/ui$/uei/
+    - derive/iu$/iou/
+    - derive/([aeiou])ng$/$1gn/
+    - derive/ong$/on/
+    - derive/ao$/oa/
+    - derive/([iu])a(o|ng?)$/a$1$2/
 
 translator:
   dictionary: luna_pinyin
   prism: luna_pinyin_simp
   preedit_format:
-   - "xform/([nl])v/$1ü/"
+   - xform/([nl])v/$1ü/
+
+simplifier:
+  option_name: zh_simp
 
 punctuator:
   import_preset: default
