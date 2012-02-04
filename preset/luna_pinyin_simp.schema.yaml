@@ -64,7 +64,7 @@ translator:
   dictionary: luna_pinyin
   prism: luna_pinyin_simp
   preedit_format:
-   - xform/([nl])v/$1ü/
+    - xform/([nl])v/$1ü/
 
 simplifier:
   option_name: zh_simp

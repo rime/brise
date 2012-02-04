@@ -64,7 +64,7 @@ translator:
   dictionary: luna_pinyin
   prism: luna_pinyin_tw
   preedit_format:
-   - xform/([nl])v/$1ü/
+    - xform/([nl])v/$1ü/
 
 simplifier:
   opencc_config: zht2zhtw_v.ini
