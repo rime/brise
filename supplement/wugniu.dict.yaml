@@ -1,0 +1,11615 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Wugniu - 吳語上海話（新派）
+#
+# 碼表製作：
+#
+#   上海閑話abc <tzyyiggnih@yahoo.com.cn>
+#
+
+---
+name: wugniu
+version: "0.1"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+〇	lin
+一	iq
+丁	tin
+丁	tzen	0%
+七	chiq
+丈	zan
+三	se
+上	zan
+下	rau
+下	xia	0%
+不	feq	0%
+不	peq
+不	piq	0%
+丐	ke
+丑	tsoe
+且	chi	0%
+且	chia
+且	ciu	0%
+且	tzu	0%
+且	zu	0%
+丕	phi
+世	sy
+丘	chioe
+丙	pin
+丞	zen
+丟	tioe
+並	bin
+丫	au
+丫	ia	0%
+中	tzon
+丰	fon
+串	kue	0%
+串	tseu
+串	we	0%
+丸	weu
+丹	te
+主	tzy
+乂	gni
+乃	ne
+久	cioe
+么	io
+之	tzy
+乍	zau
+乎	hu	0%
+乎	wu
+乏	vaq
+乒	phin
+乓	phan
+乖	kua
+乘	tsen
+乘	zen	0%
+乙	iq
+乜	mia
+九	cioe
+乞	chiq
+也	ra
+也	ya	0%
+乩	ci
+乳	zy
+乾	dji	0%
+乾	keu
+亂	leu
+了	lheq	0%
+了	lio
+予	yu
+予	zy	0%
+事	zy
+二	el	0%
+二	gni
+亍	tsoq
+于	iu	0%
+于	xiu	0%
+于	yu
+云	yun
+互	wu
+亓	dji
+五	ng
+五	wu	0%
+井	cin
+亙	ken
+些	su	0%
+些	xi
+亞	ia
+亟	chi	0%
+亟	ciq
+亡	man	0%
+亡	van
+亡	vu	0%
+亢	khan
+交	cio	0%
+交	ko
+亥	re
+亦	yiq
+亨	han
+亨	phen	0%
+享	xian
+京	cin
+亭	din
+亮	lian
+亳	boq
+亶	de	0%
+亶	te
+人	gnin
+人	zen	0%
+什	zeq
+仁	gnin
+仁	zen	0%
+仂	leq
+仂	liq	0%
+仃	tin
+仄	tzeq
+仆	phoq
+仇	djioe
+仉	tzan
+今	cin
+介	cia	0%
+介	ga	0%
+介	ka
+仍	gnin
+仍	zen	0%
+仔	tze	0%
+仔	tzy
+仕	zy
+他	tha
+仗	tzan
+仗	zan	0%
+付	fu
+仙	xi
+仞	zen
+仟	chi
+仡	gniq
+仡	keq	0%
+代	de
+令	lin
+以	i
+仨	se
+仫	mu
+仰	knian
+仰	ngan	0%
+仲	zon
+仳	bi
+仳	phi	0%
+仵	ng
+件	dji
+价	geq	0%
+价	ka
+任	gnin	0%
+任	zen
+份	pin	0%
+份	ven
+仿	ban	0%
+仿	fan
+企	chi
+伉	khan
+伊	i	0%
+伊	yi
+伋	ciq
+伍	ng	0%
+伍	wu
+伎	dji
+伎	tzy	0%
+伏	bu	0%
+伏	voq
+伐	vaq
+休	xioe
+休	xiu	0%
+伕	fu
+伙	hu
+伢	nga
+伯	paq
+伯	pau	0%
+估	ku
+伲	gni
+伴	beu
+伶	lin
+伸	sen
+伺	sy	0%
+伺	zy
+似	zy
+伽	djia	0%
+伽	ga
+伽	ka	0%
+伾	phi
+佃	di
+但	de
+佇	zy
+佈	pu
+位	we
+低	ti
+住	tzy	0%
+住	zy
+佐	tzu
+佑	yoe
+体	ben
+佔	tzeu
+何	wu
+佗	du
+佗	tha	0%
+佘	zau
+余	yu
+佚	diq	0%
+佚	yiq
+佛	beq	0%
+佛	biq	0%
+佛	veq
+作	tzoq
+佝	hoe	0%
+佝	khoe	0%
+佝	koe
+佞	gnin
+佟	don
+你	nhi
+佤	wa
+佩	be
+佬	lo
+佮	keq
+佯	yan
+佰	paq
+佳	cia
+佳	ka	0%
+佴	el	0%
+佴	gni	0%
+佴	ne
+併	pin
+佶	djiq
+佻	thio
+佼	cio
+佾	yiq
+使	sy
+侃	khe
+侄	zeq
+來	le
+侇	yi
+侈	tsy
+侉	khau
+例	li
+侍	zy
+侏	tzy
+侑	yoe
+侔	moe
+侖	len
+侗	don
+侗	thon	0%
+供	kon
+依	i
+侮	vu
+侯	roe
+侵	chin
+侶	liu
+侷	djioq
+便	bi
+係	yi
+促	tsoq
+俄	ngu
+俅	djioe
+俉	n
+俊	cin
+俎	tzu
+俏	chio
+俏	xio	0%
+俐	li
+俑	ion
+俗	zoq
+俘	fu
+俚	li
+俜	phin
+保	po
+俞	yu
+俟	dji	0%
+俟	zy
+俠	yaq
+信	sen	0%
+信	xin
+俣	gniu
+修	xioe
+俯	fu
+俱	djiu
+俳	ba
+俵	pio
+俶	tsoq
+俸	von
+俺	e
+俾	pi
+倀	tsan
+倆	lian
+倉	tsan
+個	keu	0%
+個	ku
+個	req	0%
+倌	kueu
+倍	be
+倏	soq
+們	men
+倒	to
+倓	de
+倔	djiuq
+倖	yin
+倘	than
+倘	tsan	0%
+候	roe
+倚	i
+倜	thiq
+倞	djin
+倞	lian	0%
+借	cia
+倡	tsan
+倡	zan	0%
+倥	khon
+倦	djieu
+倨	ciu
+倩	chi
+倩	chin	0%
+倪	gni
+倫	len
+倬	tzoq
+倭	u
+倭	ue	0%
+倷	ne
+倻	ia
+值	zeq
+偃	i
+假	cia	0%
+假	ka
+假	ya	0%
+偈	dji	0%
+偈	djiq
+偉	we
+偌	noq	0%
+偌	za
+偎	ue
+偏	phi
+偕	cia
+做	tzu
+停	din
+健	dji
+偬	tzon
+偰	xiq
+偲	sy
+偲	tse	0%
+側	tzeq
+偵	tzen
+偶	ngoe
+偷	thoe
+偽	we
+傀	khue
+傅	fu	0%
+傅	vu
+傈	liq
+傍	ban
+傑	djiq
+傖	tsan
+傘	se
+備	be
+傚	yo
+傜	yo
+傝	thaq
+傢	ka
+傣	te
+催	tseu
+傭	yon
+傲	ngo
+傳	zeu
+傴	iu
+傴	oe	0%
+債	tza
+傷	san
+傻	sa
+傾	chin
+僂	liu	0%
+僂	loe
+僅	djin
+僇	loq
+僉	chi
+僊	xi
+像	jian
+僑	djio
+僕	boq
+僖	xi
+僚	lio
+僚	lo	0%
+僞	we
+僥	cio
+僥	gnio	0%
+僦	cioe
+僧	sen
+僨	fen
+僬	cio
+僭	ci
+僮	don
+僮	zan	0%
+僰	boq
+僱	ku
+僳	soq
+僵	cian
+價	ka
+僻	phiq
+儀	gni
+儂	non
+億	i
+儆	cin
+儇	xieu
+儈	kue
+儉	dji
+儋	te
+儐	pin
+儒	zy
+儔	zoe
+儕	ze
+儘	cin
+償	zan
+儡	le
+優	ioe
+儲	zy
+儷	li
+儸	lu
+儺	nu
+儻	than
+儼	gni
+兀	ngeq	0%
+兀	u
+允	yun
+元	gnieu
+兄	xion
+充	tson
+兆	zo
+兇	xion
+先	xi
+光	kuan
+克	kheq
+兌	de
+兌	yuq	0%
+兌	zeu	0%
+免	mi
+兒	el
+兒	gni	0%
+兒	ng	0%
+兔	thu
+兕	zy
+兖	yi
+兗	yeu
+兜	toe
+兢	cin
+入	zeq
+內	naq	0%
+內	ne
+內	zeu	0%
+全	ji
+兩	lian
+八	paq
+公	kon
+六	loq
+兮	xi	0%
+兮	yi
+共	gon
+共	kon	0%
+共	ron	0%
+兵	pin
+其	ci	0%
+其	dji
+具	djiu
+典	ti
+兹	zy
+兼	ci
+冀	ci
+冉	zeu
+冊	tsaq
+再	tze
+冑	zoe
+冒	meq	0%
+冒	mo
+冕	mi
+冗	gnion
+冠	kueu
+冤	ieu
+冥	min
+冪	miq
+冬	ton
+冰	pin
+冱	wu
+冶	ya	0%
+冶	yi
+冷	lan
+冼	xi
+冽	liq
+准	tzen
+凇	son
+凋	tio
+凌	lin
+凍	ton
+凚	djin
+凜	lin
+凝	gnin
+几	ci
+凡	ve
+凰	wan
+凱	khe
+凳	ten
+凶	xion
+凸	deq
+凹	o
+出	tseq
+凼	dan
+函	reu
+刀	to
+刁	tio
+刃	zen
+分	fen
+分	ven	0%
+切	chiq
+刈	gni
+刊	khe
+刎	men	0%
+刎	ven
+刑	yin
+划	rau
+刖	ngeq
+刖	yuq	0%
+列	liq
+初	tsu
+判	pheu
+別	biq
+刨	bo
+利	li
+刪	se
+刮	kuaq
+到	to
+刳	khu
+制	tzy
+刷	seq
+券	chieu
+券	xieu	0%
+刺	tsy
+刻	kheq
+剁	tu
+剃	thi
+剄	cin
+剅	toe
+則	tzeq
+剉	tsu
+削	xiaq
+剋	kheq
+剌	laq
+前	ji
+剎	saq
+剎	tsaq	0%
+剔	thiq
+剕	vi
+剖	phoe
+剖	phu	0%
+剚	tzy
+剛	kan
+剜	ueu
+剝	poq
+剞	ci
+剟	teq
+剡	yi
+剡	zeu	0%
+剩	zan	0%
+剩	zen
+剪	ci
+剮	kau
+剮	kua	0%
+副	fu
+副	phi	0%
+割	keq
+剴	khe
+創	tsan
+剷	tse
+剽	bio
+剾	khoe
+剿	djio
+剿	tso	0%
+劁	jio
+劂	ciuq
+劃	waq
+劇	djiq
+劈	phiq
+劉	lioe
+劊	kue
+劌	kue
+劍	ci
+劐	hoq
+劑	ci
+劓	gni
+劗	tze
+力	liq
+劜	gaq
+功	kon
+加	ka
+劣	liq
+助	zu
+助	zy	0%
+努	nu
+劫	ciq
+劬	djiu
+劭	zo
+劾	req
+勁	cin
+勁	djin	0%
+勃	beq
+勇	ion
+勉	mhi
+勍	djin
+勐	man
+勒	leq
+動	don
+勖	xioq
+勘	kheu
+務	vu
+勛	xiun
+勜	on
+勝	sen
+勞	lo
+募	mu
+勢	sy
+勤	djin
+勩	yi
+勯	the
+勰	yaq
+勱	ma	0%
+勱	me
+勵	li
+勸	chieu
+勺	zoq
+勻	yun
+勾	koe
+勿	veq
+包	po
+匆	tson
+匈	xion
+匍	bu
+匏	bo
+匐	boq	0%
+匐	bu	0%
+匐	voq
+匕	pi
+化	hau
+化	hu	0%
+化	hua	0%
+北	pe	0%
+北	poq
+匙	zy
+匜	yi
+匝	tzaq
+匠	jian
+匡	khuan
+匣	raq
+匪	fi
+匭	kue
+匯	we
+匱	gue
+匹	phiq
+匽	i
+匾	pi
+匿	gniq
+區	chiu
+區	oe	0%
+十	seq	0%
+十	zeq
+千	chi
+卅	sa	0%
+卅	saq
+升	sen
+午	ng	0%
+午	wu
+卉	hue
+半	peu
+卍	me
+卍	ve	0%
+卐	me	0%
+卐	ve
+卑	pe
+卒	tseq	0%
+卒	tzeq
+卓	tzoq
+協	yaq
+南	neu
+博	poq
+卜	boq	0%
+卜	poq
+卞	bi
+卟	ci	0%
+卟	poq
+占	tzeu
+卡	kha
+卣	yoe
+卦	kau
+卯	mo
+印	in
+危	we
+即	ciq
+卵	leu
+卵	lu	0%
+卷	cieu
+卷	djieu	0%
+卸	xia
+卹	xiq
+卺	cin
+卻	chiaq
+卿	chin
+厂	eu
+厂	heu	0%
+厄	ngeq
+厘	li
+厙	sau
+厚	roe
+厝	tsu
+原	gnieu
+厥	ciuq
+厭	aq	0%
+厭	i
+厭	iq	0%
+厮	sy
+厰	tsan
+厲	li
+厴	i
+去	chi
+厾	toq
+參	se	0%
+參	sen	0%
+參	tsen	0%
+參	tseu
+又	yi	0%
+又	yoe
+叉	tsa
+叉	tsau	0%
+及	djiq
+友	yoe
+反	fe
+叔	soq
+取	chiu
+受	zoe
+叛	beu
+叟	soe
+叢	zon
+口	khoe
+古	ku
+句	cioe	0%
+句	ciu
+句	koe	0%
+另	lin
+叨	tho	0%
+叨	to
+叩	khoe
+叫	cio
+叫	ko	0%
+召	zo
+叭	pa
+叮	tin
+可	kheq	0%
+可	khu
+台	de
+台	the	0%
+叱	tseq
+史	sy
+右	yoe
+叵	phu
+叶	yaq
+司	sy
+叻	leq
+叼	tio
+吁	iu
+吁	xiu	0%
+吃	chiq
+各	koq
+吆	io
+合	keq	0%
+合	req
+吉	ciq
+吊	tio
+吋	tsen
+同	don
+名	min
+后	roe
+吏	li
+吐	thu
+向	xian
+吒	tzau
+吘	nk
+君	ciun
+吝	lin
+吞	then
+吟	gnin
+吠	vi
+吡	phi
+吣	chin
+否	foe
+否	phi	0%
+否	va	0%
+吧	ba
+吧	pa	0%
+吩	fen
+含	reu
+吭	khan
+吭	ran	0%
+吮	zen
+吱	tzy
+吲	in
+吲	sen	0%
+吳	ng	0%
+吳	wu
+吵	tso
+吶	naq
+吸	xiq
+吹	tseu	0%
+吹	tsy
+吻	ven
+吼	hoe
+吾	gniu	0%
+吾	ngu
+吿	ko
+呀	ia
+呂	liu
+呃	eq
+呆	nge
+呆	te	0%
+呈	zen
+告	ko
+呋	fu
+呎	tsaq
+呔	te	0%
+呔	tha
+呢	gni
+呢	nheq	0%
+呣	m
+呣	mh	0%
+呣	moe	0%
+呤	lin
+呦	ioe
+周	tzoe
+呱	ku	0%
+呱	kuaq
+呲	tzy
+味	mi	0%
+味	vi
+呴	hoe
+呴	koe	0%
+呴	xiu	0%
+呵	ha
+呵	hau	0%
+呵	hu	0%
+呵	khu	0%
+呶	no
+呷	haq
+呸	phe
+呻	sen
+呼	hu
+命	min
+咀	ciu
+咂	tzaq
+咄	teq
+咆	bo
+咋	tzaq
+和	wu
+咎	djioe
+咐	fu
+咒	tzoe
+咔	kha
+咕	gu	0%
+咕	ku
+咖	ka	0%
+咖	kha
+咚	ton
+咣	kuan
+咤	tzau
+咦	yi
+咧	lhiq	0%
+咧	liq
+咨	tzy
+咩	mhie
+咪	mhi
+咪	mi	0%
+咫	tzy
+咬	ngo
+咭	xiq
+咯	kaq
+咱	tza
+咳	he	0%
+咳	kheq
+咳	re	0%
+咴	hue
+咷	do
+咸	re
+咻	xioe
+咼	kau	0%
+咼	u	0%
+咼	wa
+咼	wu	0%
+咽	i
+咽	iq	0%
+咾	lo
+咾	loq	0%
+咿	i
+咿	yi	0%
+哀	e
+品	phin
+哂	sen
+哄	hon
+哆	tu
+哇	ua
+哈	ha
+哉	tze
+哌	pha
+哎	e
+哏	gen
+哏	hen	0%
+哐	khuan
+哚	tu
+哞	moe
+員	yeu
+員	yun	0%
+哥	ku
+哦	ngu
+哦	o	0%
+哧	tsaq
+哨	so
+哩	lhi	0%
+哩	li
+哪	na
+哪	nau	0%
+哭	khoq
+哮	xio
+哲	tzeq
+哳	tzaq
+哴	lan
+哺	bu
+哼	han	0%
+哼	hen
+哽	kan
+哿	ku
+唁	gni
+唄	ba
+唆	su
+唉	e
+唊	kaq
+唏	xi
+唐	dan
+唑	zu
+唔	nh
+唣	zo
+唧	ciq
+唩	u
+唪	von
+唬	haq	0%
+唬	hu
+售	zoe
+唯	vi
+唱	tsan
+唳	liq
+唶	cia	0%
+唶	tzoq
+唷	yoq
+唸	gni
+唻	le
+唼	saq
+唾	thu
+唿	hueq
+啁	thio	0%
+啁	tzo
+啁	tzoe	0%
+啃	khen
+啄	toq	0%
+啄	tzoq
+商	san
+啉	le	0%
+啉	lin
+啊	a
+啊	ra	0%
+問	men	0%
+問	ven
+啐	ciq	0%
+啐	tse
+啐	tseu	0%
+啐	zaq	0%
+啓	chi
+啕	do
+啖	de
+啜	tseq
+啞	au
+啟	chi
+啡	fi
+啤	bi
+啥	sa
+啦	lha
+啦	lhaq	0%
+啪	phaq
+啱	nge
+啵	poq
+啶	din
+啷	lhan
+啻	sy
+啼	di
+啾	cioe
+喀	khaq
+喁	gnion
+喂	iu	0%
+喂	ue
+喃	neu
+善	zeu
+喇	la
+喈	ka
+喉	roe
+喊	he
+喋	tiq
+喏	no	0%
+喏	noq
+喏	za	0%
+喑	in
+喔	oq
+喖	wu
+喘	tseu
+喙	hue
+喚	hueu
+喜	xi
+喝	a	0%
+喝	heq
+喟	khue
+喤	wan
+喦	nge
+喧	xieu
+喪	san
+喬	djio
+喭	gni
+單	te
+單	zeu	0%
+喱	li
+喲	io	0%
+喲	yo
+喳	tsa	0%
+喳	tza
+喵	mhio
+喹	khue
+喻	yu
+嗀	hoq
+嗄	ra	0%
+嗄	sau
+嗅	xioe
+嗆	chian
+嗇	seq
+嗊	hon	0%
+嗊	kon
+嗌	a	0%
+嗌	iq
+嗍	soq
+嗎	ma	0%
+嗎	mau
+嗑	kheq
+嗒	taq
+嗒	thaq	0%
+嗓	san
+嗔	di	0%
+嗔	tsen
+嗖	soe
+嗖	soq	0%
+嗚	u
+嗜	zy
+嗝	keq
+嗞	tzy
+嗟	cia
+嗡	on
+嗣	zy
+嗤	tsy
+嗥	ro
+嗦	soq
+嗨	he
+嗩	su
+嗪	jin
+嗬	heq
+嗯	en
+嗯	nh	0%
+嗲	tia
+嗵	thon
+嗶	piq
+嗷	ngo
+嗽	soe
+嗾	soe
+嘀	tiq
+嘁	chiq
+嘆	the
+嘈	zo
+嘉	cia	0%
+嘉	ka
+嘌	phio
+嘍	loe
+嘎	kaq
+嘏	ka
+嘓	goq
+嘔	oe
+嘖	tzeq
+嘗	zan
+嘚	teq
+嘛	ma
+嘛	mha	0%
+嘜	maq
+嘞	leq
+嘟	tu
+嘡	dan
+嘣	pan
+嘧	miq
+嘩	hua	0%
+嘩	rau
+嘩	ua	0%
+嘬	tse	0%
+嘬	tzoq
+嘭	ban
+嘮	lho
+嘯	xio
+嘰	ci
+嘲	tzo	0%
+嘲	zo
+嘴	tzy
+嘵	xio
+嘶	sy
+嘸	fu	0%
+嘸	m
+嘹	lio
+嘻	xi
+嘽	the
+嘿	heq
+嘿	meq	0%
+噀	sen
+噁	oq
+噌	tsen
+噌	zen	0%
+噍	jio
+噎	iq
+噓	sy	0%
+噓	xiu
+噔	den
+噗	phoq
+噘	ciuq
+噘	djiuq	0%
+噙	djin
+噝	sy
+噢	ioq	0%
+噢	iu	0%
+噢	o
+噤	djin
+噥	non
+噦	hue
+噦	iuq	0%
+器	chi
+噩	ngoq
+噪	tzo
+噫	a	0%
+噫	i
+噬	zy
+噯	e
+噱	djiaq	0%
+噱	xiuq
+噲	khue
+噴	phen
+噶	keq
+噸	ten
+噹	tan
+噻	se
+噼	phiq
+嚀	gnin
+嚄	waq
+嚅	zy
+嚆	ho
+嚇	haq
+嚎	ro
+嚏	thi
+嚓	tsaq
+嚕	lhu
+嚙	gniq
+嚚	gnin
+嚜	meq
+嚡	ra
+嚥	i
+嚦	liq
+嚨	lon
+嚮	xian
+嚯	hoq
+嚲	tu
+嚳	khoq
+嚴	gni
+嚶	in
+嚷	gnian
+嚼	jiaq
+囀	tzeu
+囁	gniq
+囂	ngo	0%
+囂	xio
+囅	tseu
+囈	gni
+囉	lhu
+囉	lu	0%
+囊	nan
+囊	nhan	0%
+囌	su
+囑	tzoq
+囓	gniq
+囔	nan
+囚	jioe
+四	sy
+囝	neu
+回	we
+囟	xin
+因	in
+囡	neu	0%
+囡	nheu
+囤	den
+囥	khan
+囧	cion
+囪	tson
+囫	weq
+困	khuen
+囹	lin
+固	ku
+囿	yoe
+圃	phu	0%
+圃	pu
+圄	gniu
+圇	len
+圈	chieu
+圈	cieu	0%
+圈	djieu	0%
+圉	gniu
+圊	chin
+國	kueq
+圍	we
+圍	yu	0%
+園	yeu
+圓	yeu
+圖	du
+團	deu
+圜	we
+圜	yeu	0%
+土	thu
+圤	pho	0%
+圤	phoq
+在	ze
+圩	we
+圩	xiu	0%
+圪	keq
+圪	ngiq	0%
+圬	u
+圭	kue
+圮	bi
+圯	yi
+地	di
+圳	tzen
+圻	dji
+圾	seq	0%
+圾	xi
+址	tzy
+坂	pe
+均	ciun
+坊	fan
+坊	van	0%
+坌	ben
+坍	the
+坎	khe
+坏	be	0%
+坏	phe
+坐	zu
+坑	khan
+坒	bi
+坡	phu
+坤	khuen
+坦	the
+坨	du
+坩	keu
+坪	bin
+坫	ti
+坭	gni
+坯	phe
+坳	o
+坷	khu
+坻	ti	0%
+坻	zy
+坼	tsaq
+垂	zeu
+垃	la
+垃	laq	0%
+型	yin
+垌	don	0%
+垌	thon
+垍	dji
+垓	ke
+垛	tu
+垞	zau
+垟	yan
+垠	gnin
+垡	vaq
+垢	koe
+垣	yeu
+垤	diq
+垧	san
+垮	khau
+垮	khua	0%
+垸	weu	0%
+垸	yeu
+埂	kan
+埃	e
+埋	ma
+城	zen
+埏	yi
+埒	liq
+埔	phu
+埔	pu	0%
+埕	zen
+埝	gni
+埝	ti	0%
+域	yuq
+埠	bu
+埡	ia
+埨	len
+埭	da
+埯	eu
+埰	tse
+埲	bon
+埴	zeq
+執	tzeq
+埸	yiq
+培	be
+基	ci
+埼	dji
+埽	so
+堂	dan
+堅	ci
+堆	te
+堇	cin
+堉	yoq
+堊	au
+堋	ben	0%
+堋	pen
+堌	ku
+堍	thu
+堙	in
+堝	ku
+堞	diq
+堠	roe
+堡	phu	0%
+堡	po
+堡	pu	0%
+堤	di
+堨	eq
+堪	kheu
+堯	gnio
+堰	i
+報	po
+場	san	0%
+場	zan
+堵	tu
+塃	huan
+塄	len
+塈	dji
+塊	khue
+塋	yin
+塌	thaq
+塍	zen
+塏	khe
+塑	soq	0%
+塑	su
+塒	zy
+塔	thaq
+塗	du
+塘	dan
+塚	tzon
+塞	se	0%
+塞	seq
+塢	u
+塤	xieu
+塥	keq
+填	di
+填	tzen	0%
+塬	gnieu
+塮	jia
+塳	bon
+塵	zen
+塹	chi
+塹	ji	0%
+塾	zoq
+墀	zy
+墁	meu
+境	cin
+墅	zy
+墈	kheu
+墉	yon
+墊	di
+墒	san
+墓	mu
+墜	zeu
+增	tzen
+墟	chiu	0%
+墟	xiu
+墦	ve
+墨	meq
+墩	ten
+墮	du
+墮	hue	0%
+墳	ven
+墶	taq
+墺	o
+墼	ciq
+墾	khen
+壁	piq
+壅	ion
+壇	de
+壋	tan
+壑	hoq
+壓	aq
+壕	ro
+壗	he
+壘	le
+壙	khuan
+壚	lu
+壞	hue	0%
+壞	wa
+壟	lon
+壠	lon
+壢	liq
+壤	gnian
+壩	pau
+壪	ue
+士	zy
+壬	gnin
+壬	zen	0%
+壯	tzan
+壯	zan	0%
+壹	iq
+壺	wu
+壼	khuen
+壽	zoe
+夏	rau
+夔	gue
+夕	jiq
+外	nga
+夙	soq
+多	tu
+夜	ya
+夠	koe
+夢	man
+夢	mon	0%
+夤	yin
+夥	hu
+夥	wu	0%
+大	da
+大	de	0%
+大	du	0%
+天	thi
+太	tha
+夫	fu
+夫	vu	0%
+夬	kua
+夭	hua	0%
+夭	io
+夭	o	0%
+夭	oq	0%
+央	ian
+夯	han
+失	seq
+夷	yi
+夸	khau
+夸	khua	0%
+夼	khuan
+夾	gaq	0%
+夾	kaq
+夾	raq	0%
+夾	xiaq	0%
+奄	i
+奅	mo
+奇	ci	0%
+奇	dji
+奈	ne
+奉	von
+奎	khue
+奏	tzoe
+奐	hueu
+契	chi
+契	chiq	0%
+奔	pen
+奕	yiq
+套	tho
+奘	tzan	0%
+奘	zan
+奚	yi
+奠	di
+奢	sau
+奢	zau	0%
+奧	ioq	0%
+奧	o
+奩	li
+奪	deq
+奭	seq
+奮	fen
+奯	huaq
+女	gniu
+女	zy	0%
+奴	nu
+奶	na
+奸	ci	0%
+奸	ke
+她	tha
+好	ho
+妁	zaq
+如	zy
+妃	fi
+妃	phe	0%
+妄	man	0%
+妄	van
+妊	gnin	0%
+妊	zen
+妍	kni
+妒	tu
+妓	dji
+妖	io
+妗	djin
+妗	xi	0%
+妙	mio
+妝	tzan
+妞	knioe
+妣	pi
+妤	yu
+妥	thu
+妨	fan
+妫	kue
+妬	tu
+妮	gni
+妯	zoq
+妲	taq
+妳	nhi
+妹	me
+妻	chi
+妾	chiq
+姆	m
+姆	mh	0%
+姆	mu	0%
+姊	tzy
+始	sy
+姍	se
+姐	ci	0%
+姐	cia
+姑	ku
+姒	zy
+姓	xin
+委	ue
+姘	phin
+姚	yo
+姜	cian
+姞	djiq
+姣	cio
+姣	yo	0%
+姥	lo
+姥	mu	0%
+姦	ke
+姨	yi
+姪	zeq
+姬	ci
+姹	tsau
+姻	in
+姽	kue
+姿	tzy
+威	ue
+娃	ua
+娉	phin
+娌	li
+娑	su
+娓	vi
+娘	gnian
+娛	gniu
+娜	na
+娜	nu	0%
+娟	cieu
+娠	zen
+娣	di
+娥	ngu
+娩	mi
+娶	chiu
+娼	tsan
+婀	u
+婁	loe
+婆	bu
+婉	ueu
+婊	pio
+婕	ciq
+婚	huen
+婞	yin
+婢	bi
+婦	vu
+婧	jin
+婪	le
+婭	au	0%
+婭	ia
+婷	din
+婸	dan
+婺	vu
+婿	xiu
+媒	me
+媚	mi
+媛	yeu
+媧	kau	0%
+媧	ua
+媲	phi
+媳	xiq
+媵	yin
+媸	tsy
+媼	o
+媽	mha
+媾	koe
+嫁	ka
+嫂	so
+嫉	jiq
+嫋	gnio
+嫌	yi
+嫖	bio
+嫗	iu
+嫘	le
+嫚	me
+嫜	tzan
+嫠	li
+嫡	tiq
+嫣	i
+嫦	zan
+嫩	nen
+嫪	lo
+嫫	mu
+嫵	vu
+嫺	yi
+嫿	waq
+嬈	gnio
+嬉	xi
+嬋	zeu
+嬌	cio
+嬖	pi
+嬗	zeu
+嬙	jian
+嬡	e
+嬤	mhau
+嬪	bin
+嬰	in
+嬲	gnio
+嬴	yin
+嬸	sen
+孀	san
+孃	knian
+孌	leu
+子	tzy
+孑	ciq
+孓	ciuq
+孔	khon
+孕	yun
+字	zy
+存	zen
+孚	fu
+孛	beq
+孜	tzy
+孝	ho	0%
+孝	xio
+孟	man
+孢	po
+季	ci
+孤	ku
+孥	nu
+孩	re
+孫	sen
+孬	nho
+孰	zoq
+孱	ze
+孳	tzy
+孵	bu	0%
+孵	fu
+學	roq
+學	yaq	0%
+孺	zy
+孽	gniq
+孿	leu
+宁	zy
+它	tha
+宄	kue
+宅	zaq
+宇	yu
+守	soe
+安	eu
+宋	son
+完	weu
+宏	ron
+宓	miq
+宕	dan
+宗	tzon
+官	kueu
+宙	zoe
+定	din
+宛	ueu
+宜	gni
+客	khaq
+宣	xi
+室	seq
+宥	yoe
+宦	we
+宮	kon
+宰	tze
+害	re
+害	req	0%
+宴	i
+宵	xio
+家	cia
+家	ka	0%
+家	ku	0%
+宸	zen
+容	yon
+宿	soq
+宿	xioe	0%
+寀	tse
+寂	jiq
+寄	ci
+寅	yin
+密	miq
+寇	khoe
+富	fu
+寐	me
+寒	reu
+寓	gniu
+寞	moq
+察	tsaq
+寡	kau
+寢	chin
+寣	hueq
+寤	ngu
+寥	lio
+實	zeq
+寧	gnin
+寨	ze
+審	sen
+寫	xia
+寬	khueu
+寮	lio
+寰	gue
+寵	tson
+寶	po
+寸	tsen
+寺	zy
+封	fon
+射	ya	0%
+射	yiq	0%
+射	za	0%
+射	zau
+射	zoq	0%
+將	chian	0%
+將	cian
+專	tzeu
+尉	ue
+尉	yuq	0%
+尊	tzen
+尋	jin
+對	te
+導	do
+小	xio
+尐	ciq
+少	so
+尕	ga
+尖	ci
+尙	zan
+尚	zan
+尜	ga
+尟	xi
+尤	yoe
+尥	lhio
+尨	man
+尬	ka
+就	jioe
+尷	ke
+尹	yin
+尺	tsaq
+尻	kho
+尼	gni
+尼	gniq	0%
+尾	gni	0%
+尾	mi	0%
+尾	vi
+尿	knio
+尿	sy	0%
+局	djioq
+屁	phi
+屄	pi
+居	ciu
+屆	ka
+屈	chiuq
+屋	oq
+屌	tio
+屍	sy
+屎	sy
+屏	bin
+屏	pin	0%
+屐	djiq
+屑	xiq
+屓	xi
+展	tzeu
+屙	u
+屜	thi
+屠	du
+屢	liu
+屣	xi
+層	zen
+履	liu
+屨	ciu
+屬	tzoq	0%
+屬	zoq
+屯	den
+屯	tzen	0%
+山	se
+屹	gniq
+屺	chi
+岈	ya
+岌	djiq
+岍	chi
+岐	dji
+岑	zen
+岔	tsau
+岡	kan
+岢	khu
+岣	koe
+岩	nge
+岫	jioe
+岬	ciaq	0%
+岬	kaq
+岱	de
+岳	ngoq
+岵	wu
+岷	min
+岸	ngeu
+峁	mo
+峂	don
+峋	xin
+峒	don
+峙	zy
+峥	zan	0%
+峥	zen
+峧	cio
+峨	ngu
+峪	ioq
+峭	chio
+峰	fon
+峴	yi
+島	to
+峻	cin
+峽	raq	0%
+峽	yaq
+崁	khe
+崆	khon
+崇	zon
+崍	le
+崎	dji
+崑	khuen
+崔	tseu
+崖	nga
+崗	kan
+崙	len
+崚	len
+崛	djiuq
+崞	koq
+崟	gnin
+崤	yo
+崦	i
+崩	pan
+崩	pen	0%
+崮	ku
+崴	ua	0%
+崴	ue
+崽	tze
+嵇	ci
+嵊	zen
+嵋	me
+嵌	khe
+嵎	gniu
+嵐	le
+嵒	nge
+嵖	zau
+嵙	khu
+嵛	yu
+嵩	son
+嵫	tzy
+嵬	we
+嵯	zu
+嵴	ciq
+嶁	loe
+嶂	tzan
+嶄	tze
+嶄	ze	0%
+嶇	chiu
+嶓	bu
+嶔	chin
+嶗	lo
+嶙	lin
+嶝	ten
+嶠	djio
+嶢	gnio
+嶧	yiq
+嶴	o
+嶷	gni	0%
+嶷	gniq
+嶸	yon
+嶺	lin
+嶼	yu
+嶽	ngoq
+巉	ze
+巋	khue
+巍	we
+巒	leu
+巓	ti
+巔	ti
+巖	nge
+川	tseu
+州	tzoe
+巡	jin
+巢	zo
+工	kon
+左	tzu
+巧	chio
+巨	djiu
+巫	u
+巫	vu	0%
+差	tsa	0%
+差	tsau
+差	tsy	0%
+巰	djioe
+己	ci
+已	i
+巳	zy
+巴	bau	0%
+巴	pa
+巴	pau	0%
+巵	tzy
+巷	ran
+巹	cin
+巽	sen
+巾	cin
+市	zy
+布	pu
+帆	ve
+希	xi
+帑	than
+帔	phi
+帕	phaq
+帖	thiq
+帙	zeq
+帚	tzoe
+帛	baq
+帝	ti
+帡	bin
+帥	se
+師	sy
+席	jiq
+帳	tzan
+帶	ta
+帷	vi
+常	zan
+帽	mo
+幀	tzen
+幃	we
+幄	oq
+幅	foq
+幌	huan
+幔	meu
+幕	mu
+幗	kuaq
+幘	tzeq
+幛	tzan
+幞	voq
+幟	tzy
+幡	fe
+幢	zan
+幣	bi
+幨	tseu
+幪	mon
+幫	pan
+幬	do	0%
+幬	zoe
+干	keu
+平	bin
+年	gni
+并	pin
+幷	pin
+幸	yin
+幹	keu
+幺	io
+幻	ue
+幼	ioe
+幽	ioe
+幾	ci
+广	eu	0%
+广	gni
+庀	phi
+庇	phi
+庉	den
+床	zan
+庋	kue
+庎	ka
+序	jiu
+底	ti
+庖	bo
+店	ti
+庚	kan
+府	fu
+庠	jian
+庤	zy
+庥	xioe
+度	du
+座	zu
+庫	khu
+庭	din
+庳	bi
+庵	eu
+庶	sy
+康	khan
+庸	yon
+庹	thoq
+庾	yu
+廁	tsy
+廂	xian
+廄	cioe
+廈	rau
+廉	li
+廊	lan
+廋	soe
+廎	chin
+廒	ngo
+廓	khoq
+廖	lio
+廙	yi
+廚	zy
+廛	zeu
+廟	mio
+廠	tsan
+廡	vu
+廢	fi
+廣	kuan
+廨	cia
+廨	ka	0%
+廩	lin
+廬	lu
+廱	ion
+廳	thin
+延	yi
+廷	din
+建	ci
+廿	gnie
+弁	bi
+弄	lon
+弇	i
+弈	yiq
+弊	bi
+弋	yiq
+式	seq
+弑	sy
+弓	kon
+弔	tio
+引	yin
+弗	feq
+弘	ron
+弛	zy
+弟	de	0%
+弟	di
+弦	yi
+弧	wu
+弩	nu
+弭	mi
+弱	zaq
+張	tzan
+強	cian	0%
+強	djian
+弸	pan
+弼	biq
+彀	koe
+彆	biq
+彈	de
+彌	mi
+彎	ue
+彔	loq
+彖	theu
+彗	we
+彘	zy
+彙	we
+彝	yi
+形	yin
+彤	don
+彥	gni
+彧	ioq
+彩	tse
+彪	pio
+彫	tio
+彬	pin
+彭	ban
+彭	pan	0%
+彰	tzan
+影	in
+彳	tseq
+彷	ban
+彷	fan	0%
+役	yoq
+彼	pi
+彿	veq
+往	uan
+征	tzen
+徂	zu
+待	de
+徇	jin
+很	hen
+徉	yan
+徊	we
+律	liq
+後	roe
+徐	ji
+徑	cin
+徒	du
+得	teq
+徘	ba
+徙	xi
+徜	zan
+從	tson	0%
+從	zon
+徠	le
+御	gniu
+徨	wan
+復	voq
+循	jin
+徭	yo
+微	mhi	0%
+微	vi
+徵	tzen
+徵	tzy	0%
+德	teq
+徹	tseq
+徼	cio
+徽	hue
+心	xin
+必	piq
+忉	to
+忌	dji
+忍	gnin	0%
+忍	zen
+忐	khan	0%
+忐	the
+忑	theq
+忑	to	0%
+忒	theq
+忖	tsen
+志	tzy
+忘	man	0%
+忘	van
+忙	man
+忝	thi
+忠	tzon
+忡	tson
+忤	ng
+忤	u	0%
+忪	son	0%
+忪	tzon
+快	khua
+忭	bi
+忮	tzy
+忱	zen
+念	gni
+念	gnie	0%
+忸	gnioq
+忺	xi
+忻	xin
+忽	hueq
+忿	ven
+怊	tso
+怍	zoq
+怎	tzen
+怏	ian
+怒	nu
+怔	tzen
+怕	phau
+怖	pu
+怙	wu
+怛	taq
+思	se	0%
+思	sy
+怠	de
+怡	yi
+急	ciq
+怦	phan	0%
+怦	phen
+性	xin
+怨	ieu
+怩	gni
+怪	kua
+怫	veq	0%
+怫	vi
+怯	chiq
+怴	xiuq
+怵	tsoq
+恁	nen
+恂	xin
+恃	zy
+恆	ren
+恍	huan
+恐	khon
+恕	sy
+恘	chioe
+恙	yan
+恚	ue
+恝	kaq
+恢	hue
+恤	xiq
+恥	tsy
+恧	gnioq
+恨	ren
+恩	en
+恪	khoq
+恫	don
+恫	thon	0%
+恬	di
+恭	kon
+息	xiq
+恰	chiaq
+恿	ion
+悃	khuen
+悄	chio
+悅	yuq
+悉	xiq
+悌	di
+悍	reu
+悒	iq
+悔	hue
+悖	be
+悚	son
+悛	chi
+悝	li
+悟	ngu
+悠	ioe
+悢	lian
+患	we
+您	gnin
+悱	fi
+悲	pe
+悴	zeu
+悵	tsan
+悶	mhen
+悸	ci
+悻	yin
+悼	do
+悽	chi
+情	jin
+惆	tsoe
+惇	ten
+惋	ueu
+惑	weq
+惕	thiq
+惘	man
+惚	hueq
+惜	xiq
+惝	than
+惝	tsan	0%
+惟	vi
+惠	we
+惡	oq
+惡	u	0%
+惦	ti
+惰	du
+惱	no
+惲	iun
+想	xian
+惴	tzeu
+惶	wan
+惹	za
+惺	xin
+惻	tseq
+愀	chio
+愁	zoe
+愆	chi
+愈	yu
+愉	yu
+愎	biq
+意	i
+愔	in
+愕	ngoq
+愚	gniu
+愛	e
+愜	chiaq
+感	keu
+感	reu	0%
+愣	len
+愦	kue
+愧	gue
+愫	su
+愴	tsan
+愷	khe
+愾	khe
+愾	xi	0%
+愿	gnieu
+慄	liq
+慇	in
+慈	zy
+慊	chi
+態	the
+慌	huan
+慍	iun
+慎	zen
+慕	mu
+慘	tseu
+慚	ze
+慝	gniq	0%
+慝	theq
+慟	don
+慢	me
+慣	kue
+慤	khoq
+慥	tso
+慧	we
+慨	khe
+慪	oe
+慫	son
+慮	liu
+慰	ue
+慳	chi
+慵	yon
+慶	chin
+慷	khan
+慼	chiq
+慾	yoq
+憂	ioe
+憊	be
+憋	piq
+憎	tzen
+憐	li
+憑	bin
+憔	jio
+憕	ten
+憕	zan	0%
+憖	gnin
+憚	de
+憚	taq	0%
+憝	de
+憤	ven
+憦	lo
+憧	tson
+憨	heu
+憩	chi
+憫	mhin
+憬	cin
+憮	vu
+憲	xi
+憶	i
+憷	tsy
+憾	reu
+懂	ton
+懃	djin
+懇	khen
+懈	ga	0%
+懈	xia
+應	in
+懊	o
+懋	moe
+懌	yiq
+懍	lin
+懞	mon
+懟	de
+懣	men
+懦	nu
+懨	i
+懲	zen
+懵	mon
+懶	le
+懷	wa	0%
+懷	we
+懸	yeu
+懺	tse
+懼	djiu
+懾	seq
+懿	i
+戀	li
+戇	gan
+戇	tzan	0%
+戈	ku
+戊	vu
+戋	ze
+戌	xiq
+戍	sy
+戎	gnion
+成	zen
+我	ngu
+戒	cia	0%
+戒	ka
+戕	chian
+或	weq
+戚	chiq
+戛	kaq
+戟	ciq
+戡	kheu
+戢	tzeq
+戤	ge
+戥	ten
+戧	chian
+戩	ci
+截	jiq
+戮	loq
+戰	tzeu
+戲	hu	0%
+戲	hue	0%
+戲	xi
+戳	tsoq
+戴	ta
+戴	te	0%
+戶	wu
+戽	hu
+戽	wu	0%
+戾	li
+房	van
+所	su
+扁	phi	0%
+扁	pi
+扃	cion
+扅	yi
+扇	seu
+扈	wu
+扉	fi
+扊	yi
+手	soe
+才	ze
+扎	tzaq
+扑	phoq
+扒	bau
+扒	pa	0%
+扒	paq	0%
+扒	pha	0%
+打	tan
+扔	zen
+托	thoq
+扚	tiq
+扛	gan
+扣	khoe
+扦	chi
+扭	knioe
+扮	pe
+扯	tsa
+扳	pe
+扳	phe	0%
+扶	vu
+批	phi
+扺	tzy
+扼	ngeq
+找	tzo
+承	zen
+技	dji
+抃	bi
+抄	tso
+抈	iuq
+抉	ciuq
+把	pau
+抑	iq
+抒	sy
+抓	tza
+抔	boe
+投	doe
+抖	toe
+抗	khan
+折	tzeq
+折	zeq	0%
+抨	phan	0%
+抨	phen
+披	phi
+抬	de
+抱	bo
+抲	khaq
+抳	kni
+抵	ti
+抹	meq
+抻	tsen
+押	aq
+抽	tsoe
+抿	mhin
+拂	biq	0%
+拂	veq
+拃	tze
+拄	tzy
+拆	tsaq
+拇	mu
+拈	kni
+拉	la	0%
+拉	laq	0%
+拉	lha
+拊	vu
+拋	pho
+拌	beu
+拌	pheu	0%
+拍	phaq
+拎	lhin
+拐	kua
+拒	djiu
+拓	thoq
+拓	tzaq	0%
+拔	baq
+拖	tha	0%
+拖	thu
+拗	gnioe
+拗	o	0%
+拘	ciu
+拘	koe	0%
+拙	tzeq
+拚	fe	0%
+拚	fen	0%
+拚	pe	0%
+拚	phin
+招	tzo
+拜	pa
+拤	chia
+括	kuaq
+拭	seq
+拮	cia	0%
+拮	ciq
+拮	ka	0%
+拯	tzen
+拱	kon
+拳	djieu
+拴	seu
+拶	tzeq
+拷	kho
+拼	phin
+拽	tze
+拽	yiq	0%
+拾	jiq	0%
+拾	zeq
+拿	na
+拿	nau	0%
+拿	nhe	0%
+持	zy
+指	tzy
+挈	chiq
+按	eu
+挎	khau
+挎	khu	0%
+挑	thio
+挖	uaq
+挨	a	0%
+挨	e
+挨	nga	0%
+挪	nu
+挫	tsu
+挬	peq
+挭	gan	0%
+挭	kan
+振	tzen
+挲	su
+挶	djioq
+挹	iq
+挺	thin
+挼	lu
+挽	ue
+挾	kaq	0%
+挾	yaq
+捂	u
+捃	ciun
+捅	thon
+捆	khuen
+捉	tzoq
+捋	leq
+捌	paq
+捍	reu
+捎	so
+捎	xio	0%
+捏	gniaq
+捐	cieu
+捒	saq
+捕	bu
+捥	iuq
+捧	phon
+捨	sau
+捩	li	0%
+捩	liq
+捫	men
+捭	pa
+捯	to
+捱	nga
+捲	cieu
+捶	zeu
+捷	jiq
+捹	ben
+捺	naq
+捻	gniaq	0%
+捻	kni
+掀	xi
+掂	ti
+掃	so
+掄	len	0%
+掄	lhen
+掇	teq
+授	zoe
+掉	dio
+掊	boe	0%
+掊	boe	0%
+掊	phoe
+掌	tzan
+掎	ci
+掏	do
+掐	khaq
+排	ba
+掖	yiq
+掗	au
+掘	djiuq
+掙	tzen
+掛	kau
+掠	liaq
+採	tse
+探	theu
+掣	tseq
+接	ciq
+控	khon
+推	the
+掩	i
+措	tsu
+掬	cioq
+掭	thi
+掮	dji
+掯	khen
+掰	pe
+掽	phan
+掾	yeu
+揀	ci	0%
+揀	ke
+揂	zoe
+揄	yu
+揆	gue
+揉	gnioe	0%
+揉	zoe
+揍	tzoe
+揎	xieu
+描	mio
+提	di
+提	zy	0%
+插	tsaq
+揖	iq
+揚	yan
+換	weu
+揝	tzaq
+揞	eu
+揠	aq
+握	oq
+揢	khaq
+揣	deu	0%
+揣	tse
+揩	kha
+揪	cioe
+揭	chi	0%
+揭	ciq
+揮	hue
+揳	xiq
+援	yeu
+揵	dji
+揶	ya
+揸	tza	0%
+揸	tzau
+揸	zau	0%
+揹	pe
+揾	uen
+搇	chin
+搋	tsa
+搌	tzeu
+損	sen
+搏	poq
+搐	tsoq
+搒	ban
+搒	pan	0%
+搓	tsau	0%
+搓	tsu
+搔	tzo
+搕	iq	0%
+搕	kheq
+搖	yo
+搗	to
+搛	ci
+搜	soe
+搞	go
+搠	soq
+搡	san
+搣	miq
+搦	noq
+搧	seu
+搨	thaq
+搪	dan
+搬	peu
+搭	taq
+搲	au
+搴	chi
+搶	chian
+搶	tsan	0%
+搽	zau
+搿	geq
+摁	en
+摃	kan
+摎	cio	0%
+摎	cioe
+摎	lioe	0%
+摑	kuaq
+摒	pin
+摔	se
+摘	tzaq
+摜	gue
+摞	lu
+摟	lhoe	0%
+摟	loe
+摣	tzau
+摧	tseu
+摩	mu
+摭	tzaq
+摯	tzy
+摳	khoe
+摶	deu
+摷	lhio
+摸	moq
+摹	mu
+摺	la	0%
+摺	tzeq
+摻	se	0%
+摻	tse
+摻	tseu	0%
+摽	bio	0%
+摽	pio
+撂	lio
+撅	djiuq
+撇	phiq
+撈	lho
+撏	jin
+撐	tsan
+撒	sa
+撓	gnio
+撕	sy
+撖	re
+撙	tzen
+撚	kni
+撞	zan
+撟	djio
+撢	te
+撣	te
+撣	zeu	0%
+撤	tseq
+撥	peq
+撩	lhio	0%
+撩	lio
+撫	vu
+撬	chio
+撬	djio	0%
+播	pu
+撮	tseq
+撮	tsoq	0%
+撮	tzeq	0%
+撰	zeu
+撲	phoq
+撳	chin
+撷	yiq
+撻	daq
+撼	reu
+撾	au
+撾	tzau	0%
+撿	ci
+擀	keu
+擁	ion
+擂	le
+擄	lu
+擅	zeu
+擇	zeq
+擉	tsoq
+擊	ciq
+擋	tan
+操	tso
+擎	djin
+擐	we
+擒	djin
+擔	te
+擗	biq
+擘	paq
+據	ciu
+擠	ci
+擡	de
+擢	zoq
+擤	hen
+擦	tsaq
+擪	iq
+擬	gni
+擯	pin
+擰	gnin
+擱	goq	0%
+擱	koq
+擲	zeq
+擴	khueq
+擺	pa
+擻	soe
+擼	lhu
+擾	gnio	0%
+擾	zo
+擿	tiq
+攀	phe
+攄	tsy
+攆	kni
+攉	hoq
+攋	la
+攎	lhu
+攏	lon
+攔	laq	0%
+攔	le
+攖	in
+攘	gnian
+攙	tse
+攛	tseu
+攜	yi
+攝	gniq	0%
+攝	seq
+攢	tzeu
+攢	zeu	0%
+攣	leu
+攤	the
+攥	tzeq
+攪	cio	0%
+攪	ko
+攫	cioq
+攬	le
+攮	gnian
+支	tzy
+收	soe
+攷	kho
+攸	ioe
+改	ke
+攻	kon
+放	fan
+政	tzen
+故	ku
+效	yo
+敉	mi
+敏	mhin
+救	cioe
+敕	tseq
+敖	ngo
+敗	ba
+敘	jiu
+教	cio	0%
+教	ko
+敝	bi
+敞	tsan
+敠	teq
+敢	keu
+散	se
+敦	te	0%
+敦	ten
+敨	thoe
+敫	cio	0%
+敫	ko
+敬	cin
+敲	chio
+敲	kho	0%
+整	tzen
+敵	diq
+敷	fu
+數	su
+斂	li
+斃	bi
+文	ven
+斌	pin
+斐	fi
+斑	pe
+斕	le
+斗	toe
+料	lio
+斛	roq
+斜	jia
+斝	ka
+斟	tzen
+斡	kueu	0%
+斡	ueq
+斤	cin
+斥	tsaq
+斧	fu
+斫	tzoq
+斬	tze
+斯	sy
+新	xin
+斲	tzoq
+斷	deu
+斷	teu	0%
+斸	zoq
+方	fan
+於	iu	0%
+於	u	0%
+於	yu
+施	sy
+旁	ban
+旃	tzeu
+旄	mo
+旅	liu
+旆	be
+旋	ji
+旌	cin
+旎	gni
+族	zoq
+旒	lioe
+旖	i
+旗	dji
+既	ci
+日	gniq	0%
+日	zeq
+旦	te
+旨	tzy
+早	tzo
+旬	jin
+旭	xioq
+旮	ka
+旯	la
+旰	keu
+旱	reu
+旺	wan
+旺	yan	0%
+旻	min
+昀	yun
+昂	ngan
+昃	tzeq
+昆	khuen
+昇	sen
+昉	fan
+昊	ro
+昌	tsan
+明	min
+昏	huen
+易	i	0%
+易	yiq
+昔	xiq
+昕	xin
+昝	tzeu
+星	xin
+映	ian
+映	in	0%
+春	tsen
+昧	me
+昨	zoq
+昭	tzo
+是	zy
+昱	yoq
+昴	mo
+昶	tsan
+昺	pin
+晁	zo
+時	zy
+晃	huan
+晉	cin
+晌	san
+晏	e
+晏	i	0%
+晗	reu
+晚	me	0%
+晚	ue
+晝	tzoe
+晞	xi
+晟	zen
+晡	pu
+晤	ngu
+晦	hue
+晨	zen
+普	phu
+景	cin
+景	in	0%
+晰	xiq
+晳	xiq
+晴	jin
+晶	cin
+晷	kue
+智	tzy
+晾	lian
+暄	xieu
+暅	xieu
+暇	ya
+暈	yun
+暉	hue
+暌	khue
+暑	sy
+暖	neu
+暗	eu
+暘	yan
+暝	min
+暢	tsan
+暨	ci
+暫	ze
+暮	mu
+暱	gniq
+暴	bo
+暹	xi
+暾	then
+曄	yiq
+曆	liq
+曇	de
+曈	don
+曉	xio
+曖	e
+曙	zy
+曛	xiun
+曜	yo
+曝	bo
+曠	khuan
+曦	xi
+曨	lon
+曩	nhan
+曬	sa
+曬	sau	0%
+曰	yuq
+曲	chioq
+曳	yi
+更	kan	0%
+更	ken
+曷	req
+書	sy
+曹	zo
+曼	me
+曾	tzen	0%
+曾	zen
+替	thi
+最	tzeu
+會	kue	0%
+會	ue	0%
+會	we
+朆	vhen
+月	gnioq	0%
+月	gniuq	0%
+月	ngeq	0%
+月	yuq
+有	yoe
+朊	gnieu
+朋	ban
+服	voq
+朐	djiu	0%
+朐	goe
+朔	soq
+朕	zen
+朗	lan
+朘	ci	0%
+朘	tzeu
+望	man	0%
+望	van
+朝	tzo	0%
+朝	zo
+朞	ci
+期	ci	0%
+期	dji
+朦	mon
+朧	lon
+木	moq
+未	mi	0%
+未	vi
+末	meq
+本	pen
+札	tzaq
+朮	tsoq	0%
+朮	zeq
+朱	tzy
+朱	zy	0%
+朳	paq
+朴	bio	0%
+朴	phoq
+朵	tu
+朽	xioe
+杆	keu
+杈	tsau
+杉	se
+杌	ngeq
+李	li
+杏	ran
+材	ze
+村	tsen
+杓	pio	0%
+杓	zaq
+杖	zan
+杜	du
+杞	chi
+束	soq
+杠	kan
+杧	man
+杪	mio
+杭	ran
+杯	pe
+杰	djiq
+東	ton
+杲	ko
+杳	io
+杵	tsy
+杷	bau
+杷	pau	0%
+杻	gnioe	0%
+杻	tsoe
+杼	zy
+松	son
+板	pe
+枇	biq
+枉	uan
+枋	fan
+析	xiq
+枒	au
+枕	tzen
+林	lin
+枘	zeu
+枙	eq
+枚	me
+果	ku
+枝	dji	0%
+枝	tzy
+枯	khu
+枰	bin
+枳	tzy
+枴	kua
+枵	xio
+架	ka
+枷	ka
+枸	ciu	0%
+枸	koe
+柁	du
+柃	lin
+柄	pin
+柈	beu
+柏	paq
+某	moe
+柑	keu
+柒	chiq
+染	gni
+染	zeu	0%
+柔	zoe
+柘	tzau
+柙	raq
+柚	yoe
+柚	zoq	0%
+柝	thoq
+柞	zoq
+柢	ti
+柣	diq
+柣	zeq	0%
+查	tzau	0%
+查	zau
+柩	djioe
+柬	ci
+柯	khu
+柰	ne
+柱	zy
+柳	lioe
+柴	za
+柵	saq
+柵	tsaq	0%
+柺	kua
+柿	zy
+栒	xin
+栓	seu
+栗	liq
+栝	kueq
+栝	thi	0%
+栟	pen	0%
+栟	pin
+校	ko	0%
+校	yo
+栩	xiu
+株	tzy
+栲	kheq	0%
+栲	kho
+栳	lo
+核	req
+根	ken
+格	kaq
+栽	tze
+桀	djiq
+桁	ran
+桂	kue
+桃	do
+桄	kuan
+桅	we
+框	khuan
+案	eu
+桉	eu
+桊	cieu
+桌	tzoq
+桎	tzeq
+桐	don
+桑	san
+桓	weu
+桔	cioq
+桔	ciq	0%
+桕	djioe
+桫	su
+桴	voe
+桶	don
+桷	koq
+桿	keu
+梁	lian
+梃	din
+梅	me
+梆	pan
+梏	koq
+梓	tzy
+梔	tzy
+梗	kan
+梘	ci
+條	dio
+條	thio	0%
+梟	xio
+梢	so
+梧	ngu
+梨	li
+梭	su
+梯	thi
+械	ye
+梱	khuen
+梳	sy
+梵	ve
+梽	tzy
+梾	le
+棁	tzeq
+棄	chi
+棉	mi
+棋	dji
+棍	kuen
+棍	wen	0%
+棒	ban
+棕	tzon
+棖	zan
+棗	tzo
+棘	ciq
+棚	ban
+棟	ton
+棠	dan
+棣	de	0%
+棣	di
+棣	thi	0%
+棧	ze
+棨	chi
+棬	chieu
+棬	cieu	0%
+森	sen
+棰	zeu
+棱	len	0%
+棱	lin
+棲	chi
+棲	xi	0%
+棵	khu
+棹	tzoq	0%
+棹	zo
+棺	kueu
+棻	fen
+棼	ven
+椁	koq
+椅	i
+椋	lian
+植	zeq
+椎	tzeu
+椎	zeu	0%
+椏	au
+椐	ciu
+椑	bi
+椒	cio
+椰	ia
+椴	deu
+椹	tzen
+椽	zeu
+椿	tsen
+楂	tzau
+楂	zau	0%
+楊	yan
+楓	fon
+楔	xiq
+楗	dji
+楚	tsu
+楝	li
+楞	len
+楠	neu
+楣	me
+楦	xieu
+楨	tzen
+業	gniq
+楮	tsy
+楯	den	0%
+楯	zen
+極	djiq
+楷	ka	0%
+楷	kha	0%
+楷	khe
+楸	chioe
+楹	yin
+榀	phin
+概	ke
+榆	yu
+榍	xiq
+榔	lan
+榕	yon
+榖	koq
+榛	tzen
+榜	ban	0%
+榜	pan
+榦	keu
+榧	fi
+榨	tzau
+榫	sen
+榭	jia
+榮	yon
+榴	lioe
+榷	chioq
+榻	thaq
+榿	chi
+槁	ko
+槃	beu
+槊	soq
+構	koe
+槌	zeu
+槍	chian
+槎	zau
+槐	wa
+槓	kan
+槔	ko
+槜	tzeu
+槧	chi
+槪	ke
+槭	chiq
+槲	roq
+槳	cian
+槽	zo
+槿	cin
+樁	tzan
+樂	loq
+樂	yaq	0%
+樅	tson
+樅	tzon	0%
+樊	ve
+樑	lian
+樓	loe
+樗	tsy
+樘	dan
+樘	tsan	0%
+標	pio
+樞	sy
+樟	tzan
+模	mu
+樣	yan
+樨	xi
+樵	jio
+樸	phoq
+樹	zy
+樺	rau
+樽	tzen
+樾	yuq
+橄	ke
+橇	chio
+橈	gnio
+橈	no	0%
+橋	djio
+橐	thoq
+橘	ciuq
+橙	zen
+橛	djiuq
+機	ci
+橡	jian
+橢	thu
+橥	tzy
+橦	don
+橫	uan	0%
+橫	wan
+檀	de
+檁	lin
+檄	yiq
+檉	tsen
+檎	djin
+檐	yi
+檑	le
+檔	tan
+檗	paq
+檜	kue
+檟	ka
+檠	djin
+檢	ci
+檣	jian
+檫	tsaq
+檬	mon
+檯	de
+檳	pin
+檵	ci
+檸	gnin
+檺	ro
+檻	khe
+櫃	djiu	0%
+櫃	gue
+櫓	lu
+櫚	liu
+櫛	tzeq
+櫝	doq
+櫞	yeu
+櫟	liq
+櫟	yaq	0%
+櫥	zy
+櫧	tzy
+櫨	lu
+櫪	liq
+櫬	tsen
+櫳	lon
+櫸	ciu
+櫺	lin
+櫻	an	0%
+櫻	in
+欄	le
+權	djieu
+欏	lu
+欒	leu
+欖	le
+欠	chi
+次	tsy
+欣	xin
+欲	yoq
+欸	e
+欺	chi
+欽	chin
+款	khueu
+歃	saq
+歆	xin
+歇	xiq
+歉	chi
+歌	ku
+歐	oe
+歙	seq	0%
+歙	xiq
+歟	yu
+歡	hueu
+止	tzy
+正	tzen
+此	tsy
+步	bu
+武	vu
+歧	dji
+歪	hua
+歪	ua	0%
+歲	seu
+歷	liq
+歸	kue
+歹	te
+死	sy
+死	xi	0%
+歿	meq
+歿	ueq	0%
+殂	zu
+殃	ian
+殄	di
+殆	de
+殉	jin
+殊	zy
+殍	bio
+殖	zeq
+殘	ze
+殛	ciq
+殞	yun
+殟	ueq
+殣	djin
+殤	san
+殪	i
+殫	te
+殭	cian
+殮	li
+殯	pin
+殲	ci
+殳	zy
+段	deu
+殷	i	0%
+殷	in
+殺	saq
+殼	khoq
+殽	yo
+殿	di
+毀	hue
+毅	gni
+毆	oe
+毈	deu
+毋	m	0%
+毋	vu
+毌	kueu
+母	mhu
+每	mhe
+毐	e
+毒	de	0%
+毒	doq
+毓	yoq
+比	bi	0%
+比	pi
+毖	pi
+毗	bi
+毛	mo
+毪	mu
+毫	ro
+毯	the
+毳	tseu
+毹	su
+毻	thu
+毽	ci
+毿	seu
+氅	tsan
+氆	phu
+氇	lu
+氈	tzeu
+氍	djiu
+氏	cin	0%
+氏	tzy	0%
+氏	zy
+氐	ti
+民	min
+氓	man
+氕	phiq
+氖	ne
+氘	to
+氙	xi
+氚	tseu
+氛	fen	0%
+氛	ven
+氟	feq
+氡	ton
+氣	chi
+氤	in
+氦	he
+氧	yan
+氨	eu
+氪	kheq
+氫	chin
+氬	ia
+氮	de
+氯	loq
+氰	chin
+氳	iun
+水	sy
+永	ion
+氽	then
+氾	fe
+汀	thin
+汁	tzeq
+求	djioe
+汆	tseu
+汈	tio
+汊	tsau
+汎	fe
+汏	da
+汏	tha	0%
+汐	jiq
+汔	xiq
+汕	se
+汗	reu
+汛	xin
+汜	zy
+汝	zy
+汞	kon
+江	kan
+池	zy
+污	u
+汨	miq
+汩	kueq
+汩	yiq	0%
+汪	uan
+汭	zeu
+汰	tha
+汲	ciq
+汴	bi
+汶	men	0%
+汶	ven
+決	ciuq
+汽	chi
+汾	ven
+沁	chin
+沂	gni
+沃	oq
+沅	gnieu
+沆	ran
+沈	de	0%
+沈	sen
+沈	zen	0%
+沉	zen
+沌	den
+沌	zeu	0%
+沍	wu
+沏	chiq
+沐	moq
+沒	meq
+沓	daq
+沓	thaq	0%
+沔	mi
+沖	tson
+沘	pi
+沙	sa	0%
+沙	sau
+沚	tzy
+沛	phe
+沫	meq
+沭	zeq
+沮	ciu	0%
+沮	jiu
+沰	toq
+沱	du
+河	wu
+沸	fi
+油	yoe
+治	zy
+沼	tzo
+沽	ku
+沾	tzeu
+沿	yi
+況	huan	0%
+況	khuan
+泃	ciu
+泄	xiq
+泄	yi	0%
+泅	jioe
+泉	ji
+泊	boq
+泊	phaq	0%
+泌	pi
+泐	leq
+泓	ron
+泔	keu
+法	faq
+泖	mo
+泗	sy
+泚	tsy
+泛	fe
+泜	zy
+泠	lin
+泡	pho
+波	poq	0%
+波	pu
+泣	chiq
+泥	gni
+注	tzy
+泫	yeu
+泮	pheu
+泯	min
+泰	tha
+泱	ian
+泳	ion
+泵	pan
+洄	we
+洇	in
+洋	yan
+洌	liq
+洎	dji
+洑	voq
+洒	xi
+洗	xi
+洙	zy
+洚	cian	0%
+洚	kan
+洛	loq
+洞	don
+洣	mi
+津	cin
+洧	we
+洨	yo
+洪	ron
+洫	xiuq
+洮	do
+洱	el
+洲	tzoe
+洳	zy
+洴	bin
+洴	phan	0%
+洵	xin
+洶	xion
+洹	weu
+洺	min
+活	weq
+洼	ua
+洽	yaq
+派	pha
+流	lioe
+浙	tzeq
+浚	cin
+浚	xin	0%
+浜	pan
+浞	tzoq
+浠	xi
+浡	beq
+浣	ueu
+浥	iq
+浦	phu
+浩	ro
+浪	lan
+浬	li
+浮	voe
+浯	ngu
+浴	yoq
+海	he
+浸	cin
+浹	ciq
+浼	me
+涂	du
+涅	gniq
+涇	cin
+消	xio
+涉	zeq
+涌	tson
+涎	yi
+涎	ze	0%
+涑	soq
+涓	cieu
+涔	zen
+涕	thi
+涘	zy
+涪	voe
+涫	kueu
+涮	saq
+涯	nga
+液	yiq
+涴	u
+涵	reu
+涸	roq
+涼	lian
+涿	toq	0%
+涿	tzoq
+淄	tzy
+淅	xiq
+淆	yo
+淇	dji
+淋	lin
+淌	than
+淌	tsan	0%
+淏	ro
+淑	zoq
+淒	chi
+淖	no
+淖	tsaq	0%
+淖	tzoq	0%
+淘	do
+淙	zon
+淚	li
+淚	liq	0%
+淝	vi
+淞	son
+淠	phi
+淡	de
+淤	iu
+淦	keu
+淨	jin
+淪	len
+淫	yin
+淬	tseu
+淮	wa
+深	sen
+淳	tzen	0%
+淳	zen
+淴	hoq
+淵	ieu
+淶	le
+混	wen
+淹	i
+淺	chi
+淺	ci	0%
+添	thi
+清	chin
+渌	loq
+渖	sen
+渙	hueu
+渚	tzy
+減	ke
+渝	yu
+渠	djiu
+渡	du
+渢	von
+渣	tzau
+渤	beq
+渥	oq
+渦	ku	0%
+渦	u
+渧	ti
+渫	xiq
+測	tseq
+渭	we
+港	kan
+渲	xi
+渴	kheq
+游	yoe
+渺	mio
+渾	wen
+湃	pa
+湄	me	0%
+湄	mi
+湉	di
+湊	tsoe
+湍	theu
+湎	mi
+湔	ci
+湖	wu
+湘	xian
+湛	ze
+湜	zeq
+湝	cia
+湞	tzen
+湟	wan
+湧	ion
+湨	ciuq
+湫	chioe
+湫	cio	0%
+湮	i
+湮	in	0%
+湯	san	0%
+湯	than
+湯	yan	0%
+湲	yeu
+溆	jiu
+溉	ke
+溏	dan
+源	gnieu
+準	tzen
+溘	kheq
+溚	taq
+溚	thaq	0%
+溜	lhioe
+溜	lioe	0%
+溝	koe
+溟	min
+溠	tzau
+溢	iq
+溥	phu
+溦	vi
+溧	liq
+溪	chi
+溫	uen
+溮	sy
+溯	soq
+溱	jin	0%
+溱	tzen
+溲	soe
+溳	yun
+溴	xioe
+溶	yon
+溷	wen
+溺	gniq
+溺	knio	0%
+溻	thaq
+溽	gnioq
+溽	zoq	0%
+滁	zy
+滂	ban
+滂	phan	0%
+滃	on
+滄	tsan
+滅	miq
+滇	di	0%
+滇	ti
+滋	tzy
+滌	diq
+滍	tzy
+滎	in	0%
+滎	yin
+滏	vu
+滑	waq
+滓	tzy
+滔	tho
+滕	den
+滘	ko
+滫	xioe
+滬	wu
+滮	pio
+滯	zy
+滲	sen
+滴	tiq
+滷	lu
+滸	hu
+滸	xiu	0%
+滹	hu
+滻	tse
+滾	kuen
+滿	meu
+漁	yu
+漂	phio
+漆	chiq
+漉	loq
+漊	loe
+漏	loe
+漑	ke
+演	i
+漕	zo
+漚	oe
+漠	moq
+漢	heu
+漣	li
+漤	le
+漩	ji
+漪	i
+漫	meu
+漬	ciq
+漭	man
+漯	le
+漯	thaq	0%
+漱	su
+漲	tzan
+漳	tzan
+漶	weu
+漷	koq
+漸	ji
+漾	yan
+漿	cian
+潁	yin
+潏	yuq
+潑	pheq
+潔	ciq
+潘	pheu
+潙	we
+潛	ji
+潞	lu
+潟	xiq
+潢	kuan	0%
+潢	wan
+潤	zen
+潦	lio
+潦	lo	0%
+潭	de
+潭	jin	0%
+潮	zo
+潯	jin
+潰	gue
+潲	so
+潵	sa	0%
+潵	se
+潷	piq
+潸	se
+潺	ze
+潼	don
+潽	phu
+潿	we
+澀	seq
+澄	den	0%
+澄	zen
+澆	cio
+澇	lo
+澈	tseq
+澉	keu
+澌	sy
+澍	zy
+澎	ban
+澐	yun
+澗	ci	0%
+澗	ke
+澠	mi
+澡	tzo
+澤	seq	0%
+澤	zeq
+澥	ga
+澦	yu
+澧	li
+澮	kue
+澮	ue	0%
+澱	di
+澳	o
+澴	we
+澶	zeu
+澹	de
+澼	phiq
+激	ciq
+濁	zoq
+濂	li
+濃	gnion
+濉	seu
+濎	tin
+濕	seq
+濘	gnin
+濛	mon
+濜	jin
+濞	bi	0%
+濞	phi
+濟	ci
+濠	ro
+濡	zy
+濤	do
+濫	le
+濬	cin
+濮	phoq
+濮	poq	0%
+濯	zo	0%
+濯	zoq
+濰	vi
+濱	pin
+濺	ci
+濼	loq
+濼	phoq	0%
+濾	liu
+瀅	in
+瀆	doe
+瀆	doq	0%
+瀉	xia
+瀊	beu
+瀋	sen
+瀌	pio
+瀍	zeu
+瀏	lioe
+瀑	bo	0%
+瀑	boq
+瀕	bin
+瀘	lu
+瀚	reu
+瀛	yin
+瀝	liq
+瀟	xio
+瀠	yin
+瀣	ya
+瀦	zy
+瀧	lon
+瀨	la
+瀬	le
+瀰	mi
+瀲	li
+瀴	in
+瀵	fen
+瀹	yaq
+瀾	le
+灃	fon
+灄	seq
+灌	kueu
+灑	sa
+灒	ze
+灔	yi
+灕	li
+灘	the
+灝	ro
+灞	pa
+灣	ue
+灤	leu
+火	hu
+灰	hue
+灶	tzo
+灸	cioe
+灼	tzaq
+災	tze
+炅	cion	0%
+炅	kue
+炊	tseu
+炎	yi
+炒	tso
+炔	chiuq
+炔	kue	0%
+炕	han	0%
+炕	khan
+炙	tzaq
+炟	taq
+炫	yeu
+炬	djiu
+炭	the
+炮	bo	0%
+炮	pho
+炯	cion
+炱	de
+炳	pin
+炷	tzy
+炸	tzau
+為	we
+炻	zaq
+烀	hu
+烈	liq
+烊	yan
+烏	u
+烔	don
+烘	hon
+烙	loq
+烜	xieu
+烝	tzen
+烤	kho
+烯	xi
+烴	cin	0%
+烴	thin
+烷	weu
+烹	phen
+烺	lan
+烽	fon
+焉	i
+焊	reu
+焌	chiq	0%
+焌	cin
+焐	u
+焓	reu
+焙	be
+焚	ven
+焜	khuen
+焠	tse
+無	vu
+焦	cio
+焮	xin
+焯	tzaq
+焰	yi
+焱	yi
+然	zeu
+煅	teu
+煉	li
+煊	xieu
+煌	wan
+煎	ci
+煒	hue	0%
+煒	we
+煙	i
+煜	yoq
+煞	saq
+煠	zaq
+煢	djion
+煤	me
+煥	hueu
+煦	xiu
+照	tzo
+煨	ue
+煩	ve
+煬	yan
+煮	tzy
+煲	po
+煳	wu
+煸	pi
+煺	theu
+煼	tzoe
+煽	seu
+熄	xiq
+熊	yon
+熏	xiun
+熒	yin
+熔	yon
+熗	chian
+熘	lioe
+熙	xi
+熜	tson
+熝	loq
+熝	ngo	0%
+熟	zoq
+熠	yiq
+熥	thon
+熨	iun
+熨	iuq	0%
+熬	ngo
+熯	heu
+熱	gniq
+熵	san
+熹	xi
+熾	tsy
+燁	yiq
+燂	toq
+燃	zeu
+燈	ten
+燉	ten
+燊	sen
+燎	lio
+燏	yuq
+燒	so
+燔	ve
+燕	i
+燙	than
+燜	mhen
+營	yin
+燠	ioq
+燥	so
+燦	tse
+燧	zeu
+燬	hue
+燭	tzoq
+燮	xiq
+燴	kue
+燴	we	0%
+燹	xi
+燻	xiun
+燼	jin
+燾	do
+燿	yo
+爁	le
+爆	bo
+爆	po	0%
+爊	ngo
+爍	saq
+爍	soq	0%
+爐	lu
+爛	le
+爝	ciaq
+爨	tseu
+爪	tza
+爪	tzo	0%
+爬	bau
+爭	tzan
+爭	tzen	0%
+爮	bo
+爰	yeu
+爲	we
+爵	ciaq
+父	vu
+爸	pa
+爸	paq	0%
+爹	tia
+爺	ya
+爻	yo
+爽	san
+爾	el
+爿	be
+牀	zan
+牁	ku
+牂	tzan
+牆	jian
+片	phi
+版	pe
+牋	ci
+牌	ba
+牒	diq
+牖	yoe
+牘	doq
+牙	nga
+牚	tsan
+牛	gnioe
+牝	phin
+牟	moe
+牡	moe
+牢	lo
+牧	moq
+物	meq	0%
+物	veq
+牮	ci
+牯	ku
+牲	san	0%
+牲	sen
+牴	ti
+特	deq
+牽	chi
+牾	ngu
+犀	xi
+犁	li
+犄	ci
+犋	djiu
+犍	ci	0%
+犍	dji
+犏	phi
+犒	kho
+犖	loq
+犛	mo
+犟	djian
+犢	doq
+犧	xi
+犨	tsoe
+犬	chieu
+犯	ve
+犰	djioe
+犴	ngeu	0%
+犴	reu
+狀	zan
+狁	yun
+狂	guan
+狃	gnioe
+狄	diq
+狉	phi
+狍	bo
+狎	raq
+狐	wu
+狒	vi
+狗	koe
+狙	ciu
+狠	hen
+狡	cio
+狨	gnion
+狩	soe
+狳	yu
+狴	pi
+狷	cieu
+狹	raq
+狺	gnin
+狻	seu
+狼	lan
+狽	pe
+猁	li
+猄	cin
+猊	gni
+猕	mi
+猖	tsan
+猗	i
+猙	tzen
+猛	man
+猜	tse
+猝	tseq
+猝	tsoq	0%
+猞	sau
+猢	wu
+猥	ue
+猩	xin
+猬	we
+猱	no
+猴	roe
+猶	yoe
+猷	yoe
+猸	me
+猹	zau
+猺	yo
+猻	sen
+猾	waq
+猿	yeu
+獁	mau
+獄	gnioq
+獅	sy
+獍	cin
+獎	cian
+獐	tzan
+獒	ngo
+獗	ciuq
+獠	lio
+獠	lo	0%
+獨	doq
+獪	kue
+獪	waq	0%
+獫	xi
+獬	ya
+獮	xi
+獯	xiun
+獰	gnin
+獲	weq
+獴	mon
+獵	laq
+獷	kuan
+獸	soe
+獺	thaq
+獻	xi
+獾	hueu
+玀	lu
+玄	yeu
+率	liq
+率	se	0%
+玉	gnioq
+王	wan
+玎	tin
+玕	keu
+玖	cioe
+玠	cia	0%
+玠	ka
+玡	nga
+玡	ya	0%
+玢	pin
+玥	yuq
+玦	ciuq
+玨	cioq
+玩	me	0%
+玩	weu
+玫	me
+玲	lin
+玳	de
+玷	ti
+玻	pu
+珀	phaq
+珂	khu
+珈	ka
+珉	min
+珊	se
+珍	tzen
+珙	kon
+珞	loq
+珠	tzy
+珣	xin
+珥	el
+珧	yo
+珩	ran
+班	pe
+珽	thin
+現	yi
+球	djioe
+琅	lan
+理	li
+琇	xioe
+琉	lioe
+琚	ciu
+琛	tsen
+琢	tzoq
+琤	tsan	0%
+琤	tsen
+琥	hu
+琦	dji
+琨	khuen
+琪	dji
+琫	pon
+琬	ueu
+琮	zon
+琯	keu
+琰	yi
+琱	tio
+琳	lin
+琴	djin
+琵	bi
+琶	bau
+琺	faq
+琿	hue
+琿	wen	0%
+瑀	yu
+瑁	mo
+瑄	xi
+瑋	we
+瑒	yan
+瑕	ya
+瑗	yeu
+瑙	no
+瑚	wu
+瑛	in
+瑜	yu
+瑞	zeu
+瑟	seq
+瑢	yon
+瑣	su
+瑤	yo
+瑩	yin
+瑪	mau
+瑭	dan
+瑯	lan
+瑰	kue
+瑾	djin
+璀	tseu
+璁	tson
+璃	li
+璆	djiu
+璇	ji
+璈	ngo
+璉	li
+璋	tzan
+璐	lu
+璘	lin
+璜	wan
+璞	phoq
+璟	cin
+璠	ve
+璡	cin
+璣	ci
+璦	e
+璧	piq
+璨	tse
+璩	djiu
+璪	tzo
+璫	tan
+環	gue
+璵	yu
+璺	men
+璽	xi
+瓊	djion
+瓏	lon
+瓔	in
+瓘	keu
+瓚	tze
+瓜	kau
+瓜	kua	0%
+瓞	diq
+瓠	wu
+瓢	bio
+瓣	be
+瓤	gnian
+瓦	ngau
+瓮	on
+瓴	lin
+瓶	bin
+瓷	zy
+瓻	tsy
+瓿	boe
+甄	tzen
+甌	oe
+甍	man
+甏	ban
+甑	tzen
+甓	biq
+甕	on
+甘	keu
+甙	de
+甚	zen
+甜	di
+生	san
+生	sen	0%
+產	tse
+甥	san
+甦	su
+用	yon
+甩	huaq
+甪	loq
+甫	fu
+甬	ion
+甭	fion
+甮	vion
+田	di
+由	yoe
+甲	ciaq	0%
+甲	kaq
+甲	khaq	0%
+申	sen
+男	neu
+甸	di
+甸	zen	0%
+町	thin
+町	tin	0%
+甾	tze	0%
+甾	tzy
+畀	pi
+畈	fe
+畊	ken
+畋	di
+界	ka
+畎	chieu
+畏	ue
+畔	beu
+留	lioe
+畚	pen
+畛	tzen
+畜	tsoq
+畜	xioq	0%
+畝	moe
+畢	piq
+略	liaq
+畦	yi
+番	fe
+番	pheu	0%
+畫	rau
+畯	cin
+異	yi
+畲	sau
+當	tan
+畸	dji
+畹	ueu
+畿	dji
+疃	theu
+疄	lin
+疆	cian
+疆	djian	0%
+疇	zoe
+疊	deq	0%
+疊	diq
+疍	de
+疏	sy
+疑	gni
+疔	tin
+疘	kon
+疙	gniq	0%
+疙	keq
+疚	cioe
+疝	se
+疢	tsen
+疣	yoe
+疤	pau
+疥	ka
+疫	yoq
+疰	tzy
+疱	pho
+疱	po	0%
+疲	bi
+疳	keu
+疴	khu
+疵	tsy
+疸	te
+疹	tzen
+疻	tzy
+疼	den
+疽	chiu
+疾	jiq
+痂	ga
+痃	yi
+痄	tzau
+病	bin
+症	tzen
+痊	chi	0%
+痊	ji
+痍	yi
+痔	zy
+痕	ren
+痘	doe
+痙	djin
+痛	thon
+痞	phi
+痠	seu
+痢	li
+痣	tzy
+痤	zu
+痦	ngu
+痧	sau
+痰	de
+痱	be
+痱	vi	0%
+痲	mau
+痴	tsy
+痺	bi
+痼	ku
+痿	ue
+瘀	iu
+瘁	zeu
+瘃	tzoq
+瘊	roe
+瘋	fon
+瘌	laq
+瘍	yan
+瘏	du
+瘐	yu
+瘓	hueu
+瘙	so
+瘛	tsy
+瘞	i
+瘟	uen
+瘠	ciq
+瘡	tsan
+瘢	beu	0%
+瘢	pe
+瘤	lioe
+瘥	tsa
+瘥	zu	0%
+瘦	soe
+瘧	gniaq
+瘧	ngoq	0%
+瘩	taq
+瘭	pio
+瘮	sen
+瘯	tsoq
+瘰	lu
+瘲	tzon
+瘳	tsoe
+瘴	tzan
+瘵	tza
+瘸	djieu
+瘺	loe
+瘼	moq
+癀	wan
+療	lio
+癃	lon
+癆	lo
+癇	re	0%
+癇	yi
+癉	te
+癌	nge
+癍	pe
+癒	yu
+癔	i
+癖	phiq
+癗	le
+癘	la	0%
+癘	liq
+癜	ti
+癟	piq
+癢	yan
+癤	ciq
+癥	tzen
+癧	liq
+癩	la
+癬	xi
+癭	in
+癮	in
+癯	djiu
+癰	ion
+癱	the
+癲	ti
+癸	kue
+登	ten
+發	faq
+白	baq
+百	paq
+皂	zo
+的	tiq
+皆	cia
+皇	wan
+皈	kue
+皋	ko
+皎	cio
+皓	ro
+皖	ueu
+皚	nge
+皤	bu
+皮	bi
+皴	tsen
+皵	chiaq
+皸	ciun
+皺	tzoe
+皿	mhin
+盂	yu
+盃	pe
+盅	tzon
+盆	ben
+盈	yin
+盉	wu
+益	iq
+盍	req
+盎	an
+盒	req
+盔	khue
+盛	zan	0%
+盛	zen
+盜	do
+盝	loq
+盞	tze
+盟	men
+盡	jin
+監	ci	0%
+監	ke
+盤	beu
+盥	kueu
+盦	eq
+盧	lu
+盪	dan
+目	moq
+盯	tin
+盱	xiu
+盲	man
+直	zeq
+相	xian
+盹	ten
+盼	phe
+盾	den
+省	san
+省	xin	0%
+眄	mi
+眇	mio
+眈	te
+眉	mi
+眊	mo
+看	kheu
+眗	khoe
+眙	de
+眚	sen
+眚	xin	0%
+真	tzen
+眠	mi
+眢	ieu
+眦	tzy
+眨	tzaq
+眩	ue	0%
+眩	yeu
+眭	seu
+眯	mhi
+眯	mi	0%
+眴	xieu
+眵	tsy
+眶	khuan
+眷	cieu
+眸	moe
+眺	thio
+眼	nge
+眾	tzon
+衆	tzon
+着	tzaq	0%
+着	zaq
+睃	ci	0%
+睃	su
+睇	di
+睏	khuen
+睚	ia	0%
+睚	nga
+睛	cin
+睜	tzan
+睜	tzen	0%
+睞	le
+睡	zeu
+睢	seu
+督	toq
+睥	phi
+睦	moq
+睨	gni
+睫	jiq
+睬	tse
+睹	tu
+睽	gue
+睾	ko
+睿	zeu
+瞀	moe
+瞄	mhio	0%
+瞄	mio
+瞅	tsoe
+瞇	mi
+瞈	on
+瞋	tsen
+瞌	kheq
+瞍	soe
+瞎	haq
+瞑	min
+瞖	i
+瞘	khoe
+瞞	men	0%
+瞞	meu
+瞟	phio
+瞠	tsan
+瞠	tsen	0%
+瞢	mon
+瞥	phiq
+瞧	jio
+瞪	ten
+瞬	sen
+瞭	lio
+瞰	kheu
+瞳	don
+瞵	lin
+瞻	tzeu
+瞼	ci
+瞽	ku
+瞿	ciu	0%
+瞿	djiu
+矇	mhon
+矌	kuaq
+矍	cioq
+矓	lon
+矗	tsoq
+矚	tzoq
+矛	moe
+矜	cin
+矜	djin	0%
+矜	kue	0%
+矢	sy
+矣	yi
+知	tzy
+矧	sen
+矩	ciu
+矬	zu
+短	teu
+矮	a
+矯	cio
+石	te	0%
+石	zaq
+矸	keu
+矻	khueq
+矽	jiq
+砂	sau
+砉	huaq
+砉	xiuq	0%
+砊	khan
+砌	chi
+砌	chiq	0%
+砍	khe
+砑	nga
+砒	phi
+研	gni	0%
+研	kni
+砘	den
+砝	faq
+砟	zoq
+砣	du
+砥	ti
+砧	tzen
+砭	pi
+砮	nu
+砰	phan	0%
+砰	phen
+砲	pho
+破	pha	0%
+破	phu
+砷	sen
+砸	zaq
+砹	nge
+砼	don
+硃	tzy
+硅	kue
+硇	no
+硌	gaq	0%
+硌	loq
+硎	yin
+硐	don
+硒	xi
+硜	khan
+硜	khen	0%
+硝	xio
+硤	raq
+硨	tsau
+硪	ngu
+硫	lioe
+硬	ngan
+硭	man
+硯	gni
+硶	tsen
+硼	ban
+碁	dji
+碇	din
+碉	tio
+碌	loq
+碎	se
+碑	pe
+碓	te
+碗	ueu
+碘	ti
+碚	be
+碟	diq
+碡	zoq
+碣	djiq
+碣	iaq	0%
+碥	pi
+碧	piq
+碩	zaq
+碭	dan
+碰	ban
+碲	ti
+碳	the
+碴	za	0%
+碴	zau
+碶	chi
+碸	fon
+碹	xieu
+確	chiaq
+碼	mau
+碾	kni
+磁	zy
+磅	ban	0%
+磅	pan
+磆	kueq	0%
+磆	waq
+磉	san
+磊	le
+磋	tsu
+磐	beu
+磑	kni
+磔	tzaq
+磕	kheq
+磙	kuen
+磚	tzeu
+磡	khe
+磣	tsen
+磧	chiq
+磨	mu
+磬	chin
+磯	ci
+磲	djiu
+磴	ten
+磷	lin
+磺	wan
+磽	chio
+礁	cio
+礄	djio
+礅	ten
+礆	ke
+礌	le
+礎	tsu
+礓	cian
+礙	nge
+礞	mon
+礤	tsaq
+礦	khuan
+礪	li
+礫	liq
+礬	ve
+礮	pho
+礱	lon
+礳	mu
+礴	boq
+示	zy
+社	zau
+祀	zy
+祁	dji
+祆	xi
+祇	dji	0%
+祇	tzeq
+祈	dji
+祉	tzy
+祐	yoe
+祓	feq
+祕	pi
+祖	tzu
+祗	tzy
+祚	zu
+祛	chiu
+祜	wu
+祝	tzoe	0%
+祝	tzoq
+神	zen
+祟	seu
+祠	zy
+祥	jian
+祧	thio
+票	phio
+祭	ci
+祭	tza	0%
+祲	cin
+祺	dji
+祼	kueu
+祾	lin
+祿	loq
+禁	cin
+禊	yi
+禍	wu
+禎	tzen
+福	foq
+禕	i
+禚	tzaq
+禛	tzen
+禡	mau
+禤	xieu
+禦	gniu
+禧	xi
+禪	zeu
+禮	li
+禰	gni
+禱	to
+禳	gnian
+禹	yu
+禺	gniu
+禽	djin
+禾	wu
+禿	thoq
+秀	xioe
+私	sy
+秉	pin
+秋	chioe
+种	zon
+科	khu
+秒	mio
+秕	pi
+秘	pi
+租	tzu
+秣	meq
+秤	tsen
+秦	jin
+秧	ian
+秩	zeq
+秫	zeq
+秭	tzy
+秸	ciq
+移	yi
+稀	xi
+稂	lan
+稃	fu
+稅	seu
+稆	liu
+稈	keu
+程	zen
+稍	so
+稔	gnin
+稗	ba
+稚	zy
+稜	len
+稝	man
+稞	khu
+稟	pin
+稠	zoe
+種	tzon
+稱	tsen
+稷	ciq
+稻	do
+稼	cia
+稽	chi	0%
+稽	ci
+稿	ko
+穀	koq
+穄	ci
+穆	moq
+穌	su
+積	ciq
+穎	yin
+穗	zeu
+穠	gnion
+穡	seq
+穢	hue	0%
+穢	we
+穧	ci
+穩	uen
+穫	roq
+穰	gnian
+穴	yuq
+究	cioe
+穸	jiq
+穹	chion
+空	khon
+穿	tseu
+窀	tzen
+突	deq
+窄	tzaq
+窅	io
+窈	io
+窒	tzeq
+窕	dio
+窖	cio
+窖	ko	0%
+窗	tsan
+窘	djiun
+窟	khueq
+窠	khu
+窣	seq
+窨	in
+窨	xiun	0%
+窩	u
+窬	yu
+窮	djion
+窯	yo
+窳	yu
+窵	tio
+窶	djiu
+窸	xiq
+窺	khue
+窾	khueu
+窾	tseu	0%
+窿	lon
+竄	tseu
+竅	chio
+竇	doe
+竊	chiq
+立	liq
+竑	ron
+站	ze
+竟	cin
+章	tzan
+竣	cin
+童	don
+竦	son
+竭	djiq
+端	teu
+競	djin
+竹	tzoq
+竺	toq	0%
+竺	tzoq
+竽	yu
+竿	keu
+笄	ci
+笆	pau
+笈	djiq
+笊	tzo
+笏	hueq
+笑	xio
+笙	sen
+笛	diq
+笞	tsy
+笠	liq
+笡	chia
+笤	dio
+笥	sy
+符	vu
+笨	ben
+笪	taq
+笫	tzy
+第	di
+笮	tzaq
+笱	koe
+笳	ka
+笸	phu
+筅	xi
+筆	piq
+筇	djion
+等	ten
+筋	cin
+筌	chi
+筍	sen
+筏	vaq
+筐	khuan
+筑	zoq
+筒	don
+答	taq
+策	tsaq
+筘	khoe
+筠	yun
+筢	bau
+筧	ci
+筮	zy
+筱	xio
+筲	so
+筵	yi
+筷	khua
+筻	kan
+箅	pi
+箇	geq
+箇	ku	0%
+箋	ci
+箍	ku
+箏	tzen
+箐	chin	0%
+箐	cin
+箔	boq
+箕	ci
+算	seu
+箜	khon
+管	kueu
+箢	ieu
+箬	gniaq
+箭	ci
+箱	xian
+箴	tzen
+箸	zy
+節	ciq
+篁	wan
+範	ve
+篅	zeu
+篆	zeu
+篇	phi
+築	tzoq
+篋	chiaq
+篌	roe
+篔	yun
+篙	ko
+篚	fi
+篝	koe
+篠	xio
+篡	tseu
+篤	toq
+篥	liq
+篦	pi
+篩	sa
+篩	sy	0%
+篪	zy
+篳	piq
+篷	bon
+篼	toe
+篾	miq
+篿	deu
+簀	tzeq
+簃	yi
+簆	khoe
+簇	tsoq
+簉	zo
+簋	kue
+簌	soq
+簍	loe
+簏	loq
+簑	su
+簞	te
+簟	di
+簠	fu
+簡	ci
+簣	gue
+簤	da
+簦	ten
+簧	wan
+簪	tzeu
+簫	xio
+簷	yi
+簸	pu
+簹	tan
+簽	chi
+簾	li
+簿	boq	0%
+簿	bu
+籀	zoe
+籃	le
+籌	zoe
+籍	jiq
+籙	loq
+籜	thoq
+籟	la	0%
+籟	le
+籠	lon
+籤	chi
+籩	pi
+籪	deu
+籬	li
+籮	lu
+籲	yu
+米	mi
+籼	xi
+籽	tzy
+粄	pe
+粉	fen
+粑	pa
+粒	liq
+粕	phaq
+粗	tsu
+粘	kni
+粞	xi
+粟	soq
+粢	tsy
+粥	tzoq
+粥	yoq	0%
+粱	lian
+粲	tse
+粳	kan
+粵	yuq
+粹	tseu
+粹	zeu	0%
+粼	lin
+粽	tzon
+精	cin
+糅	gnioe
+糇	roe
+糈	xiu
+糊	wu
+糌	tzeu
+糍	zy
+糕	ko
+糖	dan
+糗	chioe
+糙	tso
+糜	mi
+糝	seu
+糞	fen
+糟	tzo
+糠	khan
+糧	lian
+糨	djian
+糯	nu
+糰	deu
+糲	li
+糴	diq
+糵	gniq
+糶	thio
+系	yi
+糽	din
+糾	cioe
+紀	ci
+紂	zoe
+約	iaq
+約	io	0%
+約	tiq	0%
+紅	kon
+紅	ron	0%
+紆	iu
+紇	req
+紈	weu
+紉	zen
+紊	ven
+紋	ven
+納	naq
+紐	gnioe
+紓	sy
+純	zen
+紕	bi	0%
+紕	phi
+紕	pi	0%
+紗	sau
+紙	tzy
+級	ciq
+紛	fen
+紜	yun
+紝	gnin
+紝	zen	0%
+素	su
+紡	fan
+索	soq
+紫	tzy
+紮	tzaq
+累	le
+細	xi
+紱	feq
+紲	xiq
+紳	sen
+紵	zy
+紹	zo
+紺	keu
+紼	feq
+紿	de
+絀	tseq
+終	tzon
+絃	yi
+組	tzu
+絆	beu
+絎	ran
+結	ciq
+絕	jiq
+絝	khu
+絞	cio	0%
+絞	go	0%
+絞	ko
+絡	loq
+絢	xieu
+絣	pan
+給	ciq
+絨	gnion
+絮	xi	0%
+絮	xiu
+統	thon
+絲	sy
+絳	cian
+絷	tzeq
+絹	cieu
+綁	pan
+綃	xio
+綆	kan
+綈	di
+綌	chiq
+綏	seu
+綑	khuen
+經	cin
+綜	tzon
+綠	loq
+綢	zoe
+綣	djieu
+綦	dji
+綬	zoe
+維	vi
+綮	chi
+綯	do
+綰	ueu
+綱	kan
+網	man
+綴	tzeu
+綵	tse
+綸	kue	0%
+綸	len
+綹	lioe
+綺	chi
+綻	ze
+綽	tsa	0%
+綽	tsaq
+綾	lin
+綿	mi
+緄	kuen
+緇	tzy
+緊	cin
+緋	fi
+緒	jiu
+緔	zan
+緗	xian
+緘	ci
+緙	khaq
+線	xi
+緝	chiq	0%
+緝	ciq
+緞	deu
+締	ti
+緡	min
+緣	yeu
+緦	sy
+編	pi
+緩	ueu
+緬	mi
+緯	we
+緯	yu	0%
+緱	koe
+緲	mio
+練	li
+緶	bi
+緹	di
+緻	tzy
+縂	tzon
+縈	in
+縉	cin
+縊	iq
+縋	zeu
+縐	tzoe
+縑	ci
+縛	boq	0%
+縛	voq
+縝	tzen
+縞	ko
+縟	gnioq
+縟	zoq	0%
+縢	den
+縣	yeu
+縧	tho
+縫	von
+縭	li
+縮	soq
+縱	tzon
+縴	chi
+縵	me	0%
+縵	meu
+縷	liu
+縹	pio
+縻	mi
+總	tzon
+績	ciq
+繁	bu	0%
+繁	ve
+繃	pan
+繄	i
+繅	jio
+繆	mio	0%
+繆	mioe	0%
+繆	moe
+繆	moq	0%
+繇	yo
+繇	zoe	0%
+繒	zen
+織	ciq	0%
+織	tzeq
+織	tzy	0%
+繕	zeu
+繗	lin
+繚	lio
+繞	gnio
+繡	xioe
+繩	zen
+繪	we
+繫	ci	0%
+繫	yi
+繭	ci
+繮	cian
+繯	we
+繰	chio
+繰	so	0%
+繳	cio
+繳	tzaq	0%
+繹	yiq
+繼	ci
+繽	pin
+繾	chi
+纂	tzeu
+纈	yiq
+纊	khuan
+續	zoq
+纏	zeu
+纓	in
+纔	ze
+纖	xi
+纘	tzeu
+纛	do
+纜	le
+纝	le
+缶	foe
+缸	kan
+缺	chiuq
+缽	peq
+罄	chin
+罅	hau
+罈	de
+罌	in
+罐	kueu
+罔	man
+罕	heu
+罘	voe
+罟	ku
+罡	kan
+罣	kue
+罨	i
+罩	tzo
+罪	ze	0%
+罪	zeu
+罫	kau
+置	tzy
+罯	eu
+罰	vaq
+罱	gnie
+罱	le	0%
+署	zy
+罵	mau
+罷	ba
+罹	li
+罽	ci
+罾	tzen
+羅	lu
+羆	bi
+羈	ci
+羊	yan
+羌	chian
+美	mhe
+羑	yoe
+羔	ko
+羚	lin
+羝	ti
+羞	xioe
+群	djiun
+羣	djiun
+羥	chian
+羧	su
+羨	ji
+義	gni
+羯	ciq
+羰	than
+羲	xi
+羸	le
+羹	kan
+羼	tse
+羽	yu
+羿	yi
+翁	on
+翅	tsy
+翊	yiq
+翌	yiq
+翎	lin
+習	jiq
+翔	jian
+翕	xiq
+翟	diq	0%
+翟	zaq
+翠	tseu
+翡	fi
+翥	tzy
+翦	ci
+翩	phi
+翪	tzon
+翫	weu
+翬	hue
+翮	raq
+翯	roq
+翰	reu
+翱	ngo
+翳	i
+翹	chio
+翹	djio	0%
+翻	fe
+翼	yiq
+翽	hue
+耀	yo
+老	lo
+考	kho
+耄	mo
+者	tze
+耆	dji
+耆	zy	0%
+耋	diq
+而	el
+耍	sa
+耐	ne
+耒	le
+耔	tzy
+耕	kan	0%
+耕	ken
+耖	tso
+耗	ho
+耘	yun
+耙	bau
+耜	zy
+耠	req
+耥	than
+耦	ngoe
+耨	noe
+耩	kan
+耪	phan
+耬	loe
+耮	lo
+耰	ioe
+耱	mu
+耲	wa
+耳	el
+耳	gni	0%
+耵	tin
+耶	ia
+耶	ya	0%
+耷	taq
+耽	te
+耿	gen	0%
+耿	ken
+聃	te
+聆	lin
+聊	lio
+聒	kueq
+聖	sen
+聘	phin
+聚	jiu
+聞	men	0%
+聞	ven
+聯	li
+聰	tson
+聱	ngo
+聲	san	0%
+聲	sen
+聳	son
+聵	gue
+聶	gniq
+職	tzeq
+聹	gnin
+聽	thin
+聾	lon
+聿	yuq
+肄	yi
+肅	soq
+肆	sy
+肇	zo
+肉	gnioq
+肋	leq
+肌	ci
+肓	huan
+肖	xio
+肘	tzoe
+肚	du
+肚	tu	0%
+肛	kan
+肝	keu
+肟	u
+股	ku
+肢	tzy
+肥	bi	0%
+肥	vi
+肩	ci
+肪	fan
+肫	tzen
+肫	zen	0%
+肭	neq
+肯	khen
+肱	kon
+育	yoq
+肴	yo
+肷	chi
+肺	fi
+肼	cin
+肽	tha
+胂	sen
+胃	we
+胄	zoe
+背	be	0%
+背	pe
+胍	ku	0%
+胍	kua
+胎	the
+胖	beu	0%
+胖	phan
+胖	pheu	0%
+胗	tzen
+胙	zu
+胚	phe
+胛	ciaq	0%
+胛	kaq
+胝	tzy
+胞	po
+胡	wu
+胤	yin
+胥	xiu
+胩	kha
+胬	nu
+胭	i
+胯	khau
+胰	yi
+胱	kuan
+胲	he
+胳	keq
+胴	don
+胸	xion
+胺	eu
+胼	bi
+能	ne	0%
+能	nen
+脂	tzy
+脅	xiq
+脆	tseu
+脈	maq
+脊	ciq
+脎	saq
+脒	mi
+脖	beq
+脗	mhin
+脘	we
+脛	cin
+脞	tsu
+脣	zen
+脩	xioe
+脫	theq
+脬	pho
+脯	bu
+脯	phu	0%
+脲	nhio
+脹	tzan
+脾	bi
+腁	bi
+腃	djieu
+腆	thi
+腈	cin	0%
+腈	jin
+腋	yiq
+腌	a	0%
+腌	i
+腎	zen
+腐	vu
+腑	fu
+腒	ciu
+腓	vi
+腔	chian
+腕	ueu
+腖	ton
+腙	tzon
+腚	din
+腠	tsoe
+腡	lu
+腥	xin
+腦	no
+腧	sy
+腩	neu
+腫	tzon
+腮	se
+腰	io
+腱	dji
+腳	ciaq
+腴	yu
+腸	zan
+腹	foq
+腺	xi
+腼	mi
+腽	ueq
+腿	the
+膀	ban	0%
+膀	pan
+膀	phan	0%
+膂	liu
+膈	kaq
+膊	poq
+膏	ko
+膘	pio
+膙	cian
+膚	fu
+膛	dan
+膜	moq
+膝	xiq
+膠	cio	0%
+膠	ko
+膦	li	0%
+膦	lin
+膨	ban
+膩	gni
+膪	tsau
+膯	ten
+膳	zeu
+膺	in
+膻	de	0%
+膻	se
+膽	te
+膾	kue
+膿	non
+臀	den
+臁	li
+臂	pi
+臃	ion
+臆	i
+臉	li
+臊	so
+臌	ku
+臍	ji
+臏	bin
+臑	no
+臖	xin
+臘	laq
+臘	xiq	0%
+臚	lu
+臟	zan
+臠	leu
+臢	tze
+臣	zen
+臥	ngu
+臧	tzan
+臧	zan	0%
+臨	lin
+自	zy
+臬	gniq
+臭	tsoe
+臭	xioe	0%
+至	tzy
+致	tzy
+臺	de
+臻	tzen
+臼	djioe
+臾	yu
+舀	yo
+舂	tson
+舄	xiq
+舅	djioe
+與	yu
+興	xin
+舉	ciu
+舊	djioe
+舋	xin
+舌	zeq
+舍	sau
+舐	zy
+舒	sy
+舔	thi
+舛	tseu
+舜	sen
+舞	vu
+舟	tzoe
+舢	se
+舨	pe
+航	ran
+舫	fan
+般	beu	0%
+般	pe
+般	peq	0%
+舳	zoq
+舴	tzaq
+舵	du
+舶	phaq
+舷	yi
+舸	ku
+船	zeu
+舾	xi
+艄	so
+艇	thin
+艋	man
+艋	men	0%
+艘	soe
+艙	tsan
+艚	zo
+艟	tson
+艣	lu
+艤	gni
+艦	khe
+艨	mon
+艪	lu
+艫	lu
+艮	gen	0%
+艮	ken
+良	lian
+艱	ci
+色	seq
+艴	beq
+艽	cio	0%
+艽	djioe	0%
+艽	ko
+艾	gni	0%
+艾	nge
+艿	na
+芄	weu
+芈	mi
+芊	chi
+芋	yu
+芍	chiaq	0%
+芍	zaq
+芎	chion
+芏	du
+芑	chi
+芒	man
+芙	vu
+芝	tzy
+芟	se
+芡	chi
+芥	ka
+芨	ciq
+芩	djin
+芪	dji
+芫	gnieu
+芬	fen
+芭	pa	0%
+芭	pau
+芮	zeu
+芯	xin
+芰	dji
+花	hau
+芳	fan
+芴	veq
+芷	tzy
+芸	yun
+芹	djin
+芼	mo
+芽	nga
+芾	feq	0%
+芾	fi
+苄	bi
+苊	eq
+苑	ieu
+苒	zeu
+苓	lin
+苔	de
+苔	the	0%
+苕	dio
+苕	zo	0%
+苗	mio
+苘	chin
+苛	hu	0%
+苛	khu
+苜	moq
+苞	po
+苟	koe
+苠	min
+苡	i
+苣	djiu
+苤	phi
+若	zaq
+苦	khu
+苦	ku	0%
+苦	wu	0%
+苧	zy
+苫	seu
+苯	pen
+英	in
+苴	ciu
+苷	keu
+苻	vu
+茀	feq
+茁	tzeq
+茁	tzoq	0%
+茂	mo	0%
+茂	moe
+范	ve
+茄	djia	0%
+茄	ga
+茅	mo
+茆	mo
+茈	tzy
+茉	meq
+茌	zy
+茓	yuq
+茗	min
+茚	in
+茛	ken
+茜	xi
+茝	tse	0%
+茝	tzy
+茨	zy
+茫	man
+茬	tsa
+茭	ko
+茯	voq
+茱	tzy
+茲	tzy
+茳	kan
+茴	we
+茵	in
+茶	zau
+茸	gnion
+茹	zy
+茻	man
+茼	don
+荀	xin
+荃	chi
+荇	ran
+草	tso
+荊	cin
+荏	zen
+荐	ji
+荑	di	0%
+荑	yi
+荒	huan
+荔	liq
+荳	doe
+荷	wu
+荸	beq
+荻	diq
+荼	du
+荼	sy	0%
+荽	seu
+莆	bu
+莉	li
+莊	tzan
+莎	sau
+莎	su	0%
+莒	ciu
+莓	me
+莖	cin
+莘	sen
+莘	xin	0%
+莛	din
+莞	kueu
+莠	yoe
+莢	ciaq	0%
+莢	kaq
+莧	xi
+莨	lan
+莫	moq
+莰	khe
+莽	man
+菀	iun	0%
+菀	iuq	0%
+菀	ueu
+菁	cin
+菂	tiq
+菅	ci
+菇	ku
+菊	cioq
+菌	ciun
+菏	wu
+菔	voq
+菖	tsan
+菘	son
+菜	tse
+菝	baq
+菟	du
+菟	thu	0%
+菠	pu
+菡	reu
+菢	bo
+菥	xiq
+菩	bu
+菪	dan
+華	hau	0%
+華	khau	0%
+華	rau
+菰	ku
+菱	lin
+菲	fi
+菹	tzu
+菼	the
+菽	soq
+萁	dji
+萃	tseu
+萄	do
+萆	pi
+萇	zan
+萊	le
+萋	chi
+萌	men
+萌	min	0%
+萍	bin
+萎	ue
+萏	de
+萑	weu
+萘	naq
+萜	thiq
+萩	chioe
+萬	me	0%
+萬	moq	0%
+萬	ve
+萱	xieu
+萵	u
+萸	yu
+萼	ngoq
+落	loq
+葆	po
+葉	seq	0%
+葉	yiq
+葑	fon
+葒	ron
+葓	ron
+葖	deq
+著	tzy
+著	zaq	0%
+葚	zen
+葛	keq
+葜	chiaq
+葡	beq	0%
+葡	bu
+董	ton
+葦	we
+葩	pha
+葩	phau	0%
+葫	wu
+葬	tzan
+葭	cia	0%
+葭	ka
+葳	ue
+葵	gue
+葶	din
+葷	huen
+葸	xi
+葺	chiq
+蒂	ti
+蒈	kha
+蒎	pha
+蒐	soe
+蒓	zen
+蒔	zy
+蒗	lan
+蒙	mon
+蒜	seu
+蒞	liq
+蒟	djiu
+蒡	ban
+蒡	pan	0%
+蒨	chi
+蒯	khua
+蒲	bu
+蒴	soq
+蒸	tzen
+蒹	ci
+蒺	jiq
+蒼	tsan
+蒽	en
+蒿	ho
+蓀	sen
+蓁	tzen
+蓂	min	0%
+蓂	miq
+蓄	xioq
+蓆	jiq
+蓇	kueq
+蓉	yon
+蓊	on
+蓋	ke
+蓋	keq	0%
+蓋	req	0%
+蓍	sy
+蓐	gnioq
+蓐	zoq	0%
+蓑	su
+蓓	be
+蓖	pi
+蓪	thon
+蓬	bon
+蓮	li
+蓯	tzon
+蓰	xi
+蓴	zen
+蓼	lio
+蓼	loq	0%
+蓽	piq
+蓿	soq
+蔌	soq
+蔑	miq
+蔓	me
+蔓	meu	0%
+蔔	boq
+蔗	tzau
+蔘	sen
+蔚	ue
+蔚	yuq	0%
+蔞	loe
+蔟	tsoq
+蔡	tsa
+蔣	cian
+蔥	tson
+蔦	gnio
+蔦	tio	0%
+蔫	i
+蔬	su
+蔬	sy	0%
+蔭	in
+蔸	toe
+蔻	khoe
+蔽	pi
+蕁	de	0%
+蕁	jin
+蕃	bu	0%
+蕃	fe
+蕃	ve	0%
+蕆	tseu
+蕈	jin
+蕉	cio
+蕊	gniu	0%
+蕊	zeu
+蕎	djio
+蕒	ma
+蕖	djiu
+蕘	gnio
+蕘	zo	0%
+蕙	we
+蕞	zeu
+蕢	gue	0%
+蕢	khe	0%
+蕢	khua
+蕤	zeu
+蕨	ciuq
+蕩	dan
+蕪	vu
+蕭	xio
+蕰	iun	0%
+蕰	uen
+蕷	yu
+蕹	on
+蕺	ciq
+蕻	ron
+蕾	le
+薄	boq
+薄	bu	0%
+薅	ho
+薇	bi	0%
+薇	vi
+薈	ue
+薊	ci
+薌	xian
+薏	i
+薑	cian
+薔	jian
+薘	daq
+薛	xiq
+薜	bi
+薤	ra
+薤	ya	0%
+薦	ci
+薨	hon
+薩	saq
+薪	xin
+薯	zy
+薰	xiun
+薷	zy
+薹	de
+薺	ji
+藁	ko
+藉	jia	0%
+藉	jiq
+藍	le
+藎	jin
+藏	zan
+藐	mio
+藕	ngoe
+藜	li
+藝	gni
+藠	cio
+藤	den
+藥	yaq
+藩	ve
+藪	soe
+藶	liq
+藷	zy
+藹	e
+藺	lin
+藻	tzo
+藿	hoq
+蘄	dji
+蘅	ren
+蘆	lu
+蘇	su
+蘊	iun
+蘋	bin
+蘑	mu
+蘖	gniq
+蘘	gnian
+蘚	xi
+蘞	li
+蘧	djiu
+蘩	ve
+蘭	le
+蘸	tze
+蘺	li
+蘼	mi
+蘿	lo
+蘿	lu	0%
+虎	hu
+虐	gniaq
+虔	dji
+處	tsy
+虛	xiu
+虜	lu
+虞	gniu
+號	ro
+虢	kuaq
+虧	chiu	0%
+虧	khue
+虯	djioe
+虹	ron
+虺	hue
+虻	man
+虼	keq
+蚊	men
+蚋	zeu
+蚌	ban
+蚍	bi
+蚓	yin
+蚘	we
+蚜	nga
+蚝	ro
+蚝	tsy	0%
+蚣	kon
+蚣	tzon	0%
+蚤	tzo
+蚧	cia	0%
+蚧	ka
+蚨	vu
+蚩	tsy
+蚪	toe
+蚯	chioe
+蚰	yoe
+蚱	tzaq
+蚴	ioe
+蚶	heu
+蚺	zeu
+蛀	tzy
+蛄	ku
+蛅	ze
+蛆	chiu
+蛆	ciu	0%
+蛇	yi	0%
+蛇	zau
+蛉	lin
+蛋	de
+蛐	chioq
+蛑	moe
+蛔	we
+蛘	yan
+蛙	au
+蛛	tzy
+蛞	khueq
+蛟	cio
+蛤	keq
+蛩	djion
+蛭	tzeq
+蛸	so
+蛸	xio	0%
+蛹	ion
+蛺	kaq
+蛻	theu
+蛾	gni	0%
+蛾	ngu
+蜀	zoq
+蜂	fon
+蜃	zen
+蜆	xi
+蜇	zeq
+蜈	wu
+蜉	voe
+蜊	li
+蜍	zy
+蜎	ieu
+蜒	yi
+蜓	din
+蜘	tzy
+蜚	fi
+蜜	miq
+蜞	dji
+蜡	zau
+蜢	man
+蜣	chian
+蜥	xiq
+蜮	yuq
+蜱	bi
+蜴	yiq
+蜷	djieu
+蜻	chin
+蜾	ku
+蜿	ueu
+蝈	kuaq
+蝌	khu
+蝍	ciq
+蝓	yu
+蝕	zeq
+蝗	wan
+蝙	pi
+蝠	foq
+蝣	yoe
+蝤	jioe
+蝤	yoe	0%
+蝥	mo
+蝦	hau
+蝦	ra	0%
+蝨	seq
+蝮	foq
+蝰	khue
+蝴	wu
+蝶	diq
+蝸	kau
+蝻	neu
+蝽	tsen
+螂	lan
+螃	ban
+螄	sy
+螅	xiq
+螈	gnieu
+螋	soe
+融	yon
+螗	dan
+螞	mau
+螟	min
+螠	iq
+螢	yin
+螣	den
+螫	seq
+螫	zeq	0%
+螬	zo
+螭	tsy
+螯	ngo
+螳	dan
+螵	phio
+螺	lu
+螻	loe
+螽	tzon
+蟀	seq
+蟄	zeq
+蟅	tzau
+蟆	mau
+蟈	dio
+蟊	moe
+蟋	xiq
+蟎	meu
+蟑	tzan
+蟒	man
+蟛	ban
+蟠	beu
+蟢	xi
+蟣	ci
+蟥	wan
+蟪	we
+蟬	zeu
+蟮	zeu
+蟯	gnio
+蟲	zon
+蟶	tsen
+蟹	ha
+蟻	gni
+蟾	zeu
+蠃	lu
+蠅	yin
+蠆	tsa
+蠊	li
+蠋	zoq
+蠍	xiq
+蠐	ji
+蠑	yon
+蠓	mon
+蠔	ro
+蠕	zy
+蠖	oq	0%
+蠖	yaq
+蠟	laq
+蠡	li
+蠡	lu	0%
+蠢	tsen
+蠣	li
+蠱	ku
+蠲	cieu
+蠶	zeu
+蠹	tu
+蠻	ma	0%
+蠻	me
+蠻	mhe	0%
+蠼	djiu
+血	xiuq
+衄	gnioq
+衊	miq
+行	ran
+行	yin	0%
+衍	yi
+術	zeq
+術	zeu	0%
+衖	lon
+街	ka
+衙	nga
+衛	we
+衝	tson
+衡	ren
+衢	djiu
+衣	i
+表	pio
+衩	tsa
+衩	tsau	0%
+衫	se
+衰	sa	0%
+衰	se
+衰	tse	0%
+衲	naq
+衷	tzon
+衹	tzeq
+只	tzeq
+衽	gnin	0%
+衽	zen
+衾	chin
+衿	cin
+袁	yeu
+袂	me
+袈	ka
+袋	de
+袍	bo
+袒	the
+袖	jioe
+袗	tzen
+袜	meq
+袞	kuen
+袢	phe
+袤	moe
+袥	thoq
+袪	chiu
+被	be
+被	bi	0%
+被	phi	0%
+袱	voq
+袼	koq
+裁	ze
+裂	liq
+裉	khen
+裊	gnio
+裎	tsen
+裏	li
+裒	boe
+裔	yi
+裕	yu
+裘	djioe
+裙	djiun
+補	pu
+裝	tzan
+裟	sau
+裨	pi
+裰	teq
+裱	pio
+裳	zan
+裴	be
+裸	lu
+裹	ku
+裼	thi	0%
+裼	xiq
+製	tzy
+裾	ciu
+褂	kau
+複	foq
+褊	bi	0%
+褊	pi
+褌	khuen
+褐	req
+褒	po
+褓	po
+褘	hue
+褙	pe
+褚	tsy
+褚	tzau	0%
+褚	tzy	0%
+褡	taq
+褥	gnioq
+褥	zoq	0%
+褪	the
+褪	then	0%
+褫	tsy
+褰	chi
+褲	khu
+褳	li
+褶	jiq	0%
+褶	tzeq
+褸	liu
+褻	xiq
+褼	xi
+襁	chian
+襄	xian
+襉	ke
+襏	feq
+襖	o
+襜	tseu
+襝	li
+襞	piq
+襟	cin
+襠	tan
+襤	le
+襦	zy
+襪	maq
+襬	pa
+襯	tsen
+襲	jiq
+襴	le
+襻	phe
+西	xi
+要	io
+覃	de
+覃	yi	0%
+覅	vio
+覆	foq
+見	ci
+見	yi	0%
+規	kue
+覓	miq
+視	zy
+覘	tseu
+覡	yiq
+覦	yu
+親	chin
+覬	ci
+覯	koe
+覲	djin
+覷	chiu
+覺	cioq
+覺	ko	0%
+覺	koq	0%
+覻	chi
+覽	le
+覿	diq
+觀	kueu
+角	koq
+觔	cin
+觖	ciuq
+觚	ku
+觜	tzeu	0%
+觜	tzy
+解	cia
+解	ga	0%
+解	ka	0%
+解	ra	0%
+觥	kuan
+觫	soq
+觱	piq
+觳	roq
+觴	san
+觶	tzy
+觸	tsoq
+言	gni
+言	re	0%
+訂	tin
+訃	fu
+訄	djioe
+訇	hon
+計	ci
+訊	xin
+訌	hon
+討	tho
+訐	ciq
+訓	xiun
+訕	se
+訖	chiq
+託	thoq
+記	ci
+訛	ngu
+訝	ia
+訟	zon
+訣	ciuq
+訥	neq
+訩	xion
+訪	fan
+設	seq
+許	hu	0%
+許	xiu
+訴	su
+訶	hu
+診	tzen
+註	tzy
+訾	tzy
+詁	ku
+詆	ti
+詈	li
+詎	djiu
+詐	tzau
+詒	yi
+詔	tzo
+評	bin
+詖	pi
+詘	chiuq
+詛	tzu
+詞	zy
+詠	ion
+詡	xiu
+詢	xin
+詣	gni
+試	sy
+詩	sy
+詫	tsau
+詬	koe
+詭	kue
+詮	chi
+詰	ciq
+話	rau
+該	ke
+詳	jian
+詳	yan	0%
+詵	sen
+詹	tzeu
+詼	hue
+詿	kua
+誄	le
+誅	tzy
+誆	guan
+誇	khau
+誇	khua	0%
+誌	tzy
+認	gnin
+誏	lan	0%
+誏	lhan
+誑	guan
+誒	e
+誒	re	0%
+誒	xi	0%
+誓	zy
+誕	te
+誘	yoe
+誚	jio
+語	gniu
+誠	zen
+誡	cia
+誣	u
+誤	ngu
+誥	ko
+誦	zon
+誨	hue
+說	seq
+說	seu	0%
+說	theq	0%
+說	yuq	0%
+誰	zeu
+課	khu
+誶	seu
+誹	fi
+誼	gni
+調	dio
+調	tzoe	0%
+諂	tseu
+諄	tzen
+談	de
+諉	ue
+請	chin
+諍	tzan
+諍	tzen	0%
+諏	tzoe
+諑	tzoq
+諒	lian
+論	len
+諗	sen
+諛	yu
+諜	diq
+諞	bi
+諢	wen
+諤	ngoq
+諦	ti
+諧	ya
+諫	ci
+諭	yu
+諮	tzy
+諱	hue
+諳	eu
+諶	zen
+諷	fon
+諸	tzy
+諺	gni
+諼	xieu
+諾	noq
+謀	moe
+謁	iq
+謂	we
+謄	den
+謅	tzoe
+謇	ci
+謊	huan
+謎	me	0%
+謎	mi
+謐	miq
+謔	xiaq
+謖	soq
+謗	pan
+謙	chi
+謚	zy
+講	cian	0%
+講	kan
+謝	jia
+謠	yo
+謨	mu
+謫	tzaq
+謬	mioe
+謭	ci
+謰	li
+謳	oe
+謹	cin
+謾	me
+謾	meu	0%
+證	tzen
+譎	ciuq
+譏	ci
+譖	tzen
+識	seq
+識	tzy	0%
+譙	jio
+譚	de
+譜	phu	0%
+譜	pu
+警	cin
+譫	tzeu
+譬	phi
+譭	hue
+譯	yiq
+議	gni
+譴	chi
+護	wu
+譽	yu
+讀	doe
+讀	doq	0%
+變	pi
+讌	i
+讎	zoe
+讒	ze
+讓	gnian
+讕	le
+讖	tsen
+讚	tze
+讜	tan
+讞	gni
+谷	koq
+谿	chi
+豁	huaq
+豆	doe
+豇	kan
+豈	chi
+豈	khe	0%
+豉	zy
+豌	ueu
+豎	zy
+豐	fon
+豔	yi
+豕	sy
+豚	den
+豛	toq
+豞	hoe
+象	jian
+豢	we
+豨	xi
+豪	ro
+豫	yu
+豬	tzy
+豳	pin
+豸	zy
+豹	po
+豺	ze
+貂	tio
+貅	xioe
+貉	maq	0%
+貉	mau	0%
+貉	roq
+貊	maq
+貌	mo
+貍	li
+貓	mho
+貔	bi
+貘	maq
+貝	pe
+貞	tzen
+負	voe
+負	vu	0%
+財	ze
+貢	kon
+貧	bin
+貨	hu
+販	fe
+貪	theu
+貫	kue
+責	tza	0%
+責	tzeq
+貯	zy
+貰	sy
+貳	el	0%
+貳	gni
+貴	ciu	0%
+貴	kue
+貶	pi
+買	ma
+貸	de
+貺	huan	0%
+貺	khuan
+費	fi
+費	vi	0%
+貼	thiq
+貽	yi
+貿	mo	0%
+貿	moe
+賀	wu
+賁	pen
+賁	pi	0%
+賂	lu
+賃	gnin
+賄	hue
+賅	ke
+資	tzy
+賈	cia	0%
+賈	ku
+賊	zeq
+賑	tzen
+賒	sau
+賓	pin
+賕	djioe
+賚	le
+賜	sy
+賞	san
+賠	be
+賡	kan
+賢	yi
+賣	ma
+賤	ji
+賦	fu
+質	tzeq
+賫	ci
+賬	tzan
+賭	tu
+賴	la
+賴	le	0%
+賺	ze
+賻	vu
+購	koe
+賽	se
+賾	zaq
+贄	tzy
+贅	tzeu
+贇	iun
+贈	zen
+贊	tze
+贋	gni
+贍	zeu
+贏	yin
+贐	jin
+贓	tzan
+贔	bi
+贖	zoq
+贗	gni
+贛	keu
+贛	kon	0%
+赤	tsaq
+赦	sau
+赧	ne
+赫	haq	0%
+赫	heq
+赬	tsen
+赭	tzau
+走	tzoe
+赳	cioe
+赴	fu
+赶	djiuq
+起	chi
+趁	tsen
+趄	chia	0%
+趄	ciu
+超	tso
+越	yuq
+趑	tsy
+趔	liq
+趕	keu
+趙	zo
+趜	djioe
+趟	than
+趣	chiu
+趣	tsoq	0%
+趤	dan
+趨	chiu
+趨	tsoq	0%
+趲	ze
+足	tzoq
+趴	pha
+趵	po
+趵	poq	0%
+趺	fu
+趼	ci
+趾	tzy
+趿	saq
+跂	chi	0%
+跂	dji
+跆	de
+跋	baq
+跌	tiq
+跍	gu
+跎	du
+跏	cia	0%
+跏	ka
+跐	tsy
+跑	bo
+跔	goe
+跖	tzaq
+跗	fu
+跚	se
+跛	pu
+距	djiu
+跟	ken
+跡	ciq
+跣	xi
+跤	cio	0%
+跤	ko
+跨	khau
+跪	djiu	0%
+跪	gue
+跬	khue
+路	lu
+跳	do	0%
+跳	thio
+跶	daq
+跶	thaq	0%
+跺	tu
+跼	djioq
+跽	dji
+踅	jiq
+踉	lian
+踏	daq
+踐	ji
+踔	tso
+踝	wa
+踞	ciu
+踟	zy
+踡	djieu
+踢	thiq
+踣	boq
+踩	tse
+踮	ti
+踱	doq
+踴	ion
+踵	tzon
+踶	di
+踹	zeu
+踺	dji
+踼	dan
+踼	than	0%
+踽	ciu
+蹀	diq
+蹁	bi
+蹂	zoe
+蹄	di
+蹅	tsau
+蹇	ci
+蹈	do
+蹉	tsu
+蹊	chi
+蹊	yi	0%
+蹋	thaq
+蹌	chian
+蹍	kni
+蹐	ciq
+蹓	lhioe
+蹔	ze
+蹕	piq
+蹗	loq
+蹙	tzoq
+蹜	soq
+蹟	ciq
+蹠	tzaq
+蹢	tiq
+蹣	beu
+蹤	tzon
+蹦	pan
+蹨	kni
+蹩	biq
+蹬	den	0%
+蹬	ten
+蹭	tsen
+蹯	ve
+蹱	tson
+蹲	ten
+蹲	tsen	0%
+蹴	tsoq
+蹶	ciuq
+蹺	chio
+蹼	phoq
+蹽	lho
+蹾	ten
+躁	tzo
+躂	taq
+躅	zoq
+躇	zy
+躉	ten
+躊	zoe
+躋	ci
+躍	yaq
+躐	liq
+躑	zeq
+躒	liq	0%
+躒	loq
+躓	tzy
+躔	zeu
+躕	zy
+躚	xi
+躞	xiq
+躡	gniq
+躥	tseu
+躦	tzeu
+躪	lin
+身	sen
+躬	kon
+躲	tu
+躺	than
+躽	i
+軀	chiu
+車	ciu	0%
+車	tsau
+軋	gaq
+軋	tzaq	0%
+軌	kue
+軍	ciun
+軑	da
+軒	xi
+軔	zen
+軛	ngeq
+軟	gnieu
+軤	hu
+軫	tzen
+軰	pe
+軲	ku
+軸	djioq
+軹	tzy
+軺	yo
+軻	khu
+軼	yiq
+軾	seq
+較	cio
+輅	lu
+輇	ji
+輈	tzoe
+載	tze
+輊	tzy
+輒	tzeq
+輓	ue
+輔	fu	0%
+輔	vu
+輕	chin
+輛	lian
+輜	tzy
+輝	hue
+輞	man
+輟	tseq
+輥	kuen
+輦	gni
+輩	pe
+輪	len
+輬	lian
+輭	gnieu
+輯	chiq
+輸	sy
+輻	foq
+輼	uen
+輾	gni	0%
+輾	tzeu
+輿	yu
+轂	koq
+轄	huaq	0%
+轄	raq	0%
+轄	yaq
+轅	yeu
+轆	loq
+轉	tzeu
+轍	zeq
+轎	djio
+轔	lin
+轟	hon
+轡	phe
+轢	liq
+轤	lu
+辏	tsoe
+辛	xin
+辜	ku
+辟	piq
+辣	laq
+辤	zy
+辦	be
+辨	bi
+辭	zy
+辮	bi
+辯	bi
+辰	zen
+辱	zoq
+農	non
+迂	iu
+迄	chiq
+迅	xin
+迎	gnin
+近	djin
+迓	ia
+返	fe
+迕	ng
+迕	wu	0%
+迢	dio
+迤	yi
+迥	yon
+迦	cia	0%
+迦	ka
+迨	de
+迪	diq
+迫	paq	0%
+迫	phaq
+迭	deq	0%
+迭	diq
+迮	tzaq
+述	zeq
+迴	we
+迷	mi
+迸	pan
+追	te	0%
+追	tzeu
+退	the
+送	son
+逃	do
+逄	ban
+逅	roe
+逆	gniq
+逋	pu
+逍	xio
+透	thoe
+逐	zoq
+逑	djioe
+途	du
+逖	thiq
+逗	doe
+這	tzeq
+通	thon
+逛	guan
+逝	zy
+逞	tsen
+速	soq
+造	zo
+逡	chin
+逢	von
+連	li
+逦	li
+逭	weu
+逮	de
+逯	loq
+週	tzoe
+進	cin
+逵	gue
+逶	ue
+逸	yiq
+逼	piq
+逾	yu
+遁	den
+遂	zeu
+遄	zeu
+遇	gniu
+遊	yoe
+運	yun
+遍	pi
+過	ku
+遏	eq
+遐	ya
+遑	wan
+遒	jioe
+道	do
+達	daq
+違	we
+遘	koe
+遙	yo
+遛	lhioe
+遛	lioe	0%
+遜	sen
+遞	di
+遠	yeu
+遢	thaq
+遣	chi
+遨	ngo
+適	seq
+遭	tzo
+遮	tzau
+遲	zy
+遴	lin
+遵	tzen
+遷	chi
+選	xi
+遺	we	0%
+遺	yi
+遼	lio
+遽	djiu
+避	bi
+邀	io
+邁	ma	0%
+邁	me
+邂	ya
+邃	seu
+還	re	0%
+還	we
+邇	el
+邈	mio
+邈	moq	0%
+邊	pi
+邋	laq
+邏	lu
+邑	iq
+邕	ion
+邗	reu
+邙	man
+邛	djion
+邡	fan
+邢	yin
+那	nha
+邦	pan
+邨	tsen
+邪	jia
+邪	ya	0%
+邯	reu
+邰	the
+邱	chioe
+邳	phi
+邴	pin
+邵	zo
+邶	be
+邸	ti
+邽	kue
+邾	tzy
+郁	ioq
+郄	chiq
+郅	tzeq
+郇	we
+郇	xin	0%
+郈	roe
+郊	cio
+郎	lan
+郗	xi
+郚	ngu
+郛	fu
+郜	ko
+郝	heq
+郝	ho	0%
+郟	kaq
+郡	djiun
+郢	yin
+部	bu
+郫	bi
+郭	koq
+郯	de
+郴	tsen
+郵	yoe
+都	tu
+郾	i
+郿	me
+鄂	ngoq
+鄄	cieu
+鄆	yun
+鄉	xian
+鄌	dan
+鄒	tzoe
+鄔	u
+鄖	yun
+鄘	yon
+鄙	pi
+鄞	gnin
+鄢	i
+鄣	tzan
+鄧	den
+鄭	zen
+鄯	zeu
+鄰	lin
+鄱	bu
+鄲	te
+鄴	gniq
+鄶	kue
+鄹	tzoe
+鄺	kuan
+酃	lin
+酆	fon
+酈	liq
+酉	yoe
+酊	tin
+酋	jioe
+酌	tzaq
+配	phe
+酎	zoe
+酐	han	0%
+酐	keu
+酒	cioe
+酗	xiu
+酚	fen
+酞	tha
+酡	du
+酢	zoq
+酣	heu
+酤	ku
+酥	su
+酩	min
+酪	loq
+酬	zoe
+酮	don
+酯	tzy
+酰	xi
+酲	zen
+酴	du
+酵	cio	0%
+酵	ko
+酶	me
+酷	khoq
+酸	seu
+酹	le
+醃	i
+醅	phe
+醇	zen
+醉	tzeu
+醋	tsu
+醌	khuen
+醍	di
+醍	thi	0%
+醐	wu
+醑	xiu
+醒	xin
+醚	mi
+醛	chi
+醜	tsoe
+醞	iun
+醢	he
+醪	lo
+醫	i
+醬	cian
+醭	phoq
+醮	cio
+醯	xi
+醱	faq	0%
+醱	pheq
+醲	gnion
+醴	li
+醵	djiu
+醺	xiun
+醼	i
+醾	mi
+釀	gnian
+釁	xin
+釃	sa	0%
+釃	sy
+釅	gni
+釆	bi
+釉	yoe
+釋	seq
+里	li
+重	zon
+野	ya
+量	lian
+釐	li
+金	cin
+釓	gaq
+釔	iq
+釕	lio
+釗	tzo
+釘	tin
+釙	phoq
+釜	vu
+針	tzen
+釣	tio
+釤	se
+釦	khoe
+釧	tseu
+釩	ve
+釵	tsa	0%
+釵	tsau
+釷	thu
+釹	gniu
+釺	chi
+鈀	pa
+鈀	pha	0%
+鈁	fan
+鈃	yin
+鈄	doe
+鈈	peq
+鈉	naq
+鈍	den
+鈐	dji
+鈑	pe
+鈔	tso
+鈕	gnioe
+鈞	ciun
+鈣	ke
+鈥	hu
+鈦	tha
+鈧	khan
+鈮	gni
+鈰	zy
+鈴	lin
+鈵	pin
+鈷	ku
+鈷	wu	0%
+鈸	beq
+鈹	bi
+鈹	phi	0%
+鈺	gnioq
+鈾	yoe
+鈿	di
+鉀	ciaq
+鉈	du	0%
+鉈	tha
+鉉	yeu
+鉋	bo
+鉍	piq
+鉑	boq
+鉕	phu
+鉗	dji
+鉚	mo
+鉛	khe
+鉛	yi	0%
+鉞	yuq
+鉤	koe
+鉦	tzen
+鉬	moq
+鉭	the
+鉸	cio	0%
+鉸	ko
+鉺	el
+鉻	kaq
+鉻	loq	0%
+鉿	ha
+銀	gnin
+銃	tson
+銅	don
+銍	tzeq
+銎	chion
+銑	xi
+銓	chi
+銖	zy
+銘	min
+銚	dio	0%
+銚	tio
+銚	yo	0%
+銜	nge
+銜	re	0%
+銠	lho
+銣	zy
+銥	i
+銦	in
+銨	eu
+銩	tioe
+銫	seq
+銬	kho
+銱	tio
+銳	zeu
+銷	xio
+銻	thi
+銼	tsu
+鋁	liu
+鋃	lan
+鋅	xin
+鋆	yun
+鋇	pe
+鋈	oq
+鋌	din
+鋏	kaq
+鋒	fon
+鋙	gniu
+鋝	liq
+鋟	chin
+鋣	ya
+鋤	zy
+鋥	zan
+鋦	cioq
+鋨	ngu
+鋪	phu
+鋬	phe
+鋭	zeu
+鋯	ko
+鋰	li
+鋱	theq
+鋸	ciu
+鋸	ga	0%
+鋼	kan
+錁	khu
+錄	loq
+錆	chian
+錇	be
+錈	djieu
+錐	tzeu
+錒	a
+錕	khuen
+錘	zeu
+錙	tzy
+錚	tzan	0%
+錚	tzen
+錛	pen
+錟	de
+錠	din
+錡	dji
+錢	ji
+錦	cin
+錨	mo
+錫	xiq
+錮	ku
+錯	tsu
+錳	man
+錶	pio
+錸	le
+鍀	teq
+鍁	xi
+鍃	hueq
+鍆	men
+鍇	khe
+鍊	li
+鍋	ku
+鍍	du
+鍔	ngoq
+鍘	zaq
+鍛	teu
+鍠	wan
+鍤	tsaq
+鍥	chiq
+鍩	noq
+鍪	moe
+鍬	chio
+鍰	we
+鍵	dji
+鍶	sy
+鍺	tze
+鍼	tzen
+鍾	tzon
+鎂	mhe
+鎄	e
+鎅	ga
+鎇	me
+鎊	pan
+鎏	lioe
+鎖	su
+鎘	keq
+鎘	liq	0%
+鎝	taq
+鎡	tzy
+鎢	u
+鎣	yin
+鎦	lioe
+鎧	khe
+鎩	saq
+鎬	ko
+鎬	ro	0%
+鎮	tzen
+鎯	lan
+鎰	yiq
+鎳	gniq
+鎵	ka
+鎸	ci
+鎿	nhe
+鏃	tzoq
+鏈	li
+鏊	ngo
+鏌	moq
+鏐	lioe
+鏑	tiq
+鏖	o
+鏗	khen
+鏘	chian
+鏜	than
+鏝	meu
+鏞	yon
+鏟	tse
+鏡	cin
+鏢	pio
+鏤	loe
+鏨	ze
+鏰	pen
+鏵	rau
+鏷	boq
+鏹	chian
+鏽	xioe
+鐃	gnio
+鐋	than
+鐐	lio
+鐒	lo
+鐓	de	0%
+鐓	ten
+鐔	jin
+鐘	tzon
+鐙	ten
+鐝	djiuq
+鐠	phu
+鐦	khe
+鐧	ke
+鐨	fi
+鐮	li
+鐲	zoq
+鐳	le
+鐵	thiq
+鐸	doq
+鐺	tan
+鐺	tsan	0%
+鐾	bi
+鐿	i
+鑄	tzy
+鑊	roq
+鑌	pin
+鑑	ci
+鑑	ke
+鑒	ci
+鑒	ke	0%
+鑔	tsaq
+鑕	tzeq
+鑞	laq
+鑠	saq
+鑠	soq	0%
+鑣	pio
+鑤	bo
+鑥	lu
+鑫	xin
+鑭	le
+鑮	poq
+鑰	yaq
+鑱	ze
+鑲	xian
+鑷	gniq
+鑹	tseu
+鑼	lu
+鑽	tzeu
+鑾	leu
+鑿	zoq
+钁	cioq
+钂	than
+铕	ioe
+長	tzan
+長	zan	0%
+門	men
+閂	seu
+閃	seu
+閉	pi
+開	khe
+閌	khan
+閎	ron
+閏	gnin
+閏	zen	0%
+閑	re
+閒	re
+間	ci
+間	ke	0%
+閔	mhin
+閘	zaq
+閛	phan
+閡	req
+閣	koq
+閤	req
+閥	vaq
+閨	kue
+閩	min
+閫	khuen
+閬	lan
+閭	liu
+閱	yuq
+閶	tsan
+閹	i
+閻	gni
+閼	i
+閽	huen
+閾	yoq
+閿	ven
+闃	chiuq
+闄	io
+闆	pe
+闇	eu
+闈	we
+闊	khueq
+闋	chiuq
+闌	le
+闍	tu
+闐	di
+闒	daq
+闓	khe
+闔	req
+闕	chiuq
+闕	djiuq	0%
+闖	tsan
+關	kue
+闞	kheu
+闡	tseu
+闢	phiq
+闥	daq
+阜	vu
+阡	chi
+阢	ngeq
+阪	pe
+阮	gnieu
+阱	cin
+防	ban	0%
+防	van
+阻	tzu
+阼	zu
+阽	ti
+阿	a
+阿	aq	0%
+阿	u	0%
+陀	du
+陂	bi
+陂	phu	0%
+陂	pi	0%
+附	vu
+陋	loe
+陌	maq
+降	cian	0%
+降	kan
+降	ran	0%
+限	re
+陔	ke
+陘	yin
+陛	bi
+陝	seu
+陞	sen
+陟	tzeq
+陡	toe
+院	yeu
+陣	zen
+除	zy
+陧	gniq
+陪	be
+陬	tzoe
+陰	in
+陲	zeu
+陳	zen
+陴	bi
+陵	lin
+陶	do
+陶	yo	0%
+陷	re
+陷	yi	0%
+陸	loq
+陽	yan
+隅	gniu
+隆	lon
+隈	ue
+隊	de
+隋	zeu
+隍	wan
+階	cia
+階	ka	0%
+隑	ge
+隔	kaq
+隕	yun
+隗	we
+隘	e
+隙	xiq
+際	ci
+障	tzan
+隧	zeu
+隨	zeu
+險	xi
+隰	jiq
+隱	in
+隳	hue
+隴	lon
+隶	de
+隸	di
+隸	li	0%
+隹	tzeu
+隻	tzaq
+隼	sen
+隽	cin	0%
+雀	chiaq
+雀	ciaq	0%
+雁	i
+雁	nge	0%
+雄	yon
+雅	ia
+集	jiq
+雇	ku
+雉	zy
+雋	ji
+雌	tsy
+雍	ion
+雎	ciu
+雒	loq
+雕	tio
+雖	seu
+雙	san
+雛	zy
+雜	zaq
+雞	ci
+離	li
+難	ne
+雨	yu
+雩	yu
+雪	xiq
+雯	ven
+雲	yun
+零	lin
+雷	le
+雹	bo
+電	di
+需	xiu
+霄	xio
+霆	din
+震	tzen
+霈	phe
+霉	me
+霍	hoq
+霎	saq
+霏	fi
+霑	tzeu
+霓	gni
+霖	lin
+霜	san
+霞	ia	0%
+霞	ya
+霧	vu
+霪	yin
+霰	xi
+露	lu
+霸	pau
+霹	phiq
+霽	ci
+霾	ma	0%
+霾	me
+靂	liq
+靄	e
+靈	lin
+靉	e
+靉	i	0%
+青	chin
+靖	jin
+靚	jin	0%
+靚	lian
+靛	di
+靜	jin
+非	fi
+靠	kho
+靡	mi
+面	mi
+靨	iq
+革	chi	0%
+革	keq
+靰	u
+靳	cin
+靴	xieu
+靶	pau
+靸	saq
+靺	meq
+靼	taq
+靽	peu
+靿	io
+靿	o	0%
+鞁	bi
+鞅	ian
+鞋	ra
+鞍	eu
+鞏	kon
+鞔	meu
+鞘	so	0%
+鞘	xio
+鞝	zan
+鞠	cioq
+鞡	lha
+鞣	zoe
+鞦	chioe
+鞧	chioe
+鞨	req
+鞫	cioq
+鞭	pi
+鞲	koe
+鞴	bi
+鞽	chio
+韁	cian
+韂	tseu
+韃	daq
+韆	chi
+韉	ci
+韋	we
+韌	gnin
+韌	zen	0%
+韍	feq
+韓	reu
+韙	we
+韜	tho
+韞	iun
+韭	cioe
+音	in
+韶	zo
+韻	yun
+響	xian
+頁	yiq
+頂	tin
+頃	chin
+頃	khe	0%
+項	ran
+順	zen
+頇	heu
+須	xiu
+頊	xioq
+頌	zon
+頎	dji
+頏	ran
+預	yu
+頑	me	0%
+頑	weu
+頒	pe
+頓	ten
+頓	teq	0%
+頗	phu
+領	lin
+頜	keq	0%
+頜	req
+頡	ciaq
+頡	kaq	0%
+頡	yiq	0%
+頤	yi
+頦	re
+頭	doe
+頰	ciaq	0%
+頰	kaq
+頲	thin
+頷	reu
+頸	cin
+頸	ken	0%
+頹	de
+頻	bin
+顆	khu
+題	di
+額	ngaq
+顎	ngoq
+顏	nge
+顑	he
+顒	gnion
+顓	tzeu
+願	gnieu
+顙	san
+顛	ti
+類	le
+顢	meu
+顥	ro
+顧	ku
+顫	tseu
+顫	tzeu	0%
+顬	zy
+顯	xi
+顰	bin
+顱	lu
+顳	gniq
+顴	djieu
+風	fon
+颬	ha
+颭	tzeu
+颮	pio
+颯	saq
+颱	de
+颳	kuaq
+颶	djiu
+颸	sy
+颼	soe
+飀	lioe
+飄	phio
+飆	pio
+飛	fi
+食	yi	0%
+食	zeq
+食	zy	0%
+飢	ci
+飧	sen
+飩	den
+飪	gnin	0%
+飪	zen
+飫	iu
+飭	tseq
+飮	in
+飯	ve
+飲	in
+飴	yi
+飼	zy
+飽	po
+飾	seq
+飿	teq
+餃	cio
+餄	kaq
+餅	pin
+餉	xian
+養	yan
+餌	el
+餎	kaq
+餐	tseu
+餑	beq
+餒	ne
+餓	ngu
+餘	yu
+餚	yo
+餛	wen
+餜	ku
+餞	ji
+餠	pin
+餡	re
+餡	yi	0%
+館	kueu
+餩	ge
+餮	thiq
+餳	jin
+餵	iu
+餶	kueq
+餷	tsau
+餼	xi
+餾	lioe
+餿	soe
+饁	yiq
+饃	mu
+饅	meu
+饈	xioe
+饉	djin
+饊	se
+饋	gue
+饌	zeu
+饑	ci
+饒	gnio
+饔	ion
+饕	tho
+饗	xian
+饜	i
+饞	ze
+饢	nan
+饻	xi
+首	soe
+馗	djiu	0%
+馗	gue
+馘	kuaq
+香	xian
+馥	foq
+馨	xin
+馬	ma	0%
+馬	mau
+馭	gniu
+馮	bin	0%
+馮	von
+馱	du
+馳	zy
+馴	jin
+駁	poq
+駐	tzy
+駑	nu
+駒	ciu
+駔	tzan
+駕	cia	0%
+駕	ka
+駘	de
+駙	vu
+駛	sy
+駝	du
+駟	sy
+駢	bi
+駭	re
+駱	loq
+駸	chin
+駿	cin
+騁	tsen
+騂	xin
+騅	tzeu
+騈	bi
+騍	khu
+騎	dji
+騏	dji
+騖	vu
+騙	phi
+騤	gue
+騫	chi
+騭	ciq
+騭	tzeq	0%
+騮	lioe
+騰	den
+騶	tzoe
+騷	so
+騸	seu
+騾	lu
+驀	maq
+驁	ngo
+驂	tseu
+驃	phio	0%
+驃	pio
+驄	tson
+驅	chiu
+驊	rau
+驍	xio
+驏	ze
+驐	ten
+驕	cio
+驗	gni
+驚	cin
+驛	yiq
+驟	zoe
+驢	liu
+驤	xian
+驥	ci
+驪	li
+骊	li
+骨	kueq
+骯	an
+骰	doe
+骱	ga
+骶	ti
+骷	khu
+骸	re
+骹	go
+骺	roe
+骼	kaq
+骾	kan
+髀	bi
+髁	khu
+髂	chia
+髈	pan	0%
+髈	phan
+髏	loe
+髑	doq
+髒	tzan
+髓	xi	0%
+髓	zeu
+體	thi
+髕	bin
+髖	khueu
+高	ko
+髡	khuen
+髦	mo
+髫	dio
+髭	tzy
+髮	faq
+髯	zeu
+髹	xioe
+髻	ciq
+鬃	tzon
+鬆	son
+鬈	djieu
+鬍	wu
+鬏	cioe
+鬚	su	0%
+鬚	xiu
+鬟	gue
+鬢	pin
+鬣	leq
+鬥	toe
+鬧	no
+鬨	hon
+鬩	xiq
+鬮	cioe
+鬯	tsan
+鬱	iuq
+鬲	keq
+鬹	kue
+鬻	yoq
+鬼	ciu	0%
+鬼	kue
+魁	khue
+魂	wen
+魃	baq
+魄	boq	0%
+魄	phaq
+魄	thoq	0%
+魅	mi
+魆	xiu
+魈	xio
+魍	man
+魎	lian
+魏	we
+魑	tsy
+魔	mu
+魘	i
+魚	ng
+魚	yu	0%
+魛	to
+魢	ci
+魨	den
+魯	lu
+魴	van
+魷	yoe
+鮁	baq
+鮃	bin
+鮊	baq
+鮋	yoe
+鮍	bi
+鮍	phi	0%
+鮎	gni
+鮐	the
+鮑	bo
+鮒	vu
+鮓	tzau
+鮪	we
+鮫	ko
+鮭	kue
+鮮	xi
+鮶	ciun
+鯀	kuen
+鯁	kan
+鯇	weu
+鯉	li
+鯊	sau
+鯒	yon
+鯔	tzy
+鯕	dji
+鯖	chin
+鯗	xian
+鯛	tio
+鯝	ku
+鯡	fi
+鯢	gni
+鯤	khuen
+鯧	tsan
+鯨	djin
+鯪	lin
+鯫	zoe
+鯴	seq
+鯷	di
+鯽	ci
+鯿	pi
+鰁	ji
+鰃	ue
+鰈	diq
+鰉	wan
+鰍	chioe
+鰏	piq
+鰒	voq
+鰓	se
+鰛	uen
+鰟	ban
+鰣	zy
+鰥	kue
+鰨	thaq
+鰩	yo
+鰭	dji
+鰱	li
+鰲	ngo
+鰳	leq
+鰵	min
+鰷	dio
+鰹	ci
+鰺	sen
+鰻	meu
+鰾	bio
+鱂	cian
+鱅	yon
+鱈	xiq
+鱉	piq
+鱒	zen
+鱔	zeu
+鱖	ciuq	0%
+鱖	kue
+鱗	lin
+鱘	jin
+鱚	xi
+鱝	ven
+鱟	hoe
+鱠	kue
+鱤	keu
+鱧	li
+鱭	ji
+鱷	ngoq
+鱸	lu
+鱺	li
+鲃	pa
+鳚	ue
+鳤	kueu
+鳥	knio
+鳥	tio	0%
+鳧	bu
+鳩	cioe
+鳲	sy
+鳳	von
+鳴	min
+鳶	yeu
+鴆	zen
+鴇	po
+鴉	au	0%
+鴉	ia
+鴒	lin
+鴕	du
+鴛	ieu
+鴝	djiu
+鴞	yo
+鴟	tsy
+鴣	ku
+鴦	ian
+鴨	aq
+鴯	el
+鴰	kuaq
+鴴	ran
+鴻	ron
+鴿	keq
+鵂	xioe
+鵃	tio
+鵃	tzoe	0%
+鵐	vu
+鵑	cieu
+鵒	yoq
+鵓	beq
+鵜	di
+鵝	ngu
+鵠	koq	0%
+鵠	ngoq	0%
+鵠	roq
+鵡	vu
+鵪	eu
+鵬	ban
+鵮	khe
+鵯	pi
+鵰	tio
+鵲	chiaq
+鶇	ton
+鶉	zen
+鶓	mio
+鶘	wu
+鶚	ngoq
+鶥	me	0%
+鶥	mi
+鶩	vu
+鶯	in
+鶲	on
+鶴	ngoq
+鶹	lioe
+鶺	ciq
+鶻	kueq
+鶻	weq	0%
+鶼	ci
+鷀	zy
+鷂	yo
+鷊	gniq
+鷓	tzau
+鷗	oe
+鷙	tzy
+鷚	lioe
+鷥	sy
+鷦	cio
+鷮	cio
+鷯	lio
+鷲	jioe
+鷳	re	0%
+鷳	yi
+鷸	yuq
+鷹	in
+鷺	lu
+鸌	wu
+鸏	mon
+鸕	lu
+鸚	an	0%
+鸚	in
+鸛	keu
+鸝	li
+鸞	leu
+鹮	we
+鹵	lu
+鹹	re
+鹼	ke
+鹽	yi
+鹿	loq
+麁	tsu
+麂	ci
+麇	ciun
+麈	tzy
+麋	mi
+麒	dji
+麓	loq
+麗	li
+麝	zau
+麟	lin
+麥	maq
+麩	fu
+麯	chioq
+麵	mi
+麻	mau
+麼	meq
+麽	mu
+麾	hue
+黃	wan
+黇	thi
+黌	wan
+黍	sy
+黎	li
+黏	gni
+黑	heq
+黔	dji
+黕	khen
+默	meq
+黛	de
+黜	tseq
+黝	ioe
+點	ti
+黟	i
+黠	raq
+黠	yaq	0%
+黢	tseq
+黥	djin
+黧	li
+黨	tan
+黯	eu
+黰	tzen
+黴	me
+黷	doq
+黹	tzy
+黻	feq
+黼	fu
+黾	man
+黾	mi	0%
+黾	min	0%
+黿	gnieu
+鼉	du
+鼎	tin
+鼐	ne
+鼒	tzy
+鼓	ku
+鼕	ton
+鼗	do
+鼙	bi
+鼠	tsy
+鼢	ven
+鼩	djiu
+鼫	zaq
+鼬	yoe
+鼯	ngu
+鼱	cin
+鼷	yi
+鼹	i
+鼻	biq
+鼾	heu
+齁	hoe
+齆	on
+齈	non
+齉	nan
+齊	ci	0%
+齊	ji
+齊	tza	0%
+齊	tzy	0%
+齋	tza
+齏	ci
+齒	tsy
+齔	tsen
+齕	chiq
+齙	bo
+齜	tzy
+齟	jiu
+齠	dio
+齡	lin
+齣	tseq
+齦	gnin
+齦	khen	0%
+齧	gniq
+齩	ngo
+齪	tsoq
+齬	gniu
+齲	chiu
+齶	ngoq
+齷	oq
+齾	ngaq
+龍	lon
+龐	ban
+龔	cion
+龕	kheu
+龜	chioe	0%
+龜	ciu	0%
+龜	ciun	0%
+龜	kue
+龠	yaq
+射屙	zau
+阿屈死	aq chiuq xi
+挨肩擦背	a ci tsaq pe
+阿舅	a djioe
+阿舅	aq djioe
+掗求苦腦
+鴨頭綠
+櫻桃嘴	an do tzy
+櫻桃	an do
+鸚哥	an ku
+阿娘
+盎裏盎三
+阿拉個	aq laq req
+阿拉勿來	aq laq veq le
+掗拉勿出
+搲龍船
+阿貓阿狗	aq mho aq koe
+阿木靈	aq moq lin
+盎三
+矮北落托
+矮不倫敦
+阿婆	aq bu
+阿婆	a bu
+阿弟	aq di
+押頭
+阿飛	aq fi
+阿戇	aq gan
+阿公	aq kon
+阿哥	aq ku
+阿拉	aq laq
+阿妹	aq me
+壓末
+阿奶	aq na
+阿囡	aq nheu
+鴨膀
+阿爸	aq paq
+阿嫂	aq so
+阿姐	aq cia
+阿姨	aq yi
+阿姨	a yi
+阿侄	aq zeq
+壓歲鈿
+掗死空	au xi khon
+鴨屎臭
+丫叉頭	au tsau doe
+掗杈頭
+阿爹拉娘	aq tia lha gnian
+阿土生	aq thu san
+搲稻
+搲空
+椏杈
+丫叉	au tsau
+啞嘴
+堊壅
+挨勿	a veq
+壓勿殺
+阿鬍子	aq wu tzy
+阿姨婆婆
+壓場子
+牌鬼	ba ciu
+牌頭
+蟛蜞
+碰着
+排卵	ba lu
+棒頭
+膀胱	ban kuan
+白蝨
+白護居
+平彭三響
+排排座
+蹩腳貨
+排頭排腳
+拌淘氣
+被頭筒	bi doe don
+鼻頭洞
+別地方
+爬檯擱腳
+孵頭芽	bu doe nga
+牌頭硬
+皮大王
+背暗	be eu
+坌地
+体夫
+盆菜
+葡萄	beq do
+葡萄	bu do
+孛相
+孛薺
+扒兒手
+背書	be sy
+盤鈿
+伴嫁
+被風洞	bi fon don
+別人家	biq gnin ka
+跑一埭
+被頭	bi doe
+擗筋
+蹩腰
+別個	biq req
+別墶
+鼻屙
+鼻污
+被單	bi te
+疲塌
+疲脫
+鐾脫
+肥皂	bi zo
+辦家家	be ka ka
+蚌殼棉鞋
+白瓜子
+碰哭精
+勃倫頭
+皮老虎
+白梨瓜
+白米花
+排門板
+碰額骨頭
+白眼睛
+抱裙
+塳塵
+蒲包爿
+旁邊頭
+寶貝囝
+寶貝心乾
+爬死爬活	bau xi bau weq
+白相人
+白相乾
+白相相
+白相心
+排三和土
+蹩進蹩出
+白劗雞
+盤出去
+別墶裏
+鼻涕水
+辮子梢
+皮拆天
+碰得點啥
+鼻涕蟲
+鼻污乾
+孵小雞	bu xio ci
+伏小雞	bu xio ci
+碰勿碰
+病房間	bin van ke
+別勿轉
+辦勿到
+別勿着
+被橫頭	bi wan doe
+朋友道理
+蟠野貓
+白嚼蛆
+白煠蛋
+盤纏銅鈿
+爬牆摸壁
+蟠腸曲節
+腳枒枒
+腳碰腳
+吃牌頭
+吃賠帳
+氣急夯夯
+筋緊拉拉
+吃吃我
+腳丘彎
+牽頭皮
+鬼頭風	ciu doe fon
+交桃花運
+吃定心丸
+吃頭塔
+吃頭腐
+牽風引頭
+家翻宅亂
+牽牛鼻頭
+吃軋頭
+吃耳光	chiq gni kuan
+吃軋帳
+檢驗員
+羌餅
+腔勢
+起九
+牽礱
+撳鈕
+傾空
+撳釘
+蹺腳
+龜兹	chioe zy
+巧果
+契丹	chiq te
+吃價
+吃口
+齕牢
+吃沒
+吃酸
+吃准
+缺蕩
+屈死	chiuq xi
+虧得	chiu teq
+起霧
+起潮
+腳花亂
+吃火車
+腳桶
+腳花
+甲魚	ciaq ng
+腳髈
+腳匾
+腳爪	ciaq tzo
+假如	cia zy
+絹頭
+寄娘
+搛鑷
+金糰
+勁道	cin do
+勁道	djin do
+今朝	cin tzo
+景致
+經用
+叫應
+膠捲	cio cieu
+九件
+句嬰	cioe in
+九個	cioe req
+叫饒
+交關	cio kue
+叫扁
+桔紅	cioq ron
+橘紅	ciuq ron
+桔黃
+教室	cio seq
+教訓	cio xiun
+教材	cio ze
+結棍
+結足
+結蛛
+寄爹
+搛菜
+鬼老	ciu lo
+菌痢
+決斷	ciuq teu
+厥倒
+枸櫞	ciu yeu
+腳高腳低
+叫哥哥
+腳骷骨
+吃官司人
+吃夾檔
+腳盔子
+金光鋥亮
+吃辣火醬
+翹老三
+吃老酒
+金蛉子
+鑒貌辨色
+鬼眉鬼眼	ciu mi ciu nge
+叫名叫姓
+腳饅頭
+吃麻蘭頭
+吃麻栗子
+救命車
+雞毛菜
+雞毛撢帚
+金魚眼
+腳坳坳
+吃屁股
+舉壁架子
+恘癟三
+鬼畫冊	ciu rau tsaq
+吃辛吃苦
+氣死氣活	chi xi chi weq
+金線路
+牽絲扳藤
+吃西北風
+氣傷心
+卷心菜
+勸相打
+吃生活
+腳節頭
+雞爪瘋	ci tzo fon
+腳節甲	ciaq ciq khaq
+腳指甲	ciaq tzy khaq
+起早落夜
+金睛魚
+金鯽魚
+翹嘴巴	chio tzy pau
+鬼觸臂把	ciu tsoq pi pau
+吃酒水
+吃着受用	chiq tzaq zoe yon
+今朝仔	cin tzo tzy
+氣勿過
+吃飯間	chiq ve ke
+吃飯家生	chiq ve ka san
+吃勿牢
+吃勿落
+吃勿消
+吃勿識頭
+吃勿脫
+吃飯辰光
+金胡蟲
+金黃鋥亮
+吃香煙
+吃喜酒
+吃野食
+起陣頭
+金石瓜
+家長裏短	cia zan li teu
+家長裏短	ka zan li teu
+吃壽酒
+家常飯	cia zan ve
+家常飯	ka zan ve
+汏頭
+大阿福	du aq foq
+大絞	da go
+大家	da ka
+堂鑼
+宕帳
+汏手
+大腿	da the
+大腿	du the
+大菜	da tse
+大菜	du tse
+汏浴
+掮牌頭
+窮碰極
+踱方步
+迭牌人
+大被告	da bi ko
+大排骨	du ba kueq
+銅盆帽
+肚皮眼
+肚皮痛
+大白天亮	du baq thi lian
+談朋友
+肚皮射	du bi za
+大腳瘋	du ciaq fon
+獨腳蟹
+大襟衣裳	du cin i zan
+淡潔刮辣
+大腳髈	du ciaq phan
+大圈子	du chieu tzy
+頭頸套
+填肚皮
+大肚皮	du du bi
+地頭腳跟
+大頭大腦	du doe du no
+鬈頭髮
+銅鈿銀子
+大勤共	du djin gon
+條頭糕
+強頭倔腦
+洞洞眼
+強盜坯
+踱頭把戲
+喬奇紗
+踡頭縮頸
+頭頭轉
+大舅子	du djioe tzy
+停停歇歇
+田頭宅基
+大大前日	du du ji gniq
+臺硬
+臺頭
+痰吼
+蛋肓
+臀疘
+藤榻
+檯板
+奪脫
+特為
+團几
+毈命
+斷脫
+頭髮團
+頭髮簪
+毒日頭	doq gniq doe
+大人道理	du gnin do li
+投人身
+大年三十	du gni se seq
+大年三十	da gni se zeq
+舊年仔
+大年初一	du gni tsu iq
+大年夜	du gni ya
+大好佬
+調花槍
+墊被	di bi
+地氣
+地浪
+地梨
+地栗
+大約摸
+調排
+迭頭
+迭眼
+迭個	diq req
+迭墶
+迪為
+迭歇
+地陽
+茄克衫	djia kheq se
+撟軋
+窮禍
+極酷
+揵手
+極殼皮
+大家大當	du ka du tan
+大姑娘	du ku gnian
+藤靠椅
+藤交椅
+盪口杯
+盜隔山
+獨乾子
+極裏極呴
+地力糕
+田螺眼
+抬老三
+斷六親
+調龍燈
+肚裏痛
+肚裏射	du li za
+趤馬路
+淘米籮
+大媽媽	du mha mha
+獨門心思
+投五投六
+彈眼落睛
+頭腦子
+彈眼睛
+彈眼烏珠
+道伴
+頭腡
+頭大	doe du
+頭浪
+投命
+頭塔
+頭挑
+頭渾
+洞眼
+銅鈿
+洞疘
+動問	don men
+銅銚
+桃板
+踱頭
+獨幅
+讀書	doq sy
+獨多
+淘湯
+稻穧
+道是
+大伯伯	du paq paq
+大胖子	du phan tzy
+大餅攤
+踏扁青
+大後日	du roe gniq
+宕下來
+蕩河船
+提心旌
+窮死極想	djion xi djiq xian
+度死日	du xi gniq
+談山海經
+定勝糕
+電線木頭
+豆沙色
+弟新婦
+談舒齊
+彈子盤
+墊刀頭
+調轉頭
+大推大扳	du the du pe
+投七投八
+凸進凸出
+調槍花
+頭珠瞎眼
+亭子間	din tzy ke
+大菜間	da tse ke
+奇出怪樣
+迭墶裏
+頭初裏
+電車路
+大清老早	du chin lo tzo
+盪嘴巴	dan tzy pau
+大嘴巴	du tzy pau
+大推扳	du the pe
+踏穿鑊蓋
+大清早	du chin tzo
+頭頂倒三
+杜做主張
+極出烏拉
+淘漿糊
+大排	du ba
+大骱	du ga
+大年	du gni
+大月	du gniuq
+大月	du yuq
+大米	du mi
+大髈	du phan
+度死	du xi
+大細	du xi
+大汛	du xin
+大水	du sy
+大姐	du cia
+大姐	da ci
+大廚	du zy
+豆腐肩胛
+豆腐花
+豆腐衣
+豆腐漿
+大勿對頭	du veq te doe
+豆腐漿攤
+豆腐飯
+投黃浦
+強兇極惡
+窮興窮下
+檀香橄欖
+迭歇裏
+迭歇辰光
+極形極狀
+獨養兒子	doq yan gni tzy
+汏浴間	da yoq ke
+痰盂罐
+大姨姆媽	du yi mh mha
+騎牆頭
+大舌頭	du zeq doe
+大前日	du ji gniq
+大煠蟹	du zaq ha
+肚腸根
+大潮汛	du zo xin
+疊柴垛	deq za tu
+陶情作樂
+肚腸癢
+闇頭裏
+闇裏摸索
+二郎腿	el lan the
+闇裏向
+哀面
+哀面墶
+哀個	e req
+哀個辰光	e req zen kuan
+安心樂意
+哀墶
+哀點
+哀墶裏
+晏歇
+晏歇點
+晏歇會
+哀歇辰光
+方凳
+發踱
+發呴
+發格
+發瘧子	faq ngoq tzy
+發痴
+粉皮耳朵	fen bi gni tu
+放白鴿
+翻腳底
+風頭哴
+翻脫
+放過門
+法國冬青
+發冷頭
+翻來碌去
+風涼言話	fon lian re rau
+風涼鞋子
+發冷訊
+翻老底
+翻老帳
+翻毛腔
+風報頭
+翻行頭
+發寒熱
+發西風
+放心托膽
+反抄耳光	fe tso gni kuan
+放飯學
+發橫材
+放伊一碼
+放夜學
+風雨雪落
+懈門	ga men
+戇大	gan du
+軋道
+軋牢
+軋叉	gaq tsau
+夾子	gaq tzy
+骱節
+鋸子	ga tzy
+隑牌頭
+牛皮糖
+軋朋友
+泥塳塵
+年紀月生	gni ci gniuq san
+年紀月生	gni ci yuq san
+軟腳蟹
+年腳邊頭
+搞頭勁
+軋稻機
+泥潭潭
+熱大頭昏	gniq du doe huen
+耿頭耿腦	gen doe gen no
+日頭裏	gniq doe li
+年頭浪
+月洞門	gniuq don men
+月洞門	yuq don men
+娘大囡大	gnian du neu du
+牛踏扁
+搞頭勢
+跔頭縮頸
+箇記
+搿記
+箇頭
+搿頭
+搿腰
+箇面
+搿面
+箇能
+搿能
+箇個	geq req
+搿個	geq req
+箇手
+搿手
+箇墶
+搿墶
+箇點
+搿點
+箇歇
+搿歇
+隑身
+解鈕頭	ga gnioe doe
+牛軋糖
+女人家	gniu gnin ka
+軟耳朵	gnieu gni tu
+熱昏顛倒
+搞七搞八
+軋一腳
+年糕糰
+日改日	gniq ke gniq
+摜家摜生	gue ka gue san
+摜家生	gue ka san
+人來風
+肉裏眼
+擱落三姆	goq loq se m
+日裏向	gniq li xian
+軋苗頭
+懈門相	ga men xian
+箇面墶
+搿面墶
+娘姨
+年腳
+軟熟
+罱泥
+耳光	gni kuan
+耳馬	gni mau
+仍舊	gnin djioe
+仍舊	zen djioe
+人家	gnin ka
+人客
+任何	gnin wu
+任何	zen wu
+饒頭
+鈕頭
+牛肚	gnioe tu
+繞軋
+肉段
+肉脯	gnioq phu
+肉莊
+肉漿
+肉癢
+尾巴	gni pau
+尾巴	mi pau
+年把
+日腳	gniq ciaq
+日影	gniq in
+日裏	gniq li
+日短	gniq teu
+日朝	gniq tzo
+日長	gniq zan
+膩心
+泥墩
+耳朵	gni tu
+兒子	gni tzy
+蕊頭	gniu doe
+女家	gniu ka
+月白	gniuq baq
+月白	yuq baq
+月季	gniuq ci
+月季	yuq ci
+月頭	gniuq doe
+月頭	yuq doe
+月洞	gniuq don
+月洞	yuq don
+月大	gniuq du
+月大	yuq du
+月亮	gniuq lian
+月亮	yuq lian
+月曆	gniuq liq
+月曆	yuq liq
+月半	gniuq peu
+月半	yuq peu
+月餅	gniuq pin
+月餅	yuq pin
+月生	gniuq san
+月生	yuq san
+月小	gniuq xio
+月小	yuq xio
+月中	gniuq tzon
+月中	yuq tzon
+月蝕	gniuq zeq
+月蝕	yuq zeq
+箇能介
+搿能介
+軋鬧猛
+軋姘頭
+摜包裹
+尾巴官司	gni pau kueu sy
+尾巴官司	mi pau kueu sy
+元寶籃
+寧波灘黃	gnin poq the wan
+繞山頭
+疑心疑惑
+熱銷貨
+女小囝
+乾爽天氣
+解山河	ga se wu
+日思夜想	gniq sy ya xian
+耳朵圈	gni tu chieu
+耳朵洞	gni tu don
+鑷子鉗
+熱癤頭
+耳朵環	gni tu gue
+繞七繞八
+搞七廿三
+熱天熱色
+年初一
+女當家	gniu tan ka
+牛仔	gnioe tze
+箇墶裏
+搿墶裏
+箇檔碼子
+搿檔碼子
+捏鰨魚
+熱吹潽燙
+年中心
+日中心	gniq tzon xin
+疑准足
+軋車子
+人丹鬍蘇
+日長夜大	gniq tzan ya du
+摜稻
+摜跤
+摜炮
+軋勿攏
+軋勿和
+箇歇裏
+搿歇裏
+箇歇點
+搿歇點
+箇歇歇
+搿歇歇
+箇歇辰光
+搿歇辰光
+年夜腳邊
+年夜頭
+銀洋鈿
+年夜快
+箇辰光
+搿辰光
+日長世久	gniq zan sy cioe
+乾淨天氣
+瞎講
+花袋
+花紅	hau ron
+花痴
+花險
+好白話
+好白相
+好吃吃
+好幾日	ho ci gniq
+好吃飯
+花頭景
+花頭勁
+花頭花腦
+黑碳
+顑腫
+嚇人倒怪
+好好較
+好貨色
+豁虎跳
+花功道地
+黑瓜子
+蟹殼黃
+瞎來來
+花鯉魚
+黑良心
+甩翎子
+好料作
+黑裏俏
+豁眼梢
+豁牙齒
+黑眼烏珠
+好恘
+佝背	hoe pe
+呴勢
+好日	ho gniq
+霍險
+淴浴
+好天
+亨八冷打
+好手腳
+蟹手蟹腳
+好商好量
+好說好話
+狠三狠四
+好生意經
+花生米	hau sen mi
+火燒木頭
+瞎三話四
+好算算
+葷小菜
+花嘴花臉
+歪垛裏
+灰拓拓
+瞎七搭八
+瞎子擋秤
+火赤焰焰
+豁腳
+豁豁
+甩乾
+豁牙
+豁邊
+豁鑊
+甩水
+昏塗
+瞎唩搞
+火夾	hu gaq
+火着
+瞎和調
+花癢欠欠
+好爺好娘
+淴浴間	hoq yoq ke
+呵癢嬉嬉	hau yan xi xi
+海蜇皮子
+海蜇頭
+一盆漿糊
+一記頭
+懨氣
+一腳一手
+要緊關子
+一腳落手
+一句言話	iq ciu re rau
+一腳去
+要緊勿煞
+一頭一腦
+陰頭裏
+咿頭
+一期歲
+因頭勿起
+幺二角甪
+一日到夜	iq gniq to ya
+一家頭	iq ka doe
+陰溝洞
+一家一當	iq ka iq tan
+一刮兩響
+一家門	iq ka men
+一乾子
+一刻勿停
+一路貨
+一路浪
+陰涼天氣
+煙冷清清
+咿面
+因頭
+印糕
+一眼眼
+陰世
+陰刁
+因為
+要嚜
+甬劇
+要乃
+一包氣
+一票貨色
+一把紮
+一日	iq gniq
+一個	iq req
+一搭
+一歇
+咿個	i req
+一個人	iq req gnin
+淹殺
+陰司鬼	in sy ciu
+一手一腳
+一式一樣
+陰司刮搭
+陰勢天
+影息無蹤
+一聲勿響
+咿墶
+腰子病
+鷹爪鼻頭	in tzo biq doe
+一搭一檔
+一點一劃
+一搨括子
+咿墶裏
+煙斗
+胭脂紅	i tzy ron
+一天世界
+煙紙店
+一帖藥
+一進宅
+一沰涎唾	iq toq ze thu
+冤枉鬼叫	ieu uan ciu cio
+意勿過
+咿歇
+咿歇裏
+一歇勿停
+一歇歇
+咿歇辰光
+陰陽頭
+陰陽面
+要樣嘸樣
+一樣生
+一時頭哴
+要長要短	io zan io teu
+耕田	kan di
+更飯	kan ve
+家坊	ka fan
+解剛	ka kan
+講張
+夾裏
+夾弄
+格嚜
+隔奶
+家生	ka san
+公阿爹	kon aq tia
+家當	ka tan
+階沿	ka yi
+庎廚
+刮皮鬼	kuaq bi ciu
+講白相
+看白戲
+講斤頭
+褲腳管
+泔腳缸
+看腳路
+泔腳缽頭
+寬緊帶
+空銅鈿
+客堂間	khaq dan ke
+課堂間	khu dan ke
+箍頭官腳
+夾頭夾腦
+骨頭骨腦
+光頭裏
+扭頭齾頸
+開頭砲
+跨頭勢
+開頭刀
+扭頭厾頸
+箍頭紮腳
+瞌頭蟲
+開頭辰光
+尷僵
+改日	ke gniq
+睏晏覺	khuen e ko
+佮夥
+蛤蜢
+割麥
+合腮	keq se
+合算	keq seu
+鴿多
+鴿嘴
+該個	ke req
+該死	ke xi
+睏晏早
+賅刁
+開方子
+過念頭
+怪人頭
+摑耳光	kuaq gni kuan
+夾年夾節
+開年仔
+摳耳朵	khoe gni tu
+隔日會	kaq gniq we
+改日會	ke gniq we
+揩面
+揩布
+揢扣
+掐塊
+揩脫
+鉛皮
+鉛桶
+開間	khe ke
+栲栳	kheq lo
+開尺
+開坼
+開皴
+開洋
+開烊
+敲定	kho din
+佝瞀	khoe moe
+烤麩
+拷浜
+拷邊
+叫化子	ko hau tzy
+開伙倉
+呵叻	khu leq
+睏衣
+睏覺	khuen ko
+睏話
+闊背
+苦腦
+解懨氣	ka i chi
+趕要趕緊
+揩一浦
+過意勿去
+孃孃婆婆
+尷尬頭
+扣揢扣
+看看看
+角角甪甪
+攪家精	ko ka cin
+開口飯
+絞捩棒	ko li ban
+角甪頭
+骷顱頭
+骷郎頭
+光郎頭
+假領頭
+孤老頭子
+窠裏反
+睏落寣
+怪裏怪氣
+骨輪輪圓
+克羅米
+橄欖帽
+看冷眼
+括辣鬆脆
+胳落竹
+孤老太婆
+看老黃曆
+姑母阿姐	ku mhu aq cia
+看毛病
+睏夢頭裏
+葛末好唻
+夾忙夾裏
+敲木魚	kho moq yu
+嫁男人
+孃孃
+捻鑿
+嫁囡兒	ka neu ng
+看顏色
+苦腦子
+摳牙齒
+開眼烏龜	khe nge u ciu
+夠事
+工鈿
+擱樓
+角索
+漷嘴
+覺着	koq zaq
+高陞
+高墩
+告運
+告塮
+睏扁頭
+客邊人
+客邦人
+靠背椅子
+蓋屁股
+敲癟橄欖	kho piq ke le
+敲扁橄欖	kho pi ke le
+更班落班	kan pe loq pe
+狗屄倒糟
+江北戲
+講言話	kan re rau
+開紅燈	khe ron ten
+快手腳
+隔宿氣
+滾繡球
+空心肚裏
+睏失寣
+乖心乾
+教書先生
+隔手帳
+摳心挖膽
+看西洋景
+家主婆	ka tzy bu
+講斥頭
+滾鐵環
+敲竹槓	kho tzoq kan
+假痴假呆
+攪七攪八
+漷湯漷水
+掯支掯支
+唊嘴唊舌
+跟嘴跟舌
+隔槍籬
+更轉落轉	kan tzeu loq tzeu
+睏痴夢懂	khuen tsy mon ton
+烤子魚
+漷嘴巴	koq tzy pau
+哭作臂把
+開天鎖
+刮積瀉
+睏痴脫
+敲釘轉腳	kho tin tzeu ciaq
+哭出烏拉
+胳肢窩	keq tzy
+膏滋藥
+開初辰光
+光足
+乖囝
+光麵
+光生
+光張
+刮皮
+拐子
+拐杖
+會計	kue ci
+滾條
+管帳
+故勒
+過飯
+過房兒子	ku van gni tzy
+關飯學
+怪勿得
+過房爺
+睏勿着
+開胃口
+開荷蘭水
+磕響頭
+假佯頭
+假爺頭
+看野眼
+關夜學
+階沿石	ka yi zaq
+空陣頭
+改前日	ke ji gniq
+棺材戶頭
+開場戲
+癩團
+冷嗝
+廊棚
+鎯頭
+浪向
+垃壗	laq he
+辣火
+垃拉	laq la
+攔牢	laq lo
+垃末	laq meq
+辣柵
+垃圾	laq seq
+垃圾	la xi
+賴學
+賴三
+老阿爹	lo aq tia
+賴柴
+賴伏雞	la bu ci
+肋棚骨
+兩旁邊
+老白蝨
+連皮搭骨
+羅圈腳
+落腳貨
+蹗起來
+老吃老做
+兩氣生
+老鬼失撇	lo ciu seq phiq
+量地皮
+賴極皮
+兩頭爿
+懶惰鬼	le du ciu
+勞動大姐
+亂頭髮
+量大福大	lian du foq du
+爛大塊頭	le du khue doe
+落地開花
+落地雷
+老頭浜
+懶惰坯
+連頭搭腦
+懶鬼	le ciu
+籃頭
+老愛人
+懶料
+楞嘓
+楞嘴
+楞子
+懶扑
+垃該	laq ke
+來三
+雷響
+老虎腳爪	lo hu ciaq tzo
+爛泥菩薩
+老牛屄
+老牛三
+老茄三千
+爛泥墩
+誏聲	lhan san
+冷夯頭
+連花拉花
+辣火醬
+老虎灶
+蘭花節頭
+老虎天窗
+老虎榻車
+兩斤
+兩個	lian req
+兩搭
+練條
+綠蔭蔭
+攔腰隔壁
+連牢
+領笨
+領套
+零拆
+靈清
+流飛
+料作
+立囤
+立垃	liq laq
+粒屑
+裏向
+兩家頭	lian ka doe
+梨膏糖
+漏口風
+鑼鼓家生	lu ku ka san
+冷角甪
+癩蛤霸
+癩疥霸
+老古板氣
+癩蛤霸車
+亮光下
+老古言話	lo ku re rau
+冷開水
+老刮鏟
+癩疥瘡
+礱糠搓繩
+老老頭
+癗癗頭
+冷冷熱熱
+爛料貨
+囉裏囉蘇
+老裏老早
+懶料坯
+囉裏八蘇
+老裏八早
+碌亂三千
+蠟蠟黃
+爛麻皮
+冷門貨
+老門檻
+老門老檻
+落門落檻
+垃陌生頭	laq maq san doe
+老母豬
+兩面黃
+立馬造橋
+撈外快
+鯉魚斑
+老鴨
+老衣
+老交	lo cio
+老鬼	lo ciu
+漏涎	loe ze
+老茄
+牢監
+老黕
+老奎
+弄慫
+老布
+落彈
+六件
+樂開
+絡亂
+落班
+落北
+六個	loq req
+落雪
+落蘇
+落脫
+樂惠
+落鄉
+落樣
+老鴉	lo au
+老槍
+老嗆
+老洋
+老蟲
+喇叭腔
+兩邊頭
+禮拜日	li pa gniq
+爛屁股
+捋把汗
+爛鋪絮	le phu xi
+喇叭箱
+亂話三千
+賴學精
+撈錫箔灰
+連衫裙
+連衫褲
+鄰舍隔壁
+攋手攋腳
+辣手辣腳
+亂說亂話
+老三老四
+垃圾癟三	laq xi piq se
+勒殺吊死	leq saq tio xi
+栗子頸
+練出道
+六節頭
+亂搨一泡
+老七老八
+冷粥面孔
+連襠碼子
+蠟燭包
+龍出水
+老早底
+老底子
+邋遢天氣
+來得正好
+攋帶鬍子
+蘆頭
+爛污泥
+路浪
+露梯
+卵細胞	lu xi po
+冷飯頭
+老戶頭
+爛糊泥
+爛糊麵
+裏向頭
+龍吸水
+老油瓶
+老洋鈿
+老爺貨
+另有一功
+落雨天
+老實頭
+擼順毛
+領市面
+臨時末結
+捋舌八哥
+落場勢
+老十三
+立時三刻
+賴惹天
+臨時佛腳
+猛門
+蠻門	ma men
+買米
+忘記	man ci
+望人	man gnin
+望望	man man
+夢話	man rau
+夢話	mon rau
+望後	man roe
+忙上
+賣相
+麻皮
+麻球
+馬夾
+麻雀	mau ciaq
+麻腐
+賣樣
+門牌號頭
+毛腳女婿
+嘸腳蟹
+咪牽眼	mi chi nge
+忘記心	man ci xin
+霉鬼星	me ciu xin
+馬桶頭
+賣拳頭
+門拳拳
+煤球店
+煤球風爐
+馬桶豁筅
+面顴骨
+馬桶間	mau don ke
+彌陀芥菜
+煤球爐
+木頭木腦
+嘸頭嘸腦
+嘸大嘸小	m du m xio
+嘸頭嘸緒
+毛頭囝
+木屐板
+毛頭霜
+門宕子
+饅頭雲
+霉氣
+霉夫
+晚娘	me gnian
+木而覺之	moq el koq tzy
+梅裏
+謎謎子	me me tzy
+門腔
+門拳
+門煞
+末結
+冒頓	meq teq
+物事	meq zy
+瞞緊
+滿話
+晚爺	me ya
+木人頭戲
+嘸日嘸夜	m gniq m ya
+米韌湯
+買人情
+嘸花頭
+每日	mhe gniq
+姆媽	mh mha
+貓咪	mho mi
+棉花胎
+麻花雨
+面顴
+味道	mi do
+嘸要嘸緊
+明朝	min tzo
+篾蓆
+米紅	mi ron
+門檻高
+滿口言話	meu khoe re rau
+霉乾菜
+面架子
+買關子
+買關節
+門檻精
+嘸介事
+馬鈴浜瓜
+麻荔枝
+摸老底
+麻荔子
+明明較
+嘸沒
+猛門人
+墨墨黑
+嘸沒關係
+嘸沒勒
+密密稝稝
+門面屋
+嘸沒言話	m meq re rau
+明明仔
+門楣清正
+摸魚公
+毛貨
+懵沖
+木嘓
+木太
+木兄
+明擺垃個	min pa laq req
+沒不通風
+賣票員
+面紅堂堂	mi ron dan dan
+嘸啥
+嘸啥幾時
+麻酥糖
+嘸啥關係
+罵山門
+忙手忙腳
+麥粞眼
+嘸啥話頭
+嘸啥啥
+嘸心想
+棉紗線
+米燒粥
+墨晶鏡
+嘸搭頭
+嘸清頭
+滿襠褲
+明打明
+木知木覺	moq tzy moq koq
+嘸千嘸萬
+木拖板
+木拖鞋
+面湯水
+明朝會	min tzo we
+麻煩一記
+麥蝴蝶
+嘸戲唱
+望遠鏡	man yeu cin
+賣野人頭
+望野眼	man ya nge
+賣樣勿煞
+嘸纏頭
+門前頭
+面熟陌生
+面長面短	mi zan mi teu
+麵杖魚
+木材店
+奶娘
+奶塊
+吶亨
+奶臭
+拿手	nau soe
+奶香
+弄白相
+鶴起頭
+昂起頭
+硬吃硬做
+外頭人
+難般
+囡兒	neu ng
+暖熱
+南壗
+男家	neu ka
+牙污
+硬勁
+硬強
+硬頭
+硬繃
+硬襯
+硬張
+硬紮
+硬橫
+牙肉
+齾口
+齾脫
+牙鬚	nga su
+瓦爿
+熬日腳	ngo gniq ciaq
+眼眼
+眼污
+眼堂
+眼潭
+眼火
+眼癢
+男人家	neu gnin ka
+咬口
+五個	ng req
+咬耳朵	ngo gni tu
+忤逆種
+我伲
+我個	ngu req
+魚圓
+眼花綠花
+五顑六腫
+唔奶
+額骨頭
+額骨頭高
+眼界高
+外國紅	nga kueq ron
+難看相
+外路人
+瓦楞花
+魚鱗天
+眼淚出
+瓦老爺
+糯米糰
+呆木大	nge moq du
+呆木頭
+奶末頭
+外碼頭
+乃末好勒
+外面光
+眼眉毛
+糯米心腸
+眼門前
+啱啱較
+奶奶頭
+男囝頭
+硬硬頭皮
+哪能話頭
+囡兒小姐	neu ng xio cia
+鬧猛
+弄火
+儂個	non req
+儂早
+眼泡皮
+魚片乾
+呆北落厾
+硬掽硬
+呆板數
+外八字
+內八字
+外行搭煞
+礙手腳
+眼仙人
+男小囝
+外甥囡	nga san neu
+奶嬸嬸
+男小惠
+外底頭
+硬出頭
+男當家	neu tan ka
+硬節骨答
+呆脫了	nge theq lheq
+硬裝榫頭
+外拆生意
+硬作主張
+五斗廚
+眼烏珠
+熬勿牢
+熬勿得
+奶油小生
+挨辰光	nga zen kuan
+能長能大	nen zan nen du
+乃朝後
+乃朝後起
+乃朝後頭
+齆鼻頭
+奧竅
+凹撟
+奧撟
+傴腰曲背	oe io chioq pe
+懊憦
+凹門痛
+瞈臭
+坳坳
+坳坳塘塘
+惡揢
+惡掐
+噁形
+拗手勁	o soe cin
+噢聲能	o san nen
+拗手	o soe
+惡死做	oq xi tzu
+凹檔
+瞈凍氣
+齷齪八臘
+噁形噁狀
+浜瓜
+浜灘
+迸坼
+拜望	pa man
+百腳
+八件
+八個	paq req
+柏子
+百頁
+巴結	pau ciq
+巴結	pa ciq
+壩頭
+把家	pau ka
+巴望	pau man
+把細
+扁蒲臉
+半爿天
+攀朋搭友
+派頭一六
+擺渡口
+報頭浪
+掽檯落凳
+包頭布
+畢鈿生絲	piq di sen sy
+掽檯子
+板魚
+板定
+扳頭
+本鈿
+缽頭
+撥我
+撥儂
+撥伊
+板數
+板脫
+半日	peu gniq
+板是
+半發郎當
+批分數
+半日天	peu gniq thi
+掽僵
+掽杯
+掽頂
+閛上
+扳談	phe de
+拼盆
+偏生
+拋脫
+炮仗	pho zan
+陂陀	phu du
+蓖箕
+板煙筒
+冰膠
+標致
+臂把
+癟嘴
+變死	pi xi
+扁尖
+擺奎勁
+繃價鈿
+百襉裙
+百家衣	paq ka i
+壁角甪
+畢工畢正
+報告單
+拼攏來
+泡立水
+碧綠生青
+碧綠生清
+筆立勢直
+邊浪向
+爆米花	po mi hau
+板面孔
+擺明垃個	pa min laq req
+繃面子
+板硬襯
+爆魚	po ng
+包貨
+包瞞
+保姆	po mu
+北壗
+包梢
+乒乓器
+半邊風
+半半日日	peu peu gniq gniq
+碧碧綠
+拍拍屁股
+乓乓響
+背後頭
+幫個忙	pan req man
+髈痠腳軟
+冰生激骨
+板刷頭
+擺煞垃壗	pa saq laq he
+拍手拍腳
+擺三擺四
+半死半活	peu xi peu weq
+半山勿尬
+屁照鏡
+擺攤頭
+癟嘴糰
+筆套管
+扁塌臉
+破子落宿
+搬嘴搬舌
+拍照相
+擺酒水
+扳皵絲
+冰清水冷
+浦東說書
+筆篤生青
+筆篤勢直
+半當中
+臂撐子
+怕坍寵
+補膏
+百無一能
+繃勿牢
+掽勿攏
+擺噱頭
+拚血本
+柏油筒
+怕現世
+半夜三更	peu ya se kan
+百頁窗
+百有份
+半夜飯
+派用場
+搬場星
+八字蘇
+譬是勿是
+嚡裏
+蝦蟆	ra mau
+行家	ran ka
+項練
+匣頭
+下巴	rau bau
+畫鏡線
+還要	re io
+還要	we io
+餡頭
+還好	re ho
+還好	we ho
+言話	re rau
+餡子
+寒豆
+下風頭
+下風官司
+候分候數
+後日仔	roe gniq tzy
+後日天	roe gniq thi
+行過去
+嚡裏面
+嚡裏個	ra li req
+嚡裏墶
+汗馬夾
+汗毛淋淋
+寒毛凜凜
+紅男綠女	ron neu loq gniu
+紅眼睛	ron nge cin
+厚皮
+後極
+後日	roe gniq
+候口
+紅糖	ron dan
+紅蛋	ron de
+紅燈	ron ten
+紅腸	ron zan
+鑊蓋
+鑊鏟
+鑊焦
+鑊子
+下半日	rau peu gniq
+後半年
+後半日	roe peu gniq
+合扑睏
+後背心
+汗背心
+下把戲
+紅幫裁縫	ron pan ze von
+寒酸氣
+學生意
+後生家	roe san ka
+後首來
+恨性命
+寒酸相
+汗酸臭
+學生子
+鹹酸飯
+下底頭
+話搭頭
+下作坯
+學嘴學舌
+紅通通	ron thon thon
+鑊子底
+後天井
+行勿落
+恨勿得
+行勿住
+寒場裏
+號腸拍肚
+行情行事
+衰瘏	sa du
+聲氣	san chi
+省輕
+生日	san gniq
+生梨
+啥人
+桑果
+煞口
+剎枯
+殺辣
+殺坯
+殺博
+啥體
+灑酒
+沙蟹
+小蒲桃
+小排骨
+雪白滾壯
+生病天
+算盤珠
+小鬼丫頭	xio ciu au doe
+小鬼頭	xio ciu doe
+小腳褲
+傷筋膏藥
+小結帽子
+小腳髈
+說鬼話	seq ciu rau
+生薑紅	san cian ron
+小鬼三	xio ciu se
+小肚皮
+鎖頭縛頸	su doe boq cin
+手頭緊
+書踱頭
+水潭潭
+水蕩蕩
+啥地方
+消地光
+梳頭家生	sy doe ka san
+三拳兩腳
+三頭六面
+上檯面
+說大書	seq du sy
+衰瘏煞儂	sa du saq non
+手條子
+小塘菜
+縮頭烏龜	soq doe u ciu
+三圈
+損腰
+嬸娘
+生火	sen hu
+身浪
+孫囡	sen neu
+身胚
+濕氣
+塞頭
+色拉	seq laq
+三個	se req
+小分頭
+三翻四復
+雙釀糰
+小人道理
+新娘娘
+小熱昏
+生日蠟燭	san gniq laq tzoq
+捎耳朵	so gni tu
+死人勿關	xi gnin veq kue
+識貨朋友
+三夯頭
+三嚇頭
+死蟹一隻	xi ha iq tzaq
+小伙子
+相攏
+死腔	xi chian
+線腳
+線褲
+籼米
+心乾
+信殼
+新邨
+心旌
+硝鏹水
+小鬼	xio ciu
+小月	xio gniuq
+小月	xio yuq
+小囝
+小髈
+小汛
+死屍	xi sy
+傷陰積
+小家敗氣	xio ka ba chi
+死規矩	xi kue ciu
+絲瓜筋
+心口頭
+收骨頭
+塞狗洞
+新官人
+小乖人
+水果羹
+沙角菱
+三角眼
+三角身胚
+燒夾生飯
+生光的滑
+小棺材
+塞漏洞
+生梨瓜
+水落管子
+少來來
+小籠饅頭
+掃垃圾	so laq xi
+煞辣勢平
+煞辣勢清
+煞辣勢齊
+燒爛脫
+少淋溚渧
+鮮龍活跳
+死賴活纏	xi la weq zeu
+生毛病
+水麵筋
+性命交關	xin min cio kue
+舍姆娘	sau mh gnian
+啥物事	sa meq zy
+小毛賊
+四眼狗
+孫囡兒	sen neu ng
+手飾
+收燥
+餿脫
+收作
+縮貨
+索加
+稍為
+酸胖氣
+水潽蛋
+小八辣子
+水泡泡
+手臂把
+申報紙
+小寒豆
+啥個地方	sa req di fan
+笑話奇談
+啥個路道	sa req lu do
+啥個場化	sa req zan hau
+雪雪白
+西曬日頭	xi sau gniq doe
+小小囝
+心思閒
+適心適意
+手心底
+素小菜
+小搨皮
+手節頭
+小攤頭
+水赤痘
+手節甲	soe ciq khaq
+手指甲	soe tzy khaq
+三叉路	se tsau lu
+小赤佬
+小即零丁
+生煎饅頭
+小姐妹道
+小刁碼子
+四處八路
+手底心
+叔接嫂
+三朝四日	se tzo sy gniq
+三青四綠
+三等四樣
+小祖宗
+手撐子
+燒焦脫
+小菜場
+斯文一脈
+死勿倫吞
+燒飯師傅
+舍勿得
+啥犯着
+三勿常
+小滑頭
+生活勢勁
+燒糊脫
+三和土
+水蕩
+四件
+水橋
+死樣怪氣	xi yan kua chi
+水沒
+私囝
+尿脬	sy pho
+尿布	sy pu
+西洋紅	xi yan ron
+四個	sy req
+少有少見
+師務
+山羊鬍蘇
+舒齊
+小腸氣
+小舌頭
+啥場化
+寫字間	xia zy ke
+掃場刮地
+小潮汛
+撐矮棒
+打噎
+打棚
+打餩
+打襉
+當日	tan gniq
+當家	tan ka
+當勢
+當仔
+搭僵
+搭腳
+搭道
+搭牢
+搭買
+搭賣
+搭手
+搭脫
+搭底
+搭酒
+搭仔
+草棚棚
+槍斃鬼	chian bi ciu
+照牌頭
+塌鼻頭
+搨便宜
+太平一點
+打白客
+搭棚睏
+睬白眼
+偷蟠仔
+雌伏雄	tsy bu yon
+打防疫針	tan ban yoq tzen
+寸金地
+擔肩胛
+坍肩胛
+討吉利
+掂斤兩
+貪吃懶做
+七曲八繞
+七翹八裂	chiq djio paq liq
+七撟八裂
+七曲八彎
+紫絳紅	tzy cian ron
+轉筋透骨
+搭腳搭手
+裝腔作死	tzan chian tzoq xi
+請吃茶
+搔頭皮
+拆檯腳
+搗蛋鬼	to de ciu
+脫頭頸
+唱獨腳戲
+菜刀頭
+做大頭夢	tzu du doe man
+做大頭夢	tzu du doe mon
+打頭風
+頂頭風
+做頭髮
+頂頭貨
+此地塊
+灶頭間	tzo doe ke
+節頭管
+當頭灌腳
+痴頭怪腦
+頂頭雷
+春頭浪
+挑頭路
+脫頭落襻
+斬頭瀝血
+當頭砲
+七停八當
+豬頭三
+吞頭勢
+燈頭線
+打強心針
+剃頭店
+搭道搭隊
+紙頭紙腦
+篤定泰山
+臭豆腐乾
+闖窮禍
+出頭戲
+紮臺型
+脆頭繩
+單被	te bi
+對景
+膽大	te du
+擔老
+登腔
+鐓雞
+躉買
+登樣
+膯食
+單衫
+單生	te sen
+呆小症	te xio tzen
+呆小症	te xio tzen
+早晏點
+鍛煉
+短縮
+短壽
+對直
+早發頭
+長發頭裏
+長發頭浪
+招風耳朵	tzo fon gni tu
+插髮簪
+拆牛棚
+討饒頭
+青泥苔
+做人家	tzu gnin ka
+走人家	tzoe gnin ka
+打耳光	tan gni kuan
+主人家	tzy gnin ka
+做人客
+千年難般
+吹牛屄
+吹牛三
+做月子	tzu gniuq tzy
+做月子	tzu yuq tzy
+整日天	tzen gniq thi
+正月初一	tzen gniuq tsu iq
+正月初一	tzen yuq tsu iq
+正月初一	tzen yuq tsu iq
+出言無常
+耥頭
+湯盅
+搨鐾
+傝皮
+拖鼻涕	tha biq thi
+拖舌頭	tha zeq doe
+搨粉
+搨花
+搨累
+搨草
+做花頭
+打昏塗
+坦眼
+炭結
+推販
+吞頭
+推扳
+脫腳
+脫骱
+忒高
+脫力
+脫卯
+攤為
+坦和
+天乾
+跳浜
+挑痧
+跳蝨
+貼肉
+鐵梗
+鐵鎝
+鐵抄
+貼鼠
+天打
+添太
+正好垃拉	tzen ho laq la
+敨開
+討打
+七歪八牽
+天火燒
+土白
+毻脫
+打霍險
+叉一腳	tsau iq ciaq
+搭一腳
+着衣鏡	tzaq i cin
+底肚
+店家	ti ka
+丁倒
+銚子
+刁嘴
+扚肉
+扚背
+臭要死	tsoe io xi
+着衣裳	tzaq i zan
+拆家敗	tsaq ka ba
+拆家棚	tsaq ka ban
+觸揢
+觸揢鬼	tsoq khaq ciu
+促掐鬼	tsoq khaq ciu
+討口風
+做客人
+親家公	chin ka kon
+倒掛臉
+赤骨落
+赤刮辣新
+親家母	chin ka mhu
+貼隔壁
+對隔壁
+正隔壁
+七講八講
+七高八低
+通關手
+的角四方
+討口彩
+節甲指	ciq khaq tzy
+通關節
+跌跟斗
+搶家當	chian ka tan
+捉鴿多
+打鴿多
+塔棵菜
+氽江浮屍
+節甲油	ciq khaq yoe
+吵開場
+接龍牌
+早浪頭
+中浪頭
+打菱角
+出籠功夫
+襯裏褲子
+的粒滾圓
+出老碼子
+貼老本
+槍籬笆
+七老八十	chiq lo paq seq
+七老八十	chiq lo paq zeq
+襯裏布衫
+闖鄰舍
+插蠟燭
+錯連錯
+草簾子
+兜來兜去
+着連襠褲	tzaq li tan khu
+添裏太拉
+襯裏短衫
+赤辣焦黃
+短裏抽長	teu li tsoe zan
+斥爛屙
+炒冷飯頭
+早浪向
+中浪向
+觸霉頭
+姐妹道理
+通名道姓
+炒米花
+採棉花
+摘棉花
+猜謎謎子	tse me me tzy
+搭脈息
+紮面子
+搓麻將	tsau mau cian
+正門正路
+芝麻糊
+刺毛蟲
+睬儂白眼
+七弄八弄
+端五節
+抄牙齒
+端午粽	teu ng tzon
+到家	to ka
+懂經
+東頭
+東壗
+凍水
+凍瘃
+到把
+篤坦
+涿雨	toq yu
+倒脫
+倒酒
+倒灶
+東半爿
+左半爿
+灶壁蟣
+捉板頭
+搨扁頭
+推扳貨
+灶披間	tzo phi ke
+打扑克
+翅膀硬
+笡巴眼
+叉扁魚	tsau pi ng
+捉把柄
+挑弸弸
+打八折
+討扳帳
+天疱瘡	thi po tsan
+推扳勿起
+差板	tsa pe
+差板	tsau pe
+差板勿起	tsa pe veq chi
+差板勿起	tsau pe veq chi
+抄下巴	tso rau bau
+底下頭
+出言話	tseq re rau
+天下世界
+千話萬話
+差眼	tsa nge
+廠家	tsan ka
+窗盤
+窗門
+拆空
+斥尿	tsaq sy
+插檔
+鍤刀
+坼坼
+斥屙
+差點	tsa ti
+叉牙	tsau nga
+差扳
+叉槍	tsau chian
+紮手縛腳	tzaq soe boq ciaq
+討手腳
+添手腳
+替手腳
+觸心旌
+搭訕頭
+春頭
+出客
+出老
+出送
+出鬆
+出燈
+出趟
+出差	tseq tsa
+出帳
+出精
+攙手
+穿繃
+菜飯
+做生日	tzu san gniq
+清水貨
+搨雪花膏
+千魚
+笡頭
+搶牙
+槍笆
+芍陂	chiaq bi
+槧皮
+青糰
+親家	chin ka
+請問	chin men
+七件
+砌末	chiq meq
+七個	chiq req
+唱山歌
+清水光湯
+斥尿揩香	tsaq sy kha xian
+吵相罵
+做舍姆	tzu sau mh
+草頭
+吵客
+觸氣
+促掐
+畜牲	tsoq san
+戳鏟
+觸祭
+抄湯
+草千
+出說話
+擔心思
+多心思
+打相打
+短三春
+清水湯
+爪手爪腳
+搭手搭腳
+陰司觸揢
+陰司促掐
+多說多話
+作死作活	tzoq xi tzoq weq
+詐死詐活	tzau xi tzau weq
+粗貨
+討新婦
+千算萬計
+真生活
+齒耙
+粢飯
+攤底牌
+兜兜盤盤
+酒糟鼻頭
+討債鬼	tho tza ciu
+頂出去
+親親眷眷
+扚扚頭
+戳節頭
+天差地遣	thi tsa di chi
+唱拆臺戲
+兜底翻
+當中人
+紮搭一口
+頂針箍
+搭得夠
+打中覺	tan tzon ko
+充得過
+側轉睏
+尖嘴姑娘
+的的呱呱
+挑嘴隔舌
+脫底棺材
+紫青蓮
+笡對面
+貼對面
+清湯麵
+做脫儂
+偷針眼
+砧墩板
+拆穿繃
+諸精百怪
+七嘴八搭
+七丁八倒
+坍招勢
+請酒水
+打頂心
+東厾西摜
+赤嶄勢齊
+溚溚渧
+貼當中
+兔子燈
+採冬採
+兜得轉
+土墩墩
+戳千刀
+捉帖子
+作天作地
+刁鑽觸揢
+叼鑽促掐
+出精出怪
+作精作怪
+貼貼當中
+抓抓出出
+點點觸觸
+跌跌蹱蹱
+戳槍戳箭
+祇進勿出
+酒醉糊塗
+倒貼戶頭
+當中橫裏
+搭得着
+搨嘴脣膏
+簇嶄全新
+賭鬼	tu ciu
+醬煨蛋
+鐵烏青
+肚子	tu tzy
+對勿起
+粢飯糰
+搭勿夠
+粢飯糕
+掂份量
+七勿老起
+對勿攏頭
+七勿老三
+跌勿倒
+對勿住
+焦飯糍
+中飯辰光
+攤王牌
+東橫頭
+中橫頭
+打滑跶	tan waq daq
+跳黃浦
+攤為勿起
+裝胡羊
+討虛頭
+秋香綠
+脫雲腳
+豬油筋
+太陽頭裏
+斥洋爛屙
+捉野貓
+千嫌百鄙
+吊鹽水
+整夜天
+醬油店
+做夜作
+搭夜作
+撢簷塵
+裝樣
+喳吧	tza pa
+揝勁
+着棋	tzaq dji
+紮膩
+摘勾
+紮致
+爪手
+詐人
+遮牢
+嘴脣皮
+跳橡皮筋
+唱重頭戲
+劗肉
+正屋
+整日	tzen gniq
+正手
+准足
+側睏
+討惹厭
+腈肉	cin gnioq
+精刮
+酒靨
+酒潭
+酒家	cioe ka
+節頭
+漬浞
+接嘴
+淺淺	ci ci
+脊柱骨
+繰袖捋臂
+做市面
+闖市面
+走氣
+調飢	tzoe ci
+走味	tzoe mi
+走油
+灶間	tzo ke
+罩褲
+早浪
+罩籃
+種秧
+粽箬
+中灰
+中浪
+忠牲	tzon san
+眾牲	tzon san
+竹爿
+斫稻
+作道
+竹頭
+竹箬
+斫花
+足歸
+斫麥
+捉魚
+作死	tzoq xi
+竹凳
+竹榻
+斫刀
+斫柴
+竹床
+擦上擦下
+做弄
+做啥
+做七
+賭誓罰咒
+紙筋
+嘴巴	tzy pau
+疰夏
+紫紅	tzy ron
+珠珠
+豬塮
+橫對	uan te
+枉空
+挖耳	uaq gni
+挖掐
+挖揢
+烏龜抬轎	u ciu de djio
+烏龜	u ciu
+萵苣筍
+碗頭碗腳
+瘟牲
+殟塞
+歿塞	ueq seq
+捂泥搭水
+於戲	u hu
+焐窠
+烏裏買裏
+污裏污糟
+兀賴鞋
+往後起
+捂酥豆
+焐心
+烏蘇天
+煨灶貓
+捂抖
+溫暾水
+烏千
+彎彎繞
+烏賊魚
+房間	van ke
+房樑
+罰咒
+勿見得
+勿吃香
+勿求人
+飯窠
+飯籃
+飯籮
+勿罷
+勿經
+勿談
+勿及
+勿動
+勿放
+勿好
+勿要
+勿快
+勿來
+勿買
+勿滿
+勿撥
+勿比
+勿煞
+勿想
+勿消
+勿送
+勿多
+勿會
+勿響
+勿許
+勿曾
+勿然
+勿是
+飯單
+飯抄
+犯着
+飯勺
+飯糍
+勿分開
+勿二勿三
+勿好勒
+勿歡喜
+勿要緊
+勿要客氣
+勿要話
+勿管帳
+勿尷勿尬
+勿靈笨
+勿老氣
+勿連牽
+飯蘿頭	ve lu doe
+勿來三
+煩老太婆
+勿來事
+飯米糝
+勿礙啥
+勿礙事
+浮惹
+伏裏
+飯泡粥
+勿爽氣
+勿識頭
+勿識貨
+勿適意
+浮說亂話
+勿生勢
+舞獅子
+勿三勿四
+勿死勿活	veq xi veq weq
+勿多幾時
+勿出門
+味之素
+勿出趟
+墳墩頭
+勿得勿然
+勿作興
+無天野地
+霧露
+煩勿清爽
+勿遠送
+勿入調
+撫牆摸壁
+飯勺子
+勿入勿調
+勿着勿落
+橫裏
+橫繃
+橫檔
+黃狼
+滑跶	waq daq
+壞脫
+懷孕	wa yun
+黃金瓜
+黃道日	wan do gniq
+黃道日腳	wan do gniq ciaq
+回頭生意
+緯紗	yu sau
+回韌
+為滿
+為啥
+還鈔
+彙鈔
+為仔
+串夷	we yi
+黃牛肩胛
+黃泥螺
+黃昏頭
+黃哈哈
+橫揀豎揀
+魂靈頭
+魂靈心
+魂靈三聖
+囫圇吞
+為來為去
+活裏活絡
+橫裏向
+黃魚肚皮
+黃魚腦子
+黃魚鯗
+黃胖綠
+回報門
+王伯伯
+活筆剝
+活剝鮮跳
+壞坯子
+護小囝
+衛生衫	we sen se
+為啥體
+橫豎橫
+會說會話
+橫輸贏
+回轉去
+會做人家	we tzu gnin ka
+橫垛裏
+橫垛裏向
+河鯽魚
+活脫勢象
+混天糊塗
+回嘴回舌
+河塘
+和調
+喖嚨
+河浜
+鬍鬚	wu su
+護叉	wu tsau
+胡淆
+河床
+滑胡梯
+荷葉邊
+壞事體
+還潮天
+香鼻頭
+嘻皮搨臉
+胸堂頭
+兄弟道理
+揎拳捋臂
+噱頭勢
+稀奇勿煞
+妗格格	xi kaq kaq
+香煙
+香煙牌子
+顯寶
+歇力
+香煙紗
+燻魚
+胸口頭
+香瓜子
+香面孔
+血外紅	xiuq nga ron
+鄉下頭
+血血紅	xiuq xiuq ron
+夜頭
+洋盤
+洋鈿
+湯谷	yan koq
+烊雪
+爺娘
+爺叔
+夜到
+櫟陽	yaq yan
+洋白頭
+洋白眼
+羊氣瘋
+洋涇浜
+有道伴
+圍袋袋	yu de de
+雨頭裏
+夜啼郎
+圓檯面
+油豆腐
+野頭野腦
+洋風爐
+旺日頭	yan gniq doe
+搖尾巴	yo gni pau
+搖尾巴	yo mi pau
+油灰節甲	yoe hue ciq khaq
+伊拉
+有要嘸緊
+嫌鄙
+伊個	yi req
+延涎	yi ze
+有講究
+夜快頭
+夜快同
+有講頭
+洋鉛桶
+藥罐頭
+雨夾雪
+現開銷
+有介事
+有來頭
+遠來頭
+爺老頭子
+伊拉個	yi lha req
+遠來和尚
+夜裏向
+有老爺
+油麵筋
+遊碼頭
+雨麻花
+野蠻小鬼	ya me xio ciu
+野蠻小囝
+有面子
+芋奶頭
+有熬頭
+有眼光
+有眼
+油肉
+用頭
+用空
+油爆蝦	yoe po hau
+懸筆揮揮
+搖卜郎鼓
+洋泡泡
+有數脈
+洋籼米
+有寫嘸寫
+養小囝
+現世寶
+有心想
+有心思
+用心思
+有身孕
+有數有脈
+有心有想
+夜到頭
+有搭頭
+有清頭
+油盞火
+雨太公
+油滋隔膩
+現出怪樣
+養刁囡
+洋裝癟三
+野得出
+夜出世
+油墩子
+陽春天氣
+有種出種
+遠轉彎
+現炒現賣
+遠七遠八
+圍巾	yu cin
+雨頭
+月氏	yuq tzy
+圍身	yu sen
+圍兜	yu toe
+餘剩	yu zan
+圍涎	yu ze
+也無知	ya vu tzy
+有勿有
+用勿着
+有還價
+夜壺臉
+夜壺箱
+異樣刮嗒
+有樣嘸樣
+洋油燈
+形容勿出
+有纏頭
+揚樹頭
+油煠燴
+有長心	yoe zan xin
+柴爿
+惹勁
+長大	zan du
+場化
+長褲	zan khu
+丈姆	zan mh
+常怕
+長凳	zan ten
+長短	zan teu
+常莊
+長子	zan tzy
+長遠	zan yeu
+剩餘	zan yu
+剩餘	zan yu
+剩餘	zen yu
+上霍
+床鋪
+閘腳
+着港
+着冷
+石屑
+射尿	za sy
+樹枒杈
+柴穧
+象鼻頭
+橡皮魚
+橡皮飯碗
+十幾日	zeq ci gniq
+長腳鷺鷥	zan ciaq lu sy
+前腳後腳
+上腔勢
+神經搭錯
+長腳雨	zan ciaq yu
+纏頭勁
+陣頭風
+潮頭肉
+舌頭根
+壽桃糕
+賊頭狗腦
+着地雷
+揂藤摸瓜
+壽頭碼子
+兆頭囝
+壽頭板氣
+纏頭勢
+自動傘
+賺頭勢足
+長條子	zan dio tzy
+陣頭雨
+蛅蝍
+儕部
+站頭
+罪過	ze ku
+人民	zen min
+仁兄	zen xion
+饞坯
+賊腔
+實結
+直裏
+姪囡	zeq neu
+折本	zeq pen
+賊坯
+十個	zeq req
+直檔
+賊偷
+涎唾	ze thu
+船鞋
+上風頭
+順風耳朵	zen fon gni tu
+造反到
+順風順水
+丈人阿爸	zan gnin aq paq
+晴日頭	jin gniq doe
+陳年裏
+丈人老頭
+十日八夜	zeq gniq paq ya
+前年仔
+昨日仔	zoq gniq tzy
+前日仔	ji gniq tzy
+尋呴勢
+神昏顛倒
+像煞
+齊巧
+神妖鬼怪	zen io ciu kua
+前日	ji gniq
+全日	ji gniq
+直腰懶慣
+餳糖
+兆一把
+絕細
+蓆子
+全夜
+自家道理	zy ka do li
+自家人	zy ka gnin
+纏夾二
+雜格龍冬
+雜格倫敦
+盡根牙
+坐家囡	zu ka nheu
+罪過相	ze ku xian
+石刮勢硬
+繩捆束綁
+茶館店
+尋孔討氣
+石刮挺硬
+石刮鐵硬
+尋快活
+住家戶	zy ka wu
+上街沿
+市輪渡
+前兩年
+前兩日	ji lian gniq
+自來火
+士林藍
+饞癆坯
+石卵子
+城裏向
+直裏向
+饞癆蟲
+丈姆娘	zan mh gnian
+上門女婿
+尋門路
+象模象樣
+賺外快
+鑿眼子
+坐南朝北
+壽頭
+壽燭
+鑿頭
+鐲頭
+昨日	zoq gniq
+續弦
+槽槽
+十邊地
+上半日	zan peu gniq
+長波浪	zan pu lan
+朝後起
+神嘩鬼叫	zen rau ciu cio
+朝後頭
+十畫百搭
+壽星頭
+尋生意
+前世一劫
+長生果	zan sen ku
+尋相罵
+受傷個	zoe san req
+長三春	zan se tsen
+前世作孽
+重手重腳
+前生前世	ji sen ji sy
+尋死尋活	jin xi jin weq
+長春藤	zan tsen den
+長竄條	zan tseu dio
+捷轉頭
+袖子管
+斜對過
+朝天睏
+貯紙簍
+直垛裏
+豎垛裏
+旋轉碌轉
+賺鈔票
+上當學乖
+涎唾水	ze thu sy
+神志無主
+神志野舞
+座臺
+坐窠
+廚房間	zy van ke
+上勿上
+紹興師爺
+紹興戲
+蒔秧
+什樣錦
+時件
+重陽糕
+齊夜快
+朝陽格
+自家	zy ka
+時路
+十樣百景
+櫥師
+全夜天
+朱提	zy zy
+長舌頭	zan zeq doe
+鑿着法
+上上落落
+長壽麵	zan zoe mi
+謝謝儂
+蛇蟲百腳
+時辰八字
+十十足足
+忐忑	the theq
+忐忑	khan to
+阿拉伯	a la paq
+阿拉伯人	a la paq gnin
+阿膠	u ko
+阿諛逢迎	u yu von gnin
+阿諛	u yu
+膀起來	phan chi le
+牛蒡子	gnioe pan tzy
+磅礴	ban boq
+杷頭	pau doe
+杷車	pau tsau
+伯氣	pau chi
+被巾	phi cin
+被緇	phi tzy
+被衣	phi i
+被練	phi li
+暴虎馮河	bo hu bin wu
+炮炙	bo tzaq
+炮烙	bo loq
+瀑河	bo wu
+敲更	kho kan
+解釋	ka seq
+可汗	kheq reu
+醱酵	faq ko

@@ -1,0 +1,77 @@
+# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: wugniu_lopha
+  name: 吳語（老派）
+  version: "0.1"
+  author:
+    - 上海閑話abc <tzyyiggnih@yahoo.com.cn>
+    - 吳語越音 <zhufya@mail.ustc.edu.cn>
+  description: |
+    吳語上海話（老派）
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - abbrev/^([bcdfghjklprstvwxyz]).+$/$1/
+    - derive/^(ch|d?j|gn|x|y)i([aeou])/$1$2/
+
+translator:
+  dictionary: wugniu_lopha
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    uppercase: "[A-Z][-'A-Za-z]*$"
+    cplusplus: "C[+#]+$"
+    reverse_lookup: "`[a-z]*$"
