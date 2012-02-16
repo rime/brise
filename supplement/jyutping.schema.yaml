@@ -5,7 +5,7 @@
 schema:
   schema_id: jyutping
   name: 粵拼
-  version: "0.1"
+  version: "0.2"
   author:
     - Rime Contributors
   description: |
@@ -74,6 +74,4 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    uppercase: "[A-Z][-'A-Za-z]*$"
-    cplusplus: "C[+#]+$"
     reverse_lookup: "`[a-z]*$"

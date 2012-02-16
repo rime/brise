@@ -2,7 +2,7 @@
 # vim: set sw=2 sts=2 et:
 # encoding: utf-8
 
-config_version: "0.9.7"
+config_version: "0.9.8"
 
 schema_list:
   - schema: luna_pinyin
@@ -110,6 +110,7 @@ key_binder:
 
 recognizer:
   patterns:
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
     number: "^[-+]?[0-9][.0-9]*[%]?$"
     url: "^(www[.]|https?:|ftp:|mailto:).*$|^[a-z]+[.].+$"
     email: "^[a-z][-_.0-9a-z]*@.*$"

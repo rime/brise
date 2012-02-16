@@ -5,7 +5,7 @@
 schema:
   schema_id: cangjie5
   name: 倉頡五代
-  version: "0.9.7"
+  version: "0.9.8"
 
 switches:
   - name: ascii_mode
@@ -65,6 +65,4 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    uppercase: "[A-Z][-'A-Za-z]*$"
-    cplusplus: "C[+#]+$"
     reverse_lookup: "`[a-z]*$"

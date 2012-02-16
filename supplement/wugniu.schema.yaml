@@ -5,7 +5,7 @@
 schema:
   schema_id: wugniu
   name: 吳語
-  version: "0.1"
+  version: "0.2"
   author:
     - 上海閒話abc <tzyyiggnih@yahoo.com.cn>
   description: |
@@ -71,6 +71,4 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    uppercase: "[A-Z][-'A-Za-z]*$"
-    cplusplus: "C[+#]+$"
     reverse_lookup: "`[a-z]*$"
