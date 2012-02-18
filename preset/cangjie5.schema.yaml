@@ -52,7 +52,7 @@ reverse_lookup:
   prefix: "`"
   tips: 〔拼音〕
   preedit_format:
-    - xform/([nl])v/$1ü/
+    - xform/([nljqxy])v/$1ü/
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
 

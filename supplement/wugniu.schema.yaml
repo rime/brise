@@ -10,6 +10,8 @@ schema:
     - 上海閒話abc <tzyyiggnih@yahoo.com.cn>
   description: |
     吳語上海話（新派）
+    拼寫方案採用《吳語拉丁式注音法》
+    http://input.foruto.com/wu/method.html
 
 switches:
   - name: ascii_mode
@@ -60,7 +62,7 @@ reverse_lookup:
   prefix: "`"
   tips: 〔拼音〕
   preedit_format:
-    - xform/([nl])v/$1ü/
+    - xform/([nljqxy])v/$1ü/
 
 punctuator:
   import_preset: default

@@ -7,9 +7,11 @@ schema:
   name: 粵拼
   version: "0.2"
   author:
-    - Rime Contributors
+    - 佛振 <chen.sst@gmail.com>
   description: |
-    Derived from scim-table-zh.
+    採用《香港語言學會粵語拼音方案》
+    http://www.lshk.org/cantonese.php
+    碼表源自 ibus-table
 
 switches:
   - name: ascii_mode
@@ -63,7 +65,7 @@ reverse_lookup:
   prefix: "`"
   tips: 〔拼音〕
   preedit_format:
-    - xform/([nl])v/$1ü/
+    - xform/([nljqxy])v/$1ü/
 
 punctuator:
   import_preset: default

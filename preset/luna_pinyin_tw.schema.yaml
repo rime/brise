@@ -53,9 +53,11 @@ speller:
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([zcs]h).+$/$1/
     - derive/^([nl])ve$/$1ue/
+    - derive/^([jqxy])u/$1v/
     - derive/ui$/uei/
     - derive/iu$/iou/
     - derive/([aeiou])ng$/$1gn/
+    - derive/o(u|ng)$/o/
     - derive/ong$/on/
     - derive/ao$/oa/
     - derive/([iu])a(o|ng?)$/a$1$2/
@@ -64,7 +66,7 @@ translator:
   dictionary: luna_pinyin
   prism: luna_pinyin_tw
   preedit_format:
-    - xform/([nl])v/$1ü/
+    - xform/([nljqxy])v/$1ü/
 
 simplifier:
   opencc_config: zht2zhtw_v.ini
