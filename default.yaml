@@ -9,7 +9,6 @@ schema_list:
   - schema: cangjie5
   - schema: luna_pinyin_fluency
   - schema: luna_pinyin_simp
-  - schema: luna_pinyin_tw
 
 switcher:
   caption: 〔方案選單〕

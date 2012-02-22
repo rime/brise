@@ -9,7 +9,7 @@ schema:
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
-    Transliteration from opencc standard to Taiwan variant.
+    朙月拼音，臺灣正體字形輸出模式。
 
 switches:
   - name: ascii_mode
