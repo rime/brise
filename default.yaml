@@ -16,6 +16,9 @@ switcher:
     - Control+grave
     - F4
 
+menu:
+  page_size: 7
+
 punctuator:
   full_shape:
     " " : { commit: "　" }
