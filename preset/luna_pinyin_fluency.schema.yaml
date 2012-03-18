@@ -9,7 +9,7 @@ schema:
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
-    朙月拼音·語句流錄入！
+    朙月拼音・語句流錄入！
     以空格分詞、標點或回車上屏。
 
 switches:
