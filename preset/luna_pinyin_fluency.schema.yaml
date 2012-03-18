@@ -5,7 +5,7 @@
 schema:
   schema_id: luna_pinyin_fluency
   name: 語句流
-  version: "0.9.8"
+  version: "0.9.9"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
