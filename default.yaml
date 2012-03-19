@@ -9,12 +9,17 @@ schema_list:
   - schema: cangjie5
   - schema: luna_pinyin_fluency
   - schema: luna_pinyin_simp
+  - schema: terra_pinyin
+  - schema: bopomofo
 
 switcher:
   caption: 〔方案選單〕
   hotkeys:
     - Control+grave
     - F4
+  save_options:
+    - full_shape
+    - simplification
 
 menu:
   page_size: 7
@@ -69,7 +74,7 @@ punctuator:
     "|" : [ ・, "|", ｜, "§", "¦" ]
     "`" : "`"
     "~" : "~"
-    "~" : [ "~", "~~", 〜, ～, 〰 ]
+    "~" : [ "~", 〜, ～, 〰 ]
     "!" : { commit: ！ }
     "@" : [ "@", ＠, ☯ ]
     "#" : [ "#", ＃, ⌘ ]
