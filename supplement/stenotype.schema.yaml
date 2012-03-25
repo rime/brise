@@ -1,0 +1,166 @@
+# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: stenotype
+  name: 速記打字法
+  version: "0.2"
+  author:
+    - 佛振 <chen.sst@gmail.com>
+  description: |
+    根據書中記述的一種基於打字機的早期中文速記改編。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - punct_translator
+    - r10n_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA/-=$@~`'<>;:\""
+  delimiter: " _"
+  algebra:
+    - erase/^xx$/
+    - xform/^yu/v/
+    - xform/^yi?/i/
+    - xform/^wu?/u/
+    - xform/([iuv])n$/$1en/
+    - xform/ui$/uei/
+    - xform/iu$/iou/
+    - xform/ing$/I/
+    - xform/^bi/B/
+    - xform/^pi/P/
+    - xform/^mi/M/
+    - xform/^fei$/F/
+    - xform/^di/D/
+    - xform/^ti/T/
+    - xform/^ni/N/
+    - xform/^li/L/
+    - xform/^gu/G/
+    - xform/^ku/K/
+    - xform/^hu/H/
+    - xform/^ju/J/
+    - xform/^qu/Q/
+    - xform/^xu/X/
+    - xform/^([zcs])h/$1/
+    - xform/^zu/Z/
+    - xform/^cu/C/
+    - xform/^su/S/
+    - xform/^ru/R/
+    - xform/^([bpmf])u$/$1/
+    - xform/^([dtnlgkh])e$/$1/
+    - xform/^([jqxzcs])i/$1/
+    - xform/^er$/r/
+    - xform/iang$/Y/
+    - xform/uang$/W/
+    - xform/ang$/A/
+    - xform/eng$/E/
+    - xform/i?ong$/O/
+    - xform/ien$/=/
+    - xform/uen$/U/
+    - xform/ven$/V/
+    - xform/ian$/y/
+    - xform/uan$/w/
+    - xform/van$/$/
+    - xform|an$|/|
+    - xform|en$|-|
+    - "xform/v$/\"/"
+    - xform/uei$/v/
+    - xform/uai$/@/
+    - xform/ia$/`/
+    - xform/ua$/~/
+    - "xform/a$/'/"
+    - xform/i?ao$/a/
+    - xform/i$/;/
+    - xform/e;$/e/
+    - xform/a;$/i/
+    - "xform/u$/:/"
+    - "xform/i?o:$/u/"
+    - xform/uo$/o/
+    - xform/ie$/</
+    - xform/ve$/>/
+    - derive|^([BPMDTNLjqx])/$|\L$1\Ey|
+    - derive|^([GKHJQXZCSR])/$|\L$1\Ew|
+    - derive|^([GKHJQXZCSR])-$|\L$1\EU|
+    - derive|^([GKHZCSR])e$|\L$1\Ev|
+    - derive|^([GKHZCSR])o$|\L$1\Eo|
+
+translator:
+  dictionary: luna_pinyin
+  prism: stenotype
+
+punctuator:
+  full_shape:
+    " " : { commit: "　" }
+    "," : { commit: ， }
+    "." : { commit: 。 }
+    "?" : { commit: ？ }
+    "!" : { commit: ！ }
+    "^" : { commit: …… }
+    "(" : （
+    ")" : ）
+    "|" : [ ——, ・, ｜, "|", "§", "¦" ]
+    "[" : [ 「, 【, 〔, ［ ]
+    "]" : [ 」, 】, 〕, ］ ]
+    "{" : [ 『, 〖, ｛ ]
+    "}" : [ 』, 〗, ｝ ]
+  half_shape:
+    " " : { commit: " " }
+    "," : { commit: ， }
+    "." : { commit: 。 }
+    "?" : { commit: ？ }
+    "!" : { commit: ！ }
+    "^" : { commit: …… }
+    "(" : （
+    ")" : ）
+    "|" : [ ——, ・, ｜, "|", "§", "¦" ]
+    "[" : [ 「, 【, 〔, ［ ]
+    "]" : [ 」, 】, 〕, ］ ]
+    "{" : [ 『, 〖, ｛ ]
+    "}" : [ 』, 〗, ｝ ]
+
+key_binder:
+  bindings:
+    # Emacs style
+    - { when: composing, accept: Control+p, send: Up }
+    - { when: composing, accept: Control+n, send: Down }
+    - { when: composing, accept: Control+b, send: Left }
+    - { when: composing, accept: Control+f, send: Right }
+    - { when: composing, accept: Control+a, send: Home }
+    - { when: composing, accept: Control+e, send: End }
+    - { when: composing, accept: Control+d, send: Delete }
+    - { when: composing, accept: Control+g, send: Escape }
+    - { when: composing, accept: Alt+v, send: Page_Up }
+    - { when: composing, accept: Control+v, send: Page_Down }
+    # commonly used paging keys
+    - { when: composing, accept: ISO_Left_Tab, send: Page_Up }
+    - { when: composing, accept: Shift+Tab, send: Page_Up }
+    - { when: composing, accept: Tab, send: Page_Down }
+    - { when: paging, accept: comma, send: Page_Up }
+    - { when: has_menu, accept: period, send: Page_Down }

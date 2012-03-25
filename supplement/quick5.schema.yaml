@@ -1,0 +1,81 @@
+# Rime schema settings
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: quick5
+  name: 速成
+  version: "0.9.9"
+  author:
+    - 佛振 <chen.sst@gmail.com>
+  description: |
+    速成、倉頡詞句連打
+    碼表源自倉頡之友發佈的《五倉世紀版》
+    www.chinesecj.com
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " ;'"
+  algebra:
+    - 'derive/^(\w)\w+(\w)$/$1$2/'  # 取倉頡首尾二碼爲速成碼
+
+translator:
+  dictionary: quick5
+  prism: quick5
+  preedit_format:
+    - "xform/^/^/"
+    - "xform/$/$$/"
+    - "xlit|abcdefghijklmnopqrstuvwxyz;'^$|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符・・【】|"
+  comment_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+  comment_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*$"
