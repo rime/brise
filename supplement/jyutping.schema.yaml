@@ -5,7 +5,7 @@
 schema:
   schema_id: jyutping
   name: 粵拼
-  version: "0.2"
+  version: "0.3"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -59,6 +59,7 @@ speller:
 
 translator:
   dictionary: jyutping
+  spelling_hints: 4
 
 reverse_lookup:
   dictionary: luna_pinyin

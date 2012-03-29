@@ -5,7 +5,7 @@
 schema:
   schema_id: wugniu
   name: 吳語
-  version: "0.3"
+  version: "0.4"
   author:
     - 上海閒話abc <tzyyiggnih@yahoo.com.cn>
     - 吳語越音 <zhufya@mail.ustc.edu.cn>
@@ -78,6 +78,7 @@ speller:
 translator:
   dictionary: wugniu_lopha
   prism: wugniu
+  spelling_hints: 4
 
 reverse_lookup:
   dictionary: luna_pinyin

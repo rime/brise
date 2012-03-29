@@ -8,13 +8,21 @@
 
 ---
 name: jyutping
-version: "0.1"
+version: "0.2"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
+唓	ce	1000
+埞	deng	1000
+䊆	kaau	1000
+喐	juk	1000
+踎	mau	1000
+㩄	saai	1000
+軚	taai	1000
+怴
 誒	e
-唔	m
+唔	m	100000
 呣	m
 疴	o
 阿	o
@@ -30,7 +38,7 @@ use_preset_vocabulary: true
 婀	o
 嚄	o
 軻	o
-吖	aa
+吖	aa	10000
 瘂	aa
 阿	aa
 亞	aa
@@ -61,7 +69,7 @@ use_preset_vocabulary: true
 握	ak
 啞	ak
 厄	ak
-呃	ak
+呃	ak	1000
 阨	ak
 渥	ak
 扼	ak
@@ -88,7 +96,7 @@ use_preset_vocabulary: true
 媕	am
 庵	am
 敺	au
-區	au
+區	au	1%
 歐	au
 勾	au
 嘔	au
@@ -116,7 +124,7 @@ use_preset_vocabulary: true
 玻	bo
 坡	bo
 	bo
-噃	bo
+噃	bo	1000
 播	bo
 檨	ce
 哆	ce
@@ -291,7 +299,7 @@ use_preset_vocabulary: true
 嗲	de
 爹	de
 襶	de
-啲	di
+啲	di	10000
 墯	do
 嶞	do
 嚲	do
@@ -396,7 +404,7 @@ use_preset_vocabulary: true
 呼	fu
 虎	fu
 夫	fu
-戲	fu
+戲	fu	0%
 輔	fu
 赴	fu
 府	fu
@@ -434,9 +442,9 @@ use_preset_vocabulary: true
 蝜	fu
 斧	fu
 痂	ge
-嘅	ge
+嘅	ge	10000
 旮	go
-嗰	go
+嗰	go	10000
 哿	go
 哥	go
 歌	go
@@ -475,7 +483,7 @@ use_preset_vocabulary: true
 固	gu
 顧	gu
 辜	gu
-果	gu
+果	gu	0%
 痼	gu
 錮	gu
 臌	gu
@@ -531,7 +539,7 @@ use_preset_vocabulary: true
 野	je
 夜	je
 若	je
-嘢	je
+嘢	je	1000
 郼	ji
 黳	ji
 聏	ji
@@ -708,18 +716,18 @@ use_preset_vocabulary: true
 邏	lo
 鑼	lo
 儸	lo
-咯	lo
+咯	lo	1000
 蘿	lo
 旯	lo
 裸	lo
 㗊	lo
 卵	lo
 螺	lo
-囉	lo
-攞	lo
+囉	lo	1000
+攞	lo	1000
 羅	lo
-乜	me
-咩	me
+乜	me	10000
+咩	me	1000
 孭	me
 瞇	mi
 眯	mi
@@ -735,7 +743,7 @@ use_preset_vocabulary: true
 麼	mo
 魔	mo
 摩	mo
-乸	naa
+乸	naa	1000
 呢	ne
 乜	ne
 五	ng
@@ -1007,7 +1015,7 @@ use_preset_vocabulary: true
 婑	wo
 媧	wo
 猧	wo
-喎	wo
+喎	wo	1000
 窠	wo
 濄	wo
 堝	wo
@@ -1102,7 +1110,7 @@ use_preset_vocabulary: true
 謝	ze
 這	ze
 者	ze
-啫	ze
+啫	ze	1000
 觶	zi
 淄	zi
 鄑	zi
@@ -1265,7 +1273,7 @@ use_preset_vocabulary: true
 芷	zi
 茈	zi
 㛖	zo
-咗	zo
+咗	zo	100000
 柤	zo
 侳	zo
 俎	zo
@@ -1277,14 +1285,14 @@ use_preset_vocabulary: true
 助	zo
 左	zo
 座	zo
-挨	aai
+挨	aai	1000
 隘	aai
 矮	aai
 哎	aai
 埃	aai
 唉	aai
 欸	aai
-嗌	aai
+嗌	aai	1000
 娭	aai
 餲	aai
 㶭	aai
@@ -1320,7 +1328,7 @@ use_preset_vocabulary: true
 坳	aau
 靿	aau
 拗	aau
-詏	aau
+詏	aau	1000
 㘭	aau
 㕭	aau
 罃	ang
@@ -1441,7 +1449,7 @@ use_preset_vocabulary: true
 奰	bei
 篦	bei
 疕	bei
-畀	bei
+畀	bei	10000
 秕	bei
 箅	bei
 犤	bei
@@ -1871,7 +1879,7 @@ use_preset_vocabulary: true
 臭	cau
 仇	cau
 丑	cau
-抽	cau
+抽	cau	500%
 秋	cau
 籌	cau
 鰍	cau
@@ -2188,14 +2196,14 @@ use_preset_vocabulary: true
 締	dai
 逮	dai
 蒂	dai
-抵	dai
+抵	dai	1000
 帝	dai
 得	dak
 特	dak
 德	dak
 螣	dak
 黕	dam
-抌	dam
+抌	dam	1000
 榃	dam
 沊	dam
 墩	dan
@@ -2236,7 +2244,7 @@ use_preset_vocabulary: true
 豆	dau
 鬥	dau
 讀	dau
-哋	dei
+哋	dei	10000
 地	dei
 墬	dei
 糴	dek
@@ -2268,6 +2276,7 @@ use_preset_vocabulary: true
 的	dik
 迪	dik
 䨤	dik
+嚸	dim	1000
 點	dim
 店	dim
 扂	dim
@@ -2542,7 +2551,7 @@ use_preset_vocabulary: true
 份	fan
 芬	fan
 分	fan
-瞓	fan
+瞓	fan	1000
 䭻	fan
 纁	fan
 吩	fan
@@ -2581,7 +2590,7 @@ use_preset_vocabulary: true
 乏	fat
 伐	fat
 笏	fat
-窟	fat
+窟	fat	1000
 筏	fat
 罰	fat
 忽	fat
@@ -2750,7 +2759,7 @@ use_preset_vocabulary: true
 加	gaa
 家	gaa
 䕒	gaa
-㗎	gaa
+㗎	gaa	1000
 袈	gaa
 嘏	gaa
 跏	gaa
@@ -2776,7 +2785,7 @@ use_preset_vocabulary: true
 鎵	gaa
 尕	gaa
 檟	gaa
-偈	gai
+偈	gai	1000
 瀱	gai
 薊	gai
 紒	gai
@@ -2797,7 +2806,7 @@ use_preset_vocabulary: true
 冚	gam
 澉	gam
 紟	gam
-噉	gam
+噉	gam	1000
 僸	gam
 凎	gam
 泔	gam
@@ -2810,7 +2819,7 @@ use_preset_vocabulary: true
 紺	gam
 橄	gam
 疳	gam
-咁	gam
+咁	gam	1000
 衿	gam
 柑	gam
 灨	gam
@@ -2835,7 +2844,7 @@ use_preset_vocabulary: true
 近	gan
 僅	gan
 根	gan
-緊	gan
+緊	gan	1000
 謹	gan
 筋	gan
 斤	gan
@@ -2967,7 +2976,7 @@ use_preset_vocabulary: true
 鬾	gei
 跽	gei
 惎	gei
-徛	gei
+徛	gei	1000
 穊	gei
 羇	gei
 誋	gei
@@ -3117,7 +3126,7 @@ use_preset_vocabulary: true
 玨	gok
 各	gok
 角	gok
-覺	gok
+覺	gok	95%
 閣	gok
 鉻	gok
 閤	gok
@@ -3174,12 +3183,12 @@ use_preset_vocabulary: true
 高	gou
 藁	gou
 㟸	gou
-攰	gui
+攰	gui	1000
 癐	gui
 牿	guk
 瀔	guk
 梮	guk
-焗	guk
+焗	guk	1000
 掬	guk
 鋦	guk
 挶	guk
@@ -3251,7 +3260,7 @@ use_preset_vocabulary: true
 㗻	gwo
 渦	gwo
 戈	gwo
-果	gwo
+果	gwo	100%
 蝦	haa
 霞	haa
 岈	haa
@@ -3288,9 +3297,9 @@ use_preset_vocabulary: true
 兮	hai
 郋	hai
 繫	hai
-係	hai
+係	hai	100000
 系	hai
-喺	hai
+喺	hai	10000
 匸	hai
 剋	hak
 氪	hak
@@ -3336,7 +3345,7 @@ use_preset_vocabulary: true
 蚶	ham
 頷	ham
 唅	ham
-冚	ham
+冚	ham	1000
 戡	ham
 琀	ham
 顑	ham
@@ -3470,7 +3479,7 @@ use_preset_vocabulary: true
 㝃	hei
 喜	hei
 㼄	hei
-戲	hei
+戲	hei	100%
 汽	hei
 棄	hei
 禧	hei
@@ -3718,7 +3727,7 @@ use_preset_vocabulary: true
 㕰	huk
 㿥	huk
 也	jaa
-廿	jaa
+廿	jaa	1000
 廾	jaa
 跩	jai
 詍	jai
@@ -3744,7 +3753,7 @@ use_preset_vocabulary: true
 陰	jam
 鑫	jam
 欽	jam
-飲	jam
+飲	jam	500%
 㟻	jam
 音	jam
 任	jam
@@ -4347,7 +4356,7 @@ use_preset_vocabulary: true
 袽	jyu
 覦	jyu
 隃	jyu
-瘀	jyu
+瘀	jyu	1000
 圉	jyu
 孺	jyu
 貐	jyu
@@ -4602,7 +4611,7 @@ use_preset_vocabulary: true
 踑	kei
 觭	kei
 暨	kei
-企	kei
+企	kei	500%
 旗	kei
 琪	kei
 碁	kei
@@ -4717,7 +4726,7 @@ use_preset_vocabulary: true
 搉	kok
 繪	kui
 廥	kui
-會	kui
+會	kui	1%
 賄	kui
 潰	kui
 檜	kui
@@ -4751,9 +4760,9 @@ use_preset_vocabulary: true
 括	kut
 嚹	laa
 鞡	laa
-罅	laa
+罅	laa	1000
 砬	laa
-喇	laa
+喇	laa	1000
 拉	laa
 啦	laa
 㙈	laa
@@ -4781,7 +4790,7 @@ use_preset_vocabulary: true
 例	lai
 禮	lai
 矋	lai
-嚟	lai
+嚟	lai	10000
 㴝	lai
 㕸	lai
 黎	lai
@@ -4795,7 +4804,7 @@ use_preset_vocabulary: true
 捩	lai
 犁	lai
 鱧	lai
-嘞	lak
+嘞	lak	1000
 勒	lak
 朸	lak
 肋	lak
@@ -4808,10 +4817,10 @@ use_preset_vocabulary: true
 鰳	lak
 菻	lam
 痳	lam
-諗	lam
+諗	lam	1000
 檁	lam
 壈	lam
-冧	lam
+冧	lam	1000
 㛦	lam
 廩	lam
 淋	lam
@@ -4952,7 +4961,7 @@ use_preset_vocabulary: true
 嚟	lei
 脷	lei
 壢	lek
-叻	lek
+叻	lek	1000
 舐	lem
 藶	lik
 屴	lik
@@ -4960,7 +4969,7 @@ use_preset_vocabulary: true
 櫟	lik
 擽	lik
 爍	lik
-叻	lik
+叻	lik	1000
 轢	lik
 瓅	lik
 皪	lik
@@ -5111,7 +5120,6 @@ use_preset_vocabulary: true
 崍	loi
 鶆	loi
 犖	lok
-咯	lok
 酪	lok
 㦡	lok
 烙	lok
@@ -5168,7 +5176,7 @@ use_preset_vocabulary: true
 嚕	lou
 牢	lou
 廬	lou
-佬	lou
+佬	lou	1000
 顱	lou
 鱸	lou
 滷	lou
@@ -5266,7 +5274,7 @@ use_preset_vocabulary: true
 米	mai
 迷	mai
 謎	mai
-咪	mai
+咪	mai	1000
 霾	mai
 覛	mak
 霢	mak
@@ -5334,7 +5342,7 @@ use_preset_vocabulary: true
 吻	man
 沕	mat
 蟔	mat
-乜	mat
+乜	mat	10000
 宓	mat
 滵	mat
 嘧	mat
@@ -5493,7 +5501,7 @@ use_preset_vocabulary: true
 貘	mok
 鏌	mok
 媢	mou
-冇	mou
+冇	mou	1000
 婺	mou
 瑁	mou
 姥	mou
@@ -5619,7 +5627,7 @@ use_preset_vocabulary: true
 抹	mut
 末	mut
 沒	mut
-嗱	naa
+嗱	naa	1000
 那	naa
 拿	naa
 哪	naa
@@ -6245,7 +6253,7 @@ use_preset_vocabulary: true
 式	sik
 栻	sik
 刺	sik
-惜	sik
+惜	sik	500%
 析	sik
 錫	sik
 釋	sik
@@ -6256,7 +6264,7 @@ use_preset_vocabulary: true
 蕮	sik
 轖	sik
 識	sik
-食	sik
+食	sik	500%
 醳	sik
 螅	sik
 襫	sik
@@ -6578,7 +6586,7 @@ use_preset_vocabulary: true
 題	tai
 提	tai
 騠	tai
-睇	tai
+睇	tai	10000
 體	tai
 緹	tai
 締	tai
@@ -7021,7 +7029,7 @@ use_preset_vocabulary: true
 鼲	wan
 熨	wan
 隕	wan
-搵	wan
+搵	wan	10000
 醞	wan
 縜	wan
 殞	wan
@@ -7106,7 +7114,7 @@ use_preset_vocabulary: true
 禬	wui
 茴	wui
 椳	wui
-會	wui
+會	wui	99%
 恛	wui
 洄	wui
 蚘	wui
@@ -7166,7 +7174,7 @@ use_preset_vocabulary: true
 佸	wut
 挓	zaa
 檛	zaa
-咋	zaa
+咋	zaa	1000
 樝	zaa
 蜡	zaa
 楂	zaa
@@ -7195,7 +7203,7 @@ use_preset_vocabulary: true
 砟	zaa
 查	zaa
 䐁	zaa
-揸	zaa
+揸	zaa	1000
 溠	zaa
 鮓	zaa
 厏	zaa
@@ -7203,7 +7211,7 @@ use_preset_vocabulary: true
 漈	zai
 狾	zai
 齎	zai
-掣	zai
+掣	zai	1000
 霽	zai
 晢	zai
 穧	zai
@@ -7227,7 +7235,7 @@ use_preset_vocabulary: true
 製	zai
 劑	zai
 制	zai
-仔	zai
+仔	zai	1000
 滯	zai
 擠	zai
 祭	zai
@@ -7894,7 +7902,7 @@ use_preset_vocabulary: true
 釵	caai
 踹	caai
 喍	caai
-差	caai
+差	caai	300%
 囆	caai
 瘥	caai
 搋	caai
@@ -8370,7 +8378,7 @@ use_preset_vocabulary: true
 頂	deng
 釘	deng
 疔	deng
-掟	deng
+掟	deng	1000
 膇	deoi
 薱	deoi
 䇏	deoi
@@ -8673,7 +8681,7 @@ use_preset_vocabulary: true
 玠	gaai
 妎	gaai
 价	gaai
-鎅	gaai
+鎅	gaai	1000
 䃈	gaai
 檞	gaai
 喈	gaai
@@ -8734,7 +8742,7 @@ use_preset_vocabulary: true
 艱	gaan
 柬	gaan
 菅	gaan
-揀	gaan
+揀	gaan	300%
 奸	gaan
 茧	gaan
 姦	gaan
@@ -8781,10 +8789,10 @@ use_preset_vocabulary: true
 佼	gaau
 絞	gaau
 狡	gaau
-搞	gaau
+搞	gaau	500%
 鵁	gaau
 膠	gaau
-覺	gaau
+覺	gaau	5%
 交	gaau
 校	gaau
 窖	gaau
@@ -8800,7 +8808,7 @@ use_preset_vocabulary: true
 斠	gaau
 筊	gaau
 窌	gaau
-攪	gaau
+攪	gaau	1000
 轇	gaau
 郊	gaau
 滘	gaau
@@ -8819,7 +8827,7 @@ use_preset_vocabulary: true
 亙	gang
 羹	gang
 更	gang
-哽	gang
+哽	gang	1000
 緪	gang
 粳	gang
 鯁	gang
@@ -8888,7 +8896,7 @@ use_preset_vocabulary: true
 憬	ging
 獍	ging
 矜	ging
-儆	ging
+儆	ging	1000
 鵛	ging
 痙	ging
 俓	ging
@@ -8999,7 +9007,7 @@ use_preset_vocabulary: true
 緺	gwaa
 絓	gwaa
 詿	gwaa
-啩	gwaa
+啩	gwaa	1000
 垝	gwai
 闠	gwai
 廆	gwai
@@ -9219,7 +9227,7 @@ use_preset_vocabulary: true
 銜	haam
 嵌	haam
 鹹	haam
-喊	haam
+喊	haam	1000
 陷	haam
 餡	haam
 啣	haam
@@ -9244,7 +9252,7 @@ use_preset_vocabulary: true
 撊	haan
 掔	haan
 憪	haan
-慳	haan
+慳	haan	1000
 閑	haan
 硤	haap
 峽	haap
@@ -9357,7 +9365,7 @@ use_preset_vocabulary: true
 詗	hing
 鑋	hing
 矎	hing
-㷫	hing
+㷫	hing	1000
 脛	hing
 磬	hing
 敻	hing
@@ -9859,7 +9867,7 @@ use_preset_vocabulary: true
 躣	keoi
 軥	keoi
 鐻	keoi
-區	keoi
+區	keoi	99%
 鮈	keoi
 距	keoi
 袪	keoi
@@ -9876,7 +9884,7 @@ use_preset_vocabulary: true
 璩	keoi
 竘	keoi
 蠷	keoi
-佢	keoi
+佢	keoi	100000
 痀	keoi
 灈	keoi
 胊	keoi
@@ -10072,7 +10080,7 @@ use_preset_vocabulary: true
 拉	laai
 賴	laai
 落	laai
-瀨	laai
+瀨	laai	1000
 酹	laai
 籟	laai
 癩	laai
@@ -10117,7 +10125,7 @@ use_preset_vocabulary: true
 糷	laan
 籣	laan
 讕	laan
-躝	laan
+躝	laan	1000
 灡	laan
 闌	laan
 鑭	laan
@@ -10146,7 +10154,7 @@ use_preset_vocabulary: true
 䓝	laau
 唥	lang
 鯪	leng
-靚	leng
+靚	leng	1000
 嶺	leng
 領	leng
 靈	leng
@@ -10379,7 +10387,7 @@ use_preset_vocabulary: true
 朧	lung
 哢	lung
 櫳	lung
-窿	lung
+窿	lung	1000
 躘	lung
 曨	lung
 蠪	lung
@@ -10985,6 +10993,7 @@ use_preset_vocabulary: true
 碰	pung
 捧	pung
 芃	pung
+嗮	saai	10000
 枲	saai
 蹝	saai
 咶	saai
@@ -11322,7 +11331,7 @@ use_preset_vocabulary: true
 從	sung
 駷	sung
 竦	sung
-餸	sung
+餸	sung	1000
 篆	syun
 瑑	syun
 璿	syun
@@ -11369,7 +11378,7 @@ use_preset_vocabulary: true
 鈦	taai
 貸	taai
 汰	taai
-呔	taai
+呔	taai	1000
 忕	taai
 傣	taai
 態	taai
@@ -11444,7 +11453,7 @@ use_preset_vocabulary: true
 塔	taap
 拓	taap
 漯	taap
-遢	taap
+遢	taap	1000
 嗒	taap
 鰨	taap
 涾	taap
@@ -11458,7 +11467,7 @@ use_preset_vocabulary: true
 闥	taat
 撻	taat
 韃	taat
-遢	taat
+遢	taat	1000
 躂	taat
 㪗	taau
 藤	tang
@@ -11558,7 +11567,7 @@ use_preset_vocabulary: true
 躺	tong
 醣	tong
 㑽	tong
-劏	tong
+劏	tong	1000
 瞠	tong
 趟	tong
 幢	tong
@@ -11848,7 +11857,7 @@ use_preset_vocabulary: true
 撰	zaan
 賺	zaan
 棧	zaan
-㜺	zaan
+㜺	zaan	1000
 贃	zaan
 槢	zaap
 隰	zaap
@@ -11869,7 +11878,7 @@ use_preset_vocabulary: true
 雜	zaap
 習	zaap
 集	zaap
-甴	zaat
+甴	zaat	1000
 拶	zaat
 哳	zaat
 鍘	zaat
@@ -11913,7 +11922,7 @@ use_preset_vocabulary: true
 爭	zang
 曾	zang
 增	zang
-踭	zang
+踭	zang	1000
 正	zeng
 鄭	zeng
 精	zeng
@@ -12000,7 +12009,7 @@ use_preset_vocabulary: true
 綧	zeon
 縉	zeon
 㑺	zeon
-樽	zeon
+樽	zeon	1000
 搢	zeon
 迍	zeon
 浚	zeon
@@ -12233,7 +12242,7 @@ use_preset_vocabulary: true
 絕	zyut
 綴	zyut
 拙	zyut
-啜	zyut
+啜	zyut	1000
 絀	zyut
 掇	zyut
 梲	zyut
@@ -12250,7 +12259,7 @@ use_preset_vocabulary: true
 瞠	caang
 掁	caang
 橙	caang
-撐	caang
+撐	caang	500%
 爭	caang
 囪	coeng
 菖	coeng
@@ -12288,7 +12297,7 @@ use_preset_vocabulary: true
 嗆	coeng
 瑲	coeng
 倡	coeng
-暢	coeng
+暢	coeng	500%
 薔	coeng
 萇	coeng
 悵	coeng
@@ -12544,8 +12553,8 @@ use_preset_vocabulary: true
 碞	ngaam
 嵒	ngaam
 喦	ngaam
-啱	ngaam
-晏	ngaan
+啱	ngaam	1000
+晏	ngaan	1000
 贗	ngaan
 研	ngaan
 鴈	ngaan
@@ -12573,7 +12582,7 @@ use_preset_vocabulary: true
 崤	ngaau
 仰	ngong
 昂	ngong
-戇	ngong
+戇	ngong	1000
 骯	ngong
 卬	ngong
 蕹	ngung
@@ -12660,7 +12669,7 @@ use_preset_vocabulary: true
 爭	zaang
 睜	zaang
 錚	zaang
-踭	zaang
+踭	zaang	1000
 猙	zaang
 琤	zaang
 䒏	zaang
