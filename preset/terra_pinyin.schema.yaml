@@ -109,7 +109,7 @@ reverse_lookup:
   preedit_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
   comment_format:
-    - xform ([aeio])(ng?)([1234]) $1$3$2
+    - xform ([aeiou])(ng?)([1234]) $1$3$2
     - xform ([aeo])([iuo])([1234]) $1$3$2
     - xform a1 ā
     - xform a2 á
