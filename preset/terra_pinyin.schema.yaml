@@ -64,7 +64,7 @@ speller:
     - derive/([aeiou])ng/$1gn/
     - derive/([iu])a(o|ng?)/a$1$2/
     - derive/^([a-z]+)\d$/$1/
-    - derive/o(u|ng)$/o/
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/
     - derive/ong$/on/
     - 'erase/^.*5$/'
     - 'xlit 1234 -/<\'
