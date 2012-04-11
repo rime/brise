@@ -1,0 +1,101 @@
+# Rime schema settings
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: stroke5
+  name: 筆順五碼
+  version: "0.4"
+  author:
+    - 梁敬文 Leung King Man <leungkm1@hotmail.com>
+    - 王潔貞 Amy Wong <wongkitching01@yahoo.com.hk>
+    - 陳荃 Chan Chuen <chanc1002@sinatown.com>
+    - 龍正忠 Lung Ching Chung <lungcc1067@sinatown.com>
+    - 古國義 Richard Ku <richardkyku@sinatown.com>
+    - 王林根 Mike Wong <mike_lg_wong@yahoo.com.hk>
+    - 郭楷 Kwok Kai <kwokkaihk@yahoo.com.hk>
+    - 呂蔡美冬 Vivian Choi <mtchoi6@yahoo.com.hk>
+  description: |
+    筆順五碼輸入法0.4版 <http://input.foruto.com/stroke5>
+    版權: GPL
+    支援及維護: 香港長者資訊天地 Hong Kong Seniors IT Advocates <info@hkseniors.net>
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    #- punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    #- punct_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    #- punct_translator
+    - table_translator
+    - reverse_lookup_translator
+
+speller:
+  alphabet: nm,./
+  delimiter: " ;'"
+  max_code_length: 5
+
+menu:
+  page_size: 9
+
+translator:
+  dictionary: stroke5
+  preedit_format:
+    - "xform/^/^/"
+    - "xform/$/$$/"
+    - "xlit|m/,.n;'^$|一丨丿丶乙・・【】|"
+  comment_format:
+    - "xlit|m/,.n~|一丨丿丶乙～|"
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+  comment_format:
+    - "xlit|m/,.n|一丨丿丶乙|"
+
+key_binder:
+  bindings:
+    # Emacs style
+    - { when: composing, accept: Control+p, send: Up }
+    - { when: composing, accept: Control+n, send: Down }
+    - { when: composing, accept: Control+b, send: Left }
+    - { when: composing, accept: Control+f, send: Right }
+    - { when: composing, accept: Control+a, send: Home }
+    - { when: composing, accept: Control+e, send: End }
+    - { when: composing, accept: Control+d, send: Delete }
+    - { when: composing, accept: Control+g, send: Escape }
+    - { when: composing, accept: Alt+v, send: Page_Up }
+    - { when: composing, accept: Control+v, send: Page_Down }
+    # commonly used paging keys
+    - { when: composing, accept: ISO_Left_Tab, send: Page_Up }
+    - { when: composing, accept: Shift+Tab, send: Page_Up }
+    - { when: composing, accept: Tab, send: Page_Down }
+    - { when: paging, accept: minus, send: Page_Up }
+    - { when: has_menu, accept: equal, send: Page_Down }
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*$"
