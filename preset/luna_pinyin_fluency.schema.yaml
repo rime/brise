@@ -4,8 +4,8 @@
 
 schema:
   schema_id: luna_pinyin_fluency
-  name: 語句流
-  version: "0.9.10"
+  name: 朙月拼音・語句流
+  version: "0.9.11"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -88,4 +88,5 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
+    number: "^[-+]?[0-9][.0-9]*[%]?$"
     reverse_lookup: "`[a-z]*$"
