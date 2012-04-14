@@ -45,6 +45,9 @@ speller:
   alphabet: "hspnz"
   delimiter: " '"
 
+menu:
+  page_size: 9
+
 translator:
   dictionary: stroke_simp
   preedit_format:
