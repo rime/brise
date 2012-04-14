@@ -5,7 +5,7 @@
 schema:
   schema_id: terra_pinyin
   name: 地球拼音
-  version: "0.4"
+  version: "0.5"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -105,6 +105,7 @@ translator:
 
 reverse_lookup:
   dictionary: cangjie5
+  enable_completion: true
   prefix: "`"
   tips: 〔倉頡〕
   preedit_format:
