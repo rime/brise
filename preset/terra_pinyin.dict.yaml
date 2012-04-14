@@ -24,7 +24,7 @@
 
 ---
 name: terra_pinyin
-version: "0.2"
+version: "0.3"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -956,6 +956,7 @@ use_preset_vocabulary: true
 鯡	fei1
 鯠	lai2
 笨	ben4
+体	ben4
 笪	da2
 笫	zi3
 第	di4
@@ -1409,6 +1410,7 @@ use_preset_vocabulary: true
 屄	bi1
 屇	tian2
 屆	jie4
+价	jie4
 屹	yi4
 屺	qi3
 屼	wu4
@@ -2066,6 +2068,7 @@ use_preset_vocabulary: true
 媳	xi2
 窞	dan4
 窟	ku1
+圣	ku1
 窘	jiong3
 窖	jiao4
 窗	chuang1
@@ -2391,6 +2394,7 @@ use_preset_vocabulary: true
 合	ge3	0%
 合	he2	100%
 吉	ji2
+洁	ji2
 吆	yao1
 各	ge4
 吅	song4	50%
@@ -8000,7 +8004,8 @@ use_preset_vocabulary: true
 爯	chen4	50%
 爯	cheng1	50%
 爨	cuan4
-爪	zhua3
+爪	zhua3	95%
+爪	zhao3	5%
 爐	lu2
 爓	yan4
 爝	jue2
@@ -24117,7 +24122,7 @@ use_preset_vocabulary: true
 皇曆	huang2 li5
 皇朝	huang2 chao2
 皇親國戚	huang2 qin1 guo2 qi1
-皎洁	jiao3 jie2
+皎潔	jiao3 jie2
 皮兒	pi2 r5
 皮劃艇	pi2 hua2 ting3
 皮劃艇激流回旋	pi2 hua2 ting3 ji1 liu2 hui2 xuan2
@@ -25899,7 +25904,6 @@ use_preset_vocabulary: true
 罐子	guan4 zi5
 罐頭	guan4 tou5
 罐頭起子	guan4 tou5 qi3 zi5
-罗洁爱尔之	luo2 jie2 ai4 er3 zhi1
 罪大惡極	zui4 da4 e4 ji2
 罪惡	zui4 e4
 罪惡滔天	zui4 e4 tao1 tian1
