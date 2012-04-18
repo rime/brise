@@ -24,7 +24,7 @@
 
 ---
 name: terra_pinyin
-version: "0.3"
+version: "0.4"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -205,6 +205,7 @@ use_preset_vocabulary: true
 朝	chao2	70%
 朝	zhao1	30%
 期	qi1
+期	qi2	0%
 朐	qu2
 朓	tiao4
 朕	zhen4
@@ -1993,6 +1994,7 @@ use_preset_vocabulary: true
 和	hu2	1%
 和	huo2	3%
 和	huo4	3%
+和	han4	0%
 咍	hai1
 咎	jiu4
 咈	fu2
@@ -3501,6 +3503,7 @@ use_preset_vocabulary: true
 夗	yuan4
 夔	kui2
 夕	xi1
+夕	xi2	0%
 多	duo1
 驁	ao4
 夘	mao3
@@ -5871,7 +5874,9 @@ use_preset_vocabulary: true
 佛	fo2
 栱	gong3
 仃	ding1
-什	shi2
+什	shi2	99%
+什	shen2	1%
+什	she2	0%
 仁	ren2
 栽	zai1
 仏	fo2
@@ -6315,6 +6320,7 @@ use_preset_vocabulary: true
 惚	hu1
 惛	hun1
 惜	xi1
+惜	xi2	0%
 惝	chang3	50%
 惝	tang3	50%
 惟	wei2
@@ -7925,6 +7931,7 @@ use_preset_vocabulary: true
 預	yu4
 拫	hen2
 括	kuo4
+括	gua1	0%
 拭	shi4
 拮	jie2
 拯	zheng3
@@ -9810,6 +9817,7 @@ use_preset_vocabulary: true
 縳	zhuan4
 總	zong3
 績	ji4
+績	ji1
 縿	shan1
 縹	piao3
 縻	mi2
@@ -9862,6 +9870,7 @@ use_preset_vocabulary: true
 攛	cuan1
 攝	she4
 攜	xie2
+攜	xi1	0%
 鳴	ming2
 攀	pan1
 攃	sa4
@@ -12078,9 +12087,9 @@ use_preset_vocabulary: true
 人魚小姐	ren2 yu2 xiao3 jie5
 什剎海	shi2 cha4 hai3
 什麼	shen2 me5
-什麽	shen2 me5
-什麽地方	shen2 me5 di4 fang5
-什麽時候	shen2 me5 shi2 hou5
+什麼	she2 me5
+什麼地方	shen2 me5 di4 fang5
+什麼時候	shen2 me5 shi2 hou5
 仁人君子	ren2 ren2 jun1 zi3
 仁義	ren2 yi4
 仁義	ren2 yi5
