@@ -5,7 +5,7 @@
 schema:
   schema_id: quick5
   name: 速成
-  version: "0.9.9"
+  version: "0.10"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -59,6 +59,7 @@ translator:
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
   disable_user_dict_for_patterns:
     - "^z.*$"
+    - "^yyy.*$"
 
 reverse_lookup:
   dictionary: luna_pinyin
