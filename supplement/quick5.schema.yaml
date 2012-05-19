@@ -46,7 +46,7 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " ;'"
   algebra:
-    - 'derive/^(\w)\w+(\w)$/$1$2/'  # 取倉頡首尾二碼爲速成碼
+    - 'derive/^([^z])\w+(\w)$/$1$2/'  # 取倉頡首尾二碼爲速成碼
 
 translator:
   dictionary: quick5
