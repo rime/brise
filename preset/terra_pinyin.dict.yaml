@@ -684,6 +684,7 @@ use_preset_vocabulary: true
 鄾	you1
 誶	sui4
 誰	shei2
+誰	shui2
 課	ke4
 誼	yi4
 調	diao4	50%
@@ -11941,7 +11942,7 @@ use_preset_vocabulary: true
 互相監督	hu4 xiang1 jian1 du1
 互相聯繫	hu4 xiang1 lian2 xi4
 互相連接	hu4 xiang1 lian2 jie1
-五倍子樹	wu3 bei4 zi5 shu4
+五倍子樹	wu3 bei4 zi3 shu4
 五分之一	wu3 fen1 zhi1 yi1
 五分熟	wu3 fen1 shu2
 五分美金	wu3 fen1 mei3 jin1
@@ -14866,8 +14867,8 @@ use_preset_vocabulary: true
 向量代數	xiang4 liang4 dai4 shu4
 向量圖形	xiang4 liang4 tu2 xing2
 君子	jun1 zi3
-君子之交	jun1 zi5 zhi1 jiao1
-君子之交淡如水	jun1 zi5 zhi1 jiao1 dan4 ru2 shui3
+君子之交	jun1 zi3 zhi1 jiao1
+君子之交淡如水	jun1 zi3 zhi1 jiao1 dan4 ru2 shui3
 君子動口不動手	jun1 zi3 dong4 kou3 bu2 dong4 shou3
 君子蘭	jun1 zi3 lan2
 吞吐	tun1 tu3
@@ -15879,8 +15880,8 @@ use_preset_vocabulary: true
 埋藏	mai2 cang2
 埋頭	mai2 tou2
 埋頭苦幹	mai2 tou2 ku3 gan4
-城子河	cheng2 zi5 he2
-城子河區	cheng2 zi5 he2 qu1
+城子河	cheng2 zi3 he2
+城子河區	cheng2 zi3 he2 qu1
 城市規劃	cheng2 shi4 gui1 hua4
 埔心	bu4 xin1
 埔心鄉	bu4 xin1 xiang1
@@ -16596,7 +16597,7 @@ use_preset_vocabulary: true
 妹妹	mei4 mei5
 妹子	mei4 zi5
 妻子	qi1 zi5
-妻子管得嚴	qi1 zi5 guan3 de2 yan2
+妻子管得嚴	qi1 zi3 guan3 de2 yan2
 妻離子散	qi1 li2 zi3 san4
 姊夫	zi3 fu5
 始興	shi3 xing1
@@ -16750,7 +16751,7 @@ use_preset_vocabulary: true
 孔夫子	kong3 fu1 zi3
 孔子	kong3 zi3
 孔子學院	kong3 zi3 xue2 yuan4
-孔子家語	kong3 zi5 jia1 yu3
+孔子家語	kong3 zi3 jia1 yu3
 孔雀王朝	kong3 que4 wang2 chao2
 孕吐	yun4 tu4
 字帖	zi4 tie4
@@ -16790,7 +16791,7 @@ use_preset_vocabulary: true
 孫女婿	sun1 nv3 xu5
 孫媳夫	sun1 xi2 fu5
 孫子兵法	sun1 zi3 bing1 fa3
-孫子定理	sun1 zi5 ding4 li3
+孫子定理	sun1 zi3 ding4 li3
 孫悟空	sun1 wu4 kong1
 孫武子	sun1 wu3 zi3
 孫行者	sun1 xing2 zhe3
@@ -18922,8 +18923,7 @@ use_preset_vocabulary: true
 房地產	fang2 di4 chan3
 房地美	fang2 di4 mei3
 房子	fang2 zi5
-房子租	fang2 zi5 zu1
-房牙子	fang2 ya2 zi3
+房牙子	fang2 ya2 zi5
 房貸銀行	fang2 dai4 yin2 hang2
 房間	fang2 jian1
 所作所爲	suo3 zuo4 suo3 wei2
@@ -21309,8 +21309,8 @@ use_preset_vocabulary: true
 柵極	shan1 ji2
 柿子	shi4 zi5
 柿子椒	shi4 zi5 jiao1
-栀子	zhi1 zi5
-栀子花	zhi1 zi5 hua1
+栀子	zhi1 zi3
+栀子花	zhi1 zi3 hua1
 栈板	zhan4 ban3
 栓塞	shuan1 se4
 栗子	li4 zi5
@@ -21417,8 +21417,8 @@ use_preset_vocabulary: true
 桿弟	gan1 di4
 桿菌	gan3 jun1
 梁上君子	liang2 shang4 jun1 zi3
-梁子湖	liang2 zi5 hu2
-梁子湖區	liang2 zi5 hu2 qu1
+梁子湖	liang2 zi3 hu2
+梁子湖區	liang2 zi3 hu2 qu1
 梁山伯與祝英臺	liang2 shan1 bo2 yu3 zhu4 ying1 tai2
 梁朝	liang2 chao2
 梅塞德斯奔馳	mei2 sai4 de2 si1 ben1 chi2
@@ -21909,7 +21909,7 @@ use_preset_vocabulary: true
 正電子	zheng1 dian4 zi5
 正電子斷層	zheng4 dian4 zi3 duan4 ceng2
 正電子照射斷層攝影	zheng1 dian4 zi3 zhao4 she4 duan4 ceng2 she4 ying3
-正電子發射層析	zheng1 dian4 zi5 fa1 she4 ceng2 xi1
+正電子發射層析	zheng1 dian4 zi3 fa1 she4 ceng2 xi1
 正電子發射斷層照相術	zheng4 dian4 zi3 fa1 she4 duan4 ceng2 zhao4 xiang1 shu4
 正電子發射計算機斷層	zheng4 dian4 zi3 fa1 she4 ji4 suan4 ji1 duan4 ceng2
 正電子發射體層	zheng4 dian4 zi3 fa1 she4 ti3 ceng2
@@ -25484,7 +25484,7 @@ use_preset_vocabulary: true
 紅箍兒	hong2 gu1 r5
 紅胡子	hong2 hu2 zi5
 紅脖子	hong2 bo2 zi5
-紅色孃子軍	hong2 se4 niang2 zi5 jun1
+紅色孃子軍	hong2 se4 niang2 zi3 jun1
 紅葡萄酒	hong2 pu2 tao5 jiu3
 紅衣主教	hong2 yi1 zhu3 jiao4
 紅顏薄命	hong2 yan2 bo2 ming4
@@ -28346,9 +28346,9 @@ use_preset_vocabulary: true
 說道	shuo1 dao4
 說道	shuo1 dao5
 說長道短	shuo1 chang2 dao4 duan3
-誰人樂隊	shei2 ren2 yue4 dui4
+誰人樂隊	shui2 ren2 yue4 dui4
 誰知	shui2 zhi1
-誰笑得最好	shei2 xiao4 de2 zui4 hao3
+誰笑得最好	shui2 xiao4 de2 zui4 hao3
 課間	ke4 jian1
 調三窩四	tiao2 san1 wo1 si4
 調任	diao4 ren4
@@ -31309,7 +31309,7 @@ use_preset_vocabulary: true
 電子狗	dian4 zi3 gou3
 電子琴	dian4 zi3 qin2
 電子環保亭	dian4 zi3 huan2 bao3 ting2
-電子盤	dian4 zi5 pan2
+電子盤	dian4 zi3 pan2
 電子眼	dian4 zi3 yan3
 電子科技大學	dian4 zi3 ke1 ji4 da4 xue2
 電子空間	dian4 zi3 kong1 jian1
@@ -32035,8 +32035,6 @@ use_preset_vocabulary: true
 鶯歌燕舞	ying1 ge1 yan4 wu3
 鷸蚌相爭	yu4 bang4 xiang1 zheng1
 鷸蚌相爭漁翁得利	yu4 bang4 xiang1 zheng1 yu2 weng1 de2 li4
-鷹手營子礦	ying1 shou3 ying2 zi5 kuang4
-鷹手營子礦區	ying1 shou3 ying2 zi5 kuang4 qu1
 鷹爪翻子拳	ying1 zhua3 fan1 zi5 quan2
 鹰嘴豆麵粉	ying1 zui3 dou4 mian4 fen3
 鹵屬
@@ -32202,8 +32200,8 @@ use_preset_vocabulary: true
 齒輪傳動	chi3 lun2 chuan2 dong4
 齜牙咧嘴	zi1 ya2 lie3 zui3
 龍卷	long2 juan3
-龍子湖	long2 zi5 hu2
-龍子湖區	long2 zi5 hu2 qu1
+龍子湖	long2 zi3 hu2
+龍子湖區	long2 zi3 hu2 qu1
 龍岩地區	long2 yan2 di4 qu1
 龍生九子	long2 sheng1 jiu3 zi3
 龍的傳人	long2 de5 chuan2 ren2
