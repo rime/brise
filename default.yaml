@@ -2,7 +2,7 @@
 # vim: set sw=2 sts=2 et:
 # encoding: utf-8
 
-config_version: "0.11.1"
+config_version: "0.11.2"
 
 schema_list:
   - schema: luna_pinyin
@@ -14,6 +14,7 @@ switcher:
   caption: 〔方案選單〕
   hotkeys:
     - Control+grave
+    - Control+Shift+grave
     - F4
   save_options:
     - full_shape
