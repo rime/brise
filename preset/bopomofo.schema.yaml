@@ -5,7 +5,7 @@
 schema:
   schema_id: bopomofo
   name: 注音
-  version: "0.3"
+  version: "0.4"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -31,7 +31,7 @@ engine:
     - punctuator
     - selector
     - navigator
-    - express_editor
+    - fluency_editor
   segmentors:
     - ascii_segmentor
     - matcher
