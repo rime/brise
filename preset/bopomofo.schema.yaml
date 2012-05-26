@@ -48,7 +48,7 @@ engine:
     - uniquifier
 
 menu:
-  alternative_select_keys: "ABCDE"
+  alternative_select_keys: "ABCDEFGHIJ"
 
 speller:
   alphabet: '1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/-6347'
