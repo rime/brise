@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "0.3"
+version: "0.3.20120530"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -493,7 +493,7 @@ use_preset_vocabulary: true
 股	gu
 㠸	gu
 鴣	gu
-家	gu
+家	gu	0%
 嘏	gu
 觚	gu
 菰	gu
