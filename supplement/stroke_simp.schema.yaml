@@ -5,7 +5,7 @@
 schema:
   schema_id: stroke_simp
   name: "五笔画"
-  version: "0.1"
+  version: "0.2"
   author:
     - 佚名
   description: |
@@ -36,7 +36,6 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - echo_translator
     - punct_translator
     - table_translator
     - reverse_lookup_translator

@@ -5,7 +5,7 @@
 schema:
   schema_id: wugniu_lopha
   name: 吳語（老派）
-  version: "0.4"
+  version: "0.5"
   author:
     - 上海閒話abc <tzyyiggnih@yahoo.com.cn>
     - 吳語越音 <zhufya@mail.ustc.edu.cn>
@@ -40,7 +40,6 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - echo_translator
     - punct_translator
     - r10n_translator
     - reverse_lookup_translator

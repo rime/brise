@@ -5,7 +5,7 @@
 schema:
   schema_id: stroke5
   name: 筆順五碼
-  version: "0.4.1"
+  version: "0.4.2"
   author:
     - 梁敬文 Leung King Man <leungkm1@hotmail.com>
     - 王潔貞 Amy Wong <wongkitching01@yahoo.com.hk>
@@ -44,7 +44,6 @@ engine:
     #- punct_segmentor
     - fallback_segmentor
   translators:
-    - echo_translator
     #- punct_translator
     - table_translator
     - reverse_lookup_translator

@@ -5,7 +5,7 @@
 schema:
   schema_id: luna_pinyin_fluency
   name: 朙月拼音・語句流
-  version: "0.11"
+  version: "0.12"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -38,7 +38,6 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - echo_translator
     - punct_translator
     - r10n_translator
     - reverse_lookup_translator

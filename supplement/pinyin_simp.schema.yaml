@@ -5,7 +5,7 @@
 schema:
   schema_id: pinyin_simp
   name: 袖珍简化字拼音
-  version: "0.1"
+  version: "0.2"
   author:
     - 佚名
   description: |
@@ -35,7 +35,6 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - echo_translator
     - punct_translator
     - r10n_translator
     - reverse_lookup_translator

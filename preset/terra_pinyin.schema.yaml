@@ -5,7 +5,7 @@
 schema:
   schema_id: terra_pinyin
   name: 地球拼音
-  version: "0.5"
+  version: "0.6"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -38,7 +38,6 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - echo_translator
     - punct_translator
     - r10n_translator
     - reverse_lookup_translator
