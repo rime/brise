@@ -5,7 +5,7 @@
 schema:
   schema_id: quick5
   name: 速成
-  version: "0.11"
+  version: "0.12"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -19,6 +19,8 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
 
 engine:
   processors:
@@ -40,6 +42,9 @@ engine:
     - punct_translator
     - r10n_translator
     - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba

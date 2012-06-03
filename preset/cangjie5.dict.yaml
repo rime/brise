@@ -4,8 +4,10 @@
 
 ---
 name: "cangjie5"
-version: "0.9.5"
+version: "0.10"
 sort: original
+use_preset_vocabulary: true
+max_phrase_length: 1
 ...
 
 日	a

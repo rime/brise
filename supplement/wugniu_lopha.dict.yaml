@@ -11,9 +11,11 @@
 
 ---
 name: wugniu_lopa
-version: "0.2"
+version: "0.3"
 sort: by_weight
 use_preset_vocabulary: true
+max_phrase_length: 7
+min_phrase_weight: 200
 ...
 
 〇	lin
