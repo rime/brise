@@ -5,7 +5,7 @@
 schema:
   schema_id: scj6
   name: 快速倉頡
-  version: "0.1"
+  version: "0.2"
   author:
     - 麥志洪 <makchehu@netvigator.com>
   description: |
@@ -40,7 +40,6 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - echo_translator
     - punct_translator
     - table_translator
     - reverse_lookup_translator
@@ -55,7 +54,7 @@ speller:
 translator:
   dictionary: scj6
   preedit_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz;'|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符··|"
+    - "xlit|abcdefghijklmnopqrstuvwxyz;'|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符・・|"
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
 
