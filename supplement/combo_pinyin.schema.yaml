@@ -1,0 +1,124 @@
+# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: combo_pinyin
+  name: 宮保拼音
+  version: "0.1"
+  author:
+    - 佛振 <chen.sst@gmail.com>
+  description: |
+    並擊輸入拼音
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - chord_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - r10n_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - erase/^xx$/
+
+chord_composer:
+  alphabet: "swxdecfrvgtbnjum ki,lo."
+  algebra:
+    - 'xlit|swxdecfrvgtbnjum ki,lo.|sczhlfgdbktpRiuVaNIUeoE|'
+    - xform/^zf/zh/
+    - xform/^cl/ch/
+    - xform/^fb/m/
+    - xform/^ld/n/
+    - xform/^hg/r/
+    - xform/^[gz]([iV])/j$1/
+    - xform/^[kc]([iV])/q$1/
+    - xform/^[hs]([iV])/x$1/
+    - 'xform/^a$/ /'
+    - xform/ae$/a/
+    - xform/^U$/,/
+    - xform/^E$/./
+    - xform/(ua?)Io$/$1Ne/
+    - xform/aI$/ai/
+    - xform/I[oe]$/ei/
+    - xform/uI$/uei/
+    - xform/^gI$/ji/
+    - xform/^kI$/qi/
+    - xform/^hI$/xi/
+    - xform/I$/i/
+    - xform/VUE$/VNe/
+    - xform/V(a?)U$/i$1U/
+    - xform/aU$/ao/
+    - xform/UE?$/ou/
+    - xform/([aiuV])Ne$/$1ng/
+    - xform/Ne$/eng/
+    - xform/^ung$/weng/
+    - xform/ung$/ong/
+    - xform/Vng$/iong/
+    - xform/([aiuV])N$/$1n/
+    - xform/N$/en/
+    - xform/^un$/wen/
+    - xform/R$/er/
+    - xform/^i(ng?)$/yi$1/
+    - xform/^i$/yi/
+    - xform/^i/y/
+    - xform/^u$/wu/
+    - xform/^u/w/
+    - xform/^V/yu/
+    - xform/^([jqx])V/$1u/
+    - xform/^([zcsr]h?)i([aoe])/$1$2/
+    - xform/^([zcsr]h?)i(ng?)$/$1e$2/
+    - xform/iou$/iu/
+    - xform/uei$/ui/
+    - xlit/VE/ve/
+    - xform/^([bpf])$/$1u/
+    - xform/^([mdtnlgkh])$/$1e/
+    - xform/^([mdtnlgkh])$/$1e/
+    - xform/^([zcsr]h?)$/$1i/
+  output_format:
+    - "xform/^([a-z]+)$/$1'/"
+  prompt_format:
+    - "xform/^(.*)$/[$1]/"
+
+translator:
+  dictionary: luna_pinyin
+  prism: combo_pinyin
+  preedit_format:
+    - xform/([jqxynl])v/$1ü/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
