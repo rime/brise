@@ -24,7 +24,7 @@
 
 ---
 name: terra_pinyin
-version: "0.5"
+version: "0.6"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -2257,6 +2257,8 @@ min_phrase_weight: 200
 卦	gua4
 卡	ka3	90%
 卡	qia3	10%
+卡子	qia3 zi5
+卡住	qia3 zhu4
 占	zhan1	50%
 占	zhan4	50%
 卣	you3
@@ -30590,7 +30592,7 @@ min_phrase_weight: 200
 關中地區	guan1 zhong1 di4 qu1
 關係密切	guan1 xi4 mi4 qie4
 關切	guan1 qie4
-關卡	guan1 ka3
+關卡	guan1 qia3
 關塞	guan1 sai4
 關子	guan1 zi5
 關於	guan1 yu2
