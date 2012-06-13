@@ -3,11 +3,11 @@
 
 ---
 name: "quick5"
-version: "0.10"
+version: "0.11"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
-min_phrase_weight: 200
+min_phrase_weight: 100
 ...
 
 日	a
