@@ -24,7 +24,7 @@
 
 ---
 name: terra_pinyin
-version: "0.7"
+version: "0.7.20120617"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -5176,6 +5176,9 @@ min_phrase_weight: 100
 萴	ze2
 萩	qiu1
 萬	wan4
+万	wan4	99%
+万	mo4	1%
+万俟	mo4 qi2
 鱧	li3
 萘	nai4
 萑	huan2
@@ -7244,6 +7247,8 @@ min_phrase_weight: 100
 尋	xun2
 專	zhuan1
 尉	wei4
+尉	yu4	0%
+尉遲	yu4 chi2
 將	jiang1	90%
 將	jiang4	10%
 將	qiang1	0%
