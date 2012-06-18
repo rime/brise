@@ -24,7 +24,7 @@
 
 ---
 name: terra_pinyin
-version: "0.7.20120617"
+version: "0.6.20120618"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -24009,6 +24009,7 @@ min_phrase_weight: 100
 癱子	tan1 zi5
 登場	deng1 chang3
 登載	deng1 zai3
+發人深省	fa1 ren2 shen1 xing3
 發光強度	fa1 guang1 qiang2 du4
 發卡	fa1 ka3
 發喪	fa1 sang1
