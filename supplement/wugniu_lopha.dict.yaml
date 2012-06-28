@@ -164,7 +164,7 @@ min_phrase_weight: 100
 一約	iq iaq
 一紅	iq kon
 一緊
-一群
+一羣
 一聞	iq ven
 一聲勿響	iq sen veq xian
 一脈
@@ -984,7 +984,7 @@ min_phrase_weight: 100
 不置	peq tzy
 不羈	peq cij
 不美	peq mhe
-不群	peq djiun
+不羣	peq djiun
 不義	peq gnij
 不老	peq lo
 不耐	peq ne
@@ -1400,7 +1400,7 @@ min_phrase_weight: 100
 之物	tzy veq
 之理
 之異
-之眾
+之衆
 之約	tzy iaq
 之罪	tzy zeu
 之聲	tzy sen
@@ -2487,7 +2487,7 @@ min_phrase_weight: 100
 人種	gnin tzon
 人稱	gnin tsen
 人緣	gnin yeu
-人群	gnin djiun
+人羣	gnin djiun
 人耳	gnin el
 人聲	gnin sen
 人腦	gnin no
@@ -4181,7 +4181,7 @@ min_phrase_weight: 100
 僧人	sen gnin
 僧尼	sen gnij
 僧帽
-僧眾
+僧衆
 僧肇
 僨	fen
 僬	tzio
@@ -4792,7 +4792,7 @@ min_phrase_weight: 100
 公比	kon pij
 公物	kon veq
 公畜	kon tsoq
-公眾
+公衆
 公積
 公約	kon iaq
 公費	kon fij
@@ -5017,7 +5017,7 @@ min_phrase_weight: 100
 冗繁	gnion ve
 冗長	gnion tzan
 冠	kueu
-冠群
+冠羣
 冠蓋	kueu ke
 冢	tzon
 冤	ieu
@@ -5214,7 +5214,7 @@ min_phrase_weight: 100
 出燈
 出生	tseq san
 出監	tseq ke
-出眾
+出衆
 出窗
 出籠功夫	tseq lon kon fu
 出精
@@ -5374,7 +5374,7 @@ min_phrase_weight: 100
 分級	fen ciq
 分組	fen tzu
 分給	fen ciq
-分群	fen djiun
+分羣	fen djiun
 分肥	fen vij
 分腿	fen the
 分色	fen seq
@@ -5965,7 +5965,7 @@ min_phrase_weight: 100
 加給	ka ciq
 加緊	ka cin
 加繆	ka moe
-加群	ka djiun
+加羣	ka djiun
 加菜	ka tse
 加蓋	ka ke
 加蓬	ka bon
@@ -7222,7 +7222,7 @@ min_phrase_weight: 100
 受教	zoe ko
 受案
 受測
-受眾
+受衆
 受着	zoe zaq
 受罪	zoe zeu
 受苦	zoe khu
@@ -7617,14 +7617,14 @@ min_phrase_weight: 100
 合璧	req piq
 合用	req yon
 合眼	req nge
-合眾	req tzon
+合衆	req tzon
 合着	req zaq
 合符	req vu
 合約	req iaq
 合組	req tzu
 合編	req pi
 合縱	req tzon
-合群	req djiun
+合羣	req djiun
 合而	req el
 合聲	req sen
 合股	req ku
@@ -9344,7 +9344,7 @@ min_phrase_weight: 100
 四氣
 四生	sy san
 四眼狗
-四眾
+四衆
 四碟
 四緣
 四聲	sy sen
@@ -10942,7 +10942,7 @@ min_phrase_weight: 100
 大盜	da do
 大盤	da beu
 大眼	da nge
-大眾	da tzon
+大衆	da tzon
 大砲	da pho
 大破	da phu
 大碗	da ueu
@@ -11239,7 +11239,7 @@ min_phrase_weight: 100
 失查	seq zau
 失物	seq veq
 失約	seq iaq
-失群
+失羣
 失聲	seq sen
 失言	seq gni
 失調	seq dio
@@ -12108,7 +12108,7 @@ min_phrase_weight: 100
 子數
 子是
 子有
-子群
+子羣
 子葉	tzy yiq
 子表
 子說	tzy seq
@@ -14280,7 +14280,7 @@ min_phrase_weight: 100
 幹幹
 幹急
 幹校	keu yo
-幹群
+幹羣
 幹麼	keu meq
 幺	io
 幺二三角落	io gnij se koq loq
@@ -14471,7 +14471,7 @@ min_phrase_weight: 100
 庸	yon
 庸人	yon gnin
 庸夫	yon fu
-庸眾
+庸衆
 庹	thoq
 庾	yu
 廁	tsy
@@ -15101,7 +15101,7 @@ min_phrase_weight: 100
 徑	cin
 徒	du
 徒弟	du dij
-徒眾
+徒衆
 徒費	du fij
 得	teq
 得一
@@ -15837,7 +15837,7 @@ min_phrase_weight: 100
 惇	ten
 惋	ueu
 惑	weq
-惑眾
+惑衆
 惕	thiq
 惘	maon
 惚	hueq
@@ -16058,7 +16058,7 @@ min_phrase_weight: 100
 愛生	e san
 愛的真諦
 愛着	e zaq
-愛群
+愛羣
 愛耍
 愛華	e rau
 愛蓮
@@ -16402,7 +16402,7 @@ min_phrase_weight: 100
 戀人	li gnin
 戀家	li cia
 戀念	li gni
-戀群
+戀羣
 戇	gaon
 戇	tzan
 戇大	gaon da
@@ -16441,7 +16441,7 @@ min_phrase_weight: 100
 成癖
 成竹
 成約	zen iaq
-成群
+成羣
 成行	zen raon
 成見	zen ci
 成說	zen seq
@@ -17307,7 +17307,7 @@ min_phrase_weight: 100
 拔拉	baq lha
 拔涉
 拔白
-拔群
+拔羣
 拖	tha
 拖	thu
 拖下去	thu rau chij
@@ -19149,7 +19149,7 @@ min_phrase_weight: 100
 敵人	diq gnin
 敵僞
 敵害	diq re
-敵群
+敵羣
 敷	fu
 數	su	100%
 數	soq	0%
@@ -19500,7 +19500,7 @@ min_phrase_weight: 100
 旎	gnij
 族	zoq
 族人	zoq gnin
-族群
+族羣
 族親
 族長	zoq tzan
 旒	lioe
@@ -19857,7 +19857,7 @@ min_phrase_weight: 100
 星湖
 星盤
 星緣
-星群
+星羣
 星馬	sin mau
 映	ian
 映	in
@@ -20641,7 +20641,7 @@ min_phrase_weight: 100
 會理	we lij
 會用	we yon
 會盟	we men
-會眾	we tzon
+會衆	we tzon
 會笑	we sio
 會簽	we tsi
 會約	we iaq
@@ -22321,7 +22321,7 @@ min_phrase_weight: 100
 樂的	loq tiq
 樂神	loq zen
 樂章	loq tzaon
-樂群	loq djiun
+樂羣	loq djiun
 樂而	loq el
 樂聖	loq sen
 樂聲	loq sen
@@ -22355,7 +22355,7 @@ min_phrase_weight: 100
 樓浪向
 樓瓦
 樓的
-樓群
+樓羣
 樓蓋	loe ke
 樓裡
 樓院
@@ -22447,7 +22447,7 @@ min_phrase_weight: 100
 機窗
 機織	cij tzeq
 機罩
-機群
+機羣
 機耕	cij ken
 機能	cij nen
 機譯
@@ -23273,7 +23273,7 @@ min_phrase_weight: 100
 民爲
 民生	min san
 民生路	min sen lu
-民眾
+民衆
 民科
 民粹	min tseu
 民約	min iaq
@@ -25404,7 +25404,7 @@ min_phrase_weight: 100
 炸沉
 炸燬
 炸破	tzau phu
-炸群
+炸羣
 炸鍋
 炸響
 為	we
@@ -26119,7 +26119,7 @@ min_phrase_weight: 100
 燕兒	i el
 燕卵	i leu
 燕尾	i vij
-燕群
+燕羣
 燕雀	i tsiaq
 燕食	i zeq
 燕魚	i ng
@@ -26350,7 +26350,7 @@ min_phrase_weight: 100
 牛扒	gnioe bau
 牛皮糖
 牛繩
-牛群
+牛羣
 牛耕	gnioe ken
 牛耳	gnioe el
 牛背	gnioe pe
@@ -26381,7 +26381,7 @@ min_phrase_weight: 100
 牧區	moq chiu
 牧場	moq zan
 牧女	moq gniu
-牧群
+牧羣
 牧馬	moq mau
 物	meq
 物	veq
@@ -26663,7 +26663,7 @@ min_phrase_weight: 100
 獸孩
 獸欲
 獸窟
-獸群
+獸羣
 獸行	soe raon
 獺	thaq
 獺祭	thaq tzij
@@ -27545,7 +27545,7 @@ min_phrase_weight: 100
 當朝	taon zo
 當爲
 當當
-當眾
+當衆
 當紅	taon kon
 當這
 當頭灌腳
@@ -28513,18 +28513,19 @@ min_phrase_weight: 100
 眼識	nge seq
 眼門前
 眾	tzon
-眾人	tzon gnin
-眾多
-眾妙
-眾怒
-眾星
-眾望	tzon vaon
-眾牲	tzon san
-眾生	tzon san
-眾目
-眾說	tzon seq
-眾議
-眾院
+衆	tzon
+衆人	tzon gnin
+衆多
+衆妙
+衆怒
+衆星
+衆望	tzon vaon
+衆牲	tzon san
+衆生	tzon san
+衆目
+衆說	tzon seq
+衆議
+衆院
 着	tzaq
 着	zaq
 着上	zaq zaon
@@ -29254,7 +29255,7 @@ min_phrase_weight: 100
 礴	boq
 示	zy
 示現
-示眾
+示衆
 社	zau
 社交	zau ko
 社區	zau chiu
@@ -29263,7 +29264,7 @@ min_phrase_weight: 100
 社教	zau ko
 社日	zau zeq
 社會	zau we
-社群
+社羣
 社長	zau tzan
 祀	zy
 祁	djij
@@ -29611,7 +29612,7 @@ min_phrase_weight: 100
 種煙
 種瓜	tzon kau
 種秧
-種群
+種羣
 種草
 種馬	tzon mau
 稱	tsen
@@ -30473,7 +30474,7 @@ min_phrase_weight: 100
 糾分	cioe fen
 糾合	cioe req
 糾治
-糾眾
+糾衆
 紀	cij
 紀念	cij gni
 紀行	cij raon
@@ -31620,7 +31621,7 @@ min_phrase_weight: 100
 羊叫	yan cio
 羊圈	yan chieu
 羊氣瘋
-羊群
+羊羣
 羊腿
 羊舍	yan sau
 羌	chian
@@ -31667,44 +31668,44 @@ min_phrase_weight: 100
 羞紅	sioe kon
 群	djiun
 羣	djiun
-群丑
-群主
-群交	djiun ko
-群像
-群團
-群婚
-群射	djiun zau
-群小
-群居
-群山
-群峰
-群島
-群情
-群星
-群架
-群柏
-群毆
-群氓	djiun maon
-群生	djiun san
-群發
-群益
-群眾
-群組
-群聚
-群育
-群臣
-群芳
-群英
-群落
-群論
-群賢
-群起
-群醜
-群雄
-群集
-群雕
-群體
-群魚	djiun ng
+羣丑
+羣主
+羣交	djiun ko
+羣像
+羣團
+羣婚
+羣射	djiun zau
+羣小
+羣居
+羣山
+羣峰
+羣島
+羣情
+羣星
+羣架
+羣柏
+羣毆
+羣氓	djiun maon
+羣生	djiun san
+羣發
+羣益
+羣衆
+羣組
+羣聚
+羣育
+羣臣
+羣芳
+羣英
+羣落
+羣論
+羣賢
+羣起
+羣醜
+羣雄
+羣集
+羣雕
+羣體
+羣魚	djiun ng
 羥	chian
 羧	su
 羨	zi
@@ -32182,7 +32183,7 @@ min_phrase_weight: 100
 聚寶
 聚成
 聚會	ziu we
-聚眾
+聚衆
 聚糖
 聚財
 聚醚
@@ -32220,7 +32221,7 @@ min_phrase_weight: 100
 聯大	li da
 聯奏
 聯會	li we
-聯眾
+聯衆
 聯系
 聯線
 聯繫	li yij
@@ -32330,7 +32331,7 @@ min_phrase_weight: 100
 聽泉
 聽清爽
 聽潮
-聽眾
+聽衆
 聽着	thin zaq
 聽罷
 聽聞	thin ven
@@ -32379,7 +32380,7 @@ min_phrase_weight: 100
 肋棚骨
 肌	cij
 肌注
-肌群
+肌羣
 肓	huaon
 肖	sio
 肖	so
@@ -34080,7 +34081,7 @@ min_phrase_weight: 100
 萬狀	ve zaon
 萬用	ve yon
 萬盛	ve zen
-萬眾	ve tzon
+萬衆	ve tzon
 萬福	ve foq
 萬種	ve tzon
 萬端	ve teu
@@ -34831,7 +34832,7 @@ min_phrase_weight: 100
 蜂毒	fon doq
 蜂燈
 蜂糖
-蜂群
+蜂羣
 蜂脾
 蜂蠆
 蜂鳥	fon knio
@@ -34991,7 +34992,7 @@ min_phrase_weight: 100
 蟻	gnij
 蟻塚
 蟻巢
-蟻群
+蟻羣
 蟾	zeu
 蠃	lu
 蠅	yin
@@ -35806,7 +35807,7 @@ min_phrase_weight: 100
 觀法
 觀瀑	kueu boq
 觀燈
-觀眾
+觀衆
 觀行	kueu raon
 觀賽
 角	koq
@@ -36284,7 +36285,7 @@ min_phrase_weight: 100
 語塞	gniu seq
 語感	gniu keu
 語業
-語群
+語羣
 語聲	gniu sen
 語言	gniu gni
 語言	gniu yi
@@ -37015,7 +37016,7 @@ min_phrase_weight: 100
 象模象樣
 象湖
 象燈
-象群
+象羣
 象馬	zian mau
 象鼻頭
 豢	we
@@ -37580,7 +37581,7 @@ min_phrase_weight: 100
 超微	tso vij
 超期	tso djij
 超生	tso san
-超群
+超羣
 超聲	tso sen
 超車	tso tsau
 超輕
@@ -38715,7 +38716,7 @@ min_phrase_weight: 100
 這番	tzeq fe
 這當
 這纔
-這群
+這羣
 這般	tzeq pe
 這裡
 這說	tzeq seq
@@ -38861,7 +38862,7 @@ min_phrase_weight: 100
 逸品
 逸樂	yiq loq
 逸當
-逸群
+逸羣
 逸聞	yiq ven
 逸趣	yiq tsiu
 逼	piq
@@ -39350,7 +39351,7 @@ min_phrase_weight: 100
 那番	nha fe
 那給
 那纔
-那群
+那羣
 那能	nha nen
 那般	nha pe
 那裡
@@ -41380,7 +41381,7 @@ min_phrase_weight: 100
 隨從	zeu zon
 隨感	zeu keu
 隨着	zeu zaq
-隨群
+隨羣
 隨行	zeu raon
 隨車	zeu tsau
 險	xi
@@ -41439,7 +41440,7 @@ min_phrase_weight: 100
 雁北	i poq
 雁子	i tzy
 雁序	i ziu
-雁群	i djiun
+雁羣	i djiun
 雁行	i raon
 雁陣	i zen
 雄	yon
@@ -41466,7 +41467,7 @@ min_phrase_weight: 100
 集注
 集約	ziq iaq
 集線
-集群
+集羣
 雇	ku
 雇主
 雇傭
@@ -41612,7 +41613,7 @@ min_phrase_weight: 100
 離格
 離此
 離相
-離群
+離羣
 離解	lij cia
 離譜	lij pu
 離軌
@@ -42828,7 +42829,7 @@ min_phrase_weight: 100
 馬糞	mau fen
 馬約	mau iaq
 馬紮	mau tzaq
-馬群	mau djiun
+馬羣	mau djiun
 馬背	mau pe
 馬腳	mau ciaq
 馬臉	mau li
@@ -42915,7 +42916,7 @@ min_phrase_weight: 100
 駛得
 駛進
 駝	du
-駝群
+駝羣
 駝背	du pe
 駝鳥	du knio
 駟	sy
@@ -43292,7 +43293,7 @@ min_phrase_weight: 100
 魚粉	ng fen
 魚網	ng maon
 魚缸	ng kaon
-魚群	ng djiun
+魚羣	ng djiun
 魚翅	ng tsy
 魚肉	ng gnioq
 魚肚	ng du
@@ -43471,7 +43472,7 @@ min_phrase_weight: 100
 鳥窩	knio u
 鳥籠	knio lon
 鳥糞	knio fen
-鳥群	knio djiun
+鳥羣	knio djiun
 鳥聲	knio sen
 鳥蛋	knio de
 鳥語	knio gniu
@@ -43549,7 +43550,7 @@ min_phrase_weight: 100
 鵝	ngu
 鵝卵	ngu leu
 鵝毛雪
-鵝群
+鵝羣
 鵠	koq
 鵠	ngoq
 鵠	roq
@@ -43844,7 +43845,7 @@ min_phrase_weight: 100
 黨員	taon yeu
 黨校	taon yo
 黨爭	taon tzan
-黨群
+黨羣
 黨要
 黨費	taon fij
 黯	eu
