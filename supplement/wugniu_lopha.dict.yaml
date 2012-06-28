@@ -11,7 +11,7 @@
 
 ---
 name: wugniu_lopa
-version: "0.4"
+version: "0.5"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -19,7 +19,6 @@ min_phrase_weight: 100
 ...
 
 〇	lin
-㑚	na
 一	iq
 一下	iq rau
 一不	iq peq
@@ -112,7 +111,6 @@ min_phrase_weight: 100
 一收
 一斷	iq deu
 一旁邊
-一日
 一日到夜	iq gniq to ya
 一時頭哴
 一晚	iq ue
@@ -446,7 +444,7 @@ min_phrase_weight: 100
 上海閑話
 上海音
 上湧
-上為
+上爲
 上環
 上當學乖	zaon taon roq kua
 上發
@@ -606,7 +604,7 @@ min_phrase_weight: 100
 下游	rau yoe
 下滑	rau waq
 下炕	rau khaon
-下為	rau we
+下爲	rau we
 下營	rau yin
 下獄	rau gnioq
 下班	rau pe
@@ -933,7 +931,7 @@ min_phrase_weight: 100
 不漲	peq tzan
 不潔	peq ciq
 不濟	peq tzij
-不為	peq we
+不爲	peq we
 不無	peq vu
 不然	peq zeu
 不煩	peq ve
@@ -1098,8 +1096,6 @@ min_phrase_weight: 100
 且	tsia
 且	tsij
 且	tziu
-且	tzu
-且	zu
 且不	tsia peq
 且因	tsia in
 且在	tsia ze
@@ -1155,7 +1151,7 @@ min_phrase_weight: 100
 並曾	bin zen
 並會	bin we
 並未	bin vij
-並為
+並爲
 並無	bin vu
 並獲
 並着	bin zaq
@@ -1251,7 +1247,6 @@ min_phrase_weight: 100
 丰	fon
 串	kue
 串	tseu
-串	we
 串供	tseu kon
 串夷	we yij
 串崗	tseu kaon
@@ -1486,7 +1481,7 @@ min_phrase_weight: 100
 乙某
 乙炔	iq chiuq
 乙類
-乜	mia
+乜	ma
 乜水
 乜野
 九	cioe
@@ -1589,7 +1584,7 @@ min_phrase_weight: 100
 也比	ra pij
 也沒	ra meq
 也沒人做	ra meq gnin tzu
-也為	ra we
+也爲	ra we
 也無	ra vu
 也無知	ya vu tzy
 也用	ra yon
@@ -1743,7 +1738,6 @@ min_phrase_weight: 100
 了錢	lio zi
 了願	lio gnieu
 予	yu
-予	zyu
 予人	yu gnin
 予以	yu ij
 事	zy
@@ -1857,7 +1851,7 @@ min_phrase_weight: 100
 二流	gnij lioe
 二滴	gnij tiq
 二炮	gnij pho
-二為	gnij we
+二爲	gnij we
 二爺	gnij ya
 二版	gnij pe
 二獎	gnij tzian
@@ -1924,8 +1918,6 @@ min_phrase_weight: 100
 二點	gnij ti
 二龍	gnij lon
 亍	tsoq
-于	iu
-于	xiu
 于	yu
 于七	yu tsiq
 于于	yu yu
@@ -1949,7 +1941,7 @@ min_phrase_weight: 100
 互教	wu ko
 互敬
 互濟
-互為
+互爲
 互生	wu san
 互祝	wu tzoq
 互見	wu ci
@@ -1961,7 +1953,7 @@ min_phrase_weight: 100
 互鎖
 亓	djij
 五	ng
-五	wu
+五	u
 五一	ng iq
 五丁	ng tin
 五七	ng tsiq
@@ -2473,7 +2465,6 @@ min_phrase_weight: 100
 人次	gnin tsy
 人欲	gnin yoq
 人氏	gnin zy
-人民
 人民幣	zen min bij
 人氣	gnin chij
 人治	gnin zy
@@ -2481,7 +2472,7 @@ min_phrase_weight: 100
 人海	gnin he
 人渣	gnin tzau
 人潮	gnin zo
-人為	gnin we
+人爲	gnin we
 人煙	gnin i
 人物	gnin veq
 人犯	gnin ve
@@ -2520,6 +2511,8 @@ min_phrase_weight: 100
 人須	gnin siu
 人頭	gnin doe
 人願	gnin gnieu
+人類	gnin le
+人類	zen le
 人馬	gnin mau
 人體	gnin thij
 什	seq
@@ -2532,7 +2525,6 @@ min_phrase_weight: 100
 仁	gnin
 仁	zen
 仁人	gnin gnin
-仁兄
 仁化	gnin hau
 仁厚	gnin roe
 仁宗	gnin tzon
@@ -2545,7 +2537,6 @@ min_phrase_weight: 100
 仁義	gnin gnij
 仁者	gnin tze
 仂	leq
-仂	liq
 仃	tin
 仄	tzeq
 仄愣
@@ -2571,7 +2562,6 @@ min_phrase_weight: 100
 今日	cin zeq
 今是
 今晚	cin ue
-今朝
 今朝仔	cin tzo tzy
 今期	cin djij
 今生	cin san
@@ -2615,13 +2605,12 @@ min_phrase_weight: 100
 仍會	gnin we
 仍有	gnin yoe
 仍未	gnin vij
-仍為	gnin we
+仍爲	gnin we
 仍無	gnin vu
 仍然	gnin zeu
 仍用	gnin yon
 仍由	gnin yoe
 仍能	gnin nen
-仍舊
 仍被	gnin be
 仍要	gnin io
 仍較	gnin cio
@@ -2740,7 +2729,7 @@ min_phrase_weight: 100
 仡	gniq
 仡	keq
 代	de
-代為
+代爲
 代用字
 代租
 代耕	de ken
@@ -2779,8 +2768,8 @@ min_phrase_weight: 100
 以最
 以期	ij djij
 以極
-以為
-以為然
+以爲
+以爲然
 以與
 以解	ij cia
 以說	ij seq
@@ -2831,7 +2820,6 @@ min_phrase_weight: 100
 任	gnin
 任	zen
 任事	zen zy
-任何
 任免	zen mi
 任內	zen ne
 任其	zen djij
@@ -2846,7 +2834,7 @@ min_phrase_weight: 100
 任教	zen ko
 任期	zen djij
 任氣	zen chij
-任為	zen we
+任爲	zen we
 任用	zen yon
 任由	zen yoe
 任縣	zen yeu
@@ -2905,7 +2893,6 @@ min_phrase_weight: 100
 伍	wu
 伍佰	wu paq
 伎	djij
-伎	tzy
 伎倆	djij lian
 伏	bu
 伏	voq
@@ -2914,7 +2901,6 @@ min_phrase_weight: 100
 伏在	voq ze
 伏地	voq dij
 伏天	voq thi
-伏太陽	bu tha yan
 伏小雞	bu sio cij
 伏擊	voq ciq
 伏旱	voq reu
@@ -2981,7 +2967,6 @@ min_phrase_weight: 100
 伯恩	paq en
 伯樂	paq loq
 伯母	paq mhu
-伯氣
 伯爵	paq tziaq
 伯父	paq vu
 伯牙	paq nga
@@ -3012,7 +2997,7 @@ min_phrase_weight: 100
 似	zy
 似乎	zy wu
 似曾	zy zen
-似為
+似爲
 似畫
 似能	zy nen
 似鋼
@@ -3094,7 +3079,6 @@ min_phrase_weight: 100
 低限
 低陷	tij re
 低階	tij cia
-住	tzyu
 住	zyu
 住下	zyu rau
 住個	zyu req
@@ -3136,7 +3120,7 @@ min_phrase_weight: 100
 佔分	tzeu fen
 佔去	tzeu chij
 佔比	tzeu pij
-佔為
+佔爲
 佔理
 佔該
 何	wu
@@ -3152,7 +3136,7 @@ min_phrase_weight: 100
 何晏	wu e
 何曾	wu zen
 何況	wu khuaon
-何為
+何爲
 何物	wu veq
 何能	wu nen
 何至
@@ -3161,7 +3145,7 @@ min_phrase_weight: 100
 何談
 何雲
 佗	du
-佗	tha
+佗	thu
 佘	zau
 佘山
 余	yu
@@ -3225,12 +3209,11 @@ min_phrase_weight: 100
 作家	tzoq cia
 作惡	tzoq oq
 作樂	tzoq loq
-作死
 作死作活	tzoq sij tzoq weq
 作氣
 作泛
 作派
-作為
+作爲
 作物	tzoq veq
 作癢
 作精作怪
@@ -3275,7 +3258,7 @@ min_phrase_weight: 100
 你曾	nhij zen
 你會	nhij we
 你死	nhij sy
-你為
+你爲
 你無	nhij vu
 你當
 你給
@@ -3344,7 +3327,7 @@ min_phrase_weight: 100
 併勒
 併合	pin req
 併撥
-併為
+併爲
 併立
 佶	djiq
 佻	thio
@@ -3408,7 +3391,7 @@ min_phrase_weight: 100
 來比	le pij
 來氣
 來滬
-來為
+來爲
 來牌
 來生	le san
 來用
@@ -3490,7 +3473,7 @@ min_phrase_weight: 100
 係呱	yij kuaq
 係咩
 係嗎	yij mau
-係為
+係爲
 促	tsoq
 促掐
 促掐鬼	tsoq khaq ciu
@@ -3716,7 +3699,7 @@ min_phrase_weight: 100
 倒掛臉
 倒映	to ian
 倒會	to we
-倒灶
+倒竈
 倒脫
 倒要
 倒豎	to zyu
@@ -3727,6 +3710,7 @@ min_phrase_weight: 100
 倒霉
 倒黃梅
 倓	de
+倓	te
 倔	djiuq
 倔強	djiuq djian
 倖	yin
@@ -3783,7 +3767,6 @@ min_phrase_weight: 100
 借進
 借鑒	tzia ci
 倡	tsaon
-倡	zaon
 倡導	tsaon do
 倡廉	tsaon li
 倡條	tsaon dio
@@ -4012,30 +3995,31 @@ min_phrase_weight: 100
 偷越
 偷針眼
 偽	we
-偽劣
-偽名
-偽命
-偽善
-偽基
-偽學	we roq
-偽幣
-偽書
-偽本
-偽滿
-偽稱
-偽經
-偽藥
-偽裝
-偽言	we gni
-偽証
-偽誓
-偽謬
-偽證
-偽足
-偽軍
-偽造
-偽鈔
-偽飾
+僞	we
+僞劣
+僞名
+僞命
+僞善
+僞基
+僞學	we roq
+僞幣
+僞書
+僞本
+僞滿
+僞稱
+僞經
+僞藥
+僞裝
+僞言	we gni
+僞証
+僞誓
+僞謬
+僞證
+僞足
+僞軍
+僞造
+僞鈔
+僞飾
 傀	khue
 傅	fu
 傅	vu
@@ -4048,7 +4032,8 @@ min_phrase_weight: 100
 傍水
 傍生	baon san
 傑	djiq
-傖	tsaon
+傖	tsaon	100%
+傖	tsen	0%
 傘	se
 傘把
 傘降	se kaon
@@ -4112,7 +4097,7 @@ min_phrase_weight: 100
 傳教	zeu ko
 傳染	zeu gni
 傳標
-傳為
+傳爲
 傳看
 傳紀
 傳聞	zeu ven
@@ -4166,7 +4151,7 @@ min_phrase_weight: 100
 僅得
 僅想
 僅指
-僅為
+僅爲
 僅獲
 僅管
 僅能	djin nen
@@ -4186,10 +4171,8 @@ min_phrase_weight: 100
 僕人	boq gnin
 僖	xij
 僚	lio
-僚	lo
 僚屬	lio zoq
 僚機	lio cij
-僞	we
 僥	cio
 僥	gnio
 僥倖	cio yin
@@ -4495,7 +4478,8 @@ min_phrase_weight: 100
 兔崽
 兔燈
 兕	zy
-兖	yi
+兖	yeu
+兗	yeu
 兜	toe
 兜來兜去	toe le toe chij
 兜兜盤盤
@@ -4543,7 +4527,6 @@ min_phrase_weight: 100
 入鬢
 內	naq
 內	ne
-內	zeu
 內中	ne tzon
 內丹	ne te
 內主	ne tzyu
@@ -4692,7 +4675,6 @@ min_phrase_weight: 100
 全委
 全家	zi cia
 全屏	zi bin
-全日
 全景	zi cin
 全會	zi we
 全月	zi yuq
@@ -4738,7 +4720,7 @@ min_phrase_weight: 100
 兩棲	lian tsij
 兩氣生	lian chij san
 兩江	lian kaon
-兩灶
+兩竈
 兩畝
 兩番	lian fe
 兩省	lian san
@@ -4875,7 +4857,7 @@ min_phrase_weight: 100
 共有	gon yoe
 共業	gon gniq
 共渡	gon du
-共為	gon we
+共爲	gon we
 共犯	gon ve
 共生	gon san
 共產	gon tse
@@ -5369,8 +5351,8 @@ min_phrase_weight: 100
 分流	fen lioe
 分清	fen tsin
 分潤	fen zen
-分灶	fen tzo
-分為	fen we
+分竈	fen tzo
+分爲	fen we
 分片	fen phi
 分班	fen pe
 分理	fen lij
@@ -5455,7 +5437,6 @@ min_phrase_weight: 100
 刊物	khe veq
 刊行	khe raon
 刊首
-刍	tsiu
 刎	men
 刎	ven
 刎頸	ven cin
@@ -5464,21 +5445,20 @@ min_phrase_weight: 100
 刑期	yin djij
 刑責	yin tzeq
 划	rau
-划	waq
 划動	rau don
 划拳	rau djieu
 划槳	rau tzian
 划算	rau seu
 划艇	rau thin
 划行	rau raon
-刖	ngeq
+刖	gniuq
 刖	yuq
 列	liq
 列夫	liq fu
 列好
 列強	liq djian
 列日	liq zeq
-列為
+列爲
 列確
 列維
 列車	liq tsau
@@ -5512,7 +5492,7 @@ min_phrase_weight: 100
 初顯
 判	pheu
 判斷	pheu deu
-判為
+判爲
 判罪	pheu zeu
 判讀	pheu doe
 別	biq
@@ -5536,7 +5516,7 @@ min_phrase_weight: 100
 別忘	biq vaon
 別慌
 別提	biq dij
-別為
+別爲
 別無	biq vu
 別相
 別致
@@ -5612,7 +5592,7 @@ min_phrase_weight: 100
 制售
 制是
 制法
-制為
+制爲
 制發
 制程
 制粉
@@ -5627,7 +5607,6 @@ min_phrase_weight: 100
 刷鞋
 刷齊	seq zij
 券	chieu
-券	xieu
 券商	chieu saon
 刹	tsaq
 刺	tsy
@@ -5667,7 +5646,7 @@ min_phrase_weight: 100
 則明
 則曰
 則會	tzeq we
-則為
+則爲
 則無	tzeq vu
 則稱
 則能	tzeq nen
@@ -5714,14 +5693,13 @@ min_phrase_weight: 100
 前手
 前提	zi dij
 前於	zi yu
-前日
 前日仔	zi gniq tzy
 前是
 前晚	zi ue
 前景	zi cin
 前期	zi djij
 前浪
-前為
+前爲
 前生	zi san
 前生前世	zi sen zi sy
 前繞
@@ -5746,8 +5724,8 @@ min_phrase_weight: 100
 剔紅	thiq kon
 剔選
 剕	vij
-剖	phoe
-剖	phu
+剖	phoe	30%
+剖	phu	70%
 剖析	phoe siq
 剖白	phoe baq
 剖腹	phoe foq
@@ -5787,7 +5765,6 @@ min_phrase_weight: 100
 剩磁	zen zy
 剩菜	zen tse
 剩飯	zen ve
-剩餘
 剪	tzi
 剪下	tzi rau
 剪去	tzi chij
@@ -5841,14 +5818,16 @@ min_phrase_weight: 100
 剷	tse
 剽	bio
 剾	khoe
-剿	djio
-剿	tso
-剿匪	djio fij
-剿殺	djio saq
-剿滅	djio miq
-剿絲	djio sy
-剿襲	djio ziq
-剿除	djio zyu
+剿	zio	100%
+勦	zio	100%
+剿	tso	0%
+勦	tso	0%
+剿匪
+剿殺
+剿滅
+剿絲
+剿襲
+剿除
 劁	zio
 劂	ciuq
 劃	waq
@@ -5858,7 +5837,7 @@ min_phrase_weight: 100
 劃拉	waq lha
 劃拳
 劃水
-劃為
+劃爲
 劃破	waq phu
 劃粉
 劃落
@@ -6071,7 +6050,6 @@ min_phrase_weight: 100
 勁爆	cin bo
 勁舞	cin vu
 勁草	cin tso
-勁道
 勁頭	cin doe
 勁風	cin fon
 勃	beq
@@ -6085,7 +6063,7 @@ min_phrase_weight: 100
 勇攀
 勇於	ion yu
 勇毅
-勇為
+勇爲
 勇鬥
 勉	mhi
 勉強	mhi djian
@@ -6211,7 +6189,6 @@ min_phrase_weight: 100
 勿喜
 勿多
 勿多幾時
-勿好
 勿好勒
 勿尷勿尬
 勿庸
@@ -6297,7 +6274,6 @@ min_phrase_weight: 100
 匐	voq
 匕	pij
 化	hau
-化	hu
 化	hua
 化之	hau tzy
 化了	hau lio
@@ -6321,7 +6297,7 @@ min_phrase_weight: 100
 化成	hau zen
 化是	hau zy
 化有	hau yoe
-化為	hau we
+化爲	hau we
 化現	hau yi
 化生	hau san
 化用	hau yon
@@ -6570,7 +6546,6 @@ min_phrase_weight: 100
 千赫	tsi heq
 千魚	tsi ng
 千鳥	tsi knio
-卅	sa
 卅	saq
 卅	seq
 升	sen
@@ -6612,7 +6587,6 @@ min_phrase_weight: 100
 半拉	peu lha
 半掩
 半旁
-半日
 半日天	peu gniq thi
 半月	peu yuq
 半桶
@@ -6771,7 +6745,6 @@ min_phrase_weight: 100
 卜居	poq ciu
 卞	bi
 卞急
-卟	cij
 卟	poq
 占	tzeu
 占卜	tzeu poq
@@ -6786,7 +6759,7 @@ min_phrase_weight: 100
 卣	yoe
 卦	kau
 卦意
-卮	tzy
+巵	tzy
 卯	mo
 印	in
 印下	in rau
@@ -6828,7 +6801,7 @@ min_phrase_weight: 100
 即日	tziq zeq
 即景	tziq cin
 即會	tziq we
-即為
+即爲
 即能	tziq nen
 即與
 即行	tziq raon
@@ -6914,7 +6887,7 @@ min_phrase_weight: 100
 原想
 原指
 原於	gnieu yu
-原為
+原爲
 原無	gnieu vu
 原物	gnieu veq
 原生	gnieu san
@@ -7123,7 +7096,7 @@ min_phrase_weight: 100
 又未	yoe vij
 又比	yoe pij
 又沒	yoe meq
-又為	yoe we
+又爲	yoe we
 又無	yoe vu
 又熱	yoe gniq
 又燃	yoe zeu
@@ -7305,7 +7278,6 @@ min_phrase_weight: 100
 古玩	ku weu
 古船
 古跡
-句	cioe
 句	ciu
 句	koe
 句中	ciu tzon
@@ -7351,15 +7323,6 @@ min_phrase_weight: 100
 叩見	khoe ci
 叩開
 叩響
-只	tzeq
-只不過	tzeq piq ku
-只到
-只搜
-只曉得
-只會得	tzeq we teq
-只聽到過
-只講	tzeq kaon
-只進勿出
 叫	cio
 叫	ko
 叫上	cio zaon
@@ -7388,7 +7351,7 @@ min_phrase_weight: 100
 叫喊	cio he
 叫喚	cio hueu
 叫嘯	cio sio
-叫嚷	cio gnian
+叫嚷
 叫囂	cio xio
 叫好	cio ho
 叫它	cio tha
@@ -7428,7 +7391,8 @@ min_phrase_weight: 100
 召見	zo ci
 叭	pa
 叮	tin
-可	khu
+可	khu	100%
+可	kheq	0%
 可下	khu rau
 可不	khu peq
 可乘	khu tsen
@@ -7465,9 +7429,8 @@ min_phrase_weight: 100
 可望	khu vaon
 可樂	khu loq
 可比	khu pij
-可汗
 可濕
-可為
+可爲
 可產
 可發
 可稱
@@ -7534,9 +7497,9 @@ min_phrase_weight: 100
 叼着	tio zaq
 叼起
 叼鑽促掐
-吁	iu
+吁	yu
 吁	xiu
-吁吁	iu iu
+吁吁	xiu xiu
 吃	chiq
 吃個	chiq req
 吃價
@@ -7599,7 +7562,7 @@ min_phrase_weight: 100
 各條	koq dio
 各業
 各款
-各為
+各爲
 各省	koq san
 各站
 各章
@@ -7647,7 +7610,7 @@ min_phrase_weight: 100
 合水	req syu
 合法	req faq
 合流	req lioe
-合為	req we
+合爲	req we
 合照	req tzo
 合營	req yin
 合理	req lij
@@ -7657,7 +7620,6 @@ min_phrase_weight: 100
 合眾	req tzon
 合着	req zaq
 合符	req vu
-合算
 合約	req iaq
 合組	req tzu
 合編	req pi
@@ -7736,7 +7698,7 @@ min_phrase_weight: 100
 同樂	don loq
 同此
 同比	don pij
-同為
+同爲
 同犯
 同生	don san
 同相
@@ -7775,7 +7737,7 @@ min_phrase_weight: 100
 名校	min yo
 名正
 名氏	min zy
-名為
+名爲
 名男
 名站
 名簿	min bu
@@ -8122,7 +8084,6 @@ min_phrase_weight: 100
 味美	vij mhe
 味蕾	vij le
 味覺	vij cioq
-味道
 呴	hoe
 呴	koe
 呴	xiu
@@ -8469,7 +8430,8 @@ min_phrase_weight: 100
 唇音
 唇齒
 唉	e
-唊	kaq
+唊	kaq	100%
+唊	chi	0%
 唊嘴唊舌
 唏	xij
 唏噓	xij xiu
@@ -8558,8 +8520,6 @@ min_phrase_weight: 100
 商委
 商家	saon cia
 商屯	saon den
-商廈	saon rau
-商廈	saon xia
 商會	saon we
 商有
 商朝	saon zo
@@ -8634,19 +8594,18 @@ min_phrase_weight: 100
 問鼎	ven tin
 啐	tse
 啐	tseu
-啐	tziq
-啐	zaq
 啓	chij
 啕	do
 啖	de
 啜	tseq
-啞	au
-啞吧	au ba
+啞	au	100%
+啞	ia	0%
+啞吧
 啞嘴
-啞場	au zan
+啞場
 啞巴	au pa
 啞彈
-啞謎	au mij
+啞謎
 啞迷
 啟	chij
 啟事
@@ -8980,7 +8939,6 @@ min_phrase_weight: 100
 單騎	te djij
 單體	te thij
 喱	lij
-喲	io
 喲	yo
 喳	tsa
 喳	tza
@@ -8990,12 +8948,12 @@ min_phrase_weight: 100
 喹	khue
 喻	yu
 喻意
-喻為
+喻爲
 喻的
 喻示
 喻義
 喻體
-喽	loe
+嘍	loe
 嗀	hoq
 嗄	ra
 嗄	sau
@@ -9014,7 +8972,9 @@ min_phrase_weight: 100
 嗎	ma
 嗎	mau
 嗎啡	mau fij
-嗑	kheq
+嗑	kheq	100%
+嗑	req	0%
+嗑	haq	0%
 嗒	taq
 嗒	thaq
 嗒嗒	taq taq
@@ -9026,7 +8986,6 @@ min_phrase_weight: 100
 嗔怪	tsen kua
 嗔恚	tsen ue
 嗖	soe
-嗖	soq
 嗚	u
 嗚咽	u i
 嗚啦	u lha
@@ -9184,7 +9143,6 @@ min_phrase_weight: 100
 噁形
 噁形噁狀
 噌	tsen
-噌	zen
 噍	zio
 噎	iq
 噎住	iq zyu
@@ -9201,8 +9159,6 @@ min_phrase_weight: 100
 噘	djiuq
 噙	djin
 噝	sy
-噢	ioq
-噢	iu
 噢	o
 噢聲能	o san nen
 噤	djin
@@ -9311,7 +9267,7 @@ min_phrase_weight: 100
 嚴防	gni vaon
 嚴陣
 嚶	in
-嚷	gnian
+嚷	zaon
 嚷嘴
 嚼	ziaq
 嚼爛
@@ -9395,7 +9351,8 @@ min_phrase_weight: 100
 四臨
 四萬	sy ve
 四處八路
-囝	neu
+囝	nheu	100%
+囝	ci	0%
 回	we
 回上海
 回乎	we wu
@@ -9453,7 +9410,7 @@ min_phrase_weight: 100
 因患
 因我
 因日	in zeq
-因為
+因爲
 因私
 因被	in be
 因論
@@ -9494,7 +9451,6 @@ min_phrase_weight: 100
 固頂
 囿	yoe
 囿於	yoe yu
-圃	phu
 圃	pu
 圄	gniu
 圇	len
@@ -9553,8 +9509,7 @@ min_phrase_weight: 100
 圍下	we rau
 圍了	we lio
 圍住	we zyu
-圍兜
-圍剿	we djio
+圍剿
 圍包	we po
 圍嘴	we tzyu
 圍困	we khuen
@@ -9567,7 +9522,6 @@ min_phrase_weight: 100
 圍屏	we bin
 圍岩	we nge
 圍巖	we nge
-圍巾
 圍得	we teq
 圍成	we zen
 圍捕	we bu
@@ -9736,7 +9690,6 @@ min_phrase_weight: 100
 圩鎮	we tzen
 圩院	we yeu
 圪	keq
-圪	ngiq
 圪塔	keq thaq
 圬	u
 圭	kue
@@ -9781,7 +9734,7 @@ min_phrase_weight: 100
 地浪向
 地滾
 地灘
-地為
+地爲
 地爆	dij bo
 地物	dij veq
 地瓜	dij kau
@@ -9819,7 +9772,7 @@ min_phrase_weight: 100
 均會	ciun we
 均未	ciun vij
 均比	ciun pij
-均為
+均爲
 均無	ciun vu
 均獲
 均系
@@ -9901,8 +9854,8 @@ min_phrase_weight: 100
 垃	la
 垃	laq
 垃做	laq tzu
-垃圾	la sij
 垃圾	laq seq
+垃圾	la sij
 垃圾癟三	laq sij piq se
 垃壗	laq he
 垃想	laq sian
@@ -9913,11 +9866,11 @@ min_phrase_weight: 100
 型	yin
 型的
 垌	don
-垌	thon
 垍	djij
 垓	ke
 垓下	ke rau
-垛	tu
+垛	tu	100%
+垛	du	0%
 垞	zau
 垟	yan
 垠	gnin
@@ -10035,7 +9988,8 @@ min_phrase_weight: 100
 堆載
 堇	cin
 堉	yoq
-堊	au
+堊	au	100%
+堊	oq	0%
 堊壅
 堋	ben
 堋	pen
@@ -10056,7 +10010,7 @@ min_phrase_weight: 100
 堤防	dij vaon
 堨	eq
 堪	kheu
-堪為
+堪爲
 堯	gnio
 堰	i
 報	po
@@ -10074,7 +10028,6 @@ min_phrase_weight: 100
 報費	po fij
 報頭浪
 報驗
-場	san
 場	zan
 場主	zan tzyu
 場內	zan ne
@@ -10341,7 +10294,6 @@ min_phrase_weight: 100
 壘窩
 壙	khuaon
 壚	lu
-壞	hue
 壞	wa
 壞了	wa lio
 壞事	wa zy
@@ -10580,7 +10532,7 @@ min_phrase_weight: 100
 多會	tu we
 多月	tu yuq
 多活
-多為
+多爲
 多生	tu san
 多番	tu fe
 多練
@@ -10670,7 +10622,6 @@ min_phrase_weight: 100
 夢蝶	maon diq
 夢裡	maon lij
 夢見	maon ci
-夢話
 夢遊	maon yoe
 夢過	maon ku
 夢遺	maon yij
@@ -10776,7 +10727,7 @@ min_phrase_weight: 100
 大喫	da chiq
 大嘩	da rau
 大嘴巴	du tzyu pau
-大嚷	da gnian
+大嚷
 大嚼	da ziaq
 大四	da sy
 大圈子	du chieu tzy
@@ -10964,11 +10915,11 @@ min_phrase_weight: 100
 大潮汛	du zo sin
 大澳	da o
 大火	da hu
-大灶	da tzo
+大竈	da tzo
 大災	da tze
 大災	du tze
 大炮	da pho
-大為	da we
+大爲	da we
 大煙	da i
 大煠蟹	du zaq ha
 大燈	da ten
@@ -11114,8 +11065,8 @@ min_phrase_weight: 100
 大開	da khe
 大關	da kue
 大阪	da pe
-大阿姨	du a yij
 大阿姨	du aq yij
+大阿姨	du a yij
 大阿福	du aq foq
 大降	da kaon
 大限	da re
@@ -11267,10 +11218,8 @@ min_phrase_weight: 100
 夫家	fu cia
 夫權	fu djieu
 夬	kua
-夭	hua
 夭	io
 夭	o
-夭	oq
 夭亡	io vaon
 夭壽	io zoe
 夭夭	io io
@@ -11310,7 +11259,6 @@ min_phrase_weight: 100
 夾	gaq
 夾	kaq
 夾	raq
-夾	xiaq
 夾上	kaq zaon
 夾住	kaq zyu
 夾克	kaq kheq
@@ -11372,7 +11320,7 @@ min_phrase_weight: 100
 奈	ne
 奉	von
 奉敬
-奉為
+奉爲
 奉行	von raon
 奉還	von we
 奎	khue
@@ -11386,7 +11334,6 @@ min_phrase_weight: 100
 奐	hueu
 契	chij
 契	chiq
-契丹
 契友	chij yoe
 契合	chij req
 契文	chij ven
@@ -11414,8 +11361,10 @@ min_phrase_weight: 100
 奘力	zaon liq
 奚	yij
 奠	di
-奢	sau
-奢	zau
+奢	sau	100%
+奢	zau	0%
+奢	xia	0%
+奢遮	xia tza
 奢侈	sau tsy
 奢侈品	sau tsy phin
 奢想	sau sian
@@ -11491,7 +11440,7 @@ min_phrase_weight: 100
 女家	gniu cia
 女家	gniu ka
 女將	gniu tzian
-女小囝	gniu sio neu
+女小囝	gniu sio nheu
 女屍	gniu sy
 女工	gniu kon
 女巫	gniu u
@@ -11597,7 +11546,7 @@ min_phrase_weight: 100
 她本
 她正
 她沒
-她為
+她爲
 她發
 她等
 她給
@@ -11737,7 +11686,7 @@ min_phrase_weight: 100
 如毯
 如法
 如注
-如為
+如爲
 如獲
 如用
 如神
@@ -11775,7 +11724,7 @@ min_phrase_weight: 100
 妄念	vaon gni
 妄想	vaon sian
 妄求	vaon djioe
-妄為	vaon we
+妄爲	vaon we
 妄稱	vaon tsen
 妄自	vaon zy
 妄言	vaon gni
@@ -11829,7 +11778,7 @@ min_phrase_weight: 100
 妥	thu
 妥加	thu ka
 妥否	thu foe
-妥為
+妥爲
 妥靠
 妨	faon
 妨害	faon re
@@ -12206,7 +12155,7 @@ min_phrase_weight: 100
 存據
 存數
 存查	zen zau
-存為
+存爲
 存着	zen zaq
 存積
 孚	fu
@@ -12282,7 +12231,8 @@ min_phrase_weight: 100
 孫氏	sen zy
 孫策	sen tsaq
 孫臏	sen bin
-孬	nho
+孬	nho	100%
+孬	vo	0%
 孰	zoq
 孰料
 孱	ze
@@ -12414,7 +12364,7 @@ min_phrase_weight: 100
 它會	tha we
 它有
 它比	tha pij
-它為
+它爲
 它用
 它留
 它真
@@ -12549,7 +12499,7 @@ min_phrase_weight: 100
 定有
 定期	din djij
 定業
-定為
+定爲
 定相
 定省	din san
 定眼
@@ -12866,7 +12816,7 @@ min_phrase_weight: 100
 實招
 實景	zeq cin
 實歸
-實為
+實爲
 實無	zeq vu
 實然
 實物	zeq veq
@@ -12977,7 +12927,7 @@ min_phrase_weight: 100
 封掉
 封條	fon dio
 封死	fon sy
-封為
+封爲
 封片
 封疆	fon cian
 封神
@@ -13055,7 +13005,7 @@ min_phrase_weight: 100
 將此	tzian tsy
 將死	tzian sy
 將比	tzian pij
-將為	tzian we
+將爲	tzian we
 將無	tzian vu
 將獲	tzian weq
 將由	tzian yoe
@@ -13092,7 +13042,7 @@ min_phrase_weight: 100
 專斷	tzeu deu
 專橫	tzeu wan
 專櫃	tzeu gue
-專為
+專爲
 專責	tzeu tzeq
 專車	tzeu tsau
 專頁
@@ -13101,7 +13051,7 @@ min_phrase_weight: 100
 尉官	ue kueu
 尉遲	ue zy
 尊	tzen
-尊為
+尊爲
 尊貴	tzen kue
 尊長	tzen tzan
 尊駕	tzen ka
@@ -13209,7 +13159,6 @@ min_phrase_weight: 100
 小人道理	sio gnin do lij
 小仇	sio djioe
 小他
-小伙子
 小但
 小侯
 小個	sio req
@@ -13280,7 +13229,7 @@ min_phrase_weight: 100
 小河浜
 小滑頭
 小潮汛
-小灶
+小竈
 小熱昏
 小獸
 小珍
@@ -13323,7 +13272,6 @@ min_phrase_weight: 100
 小骨
 小髈	sio phaon
 小鬍子養成計劃
-小鬼
 小鬼三	sio ciu se
 小鬼丫頭	sio ciu au doe
 小鬼頭	sio ciu doe
@@ -13398,7 +13346,7 @@ min_phrase_weight: 100
 尤其	yoe djij
 尤如
 尤妙
-尤為
+尤爲
 尤物	yoe veq
 尥	lhio
 尧	yo
@@ -13454,9 +13402,10 @@ min_phrase_weight: 100
 尼康	gnij khaon
 尼斯	gnij sy
 尼龍	gnij lon
-尾	gnij
-尾	mij
-尾	vij
+尾	gnij	0%
+尾	mij	70%
+尾	vij	30%
+尾	me	0%
 尾住	vij zyu
 尾巴	gnij pau
 尾巴	mij pau
@@ -13491,11 +13440,12 @@ min_phrase_weight: 100
 尾音	vij in
 尾骨	vij kueq
 尾鰭	vij djij
+三尾子	se me tzy
+两尾子	lian me tzy
 尿	knio
 尿	sy
 尿壺	knio wu
 尿尿	knio knio
-尿布
 尿床	knio zaon
 尿急	knio ciq
 尿桶	knio don
@@ -13814,14 +13764,14 @@ min_phrase_weight: 100
 崩解	pan cia
 崩龍	pan lon
 崮	ku
-崴	ua
 崴	ue
 崴嵬	ue we
 崽	tze
 崽兒	tze el
 嵇	cij
 嵊	zen
-嵋	me
+嵋	me	0%
+嵋	mij	100%
 嵌	khe
 嵌在
 嵌指
@@ -13845,7 +13795,7 @@ min_phrase_weight: 100
 嶄然	tze zeu
 嶄露	tze lu
 嶇	chiu
-嶓	bu
+嶓	pu
 嶔	chin
 嶗	lo
 嶙	lin
@@ -13972,7 +13922,6 @@ min_phrase_weight: 100
 巨鹿
 巨齒
 巫	u
-巫	vu
 巫仙	u si
 巫士	u zy
 巫女	u gniu
@@ -14041,7 +13990,7 @@ min_phrase_weight: 100
 已晚	ij ue
 已比	ij pij
 已漸
-已為
+已爲
 已現
 已用
 已給
@@ -14070,8 +14019,8 @@ min_phrase_weight: 100
 巴庫	pa khu
 巴拉圭	pa lha kue
 巴掌	pa tzan
-巴望	pa vaon
 巴望	pau maon
+巴望	pa vaon
 巴東	pa ton
 巴林	pa lin
 巴烏	pau
@@ -14314,9 +14263,9 @@ min_phrase_weight: 100
 年長	gni tzan
 年間	gni ci
 年頭浪
-并	pin
-并刀
-并州
+幷	pin
+幷刀
+幷州
 幸	yin
 幸慶
 幸未	yin vij
@@ -14414,7 +14363,6 @@ min_phrase_weight: 100
 幾週
 幾鈿
 广	eu
-广	gni
 庀	phij
 庇	phij
 庇蔭
@@ -14428,7 +14376,6 @@ min_phrase_weight: 100
 床架
 床柱
 床榻
-床橫頭	zaon uan doe
 床沿
 床罩
 床腳
@@ -14436,6 +14383,7 @@ min_phrase_weight: 100
 床邊
 床鋪
 床頭
+床橫頭	zaon uan doe
 床頭櫃	zaon doe gue
 庋	kue
 庎	ka
@@ -14481,7 +14429,8 @@ min_phrase_weight: 100
 庠	zian
 庤	zy
 庥	xioe
-度	du
+度	du	100%
+度	doq	0%
 度假	du ka
 度做
 度日	du zeq
@@ -14490,6 +14439,7 @@ min_phrase_weight: 100
 度理
 度身
 度電
+度君子	doq ciun tzy
 座	zu
 座兒	zu el
 座廁
@@ -14577,10 +14527,9 @@ min_phrase_weight: 100
 廣收
 廣東人	kuaon ton gnin
 廣源
-廣為
+廣爲
 廣納
 廣辟
-廨	cia
 廨	ka
 廩	lin
 廬	lu
@@ -14659,7 +14608,7 @@ min_phrase_weight: 100
 引去	yin chij
 引吭	yin khaon
 引拉	yin lha
-引為
+引爲
 引爆	yin bo
 引物	yin veq
 引着	yin zaq
@@ -14671,86 +14620,85 @@ min_phrase_weight: 100
 引避
 引頸	yin cin
 弗	feq
-弗	veq
-弗一定	veq iq din
-弗一樣	veq iq yan
-弗一樣個	veq iq yan req
-弗代表	veq de pio
-弗來三	veq le se
-弗來事	veq le zy
-弗來該	veq le ke
-弗像	veq zian
-弗出門	veq tseq men
-弗分	veq fen
-弗勒	veq leq
-弗去	veq chij
-弗叫	veq cio
-弗可以	veq khu ij
-弗可能	veq khu nen
-弗同	veq don
-弗團結	veq deu ciq
-弗基本	veq cij pen
-弗多	veq tu
-弗多幾日	veq tu cij gniq
-弗多幾時	veq tu cij zy
-弗夠	veq koe
-弗夠大	veq koe du
-弗大	veq da
-弗大	veq du
-弗大會	veq da we
-弗好	veq ho
-弗好算個	veq ho seu req
-弗如	veq zyu
-弗學	veq roq
-弗小	veq sio
-弗少	veq so
-弗快	veq khua
-弗想	veq sian
-弗想加	veq sian ka
-弗懂	veq ton
-弗應該	veq in ke
-弗成	veq zen
-弗承認	veq zen gnin
-弗改版	veq ke pe
-弗敢	veq keu
-弗方便	veq faon bi
-弗是	veq zy
-弗是個	veq zy req
-弗曉得	veq xio teq
-弗會	veq we
-弗會得	veq we teq
-弗歡喜	veq hueu xij
-弗比	veq pij
-弗注意	veq tzyu ij
-弗清爽	veq tsin saon
-弗準	veq tzen
-弗激動	veq ciq don
-弗燒	veq so
-弗用	veq yon
-弗用個人	veq yon req gnin
-弗看	veq kheu
-弗睬伊	veq tse yij
-弗瞭解	veq lio cia
-弗稀奇	veq xij djij
-弗算	veq seu
-弗算個	veq seu req
-弗管	veq kueu
-弗簡單	veq ci te
-弗糾正	veq cioe tzen
-弗萊	feq le
-弗要	veq io
-弗見	veq ci
-弗覺着	veq koq zaq
-弗記得	veq cij teq
-弗講	veq kaon
-弗貴	veq ciu
-弗走音	veq tzoe in
-弗跟	veq ken
-弗過	veq ku
-弗適意	veq seq ij
-弗錯	veq tsu
-弗錯了	veq tsu lheq
-弗高	veq ko
+弗一定
+弗一樣
+弗一樣個
+弗代表
+弗來三
+弗來事
+弗來該
+弗像
+弗出門
+弗分
+弗勒
+弗去
+弗叫
+弗可以
+弗可能
+弗同
+弗團結
+弗基本
+弗多
+弗多幾日
+弗多幾時
+弗夠
+弗夠大
+弗大
+弗大
+弗大會
+弗好
+弗好算個
+弗如
+弗學
+弗小
+弗少
+弗快
+弗想
+弗想加
+弗懂
+弗應該
+弗成
+弗承認
+弗改版
+弗敢
+弗方便
+弗是
+弗是個
+弗曉得
+弗會
+弗會得
+弗歡喜
+弗比
+弗注意
+弗清爽
+弗準
+弗激動
+弗燒
+弗用
+弗用個人
+弗看
+弗睬伊
+弗瞭解
+弗稀奇
+弗算
+弗算個
+弗管
+弗簡單
+弗糾正
+弗萊
+弗要
+弗見
+弗覺着
+弗記得
+弗講
+弗貴
+弗走音
+弗跟
+弗過
+弗適意
+弗錯
+弗錯了
+弗高
 弘	ron
 弘一
 弘傳
@@ -14815,7 +14763,6 @@ min_phrase_weight: 100
 張說	tzan seq
 張載
 張雪
-強	cian
 強	djian
 強了	djian lio
 強人	djian gnin
@@ -15012,11 +14959,12 @@ min_phrase_weight: 100
 彷	faon
 彷彿	baon veq
 彷徨	baon waon
-役	yoq
-役卒	yoq tzeq
-役期	yoq djij
-役畜	yoq tsoq
+役	yuq
+役卒
+役期
+役畜
 彼	pe
+彼此    pe tsy
 彿	veq
 往	uaon
 往下	uaon rau
@@ -15122,7 +15070,6 @@ min_phrase_weight: 100
 後底頭
 後按
 後於	roe yu
-後日
 後日仔	roe gniq tzy
 後日天	roe gniq thi
 後是
@@ -15132,7 +15079,7 @@ min_phrase_weight: 100
 後期	roe djij
 後極
 後樑
-後為
+後爲
 後生	roe san
 後生家	roe san ka
 後的
@@ -15450,12 +15397,9 @@ min_phrase_weight: 100
 忍耐	zen ne
 忍讓	zen gnian
 忍辱	zen zoq
-忐	khan
 忐	the
-忐忑	khan to
 忐忑	the theq
 忑	theq
-忑	to
 忑手	theq soe
 忑水	theq syu
 忑電	theq di
@@ -15501,7 +15445,6 @@ min_phrase_weight: 100
 忘神	vaon zen
 忘私	vaon sy
 忘舊	vaon djioe
-忘記
 忘記心	maon cij sin
 忘記脫	maon cij theq
 忘詞	vaon zy
@@ -15579,7 +15522,8 @@ min_phrase_weight: 100
 念起	gni chij
 念過	gni ku
 念頭	gni doe
-忸	gnioq
+忸	gnioq	100%
+忸	knioe	0%
 忺	xi
 忺頭
 忻	xin
@@ -15729,7 +15673,7 @@ min_phrase_weight: 100
 怪哉	kua tze
 怪圈	kua chieu
 怪她
-怪弗得	kua veq teq
+怪弗得
 怪才
 怪招
 怪文
@@ -16005,7 +15949,7 @@ min_phrase_weight: 100
 想是
 想望	sian vaon
 想死	sian sy
-想為
+想爲
 想玩	sian weu
 想眼
 想着吃	sian zaq chiq
@@ -16065,7 +16009,7 @@ min_phrase_weight: 100
 意會	ij we
 意根
 意業
-意為
+意爲
 意甲	ij kaq
 意緒
 意見	ij ci
@@ -16169,7 +16113,7 @@ min_phrase_weight: 100
 感謝	keu zia
 感通	keu thon
 感遇	keu gniu
-愠	iun
+慍	iun
 愣	len
 愣了	len lio
 愣住	len zyu
@@ -16179,7 +16123,7 @@ min_phrase_weight: 100
 愦	kue
 愧	gue
 愧憾
-愧為
+愧爲
 愫	su
 愴	tsaon
 愷	khe
@@ -16241,7 +16185,6 @@ min_phrase_weight: 100
 慘重	tseu zon
 慚	ze
 慚作
-慝	gniq
 慝	theq
 慟	don
 慢	me
@@ -16366,7 +16309,7 @@ min_phrase_weight: 100
 應景	in cin
 應會	in we
 應歸
-應為
+應爲
 應着	in zaq
 應知
 應節
@@ -16413,7 +16356,6 @@ min_phrase_weight: 100
 懷仁	we gnin
 懷化	we hau
 懷古	we ku
-懷孕
 懷安	we eu
 懷寧	we gnin
 懷德	we teq
@@ -16495,7 +16437,7 @@ min_phrase_weight: 100
 成式
 成日	zen zeq
 成是
-成為
+成爲
 成癖
 成竹
 成約	zen iaq
@@ -16552,7 +16494,7 @@ min_phrase_weight: 100
 我若
 我被	ngu be
 我見	ngu ci
-我認為
+我認爲
 我說	ngu seq
 我講	ngu kaon
 我讓
@@ -16562,30 +16504,29 @@ min_phrase_weight: 100
 我還	ngu we
 我錯
 我鎮
-戒	cia
 戒	ka
-戒備	ka be
-戒刀	ka to
-戒嚴	ka gni
-戒尺	ka tsaq
-戒律	ka liq
-戒心	ka sin
-戒忌	ka djij
-戒慎	ka zen
-戒慮	ka liu
-戒懼	ka djiu
-戒指	ka tzy
-戒掉	ka dio
-戒條	ka dio
-戒毒	ka doq
-戒煙	ka i
-戒網	ka maon
-戒護	ka wu
-戒賭	ka tu
-戒酒	ka tzioe
-戒除	ka zyu
-戕	tsian
-戕害	tsian re
+戒備
+戒刀
+戒嚴
+戒尺
+戒律
+戒心
+戒忌
+戒慎
+戒慮
+戒懼
+戒指
+戒掉
+戒條
+戒毒
+戒煙
+戒網
+戒護
+戒賭
+戒酒
+戒除
+戕	zian
+戕害
 或	weq
 或使
 或分	weq fen
@@ -16596,7 +16537,7 @@ min_phrase_weight: 100
 或庫
 或把
 或按
-或為
+或爲
 或由
 或發
 或經
@@ -16710,7 +16651,6 @@ min_phrase_weight: 100
 房費	vaon fij
 房貼
 房車	vaon tsau
-房間
 所	su
 所依
 所取
@@ -16726,7 +16666,7 @@ min_phrase_weight: 100
 所欠
 所歸
 所殺
-所為
+所爲
 所無	su vu
 所畫
 所立
@@ -16815,9 +16755,7 @@ min_phrase_weight: 100
 扎根
 扑	phoq
 扒	bau
-扒	pa
 扒	paq
-扒	pha
 扒兒手	bau el soe
 扒手	bau soe
 扒拉	bau lha
@@ -16889,7 +16827,7 @@ min_phrase_weight: 100
 打趣	tan tsiu
 打車	tan tsau
 打閃	tan seu
-打防疫針	tan baon yoq tzen
+打防疫針
 打霍險
 打霜
 打頂心
@@ -16907,11 +16845,15 @@ min_phrase_weight: 100
 托板
 托洞
 托缽
-扚	tiq
+扚	tiq	100%
+扚	tio	0%
+扚	iaq	0%
+扚	liq	0%
 扚扚頭
 扚肉
 扚背	tiq pe
-扛	gaon
+扛	kaon	100%
+扛	gaon	0%
 扣	khoe
 扣下	khoe rau
 扣住	khoe zyu
@@ -17151,7 +17093,10 @@ min_phrase_weight: 100
 抱着	bo zaq
 抱裙
 抱負	bo voe
-抲	khaq
+抲	khau	100%
+抲	hu	0%
+抲	wu	0%
+抲魚	khau ng
 抳	knij
 抵	tij
 抵京
@@ -17376,7 +17321,7 @@ min_phrase_weight: 100
 拖延	thu yi
 拖把	thu pau
 拖拉	thu lha
-拖曳	thu yij
+拖曳
 拖欠	thu chi
 拖沓	thu daq
 拖畚	thu fen
@@ -17405,7 +17350,7 @@ min_phrase_weight: 100
 拘	koe
 拘執	ciu tzeq
 拘審	ciu sen
-拘役	ciu yoq
+拘役
 拘押	ciu aq
 拘捕	ciu bu
 拘提	ciu dij
@@ -17454,8 +17399,7 @@ min_phrase_weight: 100
 拜佛	pa veq
 拜將	pa tzian
 拜會	pa we
-拜望
-拜為
+拜爲
 拜爵
 拜祖
 拜祭	pa tzij
@@ -17472,7 +17416,6 @@ min_phrase_weight: 100
 拭去	seq chij
 拭擦
 拭淚	seq lij
-拮	cia
 拮	ciq
 拮	ka
 拮抗	ciq khaon
@@ -17565,7 +17508,7 @@ min_phrase_weight: 100
 指日	tzy zeq
 指有
 指望	tzy vaon
-指為
+指爲
 指物	tzy veq
 指甲	tzy kaq
 指節
@@ -17648,7 +17591,7 @@ min_phrase_weight: 100
 挪	nu
 挫	tsu
 挫折	tsu tzeq
-挬	peq
+挬	beq
 挭	gan
 挭	kan
 振	tzen
@@ -17665,7 +17608,7 @@ min_phrase_weight: 100
 挺然
 挺胖	thin phaon
 挺腰
-挼	lu
+挼	lhu
 挽	ue
 挽住	ue zyu
 挽惜
@@ -17740,7 +17683,7 @@ min_phrase_weight: 100
 捕蟬
 捕食	bu zeq
 捕魚	bu ng
-捥	iuq
+捥	iuq	100%
 捧	phon
 捧住	phon zyu
 捧哏	phon gen
@@ -17774,8 +17717,8 @@ min_phrase_weight: 100
 捷轉頭
 捹	ben
 捺	naq
-捻	gniaq
-捻	kni
+捻	gniaq	0%
+捻	kni	100%
 捻軍	kni ciun
 捻鑿	kni zoq
 掀	xi
@@ -17808,6 +17751,7 @@ min_phrase_weight: 100
 掉淚	dio lij
 掊	boe
 掊	phoe
+掊	be
 掌	tzan
 掌櫃	tzan gue
 掌班
@@ -17831,7 +17775,6 @@ min_phrase_weight: 100
 排三和土
 排下	ba rau
 排前
-排卵
 排場	ba zan
 排尿	ba knio
 排布
@@ -17946,7 +17889,7 @@ min_phrase_weight: 100
 推普
 推普周
 推普機
-推為
+推爲
 推行	the raon
 推說	the seq
 推販
@@ -18117,7 +18060,8 @@ min_phrase_weight: 100
 換車	weu tsau
 換防	weu vaon
 換馬	weu mau
-揝	tzaq
+揝	tzaq	100%
+揝	tzeu	0%
 揝勁	tzaq cin
 揞	eu
 揠	aq
@@ -18127,10 +18071,13 @@ min_phrase_weight: 100
 握住	oq zyu
 握珠
 握着	oq zaq
-揢	khaq
+揢	khaq	100%
+揢	khau	0%
+揢魚	khau ng
 揢扣
-揣	deu
-揣	tse
+揣	deu	0%
+揣	tse	100%
+揣	tzeu	0%
 揣度	tse du
 揣情	tse zin
 揣想	tse sian
@@ -18182,12 +18129,12 @@ min_phrase_weight: 100
 援交	yeu ko
 援助	yeu zu
 援敵
-揵	dji
+揵	dji	100%
+揵	ci	0%
 揵手
 揶	ya
 揸	tza
 揸	tzau
-揸	zau
 揹	pe
 揹着	pe zaq
 揹運
@@ -18215,7 +18162,8 @@ min_phrase_weight: 100
 搓洗	tsu sij
 搓澡	tsu tzo
 搓麻將	tsau mau tzian
-搔	tzo
+搔	tzo	100%
+搔	so	0%
 搔頭皮
 搕	iq
 搕	kheq
@@ -18232,7 +18180,7 @@ min_phrase_weight: 100
 搖蕩
 搖車	yo tsau
 搖醒
-搖頭甩腦	yo doe hue no
+搖頭揮腦	yo doe hue no
 搗	to
 搗球
 搗藥
@@ -18242,7 +18190,7 @@ min_phrase_weight: 100
 搛菜
 搛鑷
 搜	soe
-搜剿	soe djio
+搜剿
 搜查	soe zau
 搜繳	soe cio
 搜羅
@@ -18520,7 +18468,8 @@ min_phrase_weight: 100
 撐的
 撐矮棒
 撐腳
-撒	sa
+撒	sa	0%
+撒	saq	100%
 撒向
 撒尿	sa knio
 撒拉	sa lha
@@ -18552,7 +18501,8 @@ min_phrase_weight: 100
 撞車	zaon tsau
 撟	djio
 撟軋	djio gaq
-撢	te
+撢	te	100%
+撢	teu	0%
 撢簷塵
 撣	te
 撣	zeu
@@ -18686,6 +18636,7 @@ min_phrase_weight: 100
 擔菜
 擔負	te voe
 擗	biq
+擗	phiq
 擗筋
 擘	paq
 據	ciu
@@ -18704,7 +18655,6 @@ min_phrase_weight: 100
 擠沒
 擠車	tzij tsau
 擠迫	tzij phaq
-擡	de
 擢	zoq
 擢昇
 擤	hen
@@ -18775,7 +18725,9 @@ min_phrase_weight: 100
 擾亂	zo leu
 擾動	zo don
 擾鬧	zo no
-擿	tiq
+擿	tiq	100%
+擿	zeq	0%
+擿	tzaq	0%
 攀	phe
 攀交	phe ko
 攀冰
@@ -18845,8 +18797,8 @@ min_phrase_weight: 100
 攤場	the zan
 攤平
 攤底牌
-攤為
-攤為勿起
+攤爲
+攤爲勿起
 攤王牌
 攤薄	the boq
 攤還	the we
@@ -18881,7 +18833,7 @@ min_phrase_weight: 100
 支助	tzy zu
 支吾	tzy ngu
 支會	tzy we
-支灶
+支竈
 支行	tzy raon
 收	soe
 收下	soe rau
@@ -18921,11 +18873,10 @@ min_phrase_weight: 100
 改喝	ke heq
 改回去	ke we chij
 改弗回來	ke feq we le
-改日
 改日會	ke gniq we
 改易	ke yiq
 改期	ke djij
-改為
+改爲
 改碼
 改脫
 改脫點
@@ -19048,7 +18999,6 @@ min_phrase_weight: 100
 教學	ko roq
 教宗	ko tzon
 教官	ko kueu
-教室
 教導	ko do
 教工	ko kon
 教師	ko sy
@@ -19060,7 +19010,6 @@ min_phrase_weight: 100
 教會	cio we
 教會	ko we
 教本	ko pen
-教材
 教案	ko eu
 教條	ko dio
 教棒	ko baon
@@ -19078,7 +19027,6 @@ min_phrase_weight: 100
 教署	ko zyu
 教義	ko gnij
 教職	ko tzeq
-教訓
 教誨	ko hue
 教課	ko khu
 教輔	ko vu
@@ -19104,7 +19052,7 @@ min_phrase_weight: 100
 敢搏
 敢於	keu yu
 敢是
-敢為
+敢爲
 敢煩
 敢言	keu gni
 敢說	keu seq
@@ -19158,11 +19106,9 @@ min_phrase_weight: 100
 敲	kho
 敲下	chio rau
 敲出	chio tseq
-敲定
 敲扁橄欖	kho pi ke le
 敲打	chio tan
 敲擊	chio ciq
-敲更
 敲木魚	kho moq yu
 敲癟橄欖	kho piq ke le
 敲破	chio phu
@@ -19186,7 +19132,6 @@ min_phrase_weight: 100
 整垮	tzen khau
 整夜天
 整料
-整日
 整日天	tzen gniq thi
 整書
 整月	tzen yuq
@@ -19202,11 +19147,12 @@ min_phrase_weight: 100
 整齊	tzen zij
 敵	diq
 敵人	diq gnin
-敵偽
+敵僞
 敵害	diq re
 敵群
 敷	fu
-數	su
+數	su	100%
+數	soq	0%
 數一
 數了	su lio
 數人	su gnin
@@ -19228,7 +19174,7 @@ min_phrase_weight: 100
 數最
 數月	su yuq
 數本
-數為
+數爲
 數章
 數筆
 數節
@@ -19521,7 +19467,7 @@ min_phrase_weight: 100
 施教	sy ko
 施樂	sy loq
 施治
-施為
+施爲
 施肥	sy vij
 施行	sy raon
 施術	sy zeq
@@ -19622,7 +19568,6 @@ min_phrase_weight: 100
 日常	zeq zan
 日幣	zeq bij
 日式	zeq seq
-日影
 日影裏	gniq in lij
 日影頭裡	gniq in doe lij
 日後	zeq roe
@@ -19831,11 +19776,11 @@ min_phrase_weight: 100
 明是
 明晚	min ue
 明月	min yuq
-明朝	men tzo
-明朝仔	men tzo tzy
+明朝    men tzo
 明朝仔	min tzo tzy
-明朝會	men tzo we
+明朝仔	men tzo tzy
 明朝會	min tzo we
+明朝會	men tzo we
 明槍
 明正
 明潔
@@ -19961,7 +19906,6 @@ min_phrase_weight: 100
 昨夜情
 昨子
 昨抵
-昨日
 昨日仔	zoq gniq tzy
 昨晚	zoq ue
 昭	tzo
@@ -20016,7 +19960,7 @@ min_phrase_weight: 100
 是沒
 是沒辦法
 是活
-是為
+是爲
 是男
 是當
 是白
@@ -20026,7 +19970,7 @@ min_phrase_weight: 100
 是美
 是自
 是與
-是蠻	zy mhe
+是蠻
 是西
 是說	zy seq
 是謂
@@ -20132,7 +20076,6 @@ min_phrase_weight: 100
 晚唐	ue daon
 晚報	ue po
 晚境	ue cin
-晚娘
 晚婚	ue huen
 晚學	ue roq
 晚安	ue eu
@@ -20344,16 +20287,16 @@ min_phrase_weight: 100
 暮露
 暮鴉	mu ia
 暱	gniq
-暴	bo
-暴卒	bo tzeq
+暴	bo	100%
+暴	po	0%
+暴卒
 暴屍
 暴庫
 暴曬	bo sa
 暴炒
 暴熱
 暴舉
-暴虎馮河
-暴行	bo raon
+暴行
 暴起
 暴跳	bo thio
 暹	si
@@ -20425,7 +20368,7 @@ min_phrase_weight: 100
 曲譜	chioq pu
 曲辯
 曲酒
-曳	yij
+曳	yiq
 更	kan
 更	ken
 更不	ken peq
@@ -20473,7 +20416,7 @@ min_phrase_weight: 100
 更正	ken tzen
 更深	ken sen
 更添	ken thi
-更為	ken we
+更爲	ken we
 更煩	ken ve
 更熱	ken gniq
 更爽	ken saon
@@ -20569,7 +20512,7 @@ min_phrase_weight: 100
 曾於	zen yu
 曾是	zen zy
 曾有	zen yoe
-曾為	zen we
+曾爲	zen we
 曾獲	zen weq
 曾用	zen yon
 曾祖	zen tzu
@@ -20605,7 +20548,7 @@ min_phrase_weight: 100
 最強	tzeu djian
 最晚	tzeu ue
 最淺	tzeu tsi
-最為
+最爲
 最無	tzeu vu
 最矮
 最碰
@@ -20642,7 +20585,7 @@ min_phrase_weight: 100
 會元	we gnieu
 會兒	we el
 會前	we zi
-會剿	we djio
+會剿
 會務	we vu
 會及	we djiq
 會友	we yoe
@@ -20738,7 +20681,6 @@ min_phrase_weight: 100
 會鼓	we ku
 會齊	we zij
 朆	vhen
-月	gnioq
 月	gniuq
 月	ngeq
 月	yuq
@@ -20958,7 +20900,7 @@ min_phrase_weight: 100
 有清
 有清頭
 有漏
-有為
+有爲
 有無	yoe vu
 有熬頭
 有生	yoe san
@@ -21044,8 +20986,8 @@ min_phrase_weight: 100
 服毒	voq doq
 服罪	voq zeu
 服食	voq zeq
-朐	djiu
-朐	goe
+朐	djiu	0%
+朐	goe	100%
 朔	soq
 朔日	soq zeq
 朔月	soq yuq
@@ -21479,8 +21421,6 @@ min_phrase_weight: 100
 杵	tsyu
 杷	bau
 杷	pau
-杷車
-杷頭
 杻	gnioe
 杻	tsoe
 杼	zyu
@@ -21619,7 +21559,7 @@ min_phrase_weight: 100
 某甲	moe kaq
 某軍
 柑	keu
-柑桔	keu cioq
+柑桔	keu ciuq
 柒	tsiq
 染	gni
 染	zeu
@@ -21849,7 +21789,10 @@ min_phrase_weight: 100
 栲栳	kheq lo
 栲膠	kho ko
 栳	lo
-核	req
+核	req	70%
+核	weq	30%
+核核頭	weq weq doe
+核子	weq tzy
 核仁	req gnin
 核價
 核兒	req el
@@ -21935,21 +21878,20 @@ min_phrase_weight: 100
 桐木
 桑	saon
 桑拿	saon na
-桑果
 桑棗
 桑苗
 桑葉	saon yiq
 桑蘭
 桑達
 桓	weu
-桔	cioq
-桔	ciq
-桔子	cioq tzy
-桔子水	cioq tzy syu
-桔柑	cioq keu
-桔梗	cioq kan
-桔紅	cioq ron
-桔黃	cioq waon
+桔	ciuq	99%
+桔	ciq	1%
+桔子	ciuq tzy
+桔子水	ciuq tzy syu
+桔柑	ciuq keu
+桔梗	ciq kan
+桔紅
+桔黃
 桕	djioe
 桫	su
 桴	voe
@@ -21959,7 +21901,7 @@ min_phrase_weight: 100
 桿	keu
 梁	lian
 梁祝	lian tzoq
-梃	din
+梃	thin
 梅	me
 梅嶺
 梅毒	me doq
@@ -22223,7 +22165,7 @@ min_phrase_weight: 100
 極樂	djiq loq
 極殼皮
 極深
-極為
+極爲
 極熱
 極爽
 極瘦
@@ -22264,7 +22206,6 @@ min_phrase_weight: 100
 榕廈
 榖	koq
 榛	tzen
-榜	ban
 榜	paon
 榜單	paon te
 榜樣	paon yan
@@ -22317,8 +22258,8 @@ min_phrase_weight: 100
 槜	tzeu
 槧	tsi
 槧皮
-槧腳
-槧腳刀
+槧腳	tsi ciaq
+槧腳刀	tsi ciaq to
 槭	tsiq
 槲	roq
 槳	tzian
@@ -22487,7 +22428,6 @@ min_phrase_weight: 100
 橋邊
 橐	thoq
 橘	ciuq
-橘紅
 橘絡
 橙	zen
 橙紅	zen kon
@@ -22521,7 +22461,7 @@ min_phrase_weight: 100
 橡皮魚	zian bij ng
 橡膠	zian ko
 橢	thu
-橥	tzyu
+櫫	tzyu
 橦	don
 橫	uan
 橫	wan
@@ -22582,7 +22522,7 @@ min_phrase_weight: 100
 橫繃	wan pan
 橫肉	wan gnioq
 橫臥	wan ngu
-橫蠻	wan me
+橫蠻
 橫行	wan raon
 橫裏	wan lij
 橫裏向	wan lij xian
@@ -22628,7 +22568,6 @@ min_phrase_weight: 100
 檢查	ci zau
 檢波	ci pu
 檢獲
-檢驗員
 檣	zian
 檫	tsaq
 檬	mon
@@ -22639,11 +22578,13 @@ min_phrase_weight: 100
 檸	gnin
 檺	ro
 檻	khe
-櫃	djiu
-櫃	gue
+櫃	djiu	0%
+櫃	gue	100%
 櫃上	gue zaon
 櫃員	gue yeu
 櫃子	gue tzy
+櫃檯	gue de
+櫃檯	djiu de
 櫃櫥	gue zyu
 櫃門	gue men
 櫃面	gue mi
@@ -22671,7 +22612,6 @@ min_phrase_weight: 100
 櫻	an
 櫻	in
 櫻唇	in zen
-櫻桃
 櫻桃嘴	an do tzyu
 櫻花	in hau
 櫻草	in tso
@@ -22685,7 +22625,7 @@ min_phrase_weight: 100
 權實
 權是
 權欲
-權為
+權爲
 權相
 權網
 權能	djieu nen
@@ -22973,7 +22913,6 @@ min_phrase_weight: 100
 死守	sy soe
 死定	sy din
 死寂	sy ziq
-死屍
 死巷	sy raon
 死式	sy seq
 死形	sy yin
@@ -23029,8 +22968,6 @@ min_phrase_weight: 100
 死鬼	sy kue
 死黨	sy taon
 歿	meq
-歿	ueq
-歿塞	ueq seq
 殂	zu
 殃	ian
 殃榜	ian paon
@@ -23161,7 +23098,6 @@ min_phrase_weight: 100
 每家	mhe cia
 每小
 每市
-每日
 每日天	mhe gniq thi
 每早
 每晚	mhe ue
@@ -23224,8 +23160,9 @@ min_phrase_weight: 100
 毒龍	doq lon
 毓	yoq
 毓婷
-比	bij
-比	pij
+比	bij	0%
+比	biq	0%
+比	pij	100%
 比下	pij rau
 比丘	pij chioe
 比他	pij tha
@@ -23261,7 +23198,7 @@ min_phrase_weight: 100
 比方	pij faon
 比武	pij vu
 比法	pij faq
-比為	pij we
+比爲	pij we
 比照	pij tzo
 比熱	pij gniq
 比爾	pij el
@@ -23323,7 +23260,6 @@ min_phrase_weight: 100
 氇	lu
 氈	tzeu
 氍	djiu
-氏	tzin
 氏	tzy
 氏	zy
 氏族	zy zoq
@@ -23334,7 +23270,7 @@ min_phrase_weight: 100
 民家	min cia
 民屯	min den
 民強	min djian
-民為
+民爲
 民生	min san
 民生路	min sen lu
 民眾
@@ -23398,7 +23334,7 @@ min_phrase_weight: 100
 氯化	loq hau
 氰	tsin
 氰化	tsin hau
-氲	iun
+氳	iun
 水	syu
 水下	syu rau
 水份	syu ven
@@ -23422,7 +23358,7 @@ min_phrase_weight: 100
 水潭	syu de
 水潭潭	syu de de
 水潽蛋
-水灶
+水竈
 水牢
 水皮
 水絲
@@ -23577,7 +23513,6 @@ min_phrase_weight: 100
 決一
 決不	ciuq peq
 決乎	ciuq wu
-決斷
 決死	ciuq sy
 決無	ciuq vu
 汽	chij
@@ -23595,7 +23530,6 @@ min_phrase_weight: 100
 沃頓	oq ten
 沅	gnieu
 沆	raon
-沈	de
 沈	sen
 沈	zen
 沈丘	sen chioe
@@ -23843,9 +23777,8 @@ min_phrase_weight: 100
 沿革	yi keq
 沿馬路	yi mau lu
 況	huaon
-況	khuaon
-況且	khuaon tsia
-況味	khuaon vij
+況且
+況味
 泃	ciu
 泄	siq
 泄	yij
@@ -24019,7 +23952,6 @@ min_phrase_weight: 100
 洋煙
 洋白眼
 洋白頭
-洋盤
 洋籼米
 洋紅	yan kon
 洋罪	yan zeu
@@ -24218,7 +24150,7 @@ min_phrase_weight: 100
 海會	he we
 海棉
 海欖
-海況	he khuaon
+海況
 海波	he pu
 海生	he san
 海疆	he cian
@@ -24287,7 +24219,9 @@ min_phrase_weight: 100
 涯	nga
 液	yiq
 液化	yiq hau
-涴	u
+涴	u	100%
+涴	ueu	0%
+涴	ieu	0%
 涵	reu
 涵蓋	reu ke
 涸	roq
@@ -24310,7 +24244,6 @@ min_phrase_weight: 100
 涿鹿	tzoq loq
 淄	tzy
 淅	siq
-淅力索落
 淆	yo
 淇	djij
 淋	lin
@@ -24351,7 +24284,6 @@ min_phrase_weight: 100
 淘茶
 淙	zon
 淚	lij
-淚	liq
 淚下	lij rau
 淚光	lij kuaon
 淚水	lij syu
@@ -24401,7 +24333,7 @@ min_phrase_weight: 100
 淩宕
 淪	len
 淪亡	len vaon
-淪為
+淪爲
 淪陷	len re
 淫	yin
 淫佚	yin yiq
@@ -24445,7 +24377,7 @@ min_phrase_weight: 100
 深淺	sen tsi
 深潭	sen de
 深澗	sen ke
-深為
+深爲
 深省	sen san
 深紅	sen kon
 深耕	sen ken
@@ -24472,7 +24404,7 @@ min_phrase_weight: 100
 混拼
 混排
 混沌	wen den
-混為
+混爲
 混碗
 混糊
 混進去	wen tzin chiu
@@ -24526,7 +24458,7 @@ min_phrase_weight: 100
 清	tsin
 清俊
 清儒
-清剿	tsin djio
+清剿
 清單	tsin te
 清場	tsin zan
 清大	tsin da
@@ -24589,7 +24521,8 @@ min_phrase_weight: 100
 渦漩	u zi
 渦蟲	u zon
 渦輪	u len
-渧	tij
+渧	tij	100%
+渧	dij	0%
 渫	siq
 測	tseq
 測向
@@ -24719,7 +24652,6 @@ min_phrase_weight: 100
 湮遠	i yeu
 湯	saon
 湯	thaon
-湯	yan
 湯劑	thaon tzij
 湯加	thaon ka
 湯包	thaon po
@@ -24754,7 +24686,7 @@ min_phrase_weight: 100
 準兒	tzen el
 準將	tzen tzian
 準尉	tzen ue
-準確率	tzen chiaq liq
+準確率
 準考證
 溘	kheq
 溚	taq
@@ -24871,7 +24803,6 @@ min_phrase_weight: 100
 滌	diq
 滌綸	diq len
 滍	tzy
-滎	in
 滎	yin
 滎陽	yin yan
 滏	vu
@@ -24982,8 +24913,8 @@ min_phrase_weight: 100
 漏脫
 漏訴
 漏診
-漓	lij
-漓江	lij kaon
+灕	lij
+灕江	lij kaon
 演	i
 演個	i ku
 演化	i hau
@@ -25049,7 +24980,8 @@ min_phrase_weight: 100
 漷嘴
 漷嘴巴	koq tzyu pau
 漷湯漷水	koq thaon koq syu
-漸	zi
+漸	zi	100%
+漸	tzi	0%
 漸入
 漸寬
 漸感	zi keu
@@ -25194,6 +25126,7 @@ min_phrase_weight: 100
 濃霜
 濉	seu
 濎	tin
+濎	thin
 濕	seq
 濕了	seq lio
 濕土
@@ -25234,7 +25167,6 @@ min_phrase_weight: 100
 濫調	le dio
 濬	tzin
 濮	phoq
-濮	poq
 濮陽	phoq yan
 濯	zo
 濯	zoq
@@ -25269,7 +25201,6 @@ min_phrase_weight: 100
 瀏	lioe
 瀑	bo
 瀑	boq
-瀑河
 瀑漏	boq loe
 瀕	bin
 瀕於	bin yu
@@ -25281,7 +25212,7 @@ min_phrase_weight: 100
 瀟	sio
 瀠	yin
 瀣	ya
-瀦	zyu
+瀦	tzyu
 瀧	lon
 瀨	la
 瀬	le
@@ -25340,7 +25271,7 @@ min_phrase_weight: 100
 火撚
 火機
 火法
-火灶
+火竈
 火烙
 火燒木頭
 火爆	hu bo
@@ -25369,18 +25300,18 @@ min_phrase_weight: 100
 灰紫
 灰蝶
 灰黃
-灶	tzo
-灶具
-灶台	tzo de
-灶君
-灶壁蟣
-灶房
-灶披間	tzo phij ke
-灶神
-灶膛
-灶間	tzo ke
-灶頭
-灶頭間	tzo doe ke
+竈	tzo
+竈具
+竈台	tzo de
+竈君
+竈壁蟣
+竈房
+竈披間	tzo phij ke
+竈神
+竈膛
+竈間	tzo ke
+竈頭
+竈頭間	tzo doe ke
 灸	cioe
 灸烤
 灼	tzaq
@@ -25448,8 +25379,6 @@ min_phrase_weight: 100
 炮樓	pho loe
 炮火	pho hu
 炮灰	pho hue
-炮炙
-炮烙
 炮眼	pho nge
 炮竹	pho tzoq
 炮筒	pho don
@@ -25479,147 +25408,148 @@ min_phrase_weight: 100
 炸鍋
 炸響
 為	we
-為三
-為中
-為主
-為之
-為亂
-為了
-為二	we gnij
-為人	we gnin
-為什麼	we seq moq
-為今
-為仔	we tzy
-為他
-為伍	we wu
-為伴
-為低
-為何
-為你
-為佳	we cia
-為使
-為來為去	we le we chij
-為例
-為偶
-為傲
-為兄
-為先
-為免
-為公
-為其	we djij
-為准
-為利
-為副	we fu
-為力
-為名
-為向
-為君
-為啥
-為啥體
-為善
-為國
-為圖
-為外
-為大	we da
-為夫	we fu
-為奇
-為女	we gniu
-為她
-為好
-為妻
-為子
-為學	we roq
-為它
-為官
-為宜
-為害	we re
-為家	we cia
-為實
-為對
-為己
-為師
-為幸
-為序
-為度
-為後
-為念	we gni
-為患
-為您
-為情
-為惡	we oq
-為愛
-為憑
-為憾
-為我
-為戒	we ka
-為所
-為把
-為搶	we tsian
-為政
-為敵
-為數
-為文
-為是
-為時
-為最
-為有
-為期	we djij
-為本
-為校	we yo
-為業
-為榮
-為樂	we loq
-為權
-為次
-為止
-為正
-為此
-為母
-為民
-為水
-為求
-為準
-為滿
-為父
-為王
-為甚
-為生	we san
-為用
-為由
-為界
-為的
-為盼
-為着	we zaq
-為禍
-為私
-為綱
-為美
-為能	we nen
-為臨
-為自
-為自家	we zy ka
-為要
-為誰
-為證
-為讓
-為輔	we vu
-為這
-為那
-為鄰
-為重
-為金
-為鑑	we ci
-為鑒	we ci
-為長	we tzan
-為開
-為間	we ci
-為限
-為難
-為零
-為非
-為題
-為首
-為高
+爲	we
+爲三
+爲中
+爲主
+爲之
+爲亂
+爲了
+爲二	we gnij
+爲人	we gnin
+爲什麼	we seq moq
+爲今
+爲仔	we tzy
+爲他
+爲伍	we wu
+爲伴
+爲低
+爲何
+爲你
+爲佳	we cia
+爲使
+爲來爲去	we le we chij
+爲例
+爲偶
+爲傲
+爲兄
+爲先
+爲免
+爲公
+爲其	we djij
+爲准
+爲利
+爲副	we fu
+爲力
+爲名
+爲向
+爲君
+爲啥
+爲啥體
+爲善
+爲國
+爲圖
+爲外
+爲大	we da
+爲夫	we fu
+爲奇
+爲女	we gniu
+爲她
+爲好
+爲妻
+爲子
+爲學	we roq
+爲它
+爲官
+爲宜
+爲害	we re
+爲家	we cia
+爲實
+爲對
+爲己
+爲師
+爲幸
+爲序
+爲度
+爲後
+爲念	we gni
+爲患
+爲您
+爲情
+爲惡	we oq
+爲愛
+爲憑
+爲憾
+爲我
+爲戒	we ka
+爲所
+爲把
+爲搶	we tsian
+爲政
+爲敵
+爲數
+爲文
+爲是
+爲時
+爲最
+爲有
+爲期	we djij
+爲本
+爲校	we yo
+爲業
+爲榮
+爲樂	we loq
+爲權
+爲次
+爲止
+爲正
+爲此
+爲母
+爲民
+爲水
+爲求
+爲準
+爲滿
+爲父
+爲王
+爲甚
+爲生	we san
+爲用
+爲由
+爲界
+爲的
+爲盼
+爲着	we zaq
+爲禍
+爲私
+爲綱
+爲美
+爲能	we nen
+爲臨
+爲自
+爲自家	we zy ka
+爲要
+爲誰
+爲證
+爲讓
+爲輔	we vu
+爲這
+爲那
+爲鄰
+爲重
+爲金
+爲鑑	we ci
+爲鑒	we ci
+爲長	we tzan
+爲開
+爲間	we ci
+爲限
+爲難
+爲零
+爲非
+爲題
+爲首
+爲高
 炻	zaq
 烀	hu
 烈	liq
@@ -25816,7 +25746,7 @@ min_phrase_weight: 100
 無涉	vu zeq
 無涯	vu nga
 無漏	vu loe
-無為	vu we
+無爲	vu we
 無煙	vu i
 無照	vu tzo
 無父	vu vu
@@ -26024,7 +25954,7 @@ min_phrase_weight: 100
 照賣
 照遍	tzo pi
 煨	ue
-煨灶貓
+煨竈貓
 煩	ve
 煩了	ve lio
 煩人	ve gnin
@@ -26262,7 +26192,7 @@ min_phrase_weight: 100
 爐床
 爐擋
 爐條	lu dio
-爐灶
+爐竈
 爐瓦
 爛	le
 爛了	le lio
@@ -26284,7 +26214,6 @@ min_phrase_weight: 100
 爛麻皮
 爝	tziaq
 爨	tseu
-爪	tza
 爪	tzo
 爪兒	tza el
 爪子	tza tzy
@@ -26347,7 +26276,6 @@ min_phrase_weight: 100
 爭鳴	tzan min
 爮	bo
 爰	yeu
-爲	we
 爵	tziaq
 父	vu
 父女	vu gniu
@@ -26414,7 +26342,6 @@ min_phrase_weight: 100
 牚	tsan
 牛	gnioe
 牛人	gnioe gnin
-牛仔
 牛仔褲	gnioe tze khu
 牛倌
 牛圈	gnioe chieu
@@ -26426,9 +26353,7 @@ min_phrase_weight: 100
 牛群
 牛耕	gnioe ken
 牛耳	gnioe el
-牛肚
 牛背	gnioe pe
-牛蒡子
 牛蠅
 牛踏扁	gnioe daq pi
 牛車	gnioe tsau
@@ -26461,7 +26386,6 @@ min_phrase_weight: 100
 物	meq
 物	veq
 物主	veq tzyu
-物事
 物件	veq dji
 物候	veq roe
 物價	veq ka
@@ -26522,7 +26446,7 @@ min_phrase_weight: 100
 特慘	deq tseu
 特招
 特教	deq ko
-特為
+特爲
 特爽
 特立
 特約	deq iaq
@@ -26580,7 +26504,7 @@ min_phrase_weight: 100
 犴	reu
 犽	nga
 狀	zaon
-狀況	zaon khuaon
+狀況
 狁	yun
 狂	guaon
 狂人	guaon gnin
@@ -26619,7 +26543,7 @@ min_phrase_weight: 100
 狨	gnion
 狩	soe
 狳	yu
-狴	pij
+狴	bij
 狷	cieu
 狸	lij
 狹	raq
@@ -26936,7 +26860,7 @@ min_phrase_weight: 100
 現將	yi tzian
 現是
 現樓
-現況	yi khuaon
+現況
 現法
 現炒現賣
 現現
@@ -27136,7 +27060,7 @@ min_phrase_weight: 100
 甘於	keu yu
 甘服
 甘汁
-甘為
+甘爲
 甘苦	keu khu
 甘醇
 甙	de
@@ -27152,7 +27076,7 @@ min_phrase_weight: 100
 甚於	zen yu
 甚殷	zen in
 甚法
-甚為
+甚爲
 甚解	zen cia
 甚高
 甚麼	zen meq
@@ -27219,8 +27143,7 @@ min_phrase_weight: 100
 生活勢勁	san weq sy cin
 生涯	san nga
 生漆	san tsiq
-生火
-生為	san we
+生爲	san we
 生煎饅頭	san tzi meu doe
 生煤	san me
 生熱	san gniq
@@ -27307,7 +27230,7 @@ min_phrase_weight: 100
 用有
 用活
 用火
-用為
+用爲
 用煤
 用着了	yon zaq lheq
 用空
@@ -27325,7 +27248,6 @@ min_phrase_weight: 100
 用頭
 用點
 甩	huaq
-甩	hue
 甩乾	huaq keu
 甩出	huaq tseq
 甩動	huaq don
@@ -27525,7 +27447,7 @@ min_phrase_weight: 100
 略微	liaq vij
 略施
 略染	liaq gni
-略為
+略爲
 略看
 略粗
 略註
@@ -27566,7 +27488,7 @@ min_phrase_weight: 100
 畫景	rau cin
 畫會	rau we
 畫滿
-畫為
+畫爲
 畫瓢
 畫苑
 畫虎
@@ -27618,11 +27540,10 @@ min_phrase_weight: 100
 當家	taon ka
 當差	taon tsau
 當推
-當日
 當晚	taon ue
 當月	taon yuq
 當朝	taon zo
-當為
+當爲
 當當
 當眾
 當紅	taon kon
@@ -27698,7 +27619,7 @@ min_phrase_weight: 100
 疑心疑惑
 疑是
 疑欲
-疑為
+疑爲
 疑處
 疔	tin
 疘	kon
@@ -27711,9 +27632,9 @@ min_phrase_weight: 100
 疣	yoe
 疤	pau
 疥	ka
-疫	yoq
-疫區	yoq chiu
-疫癘	yoq liq
+疫	yuq
+疫區
+疫癘
 疰	tzyu
 疰夏	tzyu rau
 疱	pho
@@ -27759,8 +27680,8 @@ min_phrase_weight: 100
 病房間	bin vaon ke
 病死	bin sy
 病毒	bin doq
-病況	bin khuaon
-病灶
+病況
+病竈
 病豬
 症	tzen
 痊	tsi
@@ -28077,7 +27998,6 @@ min_phrase_weight: 100
 百頁
 百頁窗
 百鳥	paq knio
-皁	zo
 皂	zo
 皂片
 皂莢	zo kaq
@@ -28102,7 +28022,7 @@ min_phrase_weight: 100
 皆北	cia poq
 皆同
 皆曰
-皆為
+皆爲
 皆無	cia vu
 皆由
 皆能	cia nen
@@ -28200,7 +28120,7 @@ min_phrase_weight: 100
 盛景	zen cin
 盛會	zen we
 盛氣	zen chij
-盛況	zen khuaon
+盛況
 盛滿	zen meu
 盛演	zen i
 盛產	zen tse
@@ -28490,7 +28410,8 @@ min_phrase_weight: 100
 看顏色
 看齊	kheu zij
 眗	khoe
-眙	de
+眙	yij	0%
+眙	tsy	100%
 眚	sen
 眚	sin
 真	tzen
@@ -28500,7 +28421,7 @@ min_phrase_weight: 100
 真個	tzen ku
 真個	tzen req
 真假	tzen ka
-真偽
+真僞
 真壞	tzen wa
 真奇
 真宗
@@ -28510,7 +28431,7 @@ min_phrase_weight: 100
 真摯	tzen tzy
 真敢
 真混
-真為
+真爲
 真率	tzen liq
 真生活	tzen san weq
 真細
@@ -28639,7 +28560,6 @@ min_phrase_weight: 100
 着陸	zaq loq
 着魔	zaq mu
 睃	su
-睃	tzi
 睇	dij
 睇真
 睇睇
@@ -28947,7 +28867,7 @@ min_phrase_weight: 100
 砌塊	tsij khue
 砌成	tsij zen
 砌末	tsiq meq
-砌灶	tsij tzo
+砌竈	tsij tzo
 砌牆	tsij zian
 砌磚	tsij tzeu
 砌築	tsij tzoq
@@ -29190,7 +29110,8 @@ min_phrase_weight: 100
 碩	zaq
 碩大	zaq da
 碭	daon
-碰	ban
+碰	ban	100%
+碰	phan	0%
 碰勿碰
 碰哭精
 碰壞	ban wa
@@ -29209,16 +29130,15 @@ min_phrase_weight: 100
 碳刷
 碳化	the hau
 碴	za
-碴	zau
-碴兒	zau el
-碴口	zau khoe
+碴兒
+碴口
 碶	chij
 碸	fon
 碹	xieu
 確	chiaq
-確乎	chiaq wu
-確也	chiaq ra
-確信	chiaq sin
+確乎
+確也
+確信
 確如
 確應
 確然
@@ -29247,7 +29167,6 @@ min_phrase_weight: 100
 磁鼓
 磅	baon
 磅	paon
-磅礴
 磅秤	paon tsen
 磅稱	paon tsen
 磆	kueq
@@ -29260,6 +29179,7 @@ min_phrase_weight: 100
 磐石	beu zaq
 磐英
 磑	knij
+磑	nge
 磔	tzaq
 磕	kheq
 磕掉
@@ -29350,7 +29270,24 @@ min_phrase_weight: 100
 祁紅	djij kon
 祂	tha
 祆	xi
-祇	djij
+衹	djij
+衹	tzeq
+只	tzeq
+只不過	tzeq piq ku
+只傳	tzeq zeu
+只到	tzeq to
+只好	tzeq ho
+只想	tzeq sian
+只懂	tzeq ton
+只搜	tzeq soe
+只是	tzeq zy
+只曉得	tzeq xio teq
+只會得	tzeq we teq
+只有	tzeq yoe
+只聽到過	tzeq thin to ku
+只要	tzeq io
+只講	tzeq kaon
+只進勿出	tzeq tzin veq tseq
 祈	djij
 祈望	djij vaon
 祉	tzy
@@ -29368,8 +29305,8 @@ min_phrase_weight: 100
 祛	chiu
 祛病
 祜	wu
-祝	tzoe
-祝	tzoq
+祝	tzoe	0%
+祝	tzoq	100%
 祝你	tzoq nhij
 祝壽	tzoq zoe
 祝您	tzoq gnin
@@ -29436,7 +29373,7 @@ min_phrase_weight: 100
 祭掃	tzij so
 祭文	tzij ven
 祭日	tzij zeq
-祭灶	tzij tzo
+祭竈	tzij tzo
 祭祀	tzij zy
 祭祖	tzij tzu
 祭神	tzij zen
@@ -29643,7 +29580,7 @@ min_phrase_weight: 100
 稍懈	so xia
 稍數
 稍淡
-稍為
+稍爲
 稍胖	so phaon
 稍許	so xiu
 稍退
@@ -29686,7 +29623,7 @@ min_phrase_weight: 100
 稱尊
 稱手
 稱是
-稱為
+稱爲
 稱砣
 稱許	tsen xiu
 稱誦
@@ -29819,9 +29756,9 @@ min_phrase_weight: 100
 窗簷
 窗紙
 窗門
-窘	djion
-窘況	djion khuaon
-窘迫	djion phaq
+窘	ciun
+窘況
+窘迫
 窟	khueq
 窠	khu
 窠簍
@@ -29855,7 +29792,7 @@ min_phrase_weight: 100
 窮鬼	djion kue
 窯	yo
 窯姐	yo tzia
-窯灶
+窯竈
 窳	yu
 窵	tio
 窶	djiu
@@ -29924,7 +29861,7 @@ min_phrase_weight: 100
 竟日	cin zeq
 竟會	cin we
 竟未	cin vij
-竟為
+竟爲
 竟約	cin iaq
 竟能	cin nen
 竟被	cin be
@@ -30225,6 +30162,7 @@ min_phrase_weight: 100
 築	tzoq
 築壩
 築牢
+筑	zoq
 篋	chiaq
 篌	roe
 篔	yun
@@ -30281,7 +30219,7 @@ min_phrase_weight: 100
 簡單來死	ci te le sij
 簡單來西	ci te le sij
 簡易	ci yiq
-簡況	ci khuaon
+簡況
 簡省	ci san
 簡碼
 簡答
@@ -30397,7 +30335,6 @@ min_phrase_weight: 100
 粘劑
 粘合	kni req
 粘固
-粘支疙瘩	kni tzy keq taq
 粘滿
 粘竿
 粘質
@@ -30428,7 +30365,6 @@ min_phrase_weight: 100
 粼	lin
 粼光	lin kuaon
 粽	tzon
-粽箬
 精	tzin
 精僻
 精光	tzin kuaon
@@ -30564,7 +30500,7 @@ min_phrase_weight: 100
 約期	iaq djij
 約束	iaq soq
 約法	iaq faq
-約為	iaq we
+約爲	iaq we
 約瑟	iaq seq
 約略	iaq liaq
 約稿	iaq ko
@@ -30635,7 +30571,6 @@ min_phrase_weight: 100
 紅火	kon hu
 紅焰	kon yi
 紅熱	kon gniq
-紅燈
 紅燒	kon so
 紅燭	kon tzoq
 紅牌	kon ba
@@ -30652,7 +30587,6 @@ min_phrase_weight: 100
 紅筆	kon piq
 紅籌	kon zoe
 紅粉	kon fen
-紅糖
 紅紗	kon sau
 紅紫	kon tzy
 紅綠	kon loq
@@ -30671,7 +30605,6 @@ min_phrase_weight: 100
 紅蔘	kon sen
 紅薯	kon zyu
 紅藻	kon tzo
-紅蛋
 紅螺	kon lu
 紅衣	kon ij
 紅衫	kon se
@@ -30702,7 +30635,7 @@ min_phrase_weight: 100
 紋	ven
 紋波	ven pu
 納	naq
-納為
+納爲
 納粹	naq tseu
 納賢
 納降	naq kaon
@@ -30780,7 +30713,6 @@ min_phrase_weight: 100
 紡車	faon tsau
 索	soq
 索介	soq ka
-索加
 索尼	soq gnij
 索易	soq yiq
 索欠
@@ -30793,7 +30725,6 @@ min_phrase_weight: 100
 紫	tzy
 紫光	tzy kuaon
 紫的
-紫紅
 紫絳紅	tzy cian ron
 紫緞
 紫苑
@@ -30925,7 +30856,7 @@ min_phrase_weight: 100
 結扣
 結棍	ciq kuen
 結欠
-結為
+結爲
 結症
 結着	ciq zaq
 結石	ciq zaq
@@ -31221,13 +31152,12 @@ min_phrase_weight: 100
 線褲
 線麻
 緝	tsiq
-緝	tziq
-緝拿	tziq na
-緝捕	tziq bu
-緝查	tziq zau
-緝毒	tziq doq
-緝獲	tziq weq
-緝私	tziq sy
+緝拿
+緝捕
+緝查
+緝毒
+緝獲
+緝私
 緞	deu
 締	tij
 締交	tij ko
@@ -31248,7 +31178,7 @@ min_phrase_weight: 100
 編就
 編故事
 編校	pi yo
-編為
+編爲
 編發
 編着	pi zaq
 編筐
@@ -31277,7 +31207,6 @@ min_phrase_weight: 100
 緯	yu
 緯密	we miq
 緯度	we du
-緯紗
 緯線	we si
 緱	koe
 緲	mio
@@ -31434,10 +31363,10 @@ min_phrase_weight: 100
 繆斯	moe sy
 繇	yo
 繇	zoe
-繇役	yo yoq
+繇役
 繈	cian
 繈褓
-繒	zen
+繒	tzen
 織	ciq
 織	tzeq
 織	tzy
@@ -31529,7 +31458,6 @@ min_phrase_weight: 100
 續	zoq
 續假	zoq ka
 續完
-續弦
 續期	zoq djij
 續約	zoq iaq
 續讀	zoq doe
@@ -31551,7 +31479,7 @@ min_phrase_weight: 100
 纔學	ze roq
 纔把
 纔會	ze we
-纔為
+纔爲
 纔用
 纔肯
 纔能	ze nen
@@ -31621,7 +31549,6 @@ min_phrase_weight: 100
 罪行	zeu raon
 罪證	zeu tzen
 罪責	zeu tzeq
-罪過
 罪過相	ze ku sian
 罪錯	zeu tsu
 罪障	zeu tzaon
@@ -31738,8 +31665,8 @@ min_phrase_weight: 100
 羞死	sioe sy
 羞矜	sioe cin
 羞紅	sioe kon
-羣	djiun
 群	djiun
+羣	djiun
 群丑
 群主
 群交	djiun ko
@@ -31990,7 +31917,7 @@ min_phrase_weight: 100
 老茄三千	lo ga se tsi
 老虎天窗
 老虎榻車	lo hu thaq tsau
-老虎灶
+老虎竈
 老虎腳爪	lo hu ciaq tzo
 老蟲
 老衣
@@ -32007,10 +31934,8 @@ min_phrase_weight: 100
 老阿爹	lo aq tia
 老靈
 老頭浜
-老鬼
 老鬼失撇	lo ciu seq phiq
 老鳥	lo knio
-老鴉
 老鴨
 老黕
 老龍
@@ -32063,9 +31988,9 @@ min_phrase_weight: 100
 而此
 而死	el sy
 而比	el pij
-而況	el khuaon
+而況
 而活
-而為
+而爲
 而無	el vu
 而生	el san
 而知
@@ -32099,7 +32024,6 @@ min_phrase_weight: 100
 耕作	ken tzoq
 耕地	ken dij
 耕牛	ken gnioe
-耕田
 耕種	ken tzon
 耕稼	ken cia
 耕織	ken tzeq
@@ -32154,7 +32078,6 @@ min_phrase_weight: 100
 耳房	el vaon
 耳挖	el uaq
 耳旁	el baon
-耳朵
 耳朵圈	gnij tu chieu
 耳朵洞	gnij tu don
 耳朵環	gnij tu gue
@@ -32249,7 +32172,7 @@ min_phrase_weight: 100
 聘上
 聘任	phin zen
 聘問	phin ven
-聘為
+聘爲
 聘約	phin iaq
 聚	ziu
 聚光	ziu kuaon
@@ -32443,7 +32366,6 @@ min_phrase_weight: 100
 肉癢
 肉皵皮
 肉紅	gnioq kon
-肉脯
 肉莊
 肉菜
 肉裏眼
@@ -32474,7 +32396,6 @@ min_phrase_weight: 100
 肚	tu
 肚兜	du toe
 肚囊	du naon
-肚子
 肚帶	du ta
 肚瀉	du sia
 肚痛	du thon
@@ -32531,7 +32452,6 @@ min_phrase_weight: 100
 肥源	vij gnieu
 肥田	vij di
 肥瘦	vij soe
-肥皂
 肥的	vij tiq
 肥碩	vij zaq
 肥缺	vij chiuq
@@ -32617,7 +32537,6 @@ min_phrase_weight: 100
 背景	pe cin
 背景音	pe cin in
 背暗
-背書
 背板	pe pe
 背棄	pe chij
 背氣	pe chij
@@ -32641,8 +32560,8 @@ min_phrase_weight: 100
 背靜	pe zin
 背面	pe mi
 背鰭	pe djij
-胍	ku
-胍	kua
+胍	kau	100%
+胍	kua	0%
 胎	the
 胎兒	the el
 胎具
@@ -32705,7 +32624,6 @@ min_phrase_weight: 100
 胱	kuaon
 胲	he
 胳	keq
-胳肢窩
 胳落竹
 胴	don
 胸	xion
@@ -32766,7 +32684,7 @@ min_phrase_weight: 100
 能有	nen yoe
 能治	nen zy
 能源	nen gnieu
-能為	nen we
+能爲	nen we
 能燒	nen so
 能用	nen yon
 能由	nen yoe
@@ -32956,7 +32874,6 @@ min_phrase_weight: 100
 腳枒枒
 腳桶
 腳法
-腳爪
 腳癢
 腳盔子
 腳碰腳
@@ -32994,7 +32911,6 @@ min_phrase_weight: 100
 膀胱	baon kuaon
 膀胱	paon kuaon
 膀臂	paon pij
-膀起來
 膂	liu
 膈	kaq
 膊	poq
@@ -33029,7 +32945,6 @@ min_phrase_weight: 100
 膠州	ko tzoe
 膠布	ko pu
 膠帶	ko ta
-膠捲
 膠料	ko lio
 膠木	ko moq
 膠東	ko ton
@@ -33050,7 +32965,6 @@ min_phrase_weight: 100
 膠遼	ko lio
 膠鞋	ko ra
 膠體	ko thij
-膦	li
 膦	lin
 膨	ban
 膨化	ban hau
@@ -33172,8 +33086,8 @@ min_phrase_weight: 100
 臨行	lin raon
 臨身
 自	zy
-自以為
-自以為是
+自以爲
+自以爲是
 自來火
 自信	zy sin
 自刎	zy ven
@@ -33199,7 +33113,7 @@ min_phrase_weight: 100
 自暴
 自查	zy zau
 自治區	zy zy chiu
-自為
+自爲
 自爆	zy bo
 自珍
 自生自滅	zy sen zy miq
@@ -33217,7 +33131,7 @@ min_phrase_weight: 100
 自覺	zy cioq
 自解	zy cia
 自誇	zy khau
-自認為
+自認爲
 自謂
 自譴
 自豪感	zy ro keu
@@ -33260,7 +33174,7 @@ min_phrase_weight: 100
 至於	tzy yu
 至日	tzy zeq
 至深
-至為
+至爲
 至真
 至終
 致	tzy
@@ -33423,9 +33337,8 @@ min_phrase_weight: 100
 舫	faon
 般	beu
 般	pe
-般	peq
 般的	pe tiq
-般若	pe zaq
+般若	pe gnia
 般配	pe phe
 舳	zoq
 舴	tzaq
@@ -33517,7 +33430,6 @@ min_phrase_weight: 100
 艷遇
 艷陽
 艷麗
-艽	cio
 艽	djioe
 艽	ko
 艾	gnij
@@ -33595,10 +33507,8 @@ min_phrase_weight: 100
 花生	hau san
 花生米	hau sen mij
 花甲	hau kaq
-花痴
 花癢欠欠
 花籽
-花紅
 花絮	hau siu
 花綠
 花肥	hau vij
@@ -33677,7 +33587,8 @@ min_phrase_weight: 100
 苡	ij
 苣	djiu
 苤	phij
-若	zaq
+若	zaq	100%
+若	gnia	0%
 若不	zaq peq
 若再
 若夫	zaq fu
@@ -33691,7 +33602,6 @@ min_phrase_weight: 100
 若需
 苦	khu
 苦	ku
-苦	wu
 苦主	khu tzyu
 苦了	khu lio
 苦修	khu sioe
@@ -33707,7 +33617,7 @@ min_phrase_weight: 100
 苦工	khu kon
 苦幹	khu keu
 苦度	khu du
-苦役	khu yoq
+苦役
 苦心	khu sin
 苦思	khu sy
 苦悶	khu mhen
@@ -33828,7 +33738,7 @@ min_phrase_weight: 100
 茶館店
 茸	gnion
 茹	zyu
-茻	man
+茻	maon
 茼	don
 茼蒿
 荀	sin
@@ -33922,12 +33832,15 @@ min_phrase_weight: 100
 莛	din
 莛子
 莜	dio
-莞	weu
+莞	kueu	0%
+莞	weu	100%
+東莞	ton kueu
 莠	yoe
 莢	ciaq
 莢	kaq
 莧	xi
 莨	laon
+莨	liaon
 莨綢
 莪	ngu
 莫	moq
@@ -33954,7 +33867,6 @@ min_phrase_weight: 100
 莰	khe
 莽	maon
 莽夫	maon fu
-菀	iun
 菀	iuq
 菀	ueu
 菁	tzin
@@ -34000,7 +33912,6 @@ min_phrase_weight: 100
 菩提	bu dij
 菪	daon
 華	hau
-華	khau
 華	rau
 華	wa
 華中	rau tzon
@@ -34016,7 +33927,7 @@ min_phrase_weight: 100
 華埠	rau bu
 華夏	rau rau
 華夏	rau xia
-華夏	wa xia
+華夏    wa xia
 華夏名網	rau rau min maon
 華宇	rau yu
 華安	rau eu
@@ -34063,14 +33974,16 @@ min_phrase_weight: 100
 華陵	rau lin
 華陽	rau yan
 華麗	rau lij
+法華寺	faq hau zy
+龍華寺	lon hau zy
 菰	ku
 菱	lin
 菲	fij
 菲薄	fij boq
-菸	iu
-菸害	iu re
-菸毒	iu doq
-菸葉	iu yiq
+菸	i
+菸害	i re
+菸毒	i doq
+菸葉	i yiq
 菹	tzu
 菼	the
 菽	soq
@@ -34085,7 +33998,6 @@ min_phrase_weight: 100
 萊頓	le ten
 萋	tsij
 萌	men
-萌	min
 萌動	men don
 萌生	men san
 萌發	men faq
@@ -34303,7 +34215,9 @@ min_phrase_weight: 100
 葒	ron
 葓	ron
 葖	deq
-著	tzyu
+著	tzyu	100%
+著	zaq	0%
+著	tzaq	0%
 著文
 葚	zen
 葛	keq
@@ -34316,7 +34230,6 @@ min_phrase_weight: 100
 葡	beq
 葡	bu
 葡京	bu cin
-葡萄
 董	ton
 董貞
 董雷
@@ -34361,7 +34274,6 @@ min_phrase_weight: 100
 蒜黃
 蒞	liq
 蒟	djiu
-蒡	baon
 蒡	paon
 蒨	tsi
 蒯	khua
@@ -34464,10 +34376,10 @@ min_phrase_weight: 100
 蔗田
 蔘	sen
 蔘茸
-蔚	ue
-蔚	yuq
+蔚	ue	100%
+蔚	iuq	0%
 蔚成	ue zen
-蔚為	ue we
+蔚爲	ue we
 蔚然	ue zeu
 蔚縣	ue yeu
 蔚色	ue seq
@@ -34496,7 +34408,6 @@ min_phrase_weight: 100
 蔽	pij
 蔽塞	pij seq
 蔽日	pij zeq
-蕁	de
 蕁	zin
 蕁麻	zin mau
 蕃	bu
@@ -34543,7 +34454,7 @@ min_phrase_weight: 100
 蕷	yu
 蕹	on
 蕺	tziq
-蕻	ron
+蕻	hon
 蕾	le
 薄	boq
 薄	bu
@@ -34610,7 +34521,7 @@ min_phrase_weight: 100
 薪炭
 薯	zyu
 薯條	zyu dio
-薯莨
+薯莨	zyu liaon
 薯蕷
 薰	xiun
 薰染	xiun gni
@@ -34773,7 +34684,7 @@ min_phrase_weight: 100
 處長	tsyu tzan
 虛	xiu
 虛假	xiu ka
-虛偽
+虛僞
 虛套
 虛妄	xiu vaon
 虛無	xiu vu
@@ -34792,7 +34703,7 @@ min_phrase_weight: 100
 號	ro
 號叫	ro cio
 號炮	ro pho
-號為
+號爲
 號笛
 號聲	ro sen
 號腸拍肚	ro zan phaq du
@@ -34831,7 +34742,6 @@ min_phrase_weight: 100
 蚓	yin
 蚜	nga
 蚝	ro
-蚝	tsy
 蚣	kon
 蚣	tzon
 蚤	tzo
@@ -34927,7 +34837,8 @@ min_phrase_weight: 100
 蜂鳥	fon knio
 蜃	zen
 蜆	xi
-蜇	zeq
+蜇	zeq	100%
+蜇	tzeq	0%
 蜈	wu
 蜈蚣	wu kon
 蜉	voe
@@ -35009,7 +34920,7 @@ min_phrase_weight: 100
 融彙
 融攝	yon seq
 融會	yon we
-融為
+融爲
 融解	yon cia
 螓	zin
 螗	daon
@@ -35023,7 +34934,6 @@ min_phrase_weight: 100
 螢石	yin zaq
 螣	den
 螫	seq
-螫	zeq
 螫針	seq tzen
 螬	zo
 螭	tsy
@@ -35088,7 +34998,7 @@ min_phrase_weight: 100
 蠆	tsa
 蠉	xieu
 蠊	li
-蠋	tzoq
+蠋	zoq
 蠍	xiq
 蠐	zij
 蠑	yon
@@ -35096,7 +35006,6 @@ min_phrase_weight: 100
 蠔	ro
 蠕	zyu
 蠖	oq
-蠖	yaq
 蠟	laq
 蠟人	laq gnin
 蠟染	laq gni
@@ -35117,9 +35026,9 @@ min_phrase_weight: 100
 蠶蛾	zeu ngu
 蠶食	zeu zeq
 蠹	tu
-蠻	ma
-蠻	me
-蠻	mhe
+蠻	man	0%
+蠻	me	70%
+蠻	mhe	30%
 蠻力	me liq
 蠻勁	me cin
 蠻多	mhe tu
@@ -35137,7 +35046,7 @@ min_phrase_weight: 100
 蠻結棍	mhe ciq kuen
 蠻纏	me zeu
 蠻荒	me huaon
-蠻門	ma men
+蠻門	man men
 蠻風	me fon
 蠼	djiu
 血	xiuq
@@ -35161,7 +35070,6 @@ min_phrase_weight: 100
 血防	xiuq vaon
 血齒
 衄	gnioq
-衆	tzon
 衊	miq
 行	ran
 行	raon
@@ -35209,7 +35117,7 @@ min_phrase_weight: 100
 行檢	raon ci
 行款	raon khueu
 行止	raon tzy
-行為	raon we
+行爲	raon we
 行照	raon tzo
 行畫	raon rau
 行當	raon taon
@@ -35251,7 +35159,6 @@ min_phrase_weight: 100
 衍射	yi zau
 衍生	yi san
 術	zeq
-術	zeu
 術上	zeq zaon
 術前	zeq zi
 術士	zeq zy
@@ -35341,7 +35248,6 @@ min_phrase_weight: 100
 衲	naq
 衲子
 衷	tzon
-衹	djij
 衽	gnin
 衽	zen
 衾	chin
@@ -35388,7 +35294,6 @@ min_phrase_weight: 100
 被子	be tzy
 被它	be tha
 被害	be re
-被巾
 被愛	be e
 被打	be tan
 被扣	be khoe
@@ -35408,12 +35313,9 @@ min_phrase_weight: 100
 被禁	be cin
 被稱	be tsen
 被窩	be u
-被緇
-被練
 被罩	be tzo
 被罰	be vaq
 被臥	be ngu
-被衣
 被褥	be gnioq
 被覆	be foq
 被訪	be faon
@@ -35476,7 +35378,7 @@ min_phrase_weight: 100
 裝填	tzaon di
 裝樣
 裝潢	tzaon waon
-裝為
+裝爲
 裝甲	tzaon kaq
 裝胡羊
 裝腔
@@ -35710,7 +35612,7 @@ min_phrase_weight: 100
 要沖
 要活
 要淘汰
-要為
+要爲
 要用個人	io yon req gnin
 要畫
 要知
@@ -35751,7 +35653,6 @@ min_phrase_weight: 100
 覆去	foq chij
 覆有
 覆蓋	foq ke
-覈	req
 見	ci
 見	yi
 見了	ci lio
@@ -35832,7 +35733,7 @@ min_phrase_weight: 100
 視像
 視屏	zy bin
 視差	zy tsau
-視為
+視爲
 視網
 視覺	zy cioq
 覘	tseu
@@ -35868,7 +35769,7 @@ min_phrase_weight: 100
 覯	koe
 覲	djin
 覲見	djin ci
-覷	tsiu
+覷	tsiu	100%
 覺	cioq
 覺	ko
 覺	koq
@@ -35885,6 +35786,7 @@ min_phrase_weight: 100
 覺識	cioq seq
 覺醒	cioq sin
 覻	tsij
+覷	tsij	0%
 覽	le
 覿	diq
 觀	kueu
@@ -36076,7 +35978,7 @@ min_phrase_weight: 100
 訂數
 訂於	tin yu
 訂滿
-訂為
+訂爲
 訂約	tin iaq
 訃	fu
 訃聞	fu ven
@@ -36164,11 +36066,12 @@ min_phrase_weight: 100
 設	seq
 設下	seq rau
 設於	seq yu
-設為
+設爲
 設疑
 設防	seq vaon
-許	hu
-許	xiu
+許	hu	0%
+許	xij	0%
+許	xiu	100%
 許下	xiu rau
 許久	xiu cioe
 許仙	xiu si
@@ -36180,6 +36083,7 @@ min_phrase_weight: 100
 許諾	xiu noq
 許配	xiu phe
 許願	xiu gnieu
+介許多	ka xij tu
 訴	su
 訴我
 訴稱
@@ -36216,7 +36120,7 @@ min_phrase_weight: 100
 評斷	bin deu
 評核
 評比	bin pij
-評為
+評爲
 評職
 評薪
 評說	bin seq
@@ -36298,7 +36202,6 @@ min_phrase_weight: 100
 該喝	ke heq
 該批
 該條	ke dio
-該死
 該派
 該賬
 詳	yan
@@ -36328,7 +36231,7 @@ min_phrase_weight: 100
 誄	le
 誅	tzyu
 誅連
-誆	guaon
+誆	khuaon
 誇	khau
 誇	khua
 誇口	khau khoe
@@ -36347,7 +36250,7 @@ min_phrase_weight: 100
 認准
 認同感	gnin don keu
 認局
-認為
+認爲
 認狠
 認破	gnin phu
 認罪	gnin zeu
@@ -36657,7 +36560,6 @@ min_phrase_weight: 100
 請備
 請口
 請吃茶
-請問
 請喫
 請寄
 請托
@@ -36781,7 +36683,7 @@ min_phrase_weight: 100
 講師	kaon sy
 講幾句	kaon cij ciu
 講座	kaon zu
-講弗定	kaon veq din
+講弗定
 講弗清爽	kaon feq tsin saon
 講張	kaon tzan
 講得	kaon teq
@@ -36854,7 +36756,7 @@ min_phrase_weight: 100
 謾罵	me mau
 證	tzen
 證人	tzen gnin
-證偽
+證僞
 證券	tzen chieu
 證果
 證物	tzen veq
@@ -36887,7 +36789,6 @@ min_phrase_weight: 100
 譙	zio
 譚	de
 譚公
-譜	phu
 譜	pu
 譜兒	pu el
 譜出	pu tseq
@@ -36926,7 +36827,7 @@ min_phrase_weight: 100
 譯員	yiq yeu
 譯師
 譯注
-譯為
+譯爲
 議	gnij
 議員	gnij yeu
 議場	gnij zan
@@ -36946,7 +36847,7 @@ min_phrase_weight: 100
 護青
 譽	yu
 譽冠
-譽為
+譽爲
 讀	doe
 讀	doq
 讀了	doe lio
@@ -36968,7 +36869,6 @@ min_phrase_weight: 100
 讀懂	doe ton
 讀我	doe ngu
 讀數	doe su
-讀書
 讀本	doe pen
 讀法	doe faq
 讀物	doe veq
@@ -37002,7 +36902,7 @@ min_phrase_weight: 100
 變更	pi ken
 變死	pi sij
 變灰
-變為
+變爲
 變熱
 變窄
 變粗
@@ -37149,7 +37049,6 @@ min_phrase_weight: 100
 豬膽
 豬舍	tzyu sau
 豬雜
-豬頭三
 豳	pin
 豸	zy
 豹	po
@@ -37160,7 +37059,6 @@ min_phrase_weight: 100
 貂裘
 貅	xioe
 貉	maq
-貉	mau
 貉	roq
 貊	maq
 貋	reu
@@ -37169,7 +37067,6 @@ min_phrase_weight: 100
 貍	lij
 貓	mho
 貓兒	mho el
-貓咪
 貓腰
 貔	bij
 貘	maq
@@ -37322,7 +37219,6 @@ min_phrase_weight: 100
 貸	de
 貸物	de veq
 貺	huaon
-貺	khuaon
 費	fij
 費	vij
 費了	fij lio
@@ -37494,7 +37390,6 @@ min_phrase_weight: 100
 賭聖
 賭誓罰咒
 賭馬	tu mau
-賭鬼
 賴	la
 賴	le
 賴三	la se
@@ -37532,7 +37427,7 @@ min_phrase_weight: 100
 賽手
 賽會	se we
 賽果
-賽況	se khuaon
+賽況
 賽車	se tsau
 賽馬	se mau
 賾	zaq
@@ -37591,14 +37486,15 @@ min_phrase_weight: 100
 赦	sau
 赦罪	sau zeu
 赧	ne
-赫	haq
-赫	heq
+赫	haq	100%
+赫	heq	0%
 赫哲	heq tzeq
 赫塞	heq seq
-赫然	heq zeu
+赫然
 赫爾	heq el
 赫茲	heq tzy
-赫赫	heq heq
+赫赫
+千赫	tsi heq
 赬	tsen
 赭	tzau
 赭石	tzau zaq
@@ -37612,7 +37508,6 @@ min_phrase_weight: 100
 走去	tzoe chij
 走台	tzoe de
 走吧	tzoe ba
-走味
 走啊	tzoe a
 走帳
 走棋
@@ -38017,7 +37912,7 @@ min_phrase_weight: 100
 蹽	lhio
 蹾	ten
 躁	tzo
-躂	taq
+躂	daq
 躅	zoq
 躇	zyu
 躉	ten
@@ -38055,7 +37950,7 @@ min_phrase_weight: 100
 身條	sen dio
 身殘
 身浪
-身為
+身爲
 身無	sen vu
 身相
 身纏
@@ -38120,7 +38015,7 @@ min_phrase_weight: 100
 車模	tsau mu
 車檢	tsau ci
 車次	tsau tsy
-車況	tsau khuaon
+車況
 車流	tsau lioe
 車照	tsau tzo
 車燈	tsau ten
@@ -38288,7 +38183,7 @@ min_phrase_weight: 100
 較松
 較正
 較比	cio pij
-較為
+較爲
 較矮
 較硬
 較窄
@@ -38428,7 +38323,7 @@ min_phrase_weight: 100
 轉折	tzeu tzeq
 轉暖
 轉會	tzeu we
-轉為
+轉爲
 轉生	tzeu san
 轉碼
 轉筋透骨
@@ -38447,7 +38342,7 @@ min_phrase_weight: 100
 轡	phe
 轢	liq
 轤	lu
-辏	tsoe
+輳	tsoe
 辛	sin
 辛未	sin vij
 辛炔	sin chiuq
@@ -38479,7 +38374,7 @@ min_phrase_weight: 100
 辦糟
 辦置
 辨	bi
-辨偽
+辨僞
 辨識	bi seq
 辭	zy
 辭去	zy chij
@@ -38536,7 +38431,7 @@ min_phrase_weight: 100
 近晚	djin ue
 近景	djin cin
 近期	djin djij
-近況	djin khuaon
+近況
 近洋
 近的
 近聞	djin ven
@@ -38554,8 +38449,7 @@ min_phrase_weight: 100
 迕	wu
 迢	dio
 迤	yij
-迥	yon
-迦	cia
+迥	cion
 迦	ka
 迦南	ka neu
 迨	de
@@ -38563,8 +38457,7 @@ min_phrase_weight: 100
 迪化	diq hau
 迪吧	diq ba
 迪慶
-迪為
-迫	paq
+迪爲
 迫	phaq
 迫令	phaq lin
 迫使	phaq sy
@@ -38633,7 +38526,7 @@ min_phrase_weight: 100
 追償	tzeu zaon
 追兵	tzeu pin
 追到	tzeu to
-追剿	tzeu djio
+追剿
 追加	tzeu ka
 追呀	tzeu ia
 追問	tzeu ven
@@ -38714,7 +38607,7 @@ min_phrase_weight: 100
 送撥
 送死	son sy
 送湯	son thaon
-送灶
+送竈
 送煤
 送爽
 送粥	son tzoq
@@ -38770,7 +38663,6 @@ min_phrase_weight: 100
 逑	djioe
 途	du
 途人	du gnin
-逕	cin
 逖	thiq
 逗	doe
 逗哏	doe gen
@@ -38944,7 +38836,7 @@ min_phrase_weight: 100
 週會	tzoe we
 週期	tzoe djij
 進	tzin
-進剿	tzin djio
+進剿
 進化	tzin hau
 進去	tzin chij
 進場	tzin zan
@@ -39197,7 +39089,8 @@ min_phrase_weight: 100
 遭	tzo
 遭罪	tzo zeu
 遭話
-遮	tzau
+遮	tzau	100%
+遮	tza	0%
 遮住	tzau zyu
 遮光	tzau kuaon
 遮攔	tzau le
@@ -39324,7 +39217,7 @@ min_phrase_weight: 100
 還	re
 還	we
 還不	we peq
-還以為	re ij we
+還以爲	re ij we
 還來	re le
 還俗	we zoq
 還債	we tza
@@ -39387,7 +39280,6 @@ min_phrase_weight: 100
 還魂	we wen
 邇	el
 邈	mio
-邈	moq
 邊	pi
 邊個	pi ku
 邊區	pi chiu
@@ -39519,7 +39411,6 @@ min_phrase_weight: 100
 郛	fu
 郜	ko
 郝	heq
-郝	ho
 郟	kaq
 郡	djiun
 郢	yin
@@ -39656,7 +39547,6 @@ min_phrase_weight: 100
 配過
 配齊	phe zij
 酎	zoe
-酐	haon
 酐	keu
 酒	tzioe
 酒吧	tzioe ba
@@ -39688,8 +39578,8 @@ min_phrase_weight: 100
 酣紅	heu kon
 酤	ku
 酥	su
-酦	faq
-酦	pheq
+醱	faq
+醱	pheq
 酩	min
 酪	loq
 酬	zoe
@@ -39698,7 +39588,6 @@ min_phrase_weight: 100
 酰	si
 酲	zen
 酴	du
-酵	cio
 酵	ko
 酵條	ko dio
 酵母	ko mhu
@@ -39765,7 +39654,6 @@ min_phrase_weight: 100
 醭	phoq
 醮	tzio
 醯	xij
-醱酵
 醲	gnion
 醴	lij
 醵	djiu
@@ -39778,7 +39666,6 @@ min_phrase_weight: 100
 釃	sy
 釅	gni
 釆	bi
-采	tse
 釉	yoe
 釉料
 釉陶	yoe do
@@ -39842,7 +39729,7 @@ min_phrase_weight: 100
 野祭	ya tzij
 野蜂
 野蠻	ya me
-野蠻小囝	ya me sio neu
+野蠻小囝	ya me sio nheu
 野蠻小鬼	ya me sio ciu
 野趣	ya tsiu
 野雁	ya i
@@ -39970,8 +39857,7 @@ min_phrase_weight: 100
 鈴鐺	lin taon
 鈵	pin
 鈷	ku
-鈷	wu
-鈸	beq
+鈸	baq
 鈹	bij
 鈹	phij
 鈺	gnioq
@@ -39979,7 +39865,6 @@ min_phrase_weight: 100
 鈿	di
 鉀	ciaq
 鉀肥	ciaq vij
-鉅	djiu
 鉈	du
 鉈	tha
 鉉	yeu
@@ -40017,7 +39902,6 @@ min_phrase_weight: 100
 鉸鏈	ko li
 鉺	el
 鉻	kaq
-鉻	loq
 鉿	ha
 銀	gnin
 銀光	gnin kuaon
@@ -40251,7 +40135,7 @@ min_phrase_weight: 100
 鍋上
 鍋屋	ku oq
 鍋巴	ku pa
-鍋灶
+鍋竈
 鍋碗
 鍋蓋	ku ke
 鍋餅
@@ -40303,7 +40187,6 @@ min_phrase_weight: 100
 鎖頭縛頸	su doe boq cin
 鎗	tsian
 鎘	keq
-鎘	liq
 鎚	zeu
 鎝	taq
 鎡	tzy
@@ -40447,7 +40330,6 @@ min_phrase_weight: 100
 鑒於	ci yu
 鑒諒	ci lian
 鑒證	ci tzen
-鑒貌辨色
 鑒賞	ci saon
 鑔	tsaq
 鑕	tzeq
@@ -40502,7 +40384,6 @@ min_phrase_weight: 100
 長休	tzan xioe
 長住	tzan zyu
 長假	tzan ka
-長凳
 長出	tzan tseq
 長刀	tzan to
 長列	tzan liq
@@ -40524,7 +40405,6 @@ min_phrase_weight: 100
 長大	zan du
 長天	tzan thi
 長女	tzan gniu
-長子
 長存	tzan zen
 長孫	tzan sen
 長安	tzan eu
@@ -40596,7 +40476,6 @@ min_phrase_weight: 100
 長相	tzan sian
 長眠	tzan mi
 長矛	tzan moe
-長短
 長石	tzan zaq
 長程	tzan zen
 長空	tzan khon
@@ -40627,7 +40506,6 @@ min_phrase_weight: 100
 長衫	tzan se
 長袍	tzan bo
 長袖	tzan zioe
-長褲
 長親	tzan tsin
 長詩	tzan sy
 長話	tzan rau
@@ -40640,7 +40518,6 @@ min_phrase_weight: 100
 長逝	tzan zy
 長進	tzan tzin
 長達	tzan daq
-長遠
 長醉	tzan tzeu
 長釘	tzan tin
 長鉗	tzan dji
@@ -40863,7 +40740,7 @@ min_phrase_weight: 100
 閻	gni
 閼	i
 閽	huen
-閾	yoq
+閾	yuq
 閾限
 閿	ven
 闃	chiuq
@@ -40925,7 +40802,7 @@ min_phrase_weight: 100
 阱	tzin
 防	baon
 防	vaon
-防偽	vaon we
+防僞	vaon we
 防備	vaon be
 防凍	vaon ton
 防制	vaon tzy
@@ -40957,7 +40834,7 @@ min_phrase_weight: 100
 防災	vaon tze
 防熱	vaon gniq
 防爆	vaon bo
-防疫	vaon yoq
+防疫	baon yuq
 防病	vaon bin
 防癆	vaon lo
 防盜	vaon do
@@ -41024,19 +40901,19 @@ min_phrase_weight: 100
 阿妹	a me
 阿妹	aq me
 阿姊	a tzy
-阿姐	a tzia
 阿姐	aq tzia
+阿姐	a tzia
 阿姑	a ku
-阿姨	a yij
 阿姨	aq yij
+阿姨	a yij
 阿姨婆婆	a yij bu bu
 阿娘	a gnian
 阿娘	aq gnian
 阿婆	a bu
 阿婆	aq bu
 阿媽	a mha
-阿嫂	a so
 阿嫂	aq so
+阿嫂	a so
 阿嬤	a mhau
 阿嬸	a sen
 阿富	a fu
@@ -41050,8 +40927,6 @@ min_phrase_weight: 100
 阿扁	a pi
 阿拉	a lha
 阿拉	aq laq
-阿拉伯
-阿拉伯人
 阿拉個	aq laq req
 阿拉勿來	aq laq veq le
 阿敏	a mhin
@@ -41077,8 +40952,8 @@ min_phrase_weight: 100
 阿爸	aq paq
 阿爹	a tia
 阿爹拉娘	aq tia lha gnian
-阿爺	a ya
 阿爺	aq ya
+阿爺	a ya
 阿爾	a el
 阿片	a phi
 阿牛	a gnioe
@@ -41090,8 +40965,6 @@ min_phrase_weight: 100
 阿紅	a kon
 阿美	a mhe
 阿義	a gnij
-阿胡	a wu
-阿胡一口	a wu iq khoe
 阿膠	a ko
 阿舅	a djioe
 阿舅	aq djioe
@@ -41101,7 +40974,6 @@ min_phrase_weight: 100
 阿裡	aq lij
 阿訇	a hon
 阿諛	a yu
-阿諛逢迎
 阿諾	a noq
 阿貓	a mho
 阿貓阿狗	aq mho aq koe
@@ -41135,7 +41007,6 @@ min_phrase_weight: 100
 陋屋	loe oq
 陌	maq
 陌生	maq san
-降	cian
 降	kaon
 降	raon
 降下	kaon rau
@@ -41159,7 +41030,7 @@ min_phrase_weight: 100
 降水	kaon syu
 降溫	kaon uen
 降火	kaon hu
-降為	kaon we
+降爲	kaon we
 降生	kaon san
 降福	kaon foq
 降級	kaon ciq
@@ -41204,7 +41075,7 @@ min_phrase_weight: 100
 陞官
 陞格
 陞檔
-陞為
+陞爲
 陞級
 陞職
 陞讀	sen doe
@@ -41345,7 +41216,6 @@ min_phrase_weight: 100
 陰陰	in in
 陰陽	in yan
 陰陽面	in yan mi
-陰陽頭
 陰險	in xi
 陰雨	in yu
 陰雨天	in yu thi
@@ -41549,7 +41419,6 @@ min_phrase_weight: 100
 隴南	lon neu
 隶	de
 隸	dij
-隸	lij
 隸卒	dij tzeq
 隸字	dij zy
 隸屬	dij zoq
@@ -41606,7 +41475,9 @@ min_phrase_weight: 100
 雇用
 雇農
 雉	zy
-雋	tzi
+雋	tzin
+雋秀	tzin sioe
+雋	zi
 雌	tsy
 雌伏	tsy voq
 雌伏雄	tsy bu yon
@@ -41633,7 +41504,7 @@ min_phrase_weight: 100
 雖屬	seu zoq
 雖把
 雖未	seu vij
-雖為
+雖爲
 雖無	seu vu
 雖短
 雖經
@@ -41689,16 +41560,14 @@ min_phrase_weight: 100
 雛鵝
 雜	zeq
 雜交	zeq ko
-雜佮倫敦	zeq keq len ten
-雜佮龍冬
 雜呈
 雜家	zeq cia
 雜市
 雜念	zeq gni
 雜感	zeq keu
 雜拌	zeq beu
-雜格倫敦
-雜格龍冬
+雜佮倫敦	zeq keq len ten
+雜佮龍冬
 雜毛
 雜沓	zeq daq
 雜活
@@ -41927,7 +41796,7 @@ min_phrase_weight: 100
 電波	di pu
 電測
 電火
-電灶
+電竈
 電玩	di weu
 電發
 電磨
@@ -41958,7 +41827,6 @@ min_phrase_weight: 100
 震顫	tzen tseu
 霈	phe
 霉	me
-霉乾菜
 霉味	me vij
 霉夫	me fu
 霉氣
@@ -42129,8 +41997,8 @@ min_phrase_weight: 100
 面顴
 面顴骨
 靨	iq
-革	chij
-革	keq
+革	djiq	0%
+革	keq	100%
 革去	keq chij
 革命	keq min
 革履	keq liu
@@ -42180,7 +42048,7 @@ min_phrase_weight: 100
 鞭炮	pi pho
 鞲	koe
 鞴	bij
-鞽	chio
+鞽	djio
 韁	cian
 韁繩
 韂	tseu
@@ -42265,7 +42133,6 @@ min_phrase_weight: 100
 頂頭雷
 頂頭風
 頃	chin
-頃	khe
 頃刻	chin kheq
 項	raon
 項圈	raon chieu
@@ -42288,7 +42155,6 @@ min_phrase_weight: 100
 順變
 順達
 順風耳朵	zen fon gnij tu
-順風順水
 頇	heu
 須	siu
 須先
@@ -42381,7 +42247,7 @@ min_phrase_weight: 100
 頗少
 頗感	phu keu
 頗濃
-頗為
+頗爲
 頗細
 頗能	phu nen
 頗覺	phu cioq
@@ -42451,7 +42317,6 @@ min_phrase_weight: 100
 頲	thin
 頷	reu
 頸	cin
-頸	ken
 頸子	cin tzy
 頸梁	cin lian
 頸椎	cin tzeu
@@ -42472,7 +42337,7 @@ min_phrase_weight: 100
 顆顆
 題	dij
 題榜	dij paon
-題為
+題爲
 題眼
 題籤
 題解	dij cia
@@ -42497,7 +42362,7 @@ min_phrase_weight: 100
 願將	gnieu tzian
 願景	gnieu cin
 願望	gnieu vaon
-願為
+願爲
 願者
 顙	saon
 顛	ti
@@ -42520,15 +42385,15 @@ min_phrase_weight: 100
 顧家	ku cia
 顧念	ku gni
 顧起
-顫	tseu
-顫	tzeu
-顫動	tseu don
-顫悠	tseu ioe
-顫慄	tseu liq
-顫抖	tseu toe
-顫聲	tseu sen
-顫音	tseu in
-顫顫	tseu tseu
+顫	tseu	100%
+顫	tzeu	0%
+顫動
+顫悠
+顫慄
+顫抖
+顫聲
+顫音
+顫顫
 顬	zyu
 顯	xi
 顯學	xi roq
@@ -42539,7 +42404,7 @@ min_phrase_weight: 100
 顯能	xi nen
 顯見	xi ci
 顯貴	xi kue
-顯赫	xi heq
+顯赫
 顯體
 顯點
 顰	bin
@@ -42776,7 +42641,6 @@ min_phrase_weight: 100
 餘下	yu rau
 餘人	yu gnin
 餘光	yu kuaon
-餘剩
 餘味	yu vij
 餘孽	yu gniq
 餘日	yu zeq
@@ -42866,8 +42730,8 @@ min_phrase_weight: 100
 首見	soe ci
 首車	soe tsau
 首長	soe tzan
-馗	djiu
-馗	gue
+馗	djiu	0%
+馗	gue	100%
 馘	kuaq
 香	xian
 香乾	xian keu
@@ -43012,8 +42876,8 @@ min_phrase_weight: 100
 馱	du
 馱負	du voe
 馳	zy
-馴	zin
-馴化	zin hau
+馴	xiun
+馴化	xiun hau
 馴獸
 駁	poq
 駐	tzyu
@@ -43269,7 +43133,6 @@ min_phrase_weight: 100
 高質
 高鋒
 高限
-高陞
 高階	ko cia
 髡	khuen
 髦	mo
@@ -43288,7 +43151,6 @@ min_phrase_weight: 100
 鬈	djieu
 鬈頭髮
 鬍	wu
-鬍鬚
 鬏	tzioe
 鬚	siu
 鬚	su
@@ -43481,7 +43343,6 @@ min_phrase_weight: 100
 鮊	baq
 鮋	yoe
 鮍	bij
-鮍	phij
 鮎	gni
 鮐	the
 鮑	bo
@@ -43654,7 +43515,7 @@ min_phrase_weight: 100
 鴕鳥	du knio
 鴛	ieu
 鴝	djiu
-鴞	yo
+鴞	xio
 鴟	tsy
 鴣	ku
 鴦	ian
@@ -43816,9 +43677,12 @@ min_phrase_weight: 100
 麩	fu
 麯	chioq
 麵	mi
+麵子
 麵杖魚	mi zan ng
+麵板
 麵條	mi dio
 麵疙瘩	mi keq taq
+麵的
 麵盆
 麻	mau
 麻人	mau gnin
@@ -43839,7 +43703,6 @@ min_phrase_weight: 100
 麻荔枝	mau liq tzy
 麻質
 麻酥糖
-麻雀
 麼	meq
 麼	moq
 麼喝	meq heq
@@ -44149,6 +44012,7 @@ min_phrase_weight: 100
 龍蛇	lon zau
 龍蝦	lon hau
 龍身
+龍須
 龍馬	lon mau
 龍鱗
 龍齒
@@ -44174,7 +44038,230 @@ min_phrase_weight: 100
 龜足	kue tzoq
 龜頭	kue doe
 龠	yaq
-𠲎	va
 𡉑	da
 𧾁	zaq
-𧾁進𧾁出
+𧾁進𧾁出	zaq tzin zaq tseq
+商廈	saon rau
+商廈	saon xia
+㑚	na
+𠲎	va
+淅力索落	siq liq soq loq
+阿胡	a wu
+阿胡一口	a wu iq khoe
+粘支疙瘩	kni tzy keq taq
+伏太陽	bu tha yan
+丨	kun
+丿	phiq
+乛	tzeq
+丶	tzyu
+蘢	lon
+薟	xi
+莩	fu	0%
+莩	bio	100%
+蕕	yoe
+莙	ciun
+酏	yij
+娿	u
+捥	ueu	0%
+涬	yin
+蛓	tsy
+煖	neu	100%
+煖	xieu	0%
+蟺	zeu
+撝	hue
+螌	pe
+磻	beu
+磻	pu
+丏	mi
+碞	nge
+丱	kue
+粦	lin
+芻	tsyu
+汙	u
+蹚	thaon
+奓	tza	100%
+奓	sau	0%
+奓	tsy	0%
+齖	nga
+銛	ti
+瞈	on
+刉	ke
+逕	cin
+貲	tzy
+奡	ngo
+昺	pin
+尨	maon
+尨	mon
+璺	men
+壼	khuen
+焮	xin
+隹	tzeu
+毌	kueu
+罫	kua
+粄	pe
+潧	tzen
+媇	tsin
+箘	ciun
+箘	djiun
+豙	gnij
+硍	ken
+迋	guaon
+迋	yaon
+絜	kaq
+絜	ciaq
+絜	yiq
+鎅	ga
+閯	sau
+暵	reu
+巆	yin
+嵤	yin
+昜	yan
+羕	yan
+寔	zeq
+覥	thi
+龢	wu
+郃	req
+鎔	yon
+柜	ciu
+岭	lin
+秈	si
+秈米	si mi
+蝟	we
+靦	mi
+靦腆	mi thi
+羋	mij
+廠	tsan
+迺	ne
+廼	ne
+庅	mu
+庅	mha
+鄕	xian
+兲	thi
+冭	tha
+戸	wu
+祇	tzeq
+祇	djij
+僊	si
+甯	gnin
+攷	kho
+秊	gni
+沍	wu
+呑	then
+匳	li
+獃	nge
+懛	te
+吿	ko
+訡	gnin
+飮	in
+渖	sen
+卽	tziq
+妬	tu
+鷄	cij
+絍	gnin	100%
+絍	zen	0%
+帋	tzy
+翫	me	0%
+翫	weu	100%
+琊	nga
+琊	ya
+輭	gnieu
+尙	zaon
+呪	tzoe
+嵒	nge
+喦	nge
+氂	mo
+殽	yo
+郤	chiq
+膁	chi
+刴	tu
+灋	faq
+洩	siq
+洩	yij
+録	loq
+罣	kau
+茘	liq
+磇	phij
+覧	le
+咇	piq
+毘	bij
+蝱	maon
+譁	rau
+譁	hua
+吚	yij
+吚	ij
+齩	ngo
+齩	yo
+餠	pin
+礮	pho
+旣	cij
+屛	bin
+屛	phin
+騈	bi
+畊	kan	100%
+畊	ken	0%
+壷	wu
+眞	tzen
+曏	san
+峯	fon
+贜	tzaon
+腁	bi
+凃	du
+寃	ieu
+碕	djij
+敁	ti
+耼	te
+纍	le
+牋	tzi
+朢	maon
+朢	vaon
+葢	ke	100%
+葢	keq	0%
+葢	req	0%
+麤	tsu
+麁	tsu
+麄	tsu
+銲	reu
+釬	reu
+淸	tsin
+喭	gni
+跙	tsia
+跙	tziu
+隄	dij
+煑	tzyu
+椶	tzon
+軰	pe
+蚘	we
+喩	yu
+諠	xieu
+鋭	zeu
+堢	po	100%
+堢	phu	0%
+堢	pu	0%
+晧	ro
+餈	tsy
+殨	gue
+漑	ke
+彊	djian
+彊	chian
+壻	siu
+萞	pij
+槪	ke
+矴	din
+磸	din
+覩	tu
+蹻	chio
+趒	thio
+趒	do
+辤	zy
+篠	sio
+躱	tu
+譾	tzi
+曡	diq
+曡	deq
+比苗頭	biq mio doe
+畀	peq
+溈	we
+姗	se
+挱	sau	100%
+挱	sa	0%
+挱	su	0%
