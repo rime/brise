@@ -10,7 +10,7 @@
 #
 
 ---
-name: wugniu_lopa
+name: wugniu_lopha
 version: "0.5"
 sort: by_weight
 use_preset_vocabulary: true
