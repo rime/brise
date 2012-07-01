@@ -5,7 +5,7 @@
 schema:
   schema_id: cangjie5
   name: 倉頡五代
-  version: "0.12"
+  version: "0.13"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -19,6 +19,10 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: extended_charset
+    states: [ 通用, 增廣 ]
 
 engine:
   processors:
@@ -40,6 +44,9 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
+  filters:
+    - simplifier
+    - uniquifier
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -48,6 +55,7 @@ speller:
 
 translator:
   dictionary: cangjie5
+  enable_charset_filter: true
   preedit_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz;'|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符・・|"
   comment_format:
