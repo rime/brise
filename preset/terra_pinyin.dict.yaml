@@ -24,7 +24,7 @@
 
 ---
 name: terra_pinyin
-version: "0.6.20120618"
+version: "0.6.20120727"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -200,6 +200,7 @@ min_phrase_weight: 100
 最	zui4
 會	hui4	99%
 會	kuai4	1%
+會稽	kuai4 ji1
 朅	qie4
 朆	fen1
 朘	juan1
