@@ -5,12 +5,14 @@
 schema:
   schema_id: terra_pinyin
   name: 地球拼音
-  version: "0.7"
+  version: "0.8"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
     「漢語拼音」，以符號按鍵 - / < \ 輸入四聲
     拼音碼表根據 CC-CEDICT 改編
+  dependencies:
+    - cangjie5
 
 switches:
   - name: ascii_mode

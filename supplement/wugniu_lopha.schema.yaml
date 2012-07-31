@@ -5,7 +5,7 @@
 schema:
   schema_id: wugniu_lopha
   name: 吳語（老派）
-  version: "0.5"
+  version: "0.6"
   author:
     - 上海閒話abc <tzyyiggnih@yahoo.com.cn>
     - 吳語越音 <zhufya@mail.ustc.edu.cn>
@@ -13,6 +13,8 @@ schema:
     吳語上海話（老派）
     拼寫方案採用《吳語拉丁式注音法》
     http://input.foruto.com/wu/method.html
+  dependencies:
+    - luna_pinyin
 
 switches:
   - name: ascii_mode

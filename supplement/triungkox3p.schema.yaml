@@ -5,11 +5,13 @@
 schema:
   schema_id: triungkox3p
   name: 中古三拼
-  version: "2012.07.02"
+  version: "2012.07.31"
   author:
     - 古韻 <biopolyhedron@gmail.com>
   description: |
     中古漢語三拼。
+  dependencies:
+    - luna_pinyin
 
 switches:
   - name: ascii_mode
@@ -48,23 +50,7 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    - abbrev/^atk$/a/
-    - abbrev/^eyt$/e/
-    - abbrev/^itq$/i/
-    - abbrev/^kaz$/k/
-    - abbrev/^leu$/l/
-    - abbrev/^msa$/m/
-    - abbrev/^mpf$/m/
-    - abbrev/^nta$/n/
-    - abbrev/^qof$/n/
-    - abbrev/^nkh$/n/
-    - abbrev/^plt$/p/
-    - abbrev/^qit$/q/
-    - abbrev/^qaa$/q/
-    - abbrev/^tek$/t/
-    - abbrev/^waq$/w/
-    - abbrev/^ymq$/y/
-    - abbrev/^zay$/z/
+    - abbrev/^([a-z]).+$/$1/
 
 translator:
   dictionary: triungkox3p

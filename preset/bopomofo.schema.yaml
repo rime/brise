@@ -5,13 +5,15 @@
 schema:
   schema_id: bopomofo
   name: 注音
-  version: "0.5"
+  version: "0.6"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
     注音符號輸入，採用「大千式」鍵盤排列。
     
     本方案採用「無模式」設計，以大寫字母鍵或上下方向鍵、空格鍵選詞；在音節邊界不明確處，可加入 ' 符號，以分隔第一聲的注音與後續音節。
+  dependencies:
+    - cangjie5
 
 switches:
   - name: ascii_mode

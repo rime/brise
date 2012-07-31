@@ -5,12 +5,14 @@
 schema:
   schema_id: stroke_simp
   name: "五笔画"
-  version: "0.2"
+  version: "0.3"
   author:
     - 佚名
   description: |
     以五笔画输入简化字
     h=横 s=竖 p=撇 n=捺 z=折
+  dependencies:
+    - pinyin_simp
 
 switches:
   - name: ascii_mode
@@ -41,7 +43,7 @@ engine:
     - reverse_lookup_translator
 
 speller:
-  alphabet: "hspnz"
+  alphabet: "abcdefghijklmnopqrstuvwxyz"
   delimiter: " '"
 
 menu:
@@ -52,7 +54,12 @@ translator:
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
   comment_format:
-    - xlit/hspnz~/一丨丿丶乙～/
+    - xform/~//
+    - xlit/hspnz/一丨丿丶乙/
+
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
 
 reverse_lookup:
   dictionary: pinyin_simp

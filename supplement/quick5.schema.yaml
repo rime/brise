@@ -5,13 +5,15 @@
 schema:
   schema_id: quick5
   name: 速成
-  version: "0.13"
+  version: "0.14"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
     速成、倉頡詞句連打
     碼表源自倉頡之友發佈的《五倉世紀版》
     www.chinesecj.com
+  dependencies:
+    - luna_pinyin
 
 switches:
   - name: ascii_mode
@@ -62,6 +64,10 @@ translator:
   disable_user_dict_for_patterns:
     - "^z.*$"
     - "^yyy.*$"
+
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
 
 reverse_lookup:
   dictionary: luna_pinyin

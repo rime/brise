@@ -5,13 +5,15 @@
 schema:
   schema_id: zyenpheng
   name: 中古全拼
-  version: "2012.07.07"
+  version: "2012.07.31"
   author:
     - 古韻 <biopolyhedron@gmail.com>
   description: |
     採用《廣韻》音系的中古漢語拼音，亦稱「古韻羅馬字」。
     韻典網・廣韻 http://ytenx.org/kyonh/
     http://zh.wikipedia.org/wiki/User:Polyhedron/中古漢語拼音
+  dependencies:
+    - luna_pinyin
 
 switches:
   - name: ascii_mode

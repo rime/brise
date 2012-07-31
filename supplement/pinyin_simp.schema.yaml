@@ -5,11 +5,13 @@
 schema:
   schema_id: pinyin_simp
   name: 袖珍简化字拼音
-  version: "0.2"
+  version: "0.3"
   author:
     - 佚名
   description: |
     源自 Android 拼音
+  dependencies:
+    - stroke_simp
 
 switches:
   - name: ascii_mode
