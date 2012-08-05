@@ -1,7 +1,7 @@
-# Rime dictionary
-# encoding: utf-8
+#	Rime dictionary
+#	encoding: utf-8
 #
-# Wugniu - 吳語上海話（老派）
+#	Wugniu - 吳語上海話（老派）
 #
 # 碼表製作：
 #
@@ -10,12 +10,12 @@
 #
 
 ---
-name: wugniu_lopha
-version: "0.5"
-sort: by_weight
-use_preset_vocabulary: true
-max_phrase_length: 7
-min_phrase_weight: 100
+name:	wugniu_lopha
+version: "2012.08.05"
+sort:	by_weight
+use_preset_vocabulary:	true
+max_phrase_length:	7
+min_phrase_weight:	100
 ...
 
 〇	lin
@@ -14964,7 +14964,7 @@ min_phrase_weight: 100
 役期
 役畜
 彼	pe
-彼此    pe tsy
+彼此	pe tsy
 彿	veq
 往	uaon
 往下	uaon rau
@@ -19776,7 +19776,7 @@ min_phrase_weight: 100
 明是
 明晚	min ue
 明月	min yuq
-明朝    men tzo
+明朝	men tzo
 明朝仔	min tzo tzy
 明朝仔	men tzo tzy
 明朝會	min tzo we
@@ -33928,7 +33928,7 @@ min_phrase_weight: 100
 華埠	rau bu
 華夏	rau rau
 華夏	rau xia
-華夏    wa xia
+華夏	wa xia
 華夏名網	rau rau min maon
 華宇	rau yu
 華安	rau eu
