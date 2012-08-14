@@ -24,7 +24,7 @@
 
 ---
 name: terra_pinyin
-version: "0.6.20120727"
+version: "0.6.20120814"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -1746,7 +1746,8 @@ min_phrase_weight: 100
 右	you4
 史	shi3
 叱	chi4
-台	tai2
+台	tai2	99%
+台	tai1	1%
 叶	xie2
 叵	po3
 叻	le4
