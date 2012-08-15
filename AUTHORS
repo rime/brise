@@ -15,28 +15,28 @@ Gong Chen <chen.sst@gmail.com> : (GPLv3)
   extra/stenotype.schema.yaml
 
 Gong Chen <chen.sst@gmail.com> : (GPLv3)
-using data from Chewing / ĞÂ¿áÒô (GPL),
-opencc / é_·ÅÖĞÎÄŞD“Q (Apache License version 2),
+using data from Chewing / æ–°é…·éŸ³ (GPL),
+opencc / é–‹æ”¾ä¸­æ–‡è½‰æ› (Apache License version 2),
 Android Pinyin IME (Apache License version 2)
   essay.kct
 
 Patrick <ipatrickmac@qq.com>, Gong Chen <chen.sst@gmail.com> : (GPLv3)
   supplement/ipa_xsampa*.yaml
 
-¹Åí <biopolyhedron@gmail.com> : (GPLv3)
+å¤éŸ» <biopolyhedron@gmail.com> : (GPLv3)
   supplement/triungkox3p.*.yaml
   supplement/zyenpheng.*.yaml
 
-ÉÏº£éfÔ’abc <tzyyiggnih@yahoo.com.cn>, …ÇÕZÔ½Òô <zhufya@mail.ustc.edu.cn> : (GPLv3)
+ä¸Šæµ·é–’è©±abc <tzyyiggnih@yahoo.com.cn>, å³èªè¶ŠéŸ³ <zhufya@mail.ustc.edu.cn> : (GPLv3)
   supplement/wugniu*.yaml
 
 derived from ibus-table by acevery (Yu Yuwei) : (LGPL)
-which is based on original work by Öì°îÍ / Chu Bong-Foo : (Public Domain)
+which is based on original work by æœ±é‚¦å¾© / Chu Bong-Foo : (Public Domain)
   preset/cangjie5.dict.yaml
   supplement/quick5.dict.yaml
 
 derived from ibus-table by acevery (Yu Yuwei) : (LGPL)
-which is based on original work by ÍõÓÀÃñ / Wang Yongmin : (Public Domain)
+which is based on original work by ç‹æ°¸æ°‘ / Wang Yongmin : (Public Domain)
   supplement/wubi86.dict.yaml
 
 derived from scim-table-zh : (GPLv2/LGPLv2)
@@ -46,9 +46,9 @@ derived from Android Pinyin IME : (Apache License version 2.0)
   supplement/pinyin_simp.dict.yaml
   supplement/stroke_simp.dict.yaml
 
-ûœÖ¾ºé <makchehu@netvigator.com> : (GPLv3)
+éº¥å¿—æ´ª <makchehu@netvigator.com> : (GPLv3)
   extra/scj6.*.yaml
 
-Ïã¸ÛéLÕßÙYÓÌìµØ / Hong Kong Seniors IT Advocates <info@hkseniors.net> : (GPL)
+é¦™æ¸¯é•·è€…è³‡è¨Šå¤©åœ° / Hong Kong Seniors IT Advocates <info@hkseniors.net> : (GPL)
   extra/stroke5.*.yaml
 
