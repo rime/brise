@@ -5,9 +5,9 @@
 schema:
   schema_id: stroke_simp
   name: "五笔画"
-  version: "0.3"
+  version: "0.4"
   author:
-    - 佚名
+    - 佛振 <chen.sst@gmail.com>
   description: |
     以五笔画输入简化字
     h=横 s=竖 p=撇 n=捺 z=折

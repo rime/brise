@@ -5,13 +5,13 @@
 schema:
   schema_id: jyutping
   name: 粵拼
-  version: "0.5"
+  version: "0.6"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
     採用《香港語言學會粵語拼音方案》
     http://www.lshk.org/cantonese.php
-    碼表源自 ibus-table
+    碼表源自 scim-table-zh
   dependencies:
     - luna_pinyin
 

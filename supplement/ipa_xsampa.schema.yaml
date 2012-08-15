@@ -5,9 +5,10 @@
 schema:
   schema_id: ipa_xsampa
   name: X-SAMPA
-  version: "0.1"
+  version: "0.2"
   author:
-    - Rime Developers
+    - Patrick <ipatrickmac@qq.com>
+    - GONG Chen <chen.sst@gmail.com>
   description: |
     IPA input method in X-SAMPA.
     http://en.wikipedia.org/wiki/X-SAMPA
