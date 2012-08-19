@@ -24,7 +24,7 @@
 
 ---
 name: terra_pinyin
-version: "0.6.20120814"
+version: "0.6.20120819"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -4826,6 +4826,7 @@ min_phrase_weight: 100
 祘	suan4
 祟	sui4
 神	shen2
+神出鬼沒	shen2 chu1 gui3 mo4
 祝	zhu4
 祜	hu4
 祂	ta1
