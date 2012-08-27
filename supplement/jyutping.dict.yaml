@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "0.6.20120816"
+version: "0.6.20120827"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -4869,7 +4869,6 @@ min_phrase_weight: 100
 嘍	lau
 廔	lau
 摟	lau
-嬲	lau
 鷚	lau
 漻	lau
 蟉	lau
@@ -5664,6 +5663,7 @@ min_phrase_weight: 100
 鎒	nau
 狃	nau
 㚼	nau
+嬲	nau
 㛅	nei
 祢	nei
 㞾	nei
