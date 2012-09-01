@@ -7,7 +7,7 @@ ifeq (${PREFIX},)
 	PREFIX=/usr
 endif
 ifeq (${RIME_DATA_DIR},)
-	RIME_DATA_DIR=/share/rime-data
+	RIME_DATA_DIR=${PREFIX}/share/rime-data
 endif
 
 all:
@@ -21,5 +21,5 @@ all:
 
 install:
 	@echo "installing rime data"
-	@install -d ${DESTDIR}${PREFIX}${RIME_DATA_DIR}
-	@install -m 644 ${DATA}/* ${DESTDIR}${PREFIX}${RIME_DATA_DIR}
+	@install -d ${DESTDIR}${RIME_DATA_DIR}
+	@install -m 644 ${DATA}/* ${DESTDIR}${RIME_DATA_DIR}
