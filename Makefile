@@ -3,6 +3,13 @@ ifeq (${SRCDIR},)
 endif
 DATA:=${SRCDIR}/data
 
+ifeq (${PREFIX},)
+	PREFIX=/usr
+endif
+ifeq (${RIME_DATA_DIR},)
+	RIME_DATA_DIR=/share/rime-data
+endif
+
 all:
 	@echo "building rime data"
 	@mkdir -p ${DATA}
@@ -14,5 +21,5 @@ all:
 
 install:
 	@echo "installing rime data"
-	@install -d ${DESTDIR}/usr/share/rime-data
-	@install ${DATA}/* ${DESTDIR}/usr/share/rime-data
+	@install -d ${DESTDIR}${PREFIX}${RIME_DATA_DIR}
+	@install -m 644 ${DATA}/* ${DESTDIR}${PREFIX}${RIME_DATA_DIR}
