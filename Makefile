@@ -11,7 +11,7 @@ ifeq (${RIME_DATA_DIR},)
 endif
 
 all:
-	@echo "building rime data"
+	@echo "building rime data."
 	@mkdir -p ${DATA}
 	@cp default.yaml ${DATA}
 	@cp essay.kct  ${DATA}
@@ -20,6 +20,6 @@ all:
 	rime_deployer --build  ${DATA}
 
 install:
-	@echo "installing rime data"
+	@echo "installing rime data into '${DESTDIR}${RIME_DATA_DIR}'."
 	@install -d ${DESTDIR}${RIME_DATA_DIR}
 	@install -m 644 ${DATA}/* ${DESTDIR}${RIME_DATA_DIR}
