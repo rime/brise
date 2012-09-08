@@ -5,7 +5,7 @@
 schema:
   schema_id: cangjie5
   name: 倉頡五代
-  version: "0.14"
+  version: "0.15"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -62,6 +62,9 @@ translator:
     - "xlit|abcdefghijklmnopqrstuvwxyz;'|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符・・|"
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+    - "^yyy.*$"
 
 abc_segmentor:
   extra_tags:
