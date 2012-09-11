@@ -31,12 +31,12 @@ Patrick <ipatrickmac@qq.com>, Gong Chen <chen.sst@gmail.com> : (GPLv3)
   supplement/wugniu*.yaml
 
 derived from ibus-table by acevery (Yu Yuwei) : (LGPL)
-which is based on original work by 朱邦復 / Chu Bong-Foo : (Public Domain)
+and based on original work by 朱邦復 / Chu Bong-Foo : (Public Domain)
   preset/cangjie5.dict.yaml
   supplement/quick5.dict.yaml
 
 derived from ibus-table by acevery (Yu Yuwei) : (LGPL)
-which is based on original work by 王永民 / Wang Yongmin : (Public Domain)
+and based on original work by 王永民 / Wang Yongmin : (Public Domain)
   supplement/wubi86.dict.yaml
 
 derived from scim-table-zh : (GPLv2/LGPLv2)
@@ -51,4 +51,12 @@ derived from Android Pinyin IME : (Apache License version 2.0)
 
 香港長者資訊天地 / Hong Kong Seniors IT Advocates <info@hkseniors.net> : (GPL)
   extra/stroke5.*.yaml
+
+StarSasumi <starsasumi@gmail.com> : (GPLv3)
+  supplement/emoji.*.yaml
+
+Jiehong Ma <ma.jiehong@gmail.com> : (GPLv3)
+based on original work by 廖明德 / Ming-Te Liao : (Array Input Method Public License)
+http://www.array.com.tw/company/array_license.pdf
+  extra/array30.*.yaml
 
