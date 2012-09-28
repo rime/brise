@@ -24,7 +24,7 @@
 
 ---
 name: terra_pinyin
-version: "0.6.20120819"
+version: "0.6.20120928"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -1802,8 +1802,8 @@ min_phrase_weight: 100
 珞	luo4
 珙	gong3
 珛	xiu4
-校	jiao4	5%
-校	xiao4	95%
+校	jiao4	25%
+校	xiao4	100%
 珖	guang1
 珓	jiao4
 栭	er2
