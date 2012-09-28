@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "0.6.20120827"
+version: "0.6.20120928"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -2636,6 +2636,7 @@ min_phrase_weight: 100
 浮	fau
 否	fau
 復	fau
+啡	fe
 朏	fei
 蜰	fei
 榧	fei
@@ -2788,6 +2789,7 @@ min_phrase_weight: 100
 鎵	gaa
 尕	gaa
 檟	gaa
+咖	gaa
 偈	gai	1000
 瀱	gai
 薊	gai
