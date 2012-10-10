@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "0.6.20120928"
+version: "0.6.20121010"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -5644,6 +5644,7 @@ min_phrase_weight: 100
 淰	nam
 腍	nam
 冧	nam
+諗	nam	1000
 撚	nan
 凹	nap
 粒	nap
