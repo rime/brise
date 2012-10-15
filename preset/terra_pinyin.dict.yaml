@@ -12,19 +12,19 @@
 # referenced works:
 # CC-CEDICT
 # community maintained free chinese-english dictionary.
-# 
+#
 # published by MDBG
-# 
+#
 # license:
 # creative commons attribution-share alike 3.0
 # http://creativecommons.org/licenses/by-sa/3.0/
-# 
+#
 # http://cc-cedict.org/wiki/
-# 
+#
 
 ---
 name: terra_pinyin
-version: "0.6.20120928"
+version: "0.6.20121015"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -4393,7 +4393,8 @@ min_phrase_weight: 100
 僊	xian1
 僉	qian1
 僖	xi1
-僕	pu2
+僕	pu1	0%
+僕	pu2	100%
 僔	zun3
 僑	qiao2
 僞	wei3
@@ -7255,7 +7256,9 @@ min_phrase_weight: 100
 將	jiang1	90%
 將	jiang4	10%
 將	qiang1	0%
-射	she4
+射	she4	100%
+射	ye4	0%
+射	yi4	0%
 尅	ke4
 専	zhuan1
 尃	fu1
@@ -12927,6 +12930,7 @@ min_phrase_weight: 100
 僅供參考	jin3 gong1 can1 kao3
 像片	xiang4 pian4
 像片簿	xiang4 pian4 bu4
+僕射	pu2 ye4
 僕街	pu1 jie1
 僞君子	wei3 jun1 zi3
 僞朝	wei3 chao2
