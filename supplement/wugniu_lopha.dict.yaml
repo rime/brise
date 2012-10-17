@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# Wugniu - 吳語上海話（老派）
+# 上海吳語（老派）
 #
 # 碼表製作：
 #
@@ -66,7 +66,7 @@ min_phrase_weight: 100
 一句	iq ciu
 一句言話	iq ciu rae rau
 一吹	iq tsyu
-一周
+一週
 一味	iq vij
 一員	iq yeu
 一問	iq ven
@@ -5587,7 +5587,6 @@ min_phrase_weight: 100
 刮積瀉
 刮起
 刮進
-刮風
 到	to
 到下	to rau
 到了	to lio
@@ -6772,7 +6771,6 @@ min_phrase_weight: 100
 博聞	poq ven
 博聞強識	poq ven djian tzy
 博識	poq seq
-卜	boq
 卜	poq
 卜卦	poq kau
 卜居	poq ciu
@@ -9344,8 +9342,8 @@ min_phrase_weight: 100
 囉嗦	lhu soq
 囉裏八蘇	lhu lij paq su
 囉哩八蘇	lhu lij paq su
-囉裏囉蘇	lhu lij lhu su
-囉哩囉蘇	lhu lij lhu su
+囉裏囉囌	lhu lij lhu su
+囉哩囉囌	lhu lij lhu su
 囊	naon
 囊	nhaon
 囊括	naon kuaq
@@ -17959,6 +17957,7 @@ min_phrase_weight: 100
 掛錫
 掠	liaoq
 掠視
+采	tse
 採	tse
 採伐	tse vaq
 採光	tse kuaon
@@ -20452,7 +20451,7 @@ min_phrase_weight: 100
 暴舉
 暴行	bo yin
 暴起
-暴虎馮河 bo hu bin wu
+暴虎馮河	bo hu bin wu
 暴跳	bo thio
 暹	si
 暾	then
@@ -24128,7 +24127,7 @@ min_phrase_weight: 100
 泳	ion
 泳員	ion yeu
 泳將	ion tzian
-泵	paon
+泵	pan
 泵入
 泵房
 洄	we
@@ -25032,7 +25031,7 @@ min_phrase_weight: 100
 滔	tho
 滕	den
 滘	ko
-滟	ij
+滟	yi
 滫	sioe
 滬	wu
 滬人	wu gnin
@@ -30405,6 +30404,7 @@ min_phrase_weight: 100
 築壩
 築牢
 筑	dzoq
+筑	tzoq
 篋	chiaq
 篌	roe
 篔	yun
@@ -33041,7 +33041,7 @@ min_phrase_weight: 100
 腈	dzin
 腈肉	tzin gnioq
 腈綸	dzin len
-聚丙烯腈	dziu pin xij dzin 
+聚丙烯腈	dziu pin xij dzin
 腋	yiq
 腋下	yiq rau
 腋臭	yiq tsoe
@@ -42786,6 +42786,7 @@ min_phrase_weight: 100
 颳	kuaq
 颳去	kuaq chij
 颳着	kuaq dzaoq
+颳風
 颶	djiu
 颶尺
 颸	sy
@@ -43342,7 +43343,7 @@ min_phrase_weight: 100
 驚愣
 驚擾	cin gnio
 驚擾	cin zo
-驚沒	
+驚沒
 驚炸
 驚聞	cin ven
 驚艷
@@ -44468,6 +44469,7 @@ min_phrase_weight: 100
 戸	wu
 祇	tzeq
 祇	djij
+只	tzeq
 僊	si
 甯	gnin
 攷	kho
@@ -44656,7 +44658,7 @@ min_phrase_weight: 100
 燐	lin
 羶	sae
 羴	sae
-繦	djian
+繦	djiaen
 礧	le
 鱓	zeu
 嚻	xio
@@ -44850,7 +44852,7 @@ min_phrase_weight: 100
 沺	di
 泂	cion
 泇	ka
-祋	tue
+祋	te
 訏	xiu
 澫	mae
 詝	dzy
@@ -45889,6 +45891,10 @@ min_phrase_weight: 100
 夂	tzon
 灬	pio
 厃	yi
+𡥵	keu
+𢴳	thaon
+䶕	bau
+䶕牙子	bau nga tzy
 漨浡	bon beq
 廈	sa
 商廈	saon rau
@@ -45906,4 +45912,64 @@ min_phrase_weight: 100
 水漫金山	syu meu cin sae
 漫天	meu thi
 漫天開價	meu thi khe ka
-
+嚐	zaon
+㑚	na
+党	taon
+淀	di
+佢	djiu
+鉅	djiu
+据	ciu
+漓	lij
+帘	lij
+窪	ua
+矇	mon
+苹	bin
+确	chiaq
+埆	chiaq
+胜	sen
+适	kuaq
+鏇	zi
+药	yaoq
+箚	tzaq
+䢢	tsian
+㽘	kan
+䐥	on
+䈬	bu
+㹂	chi
+䥛	ciq
+䈆	da
+㨄	dio
+䠰	djieu
+㷈	eq
+㽹	fae
+䊵	goe
+䀨	huaq
+䞁	ij
+䀫	kaq
+䞩	keq
+㫰	laon
+䃙	loq
+㝥	mij
+䌟	paoq
+㓟	phij
+䫌	phij
+㩝	ro
+㕐	sia
+㿯	kaq
+㶒	then
+㷟	theu
+䠷	thio
+㪗	thoe
+㿭	tsaq
+㜺	tzae
+㲀	tzen
+㨖	tzy
+䐈	tzy
+㧦	xieu
+䂻	zan
+䐬	dzo
+㪬	dzoq
+𢜶	so
+豪𢜶
+一䢢
+近䢢把
