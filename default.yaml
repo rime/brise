@@ -1,7 +1,7 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: "0.14"
+config_version: "0.15"
 
 schema_list:
   - schema: luna_pinyin
@@ -33,7 +33,7 @@ punctuator:
     "/" : [ ／, "/", ÷ ]
     "?" : { commit: ？ }
     ";" : { commit: ； }
-    ":" : ：
+    ":" : { commit: ： }
     "'" : { pair: [ "‘", "’" ] }
     "\"" : { pair: [ "“", "”" ] }
     "\\" : [ 、, ＼, "\\" ]
@@ -66,7 +66,7 @@ punctuator:
     "/" : [ 、, "/", ／, ÷ ]
     "?" : { commit: ？ }
     ";" : { commit: ； }
-    ":" : ：
+    ":" : { commit: ： }
     "'" : { pair: [ "‘", "’" ] }
     "\"" : { pair: [ "“", "”" ] }
     "\\" : [ 、, "\\", ＼ ]
