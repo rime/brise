@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "0.6.20121010"
+version: "2012.10.21"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -5178,6 +5178,7 @@ min_phrase_weight: 100
 撈	lou
 蘆	lou
 嚕	lou
+擼	lou
 牢	lou
 廬	lou
 佬	lou	1000
