@@ -11,7 +11,7 @@
 
 ---
 name: wugniu_lopha
-version: "2012.09.11"
+version: "2012.10.21"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -2930,6 +2930,7 @@ min_phrase_weight: 100
 伏魔	voq mu
 伐	va
 伐	vaq
+𠲎	va
 伐木	vaq moq
 伐樹	vaq zyu
 休	xioe
