@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "2012.10.21"
+version: "2012.10.23"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -10015,6 +10015,7 @@ min_phrase_weight: 100
 㫻	kwan
 䇹	kwan
 丨	kwan
+昆	kwan
 群	kwan
 羣	kwan
 均	kwan
