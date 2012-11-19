@@ -24,7 +24,7 @@
 
 ---
 name: terra_pinyin
-version: "0.6.20121015"
+version: "2012.11.19"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -10770,7 +10770,10 @@ min_phrase_weight: 100
 著	zhe5	0%
 著	zhu4	100%
 著	zhuo2	0%
-葉	ye4
+葉	ye4	100%
+葉	she4	0%
+葉公好龍	she4 gong1 hao4 long2
+葉公好龍	ye4 gong1 hao4 long2
 葍	fu2
 葎	lv4
 葄	zuo4
@@ -18412,6 +18415,8 @@ min_phrase_weight: 100
 心裏美蘿蔔	xin1 li5 mei3 luo2 bo5
 心裏話	xin1 li5 hua4
 心重	xin1 zhong4
+心廣體胖	xin1 guang3 ti3 pan2
+心寬體胖	xin1 kuan1 ti3 pan2
 必不可少	bi4 bu4 ke3 shao3
 必不可少組成	bi4 bu4 ke3 shao3 zu3 cheng2
 必和必拓	bi4 huo2 bi4 tuo4
