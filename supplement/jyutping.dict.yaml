@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "2012.10.23"
+version: "2012.11.19"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -10417,6 +10417,7 @@ min_phrase_weight: 100
 矓	lung
 攏	lung
 鑨	lung
+竉	lung
 癵	lyun
 羉	lyun
 鸞	lyun
