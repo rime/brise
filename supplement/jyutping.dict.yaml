@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "2012.11.19"
+version: "2012.12.01"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -6305,6 +6305,7 @@ min_phrase_weight: 100
 晰	sik
 蝕	sik
 禪	sim
+蟬	sim
 苫	sim
 襜	sim
 剡	sim
@@ -9219,6 +9220,7 @@ min_phrase_weight: 100
 㪫	haai
 哈	haai
 解	haai
+孩	haai
 客	haak
 克	haak
 黑	haak
@@ -10160,6 +10162,7 @@ min_phrase_weight: 100
 剌	laat
 辣	laat
 䓝	laau
+撈	laau
 唥	lang
 鯪	leng
 靚	leng	1000
