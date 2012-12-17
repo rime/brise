@@ -18,7 +18,7 @@
 
 ---
 name: "cangjie5"
-version: "0.13"
+version: "0.14"
 sort: original
 use_preset_vocabulary: true
 max_phrase_length: 1
@@ -1484,6 +1484,7 @@ encoding_rules:
 錣	ceee
 鍅	cegi
 鎃	cehv
+釵	cei	cei
 釵	cei	ce'i
 鈥	cf
 釥	cf
@@ -2305,6 +2306,7 @@ encoding_rules:
 棳	deee
 桫	defh
 柽	deg
+杈	dei	dei
 杈	dei	de'i
 樑	deid
 頗	dembc
@@ -3388,6 +3390,7 @@ encoding_rules:
 欼	eeeeo
 毲	eeeeu
 叠	eeem
+汊	eei	eei
 汊	eei	ee'i
 溞	eeii
 碆	eemr
@@ -3566,8 +3569,9 @@ encoding_rules:
 湼	ehxm
 淣	ehxu
 裟	ehyhv
-戏	ei
+叉	ei	ei
 叉	ei	e'i
+戏	ei
 浪	eiav
 溥	eibi
 浚	eice
@@ -8574,7 +8578,7 @@ encoding_rules:
 宿	joma
 顁	jombc
 宾	jomc
-麥	joni
+麥	joni	jon'i
 宱	joos
 寑	jose
 它	jp
@@ -9507,6 +9511,7 @@ encoding_rules:
 褬	leed
 裰	leee
 坚	leg
+衩	lei	lei
 衩	lei	le'i
 紧	levif
 竖	leyt
@@ -10440,6 +10445,7 @@ encoding_rules:
 孁	mbrrv
 霞	mbrse
 霨	mbsfi
+雪	mbsm	mbsm
 雪	mbsm	mbs'm
 霫	mbsma
 翮	mbsmm
@@ -13608,6 +13614,7 @@ encoding_rules:
 铍	opdhe
 钵	opdm
 铼	opdt
+钗	opei	opei
 钗	opei	ope'i
 铴	openh
 铎	opeq
@@ -14792,6 +14799,7 @@ encoding_rules:
 搡	qeed
 掇	qeee
 挱	qefh
+扠	qei	qei
 扠	qei	qe'i
 搔	qeii
 掻	qeli
@@ -15034,6 +15042,7 @@ encoding_rules:
 搳	qjqr
 邫	qjrau
 捾	qjrr
+彗	qjsm	qjsm
 彗	qjsm	qjs'm
 熭	qjsmf
 慧	qjsmp
@@ -17772,6 +17781,7 @@ encoding_rules:
 芰	tje
 鞜	tjea
 蘻	tjef
+靫	tjei	tjei
 靫	tjei	tje'i
 鞘	tjfb
 鞺	tjfbg
@@ -21020,6 +21030,7 @@ encoding_rules:
 諫	yrdwf	yrdw'f
 誻	yrea
 諁	yreee
+訍	yrei	yrei
 訍	yrei	yre'i
 京	yrf
 点	yrf
