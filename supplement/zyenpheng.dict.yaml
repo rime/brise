@@ -8,7 +8,7 @@
 
 ---
 name: zyenpheng
-version: "2012.02.07"
+version: "2012.12.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -14903,7 +14903,6 @@ use_preset_vocabulary: true
 漭	mangx
 㟐	mangx
 蟒	mangx
-䔾	mat
 毛	mau
 髦	mau
 芼	mau
@@ -15675,6 +15674,7 @@ use_preset_vocabulary: true
 𥲈	muanx
 鏋	muanx
 蟎	muanx
+䔾	muat
 末	muat
 昩	muat
 𩑷	muat
