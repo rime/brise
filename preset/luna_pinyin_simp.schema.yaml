@@ -1,11 +1,10 @@
 # Rime schema
-# vim: set sw=2 sts=2 et:
 # encoding: utf-8
 
 schema:
   schema_id: luna_pinyin_simp
-  name: 明月拼音・简化字
-  version: "0.11"
+  name: 朙月拼音・简化字
+  version: "0.12"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
