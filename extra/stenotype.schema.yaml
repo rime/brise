@@ -1,11 +1,10 @@
 # Rime schema
-# vim: set sw=2 sts=2 et:
 # encoding: utf-8
 
 schema:
   schema_id: stenotype
   name: 速記打字法
-  version: "0.3"
+  version: "0.4"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -74,7 +73,7 @@ speller:
     - xform/^ru/R/
     - xform/^([bpmf])u$/$1/
     - xform/^([dtnlgkh])e$/$1/
-    - xform/^([jqxzcs])i/$1/
+    - xform/^([jqxzcsr])i/$1/
     - xform/^er$/r/
     - xform/iang$/Y/
     - xform/uang$/W/
