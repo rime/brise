@@ -4,7 +4,7 @@
 schema:
   schema_id: bopomofo
   name: 注音
-  version: "0.7"
+  version: "0.8"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -94,6 +94,7 @@ reverse_lookup:
   dictionary: cangjie5
   enable_completion: true
   prefix: "`"
+  suffix: "'"
   tips: 〔倉頡〕
   preedit_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
@@ -207,4 +208,4 @@ recognizer:
     email: "^[a-z][-_.0-9a-z]*@.*$"
     uppercase: "^[A-Z][-_+.'0-9A-Za-z]*$"
     url: "^(www[.]|https?:|ftp:|mailto:).*$"
-    reverse_lookup: "`[a-z]*$"
+    reverse_lookup: "`[a-z]*'?$"

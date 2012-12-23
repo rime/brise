@@ -63,6 +63,7 @@ translator:
 reverse_lookup:
   dictionary: luna_pinyin
   prefix: "`"
+  suffix: "'"
   tips: 〔拼音〕
   preedit_format:
     - xform/([nljqxy])v/$1ü/
@@ -76,4 +77,4 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "`[a-z]*$"
+    reverse_lookup: "`[a-z]*'?$"

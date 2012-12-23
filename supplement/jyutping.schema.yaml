@@ -1,11 +1,10 @@
 # Rime schema
-# vim: set sw=2 sts=2 et:
 # encoding: utf-8
 
 schema:
   schema_id: jyutping
   name: 粵拼
-  version: "0.6"
+  version: "0.7"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -65,6 +64,7 @@ translator:
 reverse_lookup:
   dictionary: luna_pinyin
   prefix: "`"
+  suffix: "'"
   tips: 〔拼音〕
   preedit_format:
     - xform/([nljqxy])v/$1ü/
@@ -78,4 +78,4 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "`[a-z]*$"
+    reverse_lookup: "`[a-z]*'?$"

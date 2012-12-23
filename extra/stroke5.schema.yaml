@@ -1,11 +1,10 @@
 # Rime schema settings
-# vim: set sw=2 sts=2 et:
 # encoding: utf-8
 
 schema:
   schema_id: stroke5
   name: 筆順五碼
-  version: "0.4.2"
+  version: "0.4.3"
   author:
     - 梁敬文 Leung King Man <leungkm1@hotmail.com>
     - 王潔貞 Amy Wong <wongkitching01@yahoo.com.hk>
@@ -68,6 +67,7 @@ translator:
 reverse_lookup:
   dictionary: luna_pinyin
   prefix: "`"
+  suffix: "'"
   tips: 〔拼音〕
   preedit_format:
     - xform/([nljqxy])v/$1ü/
@@ -100,4 +100,4 @@ recognizer:
   patterns:
     email: "^[a-z][-_.0-9a-z]*@.*$"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
-    reverse_lookup: "`[a-z]*$"
+    reverse_lookup: "`[a-z]*'?$"

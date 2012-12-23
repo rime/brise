@@ -1,11 +1,10 @@
 ﻿# Rime schema
-# vim: set sw=2 sts=2 et:
 # encoding: utf-8
 
 schema:
   schema_id: zyenpheng
   name: 中古全拼
-  version: "2012.07.31"
+  version: "2012.12.23"
   author:
     - 古韻 <biopolyhedron@gmail.com>
   description: |
@@ -71,6 +70,7 @@ translator:
 reverse_lookup:
   dictionary: luna_pinyin
   prefix: "`"
+  suffix: "'"
   tips: 〔拼音〕
   preedit_format:
     - xform/([nljqxy])v/$1ü/
@@ -84,4 +84,4 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "`[a-z]*$"
+    reverse_lookup: "`[a-z]*'?$"

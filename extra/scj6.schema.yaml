@@ -1,11 +1,10 @@
 # Rime schema settings
-# vim: set sw=2 sts=2 et:
 # encoding: utf-8
 
 schema:
   schema_id: scj6
   name: 快速倉頡
-  version: "0.3"
+  version: "0.4"
   author:
     - 麥志洪 <makchehu@netvigator.com>
   description: |
@@ -63,6 +62,7 @@ translator:
 reverse_lookup:
   dictionary: luna_pinyin
   prefix: "`"
+  suffix: "'"
   tips: 〔拼音〕
   preedit_format:
     - xform/([nljqxy])v/$1ü/
@@ -78,4 +78,4 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "`[a-z]*$"
+    reverse_lookup: "`[a-z]*'?$"
