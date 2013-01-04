@@ -18,7 +18,7 @@
 
 ---
 name: "cangjie5"
-version: "0.14"
+version: "0.15"
 sort: original
 use_preset_vocabulary: true
 max_phrase_length: 1
@@ -26,16 +26,18 @@ columns:
   - text
   - code
   - stem
-encoding_exclude_patterns:
-  - '^x.*$'
-  - '^z.*$'
-encoding_rules:
-  - length_equal: 2
-    formula: "AaAzBaBbBz"
-  - length_equal: 3
-    formula: "AaAzBaBzCz"
-  - length_in_range: [4, 10]
-    formula: "AaBzCaYzZz"
+encoder:
+  exclude_patterns:
+    - '^x.*$'
+    - '^z.*$'
+  rules:
+    - length_equal: 2
+      formula: "AaAzBaBbBz"
+    - length_equal: 3
+      formula: "AaAzBaBzCz"
+    - length_in_range: [4, 10]
+      formula: "AaBzCaYzZz"
+  tail_anchor: "'"
 ...
 
 日	a
