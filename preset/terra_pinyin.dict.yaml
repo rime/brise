@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2012.11.19"
+version: "2013.01.07"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -9452,8 +9452,8 @@ min_phrase_weight: 100
 酇	zan4
 浩	hao4
 羢	rong2
-羣	qun2
 羧	suo1
+羣	qun2
 群	qun2
 羥	qiang3
 羨	xian4
@@ -12052,7 +12052,7 @@ min_phrase_weight: 100
 人世間	ren2 shi4 jian1
 人人樂從	ren2 ren2 le4 cong2
 人人都有缺點	ren2 ren2 dou1 you3 que1 dian3
-人以羣分	ren2 yi3 qun2 fen1
+人以群分	ren2 yi3 qun2 fen1
 人位相宜	ren2 wei4 xiang1 yi2
 人傑地靈	ren2 jie2 di4 ling2
 人傳人	ren2 chuan2 ren2
@@ -12153,7 +12153,7 @@ min_phrase_weight: 100
 代數流行	dai4 shu4 liu2 xing2
 代數簇	dai4 shu4 cu4
 代數結構	dai4 shu4 jie2 gou4
-代數羣	dai4 shu4 qun2
+代數群	dai4 shu4 qun2
 代數量	dai4 shu4 liang4
 代表處	dai4 biao3 chu4
 令人不快	ling4 ren2 bu2 kuai4
@@ -13732,7 +13732,7 @@ min_phrase_weight: 100
 刺激性	ci4 ji1 xing4
 刺激物	ci4 ji1 wu4
 刺激素	ci4 ji1 su4
-刺激羣	ci4 ji1 qun2
+刺激群	ci4 ji1 qun2
 刺痛	ci4 tong4
 刺眼	ci4 yan3
 刺穿	ci4 chuan1
@@ -16028,7 +16028,7 @@ min_phrase_weight: 100
 塞翁失马焉知非福	sai4 weng1 shi1 ma3 yan1 zhi1 fei1 fu2
 塞耳	sai1 er3
 塞舌爾	sai4 she2 er3
-塞舌爾羣島	sai4 she2 er3 qun2 dao3
+塞舌爾群島	sai4 she2 er3 qun2 dao3
 塞語	sai4 yu3
 塞車	sai1 che1
 塞韋裏諾	sai4 wei2 li3 nuo4
@@ -16240,7 +16240,7 @@ min_phrase_weight: 100
 大夫	dai4 fu5
 大姨子	da4 yi2 zi5
 大安的列斯	da4 an1 di4 lie4 si1
-大安的列斯羣島	da4 an1 di4 lie4 si1 qun2 dao3
+大安的列斯群島	da4 an1 di4 lie4 si1 qun2 dao3
 大宛	da4 yuan1
 大容量	da4 rong2 liang4
 大寧	da4 ning2
@@ -16753,7 +16753,7 @@ min_phrase_weight: 100
 子細胞	zi3 xi4 bao1
 子網	zi3 wang3
 子網屏蔽碼	zi3 wang3 ping2 bi4 ma3
-子羣	zi3 qun2
+子群	zi3 qun2
 子葉	zi3 ye4
 子規	zi3 gui1
 子貢	zi3 gong4
@@ -18896,7 +18896,7 @@ min_phrase_weight: 100
 成爲	cheng2 wei2
 成田機場	cheng2 tian2 ji1 chang3
 成瘾	cheng2 yin3
-成羣結隊	cheng2 qun2 jie2 dui4
+成群結隊	cheng2 qun2 jie2 dui4
 成華	cheng2 hua2
 成華區	cheng2 hua2 qu1
 成行	cheng2 xing2
@@ -20212,7 +20212,7 @@ min_phrase_weight: 100
 散開	san4 kai1
 散養	san3 yang3
 散體	san3 ti3
-敬業樂羣	jing4 ye4 le4 qun2
+敬業樂群	jing4 ye4 le4 qun2
 敬稱	jing4 cheng1
 敬重	jing4 zhong4
 敲喪鐘	qiao1 sang1 zhong1
@@ -24974,7 +24974,7 @@ min_phrase_weight: 100
 種禽	zhong3 qin2
 種種	zhong3 zhong3
 種系	zhong3 xi4
-種羣	zhong3 qun2
+種群	zhong3 qun2
 種臍	zhong3 qi2
 種花	zhong4 hua1
 種薯	zhong3 shu3
@@ -25583,7 +25583,7 @@ min_phrase_weight: 100
 細菌戰	xi4 jun1 zhan4
 細菌武器	xi4 jun1 wu3 qi4
 細菌病毒	xi4 jun1 bing4 du2
-細菌羣	xi4 jun1 qun2
+細菌群	xi4 jun1 qun2
 細葉脈	xi4 ye4 mai4
 細調	xi4 diao4
 細長	xi4 chang2
@@ -25693,7 +25693,7 @@ min_phrase_weight: 100
 結賬	jie2 zhang4
 結連	jie2 lian2
 結隊	jie2 dui4
-結隊成羣	jie2 dui4 cheng2 qun2
+結隊成群	jie2 dui4 cheng2 qun2
 結餘	jie2 yu2
 結髮	jie2 fa4
 結點	jie2 dian3
@@ -26008,7 +26008,7 @@ min_phrase_weight: 100
 羞愧難當	xiu1 kui4 nan2 dang1
 羞於啟齒	xiu1 yu2 qi3 chi3
 羟基丁酸	qiang3 ji1 ding1 suan1
-羣落	qun2 luo4
+群落	qun2 luo4
 義勇軍進行曲	yi4 yong3 jun1 jin4 xing2 qu3
 義務教育	yi4 wu4 jiao4 yu4
 義行	yi4 xing2
@@ -26025,7 +26025,7 @@ min_phrase_weight: 100
 翠屏區	cui4 ping2 qu1
 翹企	qiao2 qi3
 翹尾巴	qiao4 wei3 ba5
-翹居羣首	qiao2 ju1 qun2 shou3
+翹居群首	qiao2 ju1 qun2 shou3
 翹拇指	qiao2 mu3 zhi3
 翹曲	qiao2 qu1
 翹望	qiao2 wang4
@@ -26706,7 +26706,7 @@ min_phrase_weight: 100
 航空局	hang2 kong1 ju2
 航空業	hang2 kong1 ye4
 航空母艦	hang2 kong1 mu3 jian4
-航空母艦戰鬥羣	hang2 kong1 mu3 jian4 zhan4 dou4 qun2
+航空母艦戰鬥群	hang2 kong1 mu3 jian4 zhan4 dou4 qun2
 航空港	hang2 kong1 gang3
 航空站	hang2 kong1 zhan4
 航空線	hang2 kong1 xian4
@@ -30880,7 +30880,7 @@ min_phrase_weight: 100
 阿瓦提縣	a1 wa3 ti2 xian4
 阿瓦裏德	a1 wa3 li3 de2
 阿甘正傳	a1 gan1 zheng4 zhuan4
-阿留申羣島	a1 liu2 shen1 qun2 dao3
+阿留申群島	a1 liu2 shen1 qun2 dao3
 阿的平	a1 di4 ping2
 阿皮亞	a1 pi2 ya4
 阿盟	a1 meng2
