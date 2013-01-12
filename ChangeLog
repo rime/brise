@@ -1,0 +1,22 @@
+2013-01-12  GONG Chen  <chen.sst@gmail.com>
+
+	* soutzoe: a phonetic input method in Soochow dialect.
+
+	* bopomofo: automatically commit sentences followed by a comma or a period.
+	* double_pinyin_flypy: fix preedit representation 'dn' -> 'diao'
+
+	* luna_pinyin, terra_pinyin, jyutping: update tables.
+	* essay: update vocabulary database.
+	prefer 群/SRTQ, 峰/UHEJ, 麵/JEMWL to their equivalents 羣/XSRTQ , 峯/XUHEJ, 麪/JEMLS in phrases.
+
+	- Brise 0.16 release.
+
+2012-09-25  GONG Chen  <chen.sst@gmail.com>
+
+	* Makefile: install data files from a separate package.
+	* luna_pinyin, terra_pinyin, jyutping: update tables.
+	* essay: update vocabulary database.
+	* emoji: new schema.
+
+	- Brise 0.13 release.
+
