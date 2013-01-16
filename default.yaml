@@ -122,6 +122,7 @@ recognizer:
     url: "^(www[.]|https?:|ftp:|mailto:).*$|^[a-z]+[.].+$"
 
 ascii_composer:
+  good_old_caps_lock: false
   switch_key:
     Shift_L: inline_ascii
     Shift_R: commit_text
