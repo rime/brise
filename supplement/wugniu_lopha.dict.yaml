@@ -11,7 +11,7 @@
 
 ---
 name: wugniu_lopha
-version: "2012.10.21"
+version: "2013.01.19"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -1116,7 +1116,8 @@ min_phrase_weight: 100
 世	sy
 世交	sy cio
 世人	sy gnin
-世仇	sy djioe
+世讎	sy zoe
+世仇	sy zoe
 世博會	sy poq we
 世嘉	sy cia
 世家	sy ka
@@ -2553,14 +2554,14 @@ min_phrase_weight: 100
 仆	phoq
 仇	djioe
 仇	zoe
-仇人	djioe gnin
-仇家	djioe ka
-仇怨	djioe ieu
-仇敵	djioe diq
-仇殺	djioe saq
-仇視	djioe zy
-仇觀	djioe kueu
-仇警	djioe cin
+仇人	zoe gnin
+仇家	zoe ka
+仇怨	zoe ieu
+仇敵	zoe diq
+仇殺	zoe saq
+仇視	zoe zy
+仇觀	zoe kueu
+仇警	zoe cin
 仉	tzan
 今	cin
 今人	cin gnin
@@ -2930,7 +2931,6 @@ min_phrase_weight: 100
 伏魔	voq mu
 伐	va
 伐	vaq
-𠲎	va
 伐木	vaq moq
 伐樹	vaq zyu
 休	xioe
@@ -4797,7 +4797,7 @@ min_phrase_weight: 100
 公信	kon sin
 公假	kon ka
 公共	kon gon
-公冶	kon yij
+公冶	kon yi
 公分	kon fen
 公務員	kon vu yeu
 公厘
@@ -5045,7 +5045,7 @@ min_phrase_weight: 100
 冠蓋	kueu ke
 冢	tzon
 冤	ieu
-冤仇	ieu djioe
+冤仇	ieu zoe
 冤判
 冤孽	ieu gniq
 冤家	ieu ka
@@ -5096,18 +5096,18 @@ min_phrase_weight: 100
 冰霧
 冱	wu
 冶	ya
-冶	yij
-冶工	yij kon
+冶	yi
+冶工	ya kon
 冶煉	ya li
-冶煉	yij li
-冶豔	yij yi
+冶煉	yi li
+冶豔	ya yi
 冶遊	ya yoe
-冶遊	yij yoe
+冶遊	yi yoe
 冶金	ya cin
-冶金	yij cin
+冶金	yi cin
 冶鐵	ya thiq
-冶鐵	yij thiq
-冶鑄	yij tzyu
+冶鐵	ya thiq
+冶鑄	ya tzyu
 冷	lan
 冷冰
 冷冷熱熱
@@ -5694,7 +5694,7 @@ min_phrase_weight: 100
 前世作孽	dzi sy tzoq gniq
 前些	dzi sij
 前人	dzi gnin
-前仇	dzi djioe
+前仇	dzi zoe
 前他
 前仰	dzi knian
 前任	dzi zen
@@ -5869,6 +5869,7 @@ min_phrase_weight: 100
 劃落
 劃行	waq yin
 劇	djiq
+劇	djiaq
 劇場	djiq dzan
 劇校	djiq yo
 劇毒	djiq doq
@@ -8762,6 +8763,7 @@ min_phrase_weight: 100
 喊聲	hae sen
 喋	tiq
 喏	no
+喏	nho
 喏	noq
 喏	za
 喑	in
@@ -9542,7 +9544,7 @@ min_phrase_weight: 100
 圊	tsin
 國	kueq
 國人	kueq gnin
-國仇	kueq djioe
+國仇	kueq zoe
 國光	kueq kuaon
 國內	kueq ne
 國圖
@@ -10081,7 +10083,7 @@ min_phrase_weight: 100
 堰	i
 報	po
 報了	po lio
-報仇	po djioe
+報仇	po zoe
 報信	po sin
 報告單	po ko tae
 報單	po tae
@@ -12810,7 +12812,7 @@ min_phrase_weight: 100
 宿	sioe	0%
 宿	soq	100%
 宿主	soq tzyu
-宿仇	soq djioe
+宿仇	soq zoe
 宿儒	soq zyu
 宿命	soq min
 宿因	soq in
@@ -12857,7 +12859,7 @@ min_phrase_weight: 100
 密葉	miq yiq
 密霧
 寇	khoe
-寇仇	khoe djioe
+寇仇	khoe zoe
 富	fu
 富人	fu gnin
 富家	fu ka
@@ -13263,7 +13265,7 @@ min_phrase_weight: 100
 小乘	sio dzen
 小人	sio gnin
 小人道理	sio gnin do lij
-小仇	sio djioe
+小仇	sio zoe
 小他
 小但
 小侯
@@ -15742,6 +15744,7 @@ min_phrase_weight: 100
 怡人	yij gnin
 怡和
 急	ciq
+急	djiq
 急了	ciq lio
 急來
 急動
@@ -15772,7 +15775,7 @@ min_phrase_weight: 100
 性能	sin nen
 性起
 怨	ieu
-怨仇	ieu djioe
+怨仇	ieu zoe
 怨女	ieu gniu
 怨念	ieu gni
 怨望	ieu maon
@@ -15851,7 +15854,7 @@ min_phrase_weight: 100
 恨煞
 恩	en
 恩人	en gnin
-恩仇	en djioe
+恩仇	en zoe
 恩及
 恩澤	en dzeq
 恪	khoq
@@ -17598,6 +17601,7 @@ min_phrase_weight: 100
 拿	na
 拿	nau
 拿	nhe
+拿	nho
 拿下	nhe rau
 拿住	nhe dzyu
 拿來	nhe le
@@ -18588,6 +18592,7 @@ min_phrase_weight: 100
 摽	pio
 撂	lio
 撅	djiuq
+撅	ciuq
 撇	phiq
 撇下	phiq rau
 撇鍋
@@ -20964,7 +20969,7 @@ min_phrase_weight: 100
 有些	yoe sij
 有些字	yoe sij dzy
 有人	yoe gnin
-有仇	yoe djioe
+有仇	yoe zoe
 有介事	yoe ka dzy
 有他
 有份	yoe ven
@@ -24564,7 +24569,7 @@ min_phrase_weight: 100
 淮陰	wa in
 深	sen
 深交	sen cio
-深仇	sen djioe
+深仇	sen zoe
 深信	sen sin
 深化	sen hau
 深壑
@@ -31093,7 +31098,7 @@ min_phrase_weight: 100
 結下	ciq rau
 結了	ciq lio
 結交	ciq cio
-結仇	ciq djioe
+結仇	ciq zoe
 結他
 結凍
 結合	ciq req
@@ -31388,6 +31393,7 @@ min_phrase_weight: 100
 緗	sian
 緘	cij
 緙	khaoq
+綫	si
 線	si
 線人	si gnin
 線列
@@ -35236,7 +35242,8 @@ min_phrase_weight: 100
 蟅	tzau
 蟅蟒	tzau man
 蟆	mau
-蟈	dio
+蟈	kuaq
+蜩	dio
 蟊	moe
 蟋	siq
 蟋卿
@@ -35335,7 +35342,7 @@ min_phrase_weight: 100
 蠻風	mae fon
 蠼	djiu
 血	xiuq
-血仇	xiuq djioe
+血仇	xiuq zoe
 血光	xiuq kuaon
 血外紅	xiuq nga ron
 血尿	xiuq knio
@@ -36335,7 +36342,7 @@ min_phrase_weight: 100
 記	cij
 記下	cij rau
 記下來	cij rau le
-記仇	cij djioe
+記仇	cij zoe
 記住	cij dzyu
 記分	cij fen
 記家	cij ka
@@ -36939,6 +36946,7 @@ min_phrase_weight: 100
 謁見	iq ci
 謂	we
 謂秋
+誊	den
 謄	den
 謄印
 謄抄
@@ -37218,6 +37226,7 @@ min_phrase_weight: 100
 變革	pi keq
 讌	i
 讎	zoe
+讐	zoe
 讎恨
 讎是
 讎讎
@@ -37300,7 +37309,7 @@ min_phrase_weight: 100
 豐乳
 豐盛	fon zen
 豔	yi
-豔冶	yi yij
+豔冶	yi yi
 豔女	yi gniu
 豔妝
 豔慕
@@ -41573,7 +41582,7 @@ min_phrase_weight: 100
 陶	do
 陶	yo
 陶俑	do ion
-陶冶	do yij
+陶冶	do yi
 陶器	do chij
 陶土	do thu
 陶塑	do su
@@ -42099,7 +42108,7 @@ min_phrase_weight: 100
 電	di
 電信	di sin
 電光	di kuaon
-電冶	di yij
+電冶	di yi
 電函
 電割
 電劍
@@ -44436,7 +44445,7 @@ min_phrase_weight: 100
 豙	gnij
 硍	khen
 迋	guaon
-迋	yaon
+迋	waon
 絜	ciq
 絜	yiq
 鎅	ga
@@ -44652,7 +44661,8 @@ min_phrase_weight: 100
 艪	lu
 贗	gni
 囋	tzae
-囋叭	tza pae
+囋	tza
+囋叭	tza pa
 麕	ciun
 麏	ciun
 爎	lio
@@ -45892,10 +45902,6 @@ min_phrase_weight: 100
 夂	tzon
 灬	pio
 厃	yi
-𡥵	keu
-𢴳	thaon
-䶕	bau
-䶕牙子	bau nga tzy
 漨浡	bon beq
 廈	sa
 商廈	saon rau
@@ -45914,24 +45920,22 @@ min_phrase_weight: 100
 漫天	meu thi
 漫天開價	meu thi khe ka
 嚐	zaon
-㑚	na
 党	taon
 淀	di
 佢	djiu
-鉅	djiu
 据	ciu
 漓	lij
-帘	lij
 窪	ua
-矇	mon
 苹	bin
-确	chiaq
-埆	chiaq
+蓱	bin
+确	chiaoq
+埆	chiaoq
 胜	sen
 适	kuaq
 鏇	zi
-药	yaoq
+葯	yaoq
 箚	tzaq
+㑚	na
 䢢	tsian
 㽘	kan
 䐥	on
@@ -45974,3 +45978,7 @@ min_phrase_weight: 100
 豪𢜶
 一䢢
 近䢢把
+𡥵	keu
+𢴳	thaon
+䶕	bau
+䶕牙子	bau nga tzy
