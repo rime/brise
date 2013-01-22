@@ -4,7 +4,7 @@
 schema:
   schema_id: bopomofo
   name: 注音
-  version: "1.0"
+  version: "1.0.1"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -12,6 +12,8 @@ schema:
 
     本方案採用「無模式」設計，以大寫字母鍵或上下方向鍵、回車鍵選詞；
     空格鍵輸入第一聲，標記爲「ˉ」。也可省略聲調或韻母部份。
+
+    請配合 librime>=0.9.7 使用。
 
   dependencies:
     - cangjie5
@@ -60,7 +62,8 @@ speller:
   use_space: true
   algebra:
     - erase/^xx$/
-    - xform/^r5$/er5/
+    - xform/^m(\d)$/mu$1/  # 呣
+    - xform/^r5$/er5/  # 〜兒
     - xform/iu/iou/
     - xform/ui/uei/
     - xform/ong/ung/
