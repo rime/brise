@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.01.07"
+version: "2013.01.26"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -6481,6 +6481,7 @@ min_phrase_weight: 100
 崱	ze2
 崶	feng1
 崴	wei1
+崴	wai3
 遼	liao2
 崿	e4
 崽	zai3
