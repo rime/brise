@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "2012.12.01"
+version: "2013.01.28"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -847,6 +847,7 @@ min_phrase_weight: 100
 頗	po
 破	po
 䑺	po
+朴	po
 䬷	se
 㱔	se
 社	se
@@ -5954,6 +5955,7 @@ min_phrase_weight: 100
 瞟	piu
 皫	piu
 嘌	piu
+朴	piu
 鞄	pok
 猼	pok
 釙	pok
@@ -7216,6 +7218,7 @@ min_phrase_weight: 100
 鮓	zaa
 厏	zaa
 齇	zaa
+抓	zaa
 漈	zai
 狾	zai
 齎	zai
@@ -10623,6 +10626,7 @@ min_phrase_weight: 100
 鈉	naap
 納	naap
 內	naap
+吶	naap
 捺	naat
 鈉	naat
 臑	naau
