@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.01.26"
+version: "2013.01.28"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -4794,6 +4794,8 @@ min_phrase_weight: 100
 佇	zhu4
 佈	bu4
 佉	qu1
+偲	cai1
+偲	sai1
 偲	si1
 佌	ci3
 位	wei4
