@@ -1,6 +1,7 @@
 
 Gong Chen <chen.sst@gmail.com> : (GPLv3)
   default.yaml
+  symbols.yaml
   preset/luna_pinyin*.yaml
   preset/terra_pinyin*.yaml
   preset/bopomofo.schema.yaml
