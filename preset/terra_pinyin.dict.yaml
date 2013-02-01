@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.01.28"
+version: "2013.02.01"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -11106,6 +11106,8 @@ min_phrase_weight: 100
 煨	wei1
 煮	zhu3
 煬	yang2
+㞞	song2
+𪨊	song2
 一一對應	yi1 yi1 dui4 ying4
 一丁不識	yi4 ding1 bu4 shi2
 一下兒	yi2 xia4 r5
