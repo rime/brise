@@ -1,0 +1,16 @@
+La brise: the official Rime schema repository.
+
+version: 0.18
+
+project home: http://code.google.com/p/rimeime/
+
+providing:
+  - default.yaml: Rime default settings
+  - symbols.yaml: punctuation and special characters
+  - essay: a vocabulary and language model
+  - preset schemata: luna_pinyin, terra_pinyin, bopomofo, cangjie5, cangjie5_express
+  - supplemental schemata: wubi86, quick5, double_pinyin, combo_pinyin, jyutping, wugniu, ipa_xsampa
+  - extra schemata: (included in source package but not installed)
+
+build dependency: librime>=0.9.8
+runtime dependency: librime>=0.9.8

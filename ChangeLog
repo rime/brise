@@ -1,3 +1,22 @@
+2013-02-02  GONG Chen  <chen.sst@gmail.com>
+
+	* bopomofo: enable using space key to input first tone instead of to select a
+	candidate, thus allow ommitting the rhyme and/or the tone after a consonant.
+
+	* cangjie5_express: Cangjie with auto-select feature enabled.
+
+	* default.yaml: add options to control Caps Lock behavior.
+
+	* essay: update vocabulary database.
+
+	* luna_pinyin, terra_pinyin, jyutping, wugniu: update tables.
+
+	* luna_pinyin_simp: input special characters with mnemonics such as '/ts'.
+
+	* symbols.yaml: table of punctuation and special characters.
+
+	- Brise 0.18 release.
+
 2013-01-12  GONG Chen  <chen.sst@gmail.com>
 
 	* soutzoe: a phonetic input method in Soochow dialect.

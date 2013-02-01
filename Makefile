@@ -14,6 +14,7 @@ all:
 	@echo "building rime data."
 	@mkdir -p ${DATA}
 	@cp default.yaml ${DATA}
+	@cp symbols.yaml ${DATA}
 	@cp essay.kct  ${DATA}
 	@cp supplement/*.yaml  ${DATA}
 	@cp preset/*.yaml  ${DATA}

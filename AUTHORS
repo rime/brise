@@ -5,7 +5,7 @@ Gong Chen <chen.sst@gmail.com> : (GPLv3)
   preset/luna_pinyin*.yaml
   preset/terra_pinyin*.yaml
   preset/bopomofo.schema.yaml
-  preset/cangjie5.schema.yaml
+  preset/cangjie5*.schema.yaml
   supplement/combo_pinyin.schema.yaml
   supplement/double_pinyin*.schema.yaml
   supplement/jyutping.schema.yaml
