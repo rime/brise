@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "2013.01.28"
+version: "2013.02.04"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -8405,6 +8405,7 @@ min_phrase_weight: 100
 譈	deoi
 轛	deoi
 對	deoi
+䭔	deoi
 炖	deon
 墫	deon
 盹	deon
@@ -14213,3 +14214,4 @@ min_phrase_weight: 100
 鼻哥窿
 齊緝緝
 龍眼
+煎䭔
