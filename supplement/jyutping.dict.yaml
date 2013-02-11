@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "2013.02.04"
+version: "2013.02.11"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -5640,6 +5640,7 @@ min_phrase_weight: 100
 娜	naa
 挐	naa
 拏	naa
+𪐀	naa
 坭	nai
 泥	nai
 稔	nam
