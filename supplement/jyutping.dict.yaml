@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "2013.02.11"
+version: "2013.02.16"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -9924,6 +9924,8 @@ min_phrase_weight: 100
 頃	king
 瓊	king
 㯳	king
+瞏	king
+睘	king
 卻	koek
 噱	koek
 臄	koek
@@ -14216,3 +14218,4 @@ min_phrase_weight: 100
 齊緝緝
 龍眼
 煎䭔
+眼瞏瞏
