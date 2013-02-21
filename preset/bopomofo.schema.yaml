@@ -4,7 +4,7 @@
 schema:
   schema_id: bopomofo
   name: 注音
-  version: "1.0.1"
+  version: "1.0.3"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -90,7 +90,6 @@ speller:
     - abbrev/^([bpmfdtnlgkhjqxZCSrzcs]).+$/$1/
     - derive/^([A-Za-z]+)\d$/$1/
     - abbrev/^([bpmfdtnlgkhjqxZCSrzcs]).+(\d)$/$1$2/
-    - 'xform/1$/ /'
     - 'xlit|bpmfdtnlgkhjqxZCSrzcsiuvaoeEAIOUMNKGR12345|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/- 6347|'
 
 translator:
@@ -202,6 +201,7 @@ key_binder:
     - { when: composing, accept: Control+a, send: Home }
     - { when: composing, accept: Control+e, send: End }
     - { when: composing, accept: Control+d, send: Delete }
+    - { when: composing, accept: Control+k, send: Shift+Delete }
     - { when: composing, accept: Control+g, send: Escape }
     - { when: composing, accept: Alt+v, send: Page_Up }
     - { when: composing, accept: Control+v, send: Page_Down }
