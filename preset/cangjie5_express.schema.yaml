@@ -4,7 +4,7 @@
 schema:
   schema_id: cangjie5_express
   name: 倉頡・快打模式
-  version: "2013.01.20"
+  version: "2013.02.22"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -79,7 +79,9 @@ reverse_lookup:
   suffix: "'"
   tips: 〔拼音〕
   preedit_format:
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
 

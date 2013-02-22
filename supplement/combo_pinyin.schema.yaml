@@ -4,7 +4,7 @@
 schema:
   schema_id: combo_pinyin
   name: 宮保拼音
-  version: "0.1"
+  version: "0.2"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -111,7 +111,9 @@ translator:
   dictionary: luna_pinyin
   prism: combo_pinyin
   preedit_format:
-    - xform/([jqxynl])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
 punctuator:
   import_preset: default

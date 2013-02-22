@@ -1,3 +1,11 @@
+2013-02-22  lxk  <lxk1012@gmail.com>
+
+	* array30, scj6, stroke5, wubi_trad, cangjie5, cangjie5_express,
+luna_pinyin, luna_pinyin_fluency, luna_pinyin_simp, luna_pinyin_tw,
+terra_pinyin, combo_pinyin, double_pinyin_abc, jyutping, pinyin_simp, quick5,
+soutzoe, stroke_simp,triungkox3p, wubi86, wubi_pinyin, wugniu, wugniu_lopha,
+zyenpheng: correct preedit_format concerning 'ü'.
+
 2013-02-02  GONG Chen  <chen.sst@gmail.com>
 
 	* bopomofo: enable using space key to input first tone instead of to select a

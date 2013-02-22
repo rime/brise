@@ -4,7 +4,7 @@
 schema:
   schema_id: scj6
   name: 快速倉頡
-  version: "0.4"
+  version: "0.5"
   author:
     - 麥志洪 <makchehu@netvigator.com>
   description: |
@@ -65,7 +65,9 @@ reverse_lookup:
   suffix: "'"
   tips: 〔拼音〕
   preedit_format:
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
 
