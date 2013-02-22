@@ -6,6 +6,8 @@ terra_pinyin, combo_pinyin, double_pinyin_abc, jyutping, pinyin_simp, quick5,
 soutzoe, stroke_simp,triungkox3p, wubi86, wubi_pinyin, wugniu, wugniu_lopha,
 zyenpheng: correct preedit_format concerning 'ü'.
 
+	* default.yaml: update recognizer patterns for email & url.
+
 2013-02-02  GONG Chen  <chen.sst@gmail.com>
 
 	* bopomofo: enable using space key to input first tone instead of to select a
