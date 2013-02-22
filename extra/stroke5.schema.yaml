@@ -4,7 +4,7 @@
 schema:
   schema_id: stroke5
   name: 筆順五碼
-  version: "0.4.3"
+  version: "0.4.4"
   author:
     - 梁敬文 Leung King Man <leungkm1@hotmail.com>
     - 王潔貞 Amy Wong <wongkitching01@yahoo.com.hk>
@@ -70,7 +70,9 @@ reverse_lookup:
   suffix: "'"
   tips: 〔拼音〕
   preedit_format:
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
   comment_format:
     - "xlit|m/,.n|一丨丿丶乙|"
 

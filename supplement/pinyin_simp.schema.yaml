@@ -4,7 +4,7 @@
 schema:
   schema_id: pinyin_simp
   name: 袖珍简化字拼音
-  version: "0.4"
+  version: "0.5"
   author:
     - 佚名
   description: |
@@ -60,7 +60,9 @@ speller:
 translator:
   dictionary: pinyin_simp
   preedit_format:
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
 reverse_lookup:
   dictionary: stroke_simp
