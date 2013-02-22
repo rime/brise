@@ -4,7 +4,7 @@
 schema:
   schema_id: array30
   name: "行列30"
-  version: "0.8"
+  version: "0.9"
   author:
     - 發明人 廖明德先生
     - Jiehong Ma <ma.jiehong@gmail.com>
@@ -101,7 +101,9 @@ reverse_lookup:
   suffix: "'"
   tips: 〔拼音〕
   preedit_format:
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
   comment_format: *format
 
 punctuator:

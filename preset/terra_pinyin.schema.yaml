@@ -4,7 +4,7 @@
 schema:
   schema_id: terra_pinyin
   name: 地球拼音
-  version: "0.10"
+  version: "0.11"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -101,7 +101,9 @@ translator:
     - 'xform v/ ǘ'
     - 'xform v[<,] ǚ'
     - 'xform v[>\\] ǜ'
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
     - xform/eh\d?/ê/
 
 reverse_lookup:

@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_simp
   name: 朙月拼音・简化字
-  version: "0.13"
+  version: "0.14"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -65,7 +65,9 @@ translator:
   dictionary: luna_pinyin
   prism: luna_pinyin_simp
   preedit_format:
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
 simplifier:
   option_name: zh_simp
