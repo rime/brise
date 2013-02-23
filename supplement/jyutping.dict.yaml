@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "2013.02.16"
+version: "2013.02.23"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -1360,6 +1360,7 @@ min_phrase_weight: 100
 壩	baa
 葩	baa
 弝	baa
+㞎	baa
 狴	bai
 斃	bai
 坒	bai
@@ -5806,6 +5807,7 @@ min_phrase_weight: 100
 帕	paa
 耙	paa
 趴	paa
+㞎	paa
 批	pai
 錍	pai
 睥	pai
