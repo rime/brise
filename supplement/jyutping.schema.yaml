@@ -4,7 +4,7 @@
 schema:
   schema_id: jyutping
   name: 粵拼
-  version: "0.8"
+  version: "0.9"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -56,6 +56,7 @@ speller:
     - derive/^jyu/ju/
     - derive/eo([int])$/oe$1/
     - derive/oe(ng|k)$/eo$1/
+    - derive/aa$/a/
 
 translator:
   dictionary: jyutping
