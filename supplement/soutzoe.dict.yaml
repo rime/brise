@@ -11,7 +11,7 @@
 
 ---
 name: soutzoe
-version: "2012.10.16"
+version: "2013.02.23"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -2500,6 +2500,7 @@ min_phrase_weight: 100
 險	xie
 面	mie
 麵	mie
+麪	mie
 革	keq
 韭	cioe
 音	ien
@@ -2646,6 +2647,7 @@ min_phrase_weight: 100
 峨	ngou
 峭	tsiae
 峰	fon
+峯	fon
 峻	tzin
 嶗	lae
 席	ziq

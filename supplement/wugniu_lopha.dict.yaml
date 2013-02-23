@@ -11,7 +11,7 @@
 
 ---
 name: wugniu_lopha
-version: "2013.01.19"
+version: "2013.02.23"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -44022,6 +44022,7 @@ min_phrase_weight: 100
 麥蝴蝶
 麩	fu
 麯	chioq
+麪	mi
 麵	mi
 麵子
 麵杖魚	mi dzan ng

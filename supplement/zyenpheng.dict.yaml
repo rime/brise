@@ -8,7 +8,7 @@
 
 ---
 name: zyenpheng
-version: "2012.12.18"
+version: "2013.02.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -15007,6 +15007,7 @@ use_preset_vocabulary: true
 眳	mengx
 姳	mengx
 麫	menh
+麪	menh
 麵	menh
 瞑	menh
 眄	menh
