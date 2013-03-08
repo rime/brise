@@ -1,3 +1,9 @@
+2013-03-08  GONG Chen  <chen.sst@gmail.com>
+
+	* essay.kct: removed; to be generated with `make`
+	* essay.txt: import phrases from moedict.tw
+	* luna_pinyin, terra_pinyin: update tables by importing phrases from moedict.tw
+
 2013-02-22  lxk  <lxk1012@gmail.com>
 
 	* array30, scj6, stroke5, wubi_trad, cangjie5, cangjie5_express,

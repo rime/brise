@@ -10,15 +10,20 @@ ifeq (${RIME_DATA_DIR},)
 	RIME_DATA_DIR=${PREFIX}/share/rime-data
 endif
 
-all:
+all: essay
 	@echo "building rime data."
 	@mkdir -p ${DATA}
+	@cp essay.kct  ${DATA}
 	@cp default.yaml ${DATA}
 	@cp symbols.yaml ${DATA}
-	@cp essay.kct  ${DATA}
-	@cp supplement/*.yaml  ${DATA}
 	@cp preset/*.yaml  ${DATA}
+	@cp supplement/*.yaml  ${DATA}
 	rime_deployer --build  ${DATA}
+
+essay:
+	@echo "generating essay.kct."
+	chmod +x make_essay.sh
+	./make_essay.sh
 
 install:
 	@echo "installing rime data into '${DESTDIR}${RIME_DATA_DIR}'."

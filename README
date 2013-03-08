@@ -10,7 +10,10 @@ providing:
   - essay: a vocabulary and language model
   - preset schemata: luna_pinyin, terra_pinyin, bopomofo, cangjie5, cangjie5_express
   - supplemental schemata: wubi86, quick5, double_pinyin, combo_pinyin, jyutping, wugniu, ipa_xsampa
-  - extra schemata: (included in source package but not installed)
+  - extra schemata: (included in the source package but not installed)
 
-build dependency: librime>=0.9.8
-runtime dependency: librime>=0.9.8
+build dependencies:
+  - kyotocabinet (for kctreemgr)
+  - librime>=0.9.8 (for rime_deployer)
+runtime dependency:
+  - librime>=0.9.8
