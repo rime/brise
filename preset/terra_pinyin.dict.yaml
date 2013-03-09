@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.03.08"
+version: "2013.03.09"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -33661,6 +33661,7 @@ min_phrase_weight: 100
 涉危履險	she4 wei2 lv3 xian3
 涉艱履危	she4 jian1 lv3 wei2
 涊	nian3
+涌	chong1	0%
 涌	yong3
 涎	xian2
 涎涎	yan4 yan4
