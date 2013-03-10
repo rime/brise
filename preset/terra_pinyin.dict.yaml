@@ -1354,7 +1354,6 @@ min_phrase_weight: 100
 不杖期夫	bu4 zhang4 ji1 fu1
 不樂	bu4 le4
 不樂觀	bu4 le4 guan1
-不櫛進士	bu4 jie2 jin4 shi4
 不歡而散	bu4 huan1 er2 san4
 不止不行	bu4 zhi3 bu4 xing2
 不正之風	bu2 zheng4 zhi1 feng1
@@ -3832,7 +3831,6 @@ min_phrase_weight: 100
 例行	li4 xing2
 例行公事	li4 xing2 gong1 shi4
 侍	shi4
-侍巾櫛	shi4 jin1 jie2
 侍弄	shi4 nong4
 侍從	shi4 zong4
 侍應生	shi4 ying4 sheng1
@@ -13351,7 +13349,6 @@ min_phrase_weight: 100
 執事	zhi2 shi5
 執伐	zhi2 fa1
 執喪	zhi2 sang1
-執巾櫛	zhi2 jin1 jie2
 執憑文帖	zhi2 ping2 wen2 tie3
 執教	zhi2 jiao4
 執旗將	zhi2 qi2 jiang4
@@ -18489,7 +18486,6 @@ min_phrase_weight: 100
 巽	xun4
 巾	jin1
 巾冠	jin1 guan1
-巾櫛	jin1 jie2
 巾車	jin1 ju1
 巿	fu2
 市	shi4
@@ -31190,18 +31186,8 @@ min_phrase_weight: 100
 櫓帆船	lu3 fan2 chuan2
 櫓棹	lu3 zhao4
 櫚	lv2
+櫛	jie2	0%
 櫛	zhi4
-櫛垢爬癢	jie2 gou4 pa2 yang3
-櫛工	jie2 gong1
-櫛櫛	jie2 jie2
-櫛次鱗比	jie2 ci4 lin2 bi4
-櫛比	jie2 bi4
-櫛比鱗差	jie2 bi4 lin2 ci1
-櫛比鱗次	jie2 bi4 lin2 ci4
-櫛水母	jie2 shui3 mu3
-櫛沐	jie2 mu4
-櫛風沐雨	jie2 feng1 mu4 yu3
-櫛髮工	jie2 fa3 gong1
 櫜	gao1
 櫝	du2
 櫞	yuan2
@@ -32451,7 +32437,6 @@ min_phrase_weight: 100
 沐浴露	mu4 yu4 lu4
 沐猴冠冕	mu4 hou2 guan4 mian3
 沐猴衣冠	mu4 hou2 yi1 guan1
-沐雨櫛風	mu4 yu3 jie2 feng1
 沒	mei2	95%
 沒	mo4	5%
 沒一頓飯的工夫	mei2 yi1 dun4 fan4 de5 gong1 fu5
@@ -36173,7 +36158,6 @@ min_phrase_weight: 100
 爬得高	pa2 de5 gao1
 爬拉	pa2 la5
 爬格子	pa2 ge2 zi5
-爬櫛	pa2 jie2
 爬犁	pa2 li5
 爬行	pa2 xing2
 爬行動物	pa2 xing2 dong4 wu4
@@ -39255,7 +39239,6 @@ min_phrase_weight: 100
 盤辮子	pan2 bian4 zi5
 盤頭丫頭	pan2 tou2 ya1 tou5
 盥	guan4
-盥櫛	guan4 jie2
 盥漱	guan4 sou4
 盥濯	guan4 zhuo2
 盦	an1
@@ -42788,7 +42771,6 @@ min_phrase_weight: 100
 篥	li4
 篦	bi4
 篦子	bi4 zi5
-篦櫛	bi4 jie2
 篧	zhuo2
 篨	chu2
 篩	shai1
@@ -53108,7 +53090,6 @@ min_phrase_weight: 100
 象度	xiang4 du4
 象拔蚌	xiang4 ba2 bang4
 象數	xiang4 shu4
-象櫛	xiang4 jie2
 象牙質	xiang4 ya2 zhi2
 象瑱	xiang4 tian4
 象車	xiang4 ju1
@@ -61472,7 +61453,6 @@ min_phrase_weight: 100
 風月場所	feng1 yue4 chang3 suo3
 風標俏倬	feng1 biao1 qiao4 zhuo2
 風檔玻璃	feng1 dang4 bo1 li5
-風櫛雨沐	feng1 jie2 yu3 mu4
 風水	feng1 shui5
 風水先生	feng1 shui3 xian1 sheng5
 風水先生	feng1 shui5 xian1 sheng5
@@ -62958,7 +62938,6 @@ min_phrase_weight: 100
 鱔	shan4
 鱖	gui4
 鱗	lin2
-鱗次櫛比	lin2 ci4 jie2 bi4
 鱗比	lin2 bi4
 鱗爪	lin2 zhua3
 鱗片	lin2 pian4
