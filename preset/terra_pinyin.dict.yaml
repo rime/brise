@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.03.21"
+version: "2013.03.23"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -35482,7 +35482,7 @@ min_phrase_weight: 100
 無毒不丈夫	wu2 du2 bu2 zhang4 fu5
 無毒不丈夫	wu2 du2 bu4 zhang4 fu1
 無濟於事	wu2 ji4 yu2 shi4
-無煙囱工業	wu2 yan1 cong1 gong1 ye4
+無煙囪工業	wu2 yan1 cong1 gong1 ye4
 無爲	wu2 wei2
 無爲牛後	wu2 wei2 niu2 hou4
 無爲縣	wu2 wei2 xian4
@@ -35598,7 +35598,7 @@ min_phrase_weight: 100
 煙	yan1
 煙傢伙	yan1 jia1 huo5
 煙台地區	yan1 tai2 di4 qu1
-煙囱	yan1 cong1
+煙囪	yan1 cong1
 煙圈	yan1 quan1
 煙子	yan1 zi5
 煙屁股	yan1 pi4 gu5
