@@ -4,7 +4,7 @@
 schema:
   schema_id: bopomofo
   name: 注音
-  version: "1.0.3"
+  version: "1.1"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -107,10 +107,11 @@ reverse_lookup:
   preedit_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
   comment_format:
-    - xform/^r5$/er5/
-    - xform/^([jqx])y?u/$1v/
-    - xform/^y/i/
-    - xform/^w/u/
+    - xform/e?r5$/er5/
+    - xform/([jqx])u/$1v/
+    - xform/yu/v/
+    - xform/yi?/i/
+    - xform/wu?/u/
     - xform/iu/iou/
     - xform/ui/uei/
     - xform/ong/ung/
