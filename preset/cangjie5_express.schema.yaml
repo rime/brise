@@ -4,7 +4,7 @@
 schema:
   schema_id: cangjie5_express
   name: 倉頡・快打模式
-  version: "2013.02.22"
+  version: "2013.04.12"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -56,7 +56,7 @@ engine:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " ;'"
+  delimiter: " "
   auto_select: true
   auto_select_unique_candidate: true
 
@@ -66,7 +66,7 @@ translator:
   enable_charset_filter: true
   enable_sentence: false
   preedit_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz;'|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符・・|"
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
   disable_user_dict_for_patterns:
