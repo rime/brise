@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_fluency
   name: 朙月拼音・語句流
-  version: "0.15"
+  version: "0.16"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -40,6 +40,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - table_translator@custom_phrase
     - r10n_translator
     - reverse_lookup_translator
   filters:
@@ -72,6 +73,11 @@ translator:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
 
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: tabledb
+
 reverse_lookup:
   dictionary: cangjie5
   enable_completion: true
@@ -84,7 +90,7 @@ reverse_lookup:
     - xform/([nl])v/$1ü/
 
 punctuator:
-  import_preset: default
+  import_preset: symbols
 
 key_binder:
   import_preset: default
@@ -93,4 +99,5 @@ recognizer:
   import_preset: default
   patterns:
     number: "^[-+]?[0-9][.:0-9]*[%]?$"
+    punct: "^/[a-z]*$"
     reverse_lookup: "`[a-z]*'?$"

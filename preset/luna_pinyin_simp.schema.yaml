@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_simp
   name: 朙月拼音・简化字
-  version: "0.14"
+  version: "0.15"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -38,6 +38,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - table_translator@custom_phrase
     - r10n_translator
   filters:
     - simplifier
@@ -69,16 +70,19 @@ translator:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
 
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: tabledb
+
 simplifier:
   option_name: zh_simp
 
 punctuator:
-  import_preset: symbols
+  import_preset: default
 
 key_binder:
   import_preset: default
 
 recognizer:
   import_preset: default
-  patterns:
-    punct: '^/[a-z]*$'

@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_tw
   name: 朙月拼音・臺灣正體
-  version: "0.12"
+  version: "0.13"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -38,6 +38,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - table_translator@custom_phrase
     - r10n_translator
   filters:
     - simplifier
@@ -68,6 +69,11 @@ translator:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: tabledb
 
 simplifier:
   opencc_config: zht2zhtw_v.ini
