@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.03.23"
+version: "2013.04.27"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -18743,7 +18743,9 @@ min_phrase_weight: 100
 帽子	mao4 zi5
 帽子戲法	mao4 zi5 xi4 fa3
 帽箍兒	mao4 gu1 r5
+幀	zhen1
 幀	zheng4
+幀太長	zhen1 tai4 chang2
 幀太長	zheng4 tai4 chang2
 幃	wei2
 幃屏	wei2 ping2
@@ -30983,6 +30985,7 @@ min_phrase_weight: 100
 橫山鄉	heng2 shan1 xiang1
 橫峯	heng2 feng1
 橫峯縣	heng2 feng1 xian4
+橫幀	heng2 zhen1
 橫幀	heng2 zheng4
 橫幅	heng2 fu2
 橫幅標語	heng2 fu2 biao1 yu3
