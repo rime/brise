@@ -2,8 +2,6 @@
 Gong Chen <chen.sst@gmail.com> : (GPLv3)
   default.yaml
   symbols.yaml
-  preset/luna_pinyin*.yaml
-  preset/terra_pinyin*.yaml
   preset/bopomofo.schema.yaml
   preset/cangjie5*.schema.yaml
   supplement/combo_pinyin.schema.yaml
@@ -21,6 +19,8 @@ opencc / 開放中文轉換 (Apache License version 2),
 Android Pinyin IME (Apache License version 2),
 moedict.tw／萌典 (CC0 1.0)
   essay.txt
+  preset/luna_pinyin*.yaml
+  preset/terra_pinyin*.yaml
 
 Patrick <ipatrickmac@qq.com>, Gong Chen <chen.sst@gmail.com> : (GPLv3)
   supplement/ipa_xsampa*.yaml

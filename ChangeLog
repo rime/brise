@@ -1,8 +1,16 @@
+2013-05-05  GONG Chen  <chen.sst@gmail.com>
+
+	* essay.txt, luna_pinyin, terra_pinyin: lots of bug-fixes.
+	* wubi86: auto-commit complete words. (max_code_length: 4)
+	* luna_pinyin*: enable user created custom_phrase.txt (rime>=0.9.9)
+
+	- Brise 0.22 release.
+
 2013-03-08  GONG Chen  <chen.sst@gmail.com>
 
 	* essay.kct: removed; to be generated with `make`
 	* essay.txt: import phrases from moedict.tw
-	* luna_pinyin, terra_pinyin: update tables by importing phrases from moedict.tw
+	* luna_pinyin, terra_pinyin: import phrases from moedict.tw
 
 2013-02-22  lxk  <lxk1012@gmail.com>
 
