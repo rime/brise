@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.04.27"
+version: "2013.05.19"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -33738,10 +33738,7 @@ min_phrase_weight: 100
 淄	zi1
 淅	xi1
 淆	xiao2
-淆亂	yao2 luan4
-淆惑	yao2 huo4
-淆紊	yao2 wen4
-淆雜	yao2 za2
+淆	yao2
 淇	qi2
 淈泥	gu3 ni2
 淊	yan1
@@ -33992,13 +33989,6 @@ min_phrase_weight: 100
 混沌學	hun4 dun4 xue2
 混淆	hun4 xiao2
 混淆	hun4 yao2
-混淆不清	hun4 yao2 bu4 qing1
-混淆是非	hun4 xiao2 shi4 fei1
-混淆是非	hun4 yao2 shi4 fei1
-混淆視聽	hun4 xiao2 shi4 ting1
-混淆視聽	hun4 yao2 shi4 ting1
-混淆黑白	hun4 xiao2 hei1 bai2
-混淆黑白	hun4 yao2 hei1 bai2
 混淪	hun4 lun2
 混混	gun3 gun3
 混混	hun4 hun4
@@ -37055,7 +37045,6 @@ min_phrase_weight: 100
 玉溪地區	yu4 xi1 di4 qu1
 玉燕投懷	yu4 yan4 tou2 huai2
 玉石不分	yu4 shi2 bu4 fen1
-玉石混淆	yu4 shi2 hun3 yao2
 玉米	yu4 mi5
 玉米片	yu4 mi3 pian4
 玉米糖漿	yu4 mi3 tang2 jiang1
@@ -47192,7 +47181,6 @@ min_phrase_weight: 100
 良種	liang2 zhong3
 良種繁育	liang2 zhong3 fan2 yu4
 良莠不分	liang2 you3 bu4 fen1
-良莠淆雜	liang2 you3 yao2 za2
 良藥苦口利於病	liang2 yao4 ku3 kou3 li4 yu2 bing4
 良賈深藏若虛	liang2 gu3 shen1 cang2 ruo4 xu1
 良質	liang2 zhi2
@@ -63655,7 +63643,6 @@ min_phrase_weight: 100
 黑白不分	hei1 bai2 bu4 fen1
 黑白分明	hei1 bai2 fen1 ming2
 黑白影片	hei1 bai2 ying3 pian4
-黑白混淆	hei1 bai2 hun4 yao2
 黑白顛倒	hei1 bai2 dian1 dao3
 黑盒子	hei1 he2 zi5
 黑眼圈	hei1 yan3 quan1
