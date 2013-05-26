@@ -4,7 +4,7 @@
 schema:
   schema_id: bopomofo
   name: 注音
-  version: "1.1"
+  version: "1.2"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -193,23 +193,11 @@ punctuator:
     "}" : [ 』, 〗, 〉, ｝ ]
 
 key_binder:
+  import_preset: default
   bindings:
-    # Emacs style
-    - { when: composing, accept: Control+p, send: Up }
-    - { when: composing, accept: Control+n, send: Down }
-    - { when: composing, accept: Control+b, send: Left }
-    - { when: composing, accept: Control+f, send: Right }
-    - { when: composing, accept: Control+a, send: Home }
-    - { when: composing, accept: Control+e, send: End }
-    - { when: composing, accept: Control+d, send: Delete }
-    - { when: composing, accept: Control+k, send: Shift+Delete }
-    - { when: composing, accept: Control+g, send: Escape }
-    - { when: composing, accept: Alt+v, send: Page_Up }
-    - { when: composing, accept: Control+v, send: Page_Down }
-    # commonly used paging keys
-    - { when: composing, accept: ISO_Left_Tab, send: Page_Up }
-    - { when: composing, accept: Shift+Tab, send: Page_Up }
-    - { when: composing, accept: Tab, send: Page_Down }
+    - { when: has_menu, accept: comma, send: comma }      # ㄝ
+    - { when: has_menu, accept: period, send: period }    # ㄡ
+    - { when: has_menu, accept: minus, send: minus }      # ㄦ
     - { when: paging, accept: minus, send: Page_Up }
     - { when: has_menu, accept: equal, send: Page_Down }
 
