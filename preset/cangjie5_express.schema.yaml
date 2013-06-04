@@ -4,7 +4,7 @@
 schema:
   schema_id: cangjie5_express
   name: 倉頡・快打模式
-  version: "2013.04.12"
+  version: "2013.06.05"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -58,7 +58,7 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " "
   auto_select: true
-  auto_select_unique_candidate: true
+  #auto_select_unique_candidate: false  # 自動半選上一字
 
 translator:
   dictionary: cangjie5
