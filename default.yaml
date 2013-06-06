@@ -1,7 +1,7 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: "0.23"
+config_version: "0.24"
 
 schema_list:
   - schema: luna_pinyin
@@ -116,15 +116,17 @@ key_binder:
     - { when: paging, accept: comma, send: Page_Up }
     - { when: has_menu, accept: period, send: Page_Down }
     # hotkey switch
-    - { when: always, accept: Shift+space, toggle: full_shape }
+    - { when: always, accept: Control+Shift+1, select: .next }
     - { when: always, accept: Control+Shift+2, toggle: ascii_mode }
     - { when: always, accept: Control+Shift+3, toggle: full_shape }
     - { when: always, accept: Control+Shift+4, toggle: simplification }
     - { when: always, accept: Control+Shift+5, toggle: extended_charset }
+    - { when: always, accept: Control+Shift+exclam, select: .next }
     - { when: always, accept: Control+Shift+at, toggle: ascii_mode }
     - { when: always, accept: Control+Shift+numbersign, toggle: full_shape }
     - { when: always, accept: Control+Shift+dollar, toggle: simplification }
     - { when: always, accept: Control+Shift+percent, toggle: extended_charset }
+    - { when: always, accept: Shift+space, toggle: full_shape }
 
 recognizer:
   patterns:
