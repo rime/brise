@@ -4,7 +4,7 @@
 schema:
   schema_id: stroke5
   name: 筆順五碼
-  version: "0.4.4"
+  version: "0.4.5"
   author:
     - 梁敬文 Leung King Man <leungkm1@hotmail.com>
     - 王潔貞 Amy Wong <wongkitching01@yahoo.com.hk>
@@ -77,24 +77,10 @@ reverse_lookup:
     - "xlit|m/,.n|一丨丿丶乙|"
 
 key_binder:
+  import_preset: default
   bindings:
-    # Emacs style
-    - { when: composing, accept: Control+p, send: Up }
-    - { when: composing, accept: Control+n, send: Down }
-    - { when: composing, accept: Control+b, send: Left }
-    - { when: composing, accept: Control+f, send: Right }
-    - { when: composing, accept: Control+a, send: Home }
-    - { when: composing, accept: Control+e, send: End }
-    - { when: composing, accept: Control+d, send: Delete }
-    - { when: composing, accept: Control+g, send: Escape }
-    - { when: composing, accept: Alt+v, send: Page_Up }
-    - { when: composing, accept: Control+v, send: Page_Down }
-    # commonly used paging keys
-    - { when: composing, accept: ISO_Left_Tab, send: Page_Up }
-    - { when: composing, accept: Shift+Tab, send: Page_Up }
-    - { when: composing, accept: Tab, send: Page_Down }
-    - { when: paging, accept: minus, send: Page_Up }
-    - { when: has_menu, accept: equal, send: Page_Down }
+    - { when: paging, accept: comma, send: comma }
+    - { when: has_menu, accept: period, send: period }
     - { when: paging, accept: bracketleft, send: Page_Up }
     - { when: has_menu, accept: bracketright, send: Page_Down }
 
