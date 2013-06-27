@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.06.12"
+version: "2013.06.27"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -51997,6 +51997,7 @@ min_phrase_weight: 100
 試驗場	shi4 yan4 chang3
 詧	cha2
 詨	jiao1
+詨	xiao4
 詩	shi1
 詩教	shi1 jiao4
 詩書禮樂	shi1 shu1 li3 yue4
