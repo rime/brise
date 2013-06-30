@@ -4,7 +4,7 @@
 schema:
   schema_id: zyenpheng
   name: 中古全拼
-  version: "2013.02.22"
+  version: "2013.07.01"
   author:
     - 古韻 <biopolyhedron@gmail.com>
   description: |
@@ -41,7 +41,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - r10n_translator
+    - script_translator
     - reverse_lookup_translator
   filters:
     - simplifier
@@ -65,7 +65,7 @@ speller:
 
 translator:
   dictionary: zyenpheng
-  spelling_hints: 4
+  spelling_hints: 8
 
 reverse_lookup:
   dictionary: luna_pinyin
