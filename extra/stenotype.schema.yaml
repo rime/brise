@@ -4,7 +4,7 @@
 schema:
   schema_id: stenotype
   name: 速記打字法
-  version: "0.5"
+  version: "0.6"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -123,7 +123,7 @@ punctuator:
     "^" : { commit: …… }
     "(" : （
     ")" : ）
-    "|" : [ ——, ・, ｜, "|", "§", "¦" ]
+    "|" : [ ——, ・, ｜, "§", "¦" ]
     "[" : [ 「, 【, 〔, ［ ]
     "]" : [ 」, 】, 〕, ］ ]
     "{" : [ 『, 〖, ｛ ]
