@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.06.27"
+version: "2013.07.09"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -49970,164 +49970,45 @@ min_phrase_weight: 100
 蠼螋	jue2 sou1
 蠽	jie2
 血	xue4
+血	xie3
 血不歸經	xie3 bu4 gui1 jing1
+血不歸經	xue4 bu4 gui1 jing1
+血中毒	xie3 zhong4 du2
 血中毒	xue4 zhong4 du2
-血債	xie3 zhai4
-血債累累	xue4 zhai4 lei3 lei3
 血債血還	xie3 zhai4 xie3 huan2
-血債要用血來還	xue4 zhai4 yao4 yong4 xue4 lai2 huan2
-血光之災	xie3 guang1 zhi1 zai1
-血光之災	xue4 guang1 zhi1 zai1
-血刃	xie3 ren4
+血債血還	xue4 zhai4 xue4 huan2
 血化爲碧	xie3 hua4 wei2 bi4
 血化爲碧	xue4 hua4 wei2 bi4
-血印	xie3 yin4
 血參	xie3 shen1
-血友病	xie3 you3 bing4
+血參	xie3 shen1
 血口噴人	xie3 kou3 pen1 ren2
 血口噴人	xue4 kou3 pen1 ren2
 血口子	xie3 kou3 zi5
-血吸蟲	xie3 xi1 chong2
-血吸蟲病	xie3 xi1 chong2 bing4
-血嗣	xie3 si4
-血嗣	xue4 si4
-血型	xie3 xing2
-血塊	xie3 kuai4
-血塞	xue4 se4
-血壓	xie3 ya1
-血壓計	xie3 ya1 ji4
-血小板	xie3 xiao3 ban3
 血尿	xie3 niao4
 血尿	xue4 niao4
-血崩	xie3 beng1
-血庫	xie3 ku4
-血循環	xie3 xun2 huan2
-血心	xie3 xin1
-血忱	xie3 chen2
-血忱	xue4 chen2
-血性	xie3 xing4
-血戰	xie3 zhan4
-血晶	xie3 jing1
-血書	xie3 shu1
-血本	xie3 ben3
-血本	xue4 ben3
-血本無歸	xie3 ben3 wu2 gui1
-血本無歸	xue4 ben3 wu2 gui1
-血栓	xie3 shuan1
-血案	xie3 an4
-血毛	xie3 mao2
-血氣	xie3 qi4
-血氣	xue4 qi4
-血氣之勇	xie3 qi4 zhi1 yong3
-血氣之勇	xue4 qi4 zhi1 yong3
-血氣方剛	xie3 qi4 fang1 gang1
-血氣方剛	xue4 qi4 fang1 gang1
-血氣方壯	xie3 qi4 fang1 zhuang4
-血氣方壯	xue4 qi4 fang1 zhuang4
 血氣方盛	xie3 qi4 fang1 sheng4
 血氣方盛	xue4 qi4 fang1 sheng4
+血氧含量	xie3 yang3 han2 liang4
 血氧含量	xue4 yang3 han2 liang4
+血氧量	xie3 yang3 liang4
 血氧量	xue4 yang3 liang4
-血水	xie3 shui3
-血汗	xie3 han4
-血汗錢	xie3 han4 qian2
-血污	xie3 wu1
-血污池	xie3 wu1 chi2
-血泊	xie3 bo2
-血泊	xue4 bo2
-血洗	xie3 xi3
-血流如注	xie3 liu2 ru2 zhu4
-血流如注	xue4 liu2 ru2 zhu4
-血流成河	xie3 liu2 cheng2 he2
-血流成河	xue4 liu2 cheng2 he2
-血流成渠	xie3 liu2 cheng2 qu2
-血流成渠	xue4 liu2 cheng2 qu2
-血流漂杵	xie3 liu2 piao1 chu3
-血流漂杵	xue4 liu2 piao1 chu3
+血流量	xie3 liu2 liang4
 血流量	xue4 liu2 liang4
-血海	xie3 hai3
-血海屍山	xie3 hai3 shi1 shan1
 血海深仇	xie3 hai3 shen1 chou2
+血海深仇	xue4 hai3 shen1 chou2
 血液	xie3 ye4
-血液凝固	xie3 ye4 ning2 gu4
-血液凝結	xue4 ye4 ning2 jie2
+血液	xie3 yi4
+血液	xue4 ye4
 血液增強劑	xue4 ye4 zeng1 qiang2 ji4
-血液循環	xie3 ye4 xun2 huan2
-血液檢驗	xie3 ye4 jian3 yan4
-血液透析	xue4 ye4 tou4 xi5
-血液透析機	xue4 ye4 tou4 xi5 ji1
-血淋淋	xie3 lin2 lin2
-血淋淋	xue4 lin2 lin2
-血淚	xie3 lei4
-血清	xie3 qing1
-血清病	xie3 qing1 bing4
-血清療法	xie3 qing1 liao2 fa3
 血滴子	xie3 di1 zi3
-血漬	xie3 zi4
-血漿	xie3 jiang1
-血漿	xue4 jiang1
-血漿蛋白	xie3 jiang1 dan4 bai2
-血濃於水	xie3 nong2 yu2 shui3
-血濃於水	xue4 nong2 yu2 shui3
-血瀝瀝	xie3 li4 li4
-血球	xie3 qiu2
-血痂	xie3 jia1
 血癌	xie3 ai2
 血癌	xie3 yan2
-血盆	xie3 pen2
-血盆大口	xie3 pen2 da4 kou3
-血盆經	xie3 pen2 jing1
-血祭	xie3 ji4
-血管	xie3 guan3
-血管操	xie3 guan3 cao1
-血管瘤	xie3 guan3 liu2
-血管硬化	xie3 guan3 ying4 hua4
-血糖	xie3 tang2
-血糞	xie3 fen4
-血紅	xie3 hong2
-血紅素	xie3 hong2 su4
-血紅蛋白	xie3 hong2 dan4 bai2
-血統	xie3 tong3
-血絲	xie3 si1
-血緣	xie3 yuan2
-血肉	xie3 rou4
-血肉之軀	xie3 rou4 zhi1 qu1
-血肉模糊	xie3 rou4 mo2 hu2
-血肉模糊	xue4 rou4 mo2 hu5
+血癌	xue4 ai2
 血肉橫飛	xie3 rou4 heng2 fei1
 血肉橫飛	xue4 rou4 heng2 fei1
-血肉淋漓	xie3 rou4 lin2 li2
-血肉相連	xie3 rou4 xiang1 lian2
-血肉相連	xue4 rou4 xiang1 lian2
-血脂升高症	xie3 zhi1 sheng1 gao1 zheng4
-血脂肪	xie3 zhi1 fang2
-血脈	xie3 mai4
-血脈	xue4 mai4
-血脈賁張	xie3 mai4 ben1 zhang1
-血腥	xie3 xing1
-血色	xie3 se4
-血花	xie3 hua1
-血荒	xie3 huang1
-血虛	xie3 xu1
-血虧	xie3 kui1
-血衚衕	xie3 hu2 tong5
-血衣	xie3 yi1
-血親	xie3 qin1
-血親	xue4 qing4
-血親家族	xie3 qin1 jia1 zu2
-血親復仇	xue4 qin1 fu4 chou2
-血誠	xie3 cheng2
-血誠	xue4 cheng2
-血跡	xie3 ji1
-血跡斑斑	xie3 ji1 ban1 ban1
-血路	xie3 lu4
 血量	xie3 liang4
+血鑽	xie3 zuan4
 血鑽	xue4 zuan4
-血雨腥風	xie3 yu3 xing1 feng1
-血食	xie3 shi2
-血食	xue4 shi2
-血餘	xie3 yu2
-血餘	xue4 yu2
 衁	huang1
 衄	nv4
 衆	zhong4
