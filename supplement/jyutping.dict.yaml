@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "2013.02.23"
+version: "2013.07.10"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -97,6 +97,7 @@ min_phrase_weight: 100
 黯	am
 媕	am
 庵	am
+噏	ap
 敺	au
 區	au	1%
 歐	au
@@ -10751,6 +10752,7 @@ min_phrase_weight: 100
 奀	ngan
 印	ngan
 銀	ngan
+噏	ngap
 阣	ngat
 矹	ngat
 阢	ngat
