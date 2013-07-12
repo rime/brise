@@ -18,7 +18,7 @@
 
 ---
 name: "cangjie5"
-version: "0.15"
+version: "0.16"
 sort: original
 use_preset_vocabulary: true
 max_phrase_length: 1
@@ -23928,10 +23928,11 @@ encoder:
 ｝	yyyar
 →	yyyas
 ←	yyyat
-↓	yyyau
-↗	yyyav
-↘	yyyaw
-↖	yyyax
+↑	yyyau
+↓	yyyav
+↗	yyyaw
+↘	yyyax
+↖	yyyay
 ↙	yyyay
 △	yyyba
 ▲	yyybb
