@@ -18,10 +18,11 @@
 
 ---
 name: "cangjie5"
-version: "0.16"
-sort: original
+version: "0.17"
+sort: by_weight
 use_preset_vocabulary: true
-max_phrase_length: 1
+max_phrase_length: 7
+min_phrase_weight: 100
 columns:
   - text
   - code
