@@ -4,7 +4,7 @@
 schema:
   schema_id: terra_pinyin
   name: 地球拼音
-  version: "0.11"
+  version: "0.12"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -151,7 +151,7 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
-    - { when: composing, accept: minus, send: minus }
+    - { when: has_menu, accept: minus, send: minus }  # tone 1
     - { when: paging, accept: minus, send: Page_Up }
 
 recognizer:
