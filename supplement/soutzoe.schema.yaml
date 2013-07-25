@@ -4,7 +4,7 @@
 schema:
   schema_id: soutzoe
   name: 蘇州吳語
-  version: "0.2"
+  version: "0.3"
   author:
     - 寒寒豆
     - 吳語越音 <zhufya@mail.ustc.edu.cn>
@@ -58,7 +58,7 @@ speller:
 
 translator:
   dictionary: soutzoe
-  spelling_hints: 4
+  spelling_hints: 5
 
 reverse_lookup:
   dictionary: luna_pinyin
