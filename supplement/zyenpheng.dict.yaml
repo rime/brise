@@ -8,18 +8,11 @@
 
 ---
 name: zyenpheng
-version: "2013.07.01"
+version: "2013.07.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
-	cax
-	cai
-	khyoih
-	ngio
-	lyen
-	lyenh
-	luan
 吖	qra
 阿	qa
 啊	qa
@@ -26994,6 +26987,13 @@ use_preset_vocabulary: true
 𪌜	thux
 艹	chaux
 〇	leng
+𠂇	cax
+𢦏	cai
+䙡	khyoih
+䰻	ngio
+龻	lyen
+龻	lyenh
+龻	luan
 阿房	qa bang
 愛好	qaih hauh
 懊悔	qauh huaix
