@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.07.23"
+version: "2013.08.08"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -20760,6 +20760,7 @@ min_phrase_weight: 100
 忞	wen3	33.33%
 忞忞	min2 min2
 忠	zhong1
+忠告	zhong1 gao4
 忠告	zhong1 gu4
 忠於	zhong1 yu2
 忠於職守	zhong1 yu2 zhi2 shou3
