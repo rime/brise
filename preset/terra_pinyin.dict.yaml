@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.08.08"
+version: "2013.08.15"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -27180,8 +27180,8 @@ min_phrase_weight: 100
 方行	fang1 xing2
 方言地圖	fang1 yan2 di4 tu2
 方鑿圓枘	fang1 zuo4 yuan2 rui4
-於	wu1	50%
-於	yu2	50%
+於	wu1	0%
+於	yu2	100%
 於乎	wu1 hu1
 於事無濟	yu2 shi4 wu2 ji4
 於事無補	yu2 shi4 wu2 bu3
