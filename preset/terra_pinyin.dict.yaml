@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.08.16"
+version: "2013.08.29"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -57256,8 +57256,9 @@ min_phrase_weight: 100
 銍艾	zhi4 yi4
 銎	qiong1
 銑	xian3
-銑削	xian3 xue4
-銑鋧	xian3 xian3
+銑	xi3
+銑鋧	xian3 xian4
+鋧	xian4
 銓	quan2
 銕	yi2
 銖	zhu1
