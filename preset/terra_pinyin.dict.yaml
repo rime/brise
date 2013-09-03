@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.08.29"
+version: "2013.09.03"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -28972,7 +28972,6 @@ min_phrase_weight: 100
 木犀	mu4 xi5
 木犀肉	mu4 xi5 rou4
 木猴而冠	mu4 hou2 er2 guan1
-木瓜酵素	mu4 gua1 xiao4 su4
 木皮散人鼓詞	mu4 pi2 san3 ren2 gu3 ci2
 木石爲徒	mu4 shi2 wei2 tu2
 木禺	mu4 ou3
@@ -38544,9 +38543,6 @@ min_phrase_weight: 100
 發送功率	fa1 song4 gong1 lv4
 發達地區	fa1 da2 di4 qu1
 發還	fa1 huan2
-發酵	fa1 xiao4
-發酵乳	fa1 xiao4 ru3
-發酵乳酸	fa1 xiao4 ru3 suan1
 發隱擿伏	fa1 yin3 ti4 fu2
 發難	fa1 nan4
 發電量	fa1 dian4 liang4
@@ -56396,11 +56392,9 @@ min_phrase_weight: 100
 酲	cheng2
 酴	tu2
 酵	jiao4
-酵母	xiao4 mu3
+酵	xiao4
 酵母菌	jiao4 mu3 jun1
 酵母菌	xiao4 mu3 jun4
-酵素	xiao4 su4
-酵素毒	xiao4 su4 du2
 酶	mei2
 酷	ku4
 酷刑折磨	ku4 xing2 zhe2 mo2
@@ -56489,10 +56483,7 @@ min_phrase_weight: 100
 醯胺類	xi1 an1 lei4
 醰	tan2
 醱	po1
-醱酵	po4 jiao4
-醱酵	po4 xiao4
-醱酵乳	po4 xiao4 ru3
-醱醅	po4 pei1
+醱	po4
 醲	nong2
 醴	li3
 醴泉县	li3 quan2 xian4
