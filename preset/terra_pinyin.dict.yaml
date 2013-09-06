@@ -55,6 +55,7 @@ min_phrase_weight: 100
 㞎	pa2
 㞞	song2
 㟏岈	han1 xia1
+㤅	ai4
 㥁	de2
 㥄遽	ling2 ju4
 㥏墨	tian3 mo4
@@ -16105,7 +16106,9 @@ min_phrase_weight: 100
 孿	luan2
 孿生素數	luan2 sheng1 su4 shu4
 宀	mian2
-宁立	zhu4 li4
+宁	ning2	0%
+宁	ning4	0%
+宁	zhu4	100%
 它	ta1
 它們	tuo1 men5
 它囂	tuo1 xiao1
@@ -20812,14 +20815,14 @@ min_phrase_weight: 100
 忿悁	fen4 juan4
 怊悵	chao1 chang4
 怍	zuo4
-怎	zen3
 怎	ze3
+怎	zen3
 怎地	zen3 de5
 怎麼得了	zen3 me5 de2 liao3
 怎麼搞的	ze3 me5 gao3 de5
 怎麼着	zen3 me5 zhao1
-怎麽	zen3 me5
 怎麽	ze3 me5
+怎麽	zen3 me5
 怎麽了	zen3 me5 le5
 怏	yang4
 怏怏不樂	yang4 yang4 bu4 le4
@@ -49968,8 +49971,8 @@ min_phrase_weight: 100
 蠼猱	jue2 nao2
 蠼螋	jue2 sou1
 蠽	jie2
-血	xue4
 血	xie3
+血	xue4
 血不歸經	xie3 bu4 gui1 jing1
 血不歸經	xue4 bu4 gui1 jing1
 血中毒	xie3 zhong4 du2
@@ -57246,10 +57249,9 @@ min_phrase_weight: 100
 銍	zhi4
 銍艾	zhi4 yi4
 銎	qiong1
-銑	xian3
 銑	xi3
+銑	xian3
 銑鋧	xian3 xian4
-鋧	xian4
 銓	quan2
 銕	yi2
 銖	zhu1
@@ -57342,6 +57344,7 @@ min_phrase_weight: 100
 鋦	ju1	50%
 鋦	ju2	50%
 鋦子	ju1 zi5
+鋧	xian4
 鋨	e2
 鋩	mang2
 鋪	pu1	50%
