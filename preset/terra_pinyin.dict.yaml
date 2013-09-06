@@ -2114,7 +2114,9 @@ min_phrase_weight: 100
 么點	yao1 dian3
 乊	xx
 之	zhi1
+之死靡他	zhi1 si3 mi3 ta1
 之死靡他	zhi1 si3 mi3 tuo1
+之死靡它	zhi1 si3 mi3 ta1
 之死靡它	zhi1 si3 mi3 tuo1
 之間	zhi1 jian1
 乍	zha4
@@ -16110,8 +16112,10 @@ min_phrase_weight: 100
 宁	ning4	0%
 宁	zhu4	100%
 它	ta1
-它們	tuo1 men5
+它們	ta1 men5
+它們	tuo1 men5	0%
 它囂	tuo1 xiao1
+它山之石	ta1 shan1 zhi1 shi2
 它山之石	tuo1 shan1 zhi1 shi2
 宄	gui3
 宅	zhai2
