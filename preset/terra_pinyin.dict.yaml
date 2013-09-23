@@ -2923,7 +2923,6 @@ min_phrase_weight: 100
 人家	ren2 jia1
 人家	ren2 jia5
 人尖兒	ren2 jian1 r5
-人工蝸牛	ren2 gong1 gua1 niu2
 人工血液	ren2 gong1 xie3 ye4
 人工閱卷	ren2 gong1 yue4 juan4
 人工降雨	ren2 gong1 jiang4 yu3
@@ -4004,6 +4003,7 @@ min_phrase_weight: 100
 便把令來行	bian4 ba3 ling4 lai2 xing2
 便捷	bian4 jie2
 便捷化	bian4 jie2 hua4
+便攜式	bian4 xi1 shi4
 便攜式	bian4 xie2 shi4
 便教	bian4 jiao4
 便於	bian4 yu2
@@ -6703,6 +6703,7 @@ min_phrase_weight: 100
 分擔	fen1 dan1
 分擺	fen1 bai3
 分攜	fen1 xi1
+分攜	fen1 xie2
 分攤	fen1 tan1
 分支	fen1 zhi1
 分支機關	fen1 zhi1 ji1 guan1
@@ -13200,30 +13201,6 @@ min_phrase_weight: 100
 垂髮	chui2 fa3
 垃	la1	50%
 垃	le4	50%
-垃圾	la1 ji1
-垃圾	le4 se4
-垃圾分類	le4 se4 fen1 lei4
-垃圾回收	le4 se4 hui2 shou1
-垃圾堆	la1 ji1 dui1
-垃圾堆	le4 se4 dui1
-垃圾場	le4 se4 chang2
-垃圾子母車	le4 se4 zi3 mu3 che1
-垃圾山	le4 se4 shan1
-垃圾工	la1 ji1 gong1
-垃圾桶	la1 ji1 tong3
-垃圾桶	le4 se4 tong3
-垃圾焚化爐	le4 se4 fen2 hua4 lu2
-垃圾相	le4 se4 xiang4
-垃圾筒	la1 ji1 tong3
-垃圾筒	le4 se4 tong3
-垃圾箱	la1 ji1 xiang1
-垃圾箱	le4 se4 xiang1
-垃圾車	la1 ji1 che1
-垃圾車	le4 se4 che1
-垃圾郵件	la1 ji1 you2 jian4
-垃圾量	le4 se4 liang4
-垃圾電郵	la1 ji1 dian4 you2
-垃圾食物	le4 se4 shi2 wu4
 垈	dai4
 型	xing2
 型別轉換	xing2 bie2 zhuan3 huan4
@@ -22538,7 +22515,6 @@ min_phrase_weight: 100
 手拉葫蘆	shou3 la1 hu2 lu5
 手指頭	shou3 zhi3 tou5
 手擊子	shou3 ji2 zi5
-手攜手	shou3 xi1 shou3
 手板子	shou3 ban3 zi5
 手板葫蘆	shou3 ban3 hu2 lu5
 手榴彈	shou3 liu2 dan4
@@ -23037,7 +23013,6 @@ min_phrase_weight: 100
 扶掖	fu2 ye4
 扶東倒西	fu2 dong1 dao3 xi1
 扶牆摸壁	fu2 qiang2 mo1 bi4
-扶老攜幼	fu2 lao3 xi1 you4
 扶顛持危	fu2 dian1 chi2 wei2
 扶馀	fu2 yu2
 批	pi1
@@ -23555,7 +23530,6 @@ min_phrase_weight: 100
 拉口子要見血	la1 kou3 zi5 yao4 jian4 xie3
 拉合子	la1 he2 zi5
 拉名糧長	la1 ming2 liang2 zhang3
-拉圾	la1 ji1
 拉坏	la1 pei1
 拉場	la1 chang2
 拉場子	la1 chang2 zi5
@@ -24763,7 +24737,6 @@ min_phrase_weight: 100
 提得起放得下	ti2 de5 qi3 fang4 de5 xia4
 提掇	ti2 duo2
 提撕	ti2 xi1
-提攜	ti2 xi1
 提款卡	ti2 kuan3 ka3
 提溜	di1 liu1
 提溜	di1 liu5
@@ -24771,7 +24744,6 @@ min_phrase_weight: 100
 提省	ti2 xing3
 提稱語	ti2 cheng1 yu3
 提籃兒	ti2 lan2 r5
-提纯	ti2 chun2
 提行	ti2 hang2
 提補	ti2 bu5
 提親	ti2 qin1
@@ -24838,8 +24810,6 @@ min_phrase_weight: 100
 揠苗助長	ya4 miao2 zhu4 zhang3
 握	wo4
 握拳透爪	wo4 quan2 tou4 zhao3
-握雨攜雲	wo4 yu3 xi1 yun2
-握雲攜雨	wo4 yun2 xi1 yu3
 握髮	wo4 fa3
 握髮吐哺	wo4 fa3 tu3 bu3
 握髮吐餐	wo4 fa3 tu3 can1
@@ -25149,7 +25119,6 @@ min_phrase_weight: 100
 摩崖	mo2 yai2
 摩崖石刻	mo2 yai2 shi2 ke1
 摩弄	mo2 nong4
-摩托羅垃	mo2 tuo1 luo2 la1
 摩托車的士	mo2 tuo1 che1 di1 shi4
 摩挲	ma1 sa5
 摩挲	mo2 sa1
@@ -26075,27 +26044,10 @@ min_phrase_weight: 100
 攛弄	cuan1 nong4
 攛掇	cuan1 duo5
 攛趕子活	cuan1 gan3 zi5 huo2
-攜	xi1	0%
+攜	xi1
 攜	xie2
-攜家帶眷	xi1 jia1 dai4 juan4
-攜帶	xi1 dai4
-攜幼扶老	xi1 you4 fu2 lao3
-攜手	xi1 shou3
-攜手合作	xi1 shou3 he2 zuo4
-攜手接武	xi1 shou3 jie1 wu3
-攜扶	xi1 fu2
-攜持	xi1 chi2
 攜挾帶	xi1 jia2 dai4
-攜男抱女	xi1 nan2 bao4 nv3
-攜男挈女	xi1 nan2 qie4 nv3
-攜眷	xi1 juan4
-攜老扶幼	xi1 lao3 fu2 you4
-攜老扶弱	xi1 lao3 fu2 ruo4
-攜老挈幼	xi1 lao3 qie4 you4
-攜貳	xi1 er4
-攜離	xi1 li2
-攜雲挈雨	xi1 yun2 qie4 yu3
-攜雲握雨	xi1 yun2 wo4 yu3
+攜挾帶	xie2 jia2 dai4
 攝	she4
 攝入量	she4 ru4 liang4
 攝大乘論	she4 da4 sheng4 lun4
@@ -27694,7 +27646,6 @@ min_phrase_weight: 100
 時不我與	shi2 bu4 wo3 yu3
 時乖運拙	shi2 guai1 yun4 zhuo2
 時代廣場	shi2 dai4 guang3 chang3
-時來暫去	shi2 lai2 zhan4 qu4
 時來運轉	shi2 lai2 yun4 zhuan3
 時候	shi2 hou4
 時候	shi2 hou5
@@ -27974,18 +27925,7 @@ min_phrase_weight: 100
 暨	ji4
 暪	men4
 暫	zan4
-暫且	zhan4 qie3
-暫且擱下	zhan4 qie3 ge1 xia4
-暫停	zhan4 ting2
-暫別	zhan4 bie2
-暫勞永逸	zhan4 lao2 yong3 yi4
-暫星	zhan4 xing1
-暫時	zhan4 shi2
-暫染髮慕絲	zhan4 ran3 fa3 mu4 si1
-暫止	zhan4 zhi3
-暫緩	zhan4 huan3
-暫行	zan4 xing2
-暫音	zhan4 yin1
+暫	zhan4
 暮	mu4
 暮去朝來	mu4 qu4 zhao1 lai2
 暮四朝三	mu4 si4 zhao1 san1
@@ -33414,7 +33354,6 @@ min_phrase_weight: 100
 浭	geng1
 浮	fu2
 浮世绘	fu2 shi4 hui4
-浮來暫去	fu2 lai2 zhan4 qu4
 浮力調整背心	fu2 li4 tiao2 zheng3 bei4 xin1
 浮力調整裝置	fu2 li4 tiao2 zheng3 zhuang1 zhi4
 浮動匯率	fu2 dong4 hui4 lv4
@@ -35363,6 +35302,7 @@ min_phrase_weight: 100
 無條件投降	wu2 tiao2 jian4 tou2 xiang2
 無業閑散	wu2 ye4 xian2 san3
 無殼蝸牛	wu2 ke2 gua1 niu2
+無殼蝸牛	wu2 ke2 wo1 niu2
 無毒不丈夫	wu2 du2 bu2 zhang4 fu5
 無毒不丈夫	wu2 du2 bu4 zhang4 fu1
 無濟於事	wu2 ji4 yu2 shi4
@@ -37586,7 +37526,6 @@ min_phrase_weight: 100
 生殺與奪	sheng1 sha1 yu3 duo2
 生活品質	sheng1 huo2 pin3 zhi2
 生活圈	sheng1 huo2 quan1
-生活垃圾	sheng1 huo2 la1 ji1
 生活態度	sheng1 huo2 tai4 du4
 生活教育	sheng1 huo2 jiao4 yu4
 生活空間	sheng1 huo2 kong1 jian1
@@ -40273,7 +40212,6 @@ min_phrase_weight: 100
 短打扮	duan3 da3 ban5
 短折	duan3 zhe2
 短時間	duan3 shi2 jian1
-短暫	duan3 zhan4
 短期	duan3 qi2
 短期投資	duan3 qi2 tou2 zi1
 短期融资	duan3 qi1 rong2 zi1
@@ -45238,7 +45176,6 @@ min_phrase_weight: 100
 耳聞目擊	er3 wen2 mu4 ji2
 耳聽爲虛	er3 ting1 wei2 xu1
 耳脖子	er3 bo2 zi5
-耳蝸	er3 gua1
 耳護子	er3 hu4 zi5
 耳重	er3 zhong4
 耳風	er3 feng5
@@ -49722,29 +49659,20 @@ min_phrase_weight: 100
 蝴蝶效應	hu2 die2 xiao4 ying4
 蝴蝶結	hu2 die2 jie2
 蝶	die2
+蝸	gua1
 蝸	wo1
-蝸利蠅名	gua1 li4 ying2 ming2
-蝸名蠅利	gua1 ming2 ying2 li4
-蝸居	gua1 ju1
 蝸居蟻蛭	gua1 ju1 yi3 die2
-蝸庐	wo1 lu2
-蝸廬	gua1 lu2
-蝸旋	wo1 xuan2
-蝸步難移	gua1 bu4 nan2 yi2
-蝸步龜移	gua1 bu4 gui1 yi2
-蝸牛	gua1 niu2
-蝸窄	gua1 zhai3
-蝸篆	gua1 zhuan4
-蝸舍	gua1 she4
-蝸螺	gua1 luo2
+蝸居蟻蛭	wo1 ju1 yi3 die2
 蝸行	gua1 xing2
 蝸行	wo1 xing2
 蝸角	gua1 jiao3
+蝸角	wo1 jiao3
 蝸角之爭	gua1 jiao3 zhi1 zheng1
+蝸角之爭	wo1 jiao3 zhi1 zheng1
 蝸角虛名	gua1 jiao3 xu1 ming2
+蝸角虛名	wo1 jiao3 xu1 ming2
 蝸角蠅頭	gua1 jiao3 ying2 tou2
-蝸輪	gua1 lun2
-蝸髫	gua1 tiao2
+蝸角蠅頭	wo1 jiao3 ying2 tou2
 蝻	nan3
 蝻子	nan2 zi5
 蝽	chun1
@@ -49892,13 +49820,12 @@ min_phrase_weight: 100
 蠂	she4
 蠃	luo3
 蠅	ying2
-蠅利蝸名	ying2 li4 gua1 ming2
-蠅名蝸利	ying2 ming2 gua1 li4
 蠅子	ying2 zi5
 蠅帚子	ying2 zhou3 zi5
 蠅甩子	ying2 shuai3 zi5
 蠅頭小楷	ying2 tou2 xiao3 kai3
 蠅頭蝸角	ying2 tou2 gua1 jiao3
+蠅頭蝸角	ying2 tou2 wo1 jiao3
 蠆	chai4
 蠊	lian2
 蠋	zhu2
@@ -50925,7 +50852,6 @@ min_phrase_weight: 100
 褒貶與奪	bao1 bian3 yu3 duo2
 褒賢遏惡	bao1 xian2 e4 e4
 褓	bao3
-褓抱提攜	bao3 bao4 ti2 xi1
 褔	fu2
 褕	yu2
 褖衣	tuan4 yi1
@@ -51538,7 +51464,6 @@ min_phrase_weight: 100
 解弦更張	jie3 xian2 geng1 zhang1
 解悶	jie3 men4
 解悶破寂	jie3 men4 po4 ji2
-解攜	jie3 xi1
 解放巴勒斯坦人民陣線	jie3 fang4 ba1 le4 si1 tan3 ren2 min2 zhen4 xian4
 解散	jie3 san4
 解散權	jie3 san4 quan2
@@ -52998,7 +52923,6 @@ min_phrase_weight: 100
 負片	fu4 pian4
 負笈擔簦	fu4 ji2 dan1 deng1
 負累	fu4 lei3
-負老攜幼	fu4 lao3 xi1 you4
 負荷	fu4 he4
 負荷量	fu4 he4 liang4
 負載	fu4 zai4
@@ -54389,6 +54313,7 @@ min_phrase_weight: 100
 載客車	zai4 ke4 che1
 載客量	zai4 ke4 liang4
 載彈量	zai4 dan4 liang4
+載攜	zai4 xi1
 載攜	zai4 xie2
 載明	zai4 ming2
 載書	zai4 shu1
