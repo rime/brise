@@ -6760,6 +6760,7 @@ min_phrase_weight: 100
 分權	fen1 quan2
 分權制衡	fen1 quan2 zhi4 heng2
 分步驟	fen1 bu4 zhou4
+分步驟	fen1 bu4 zou4
 分歧	fen1 qi2
 分歧點	fen1 qi2 dian3
 分歲	fen1 sui4
@@ -20905,7 +20906,6 @@ min_phrase_weight: 100
 急轉直下	ji2 zhuan3 zhi2 xia4
 急遞鋪	ji2 di4 pu4
 急難	ji2 nan4
-急驟	ji2 zou4
 怦	peng1
 性	xing4
 性偏好	xing4 pian1 hao4
@@ -27966,6 +27966,7 @@ min_phrase_weight: 100
 暴露狂	pu4 lu4 kuang2
 暴面	pu4 mian4
 暴風圈	bao4 feng1 quan1
+暴風驟雨	bao4 feng1 zhou4 yu3
 暴風驟雨	bao4 feng1 zou4 yu3
 暴骨	pu4 gu3
 暴骨原野	pu4 gu3 yuan2 ye3
@@ -31393,7 +31394,6 @@ min_phrase_weight: 100
 步調一致	bu4 diao4 yi2 zhi4
 步飛煙傳	bu4 fei1 yan1 zhuan4
 步騎	bu4 ji4
-步驟	bu4 zou4
 武	wu3
 武举	wu3 ju3
 武場	wu3 chang2
@@ -32255,7 +32255,6 @@ min_phrase_weight: 100
 決撒	jue2 sa1
 決而不行	jue2 er2 bu4 xing2
 決雌雄	jue2 ci1 xiong2
-決驟	jue2 zou4
 汽	qi4
 汽車炸彈	qi4 che1 zha4 dan4
 汽車炸彈事件	qi4 che1 zha4 dan4 shi4 jian4
@@ -36487,7 +36486,6 @@ min_phrase_weight: 100
 狂華	kuang2 hua1
 狂跌	kuang2 die2
 狂轟濫炸	kuang2 hong1 lan4 zha4
-狂風驟雨	kuang2 feng1 zou4 yu3
 狃	niu3
 狄	di2
 狄奧多・阿多諾	di2 ao4 duo1 a1 duo1 nuo4
@@ -38176,7 +38174,6 @@ min_phrase_weight: 100
 疾風勁草	ji2 feng1 jing4 cao3
 疾風掃秋葉	ji2 feng1 sao3 qiu1 ye4
 疾風知勁草	ji2 feng1 zhi1 jing4 cao3
-疾風驟雨	ji2 feng1 zou4 yu3
 疿	fei4
 痀僂	ju1 lou2
 痀瘻	ju1 lv2
@@ -61137,7 +61134,6 @@ min_phrase_weight: 100
 風度	feng1 du4
 風度翩翩	feng1 du4 pian1 pian1
 風從響應	feng1 cong2 xiang3 ying4
-風急雨驟	feng1 ji2 yu3 zou4
 風息	feng1 xi2
 風扇	feng1 shan4
 風掣雷行	feng1 che4 lei2 xing2
@@ -61205,7 +61201,6 @@ min_phrase_weight: 100
 風餐露宿	feng1 can1 lu4 su4
 風馬牛不相及	feng1 ma3 niu2 bu4 xiang1 ji2
 風馬牛不相干	feng1 ma3 niu2 bu4 xiang1 gan1
-風馳雨驟	feng1 chi2 yu3 zou4
 風馳電卷	feng1 chi2 dian4 juan3
 風驅電掃	feng1 qu1 dian4 sao3
 風驅電擊	feng1 qu1 dian4 ji2
@@ -61234,7 +61229,6 @@ min_phrase_weight: 100
 飄茵落溷	piao1 yin1 luo4 hun4
 飄落	piao1 luo4
 飄薄	piao1 bo2
-飄風驟雨	piao1 feng1 zou4 yu3
 飆	biao1
 飆漲	biao1 zhang3
 飈	biao1
@@ -61750,7 +61744,6 @@ min_phrase_weight: 100
 馳	chi2
 馳傳	chi2 zhuan4
 馳突	chi2 tu2
-馳驟	chi2 zou4
 馴	xun4
 馴伏	xun2 fu2
 馴化	xun2 hua4
@@ -61965,13 +61958,9 @@ min_phrase_weight: 100
 驛	yi4
 驛傳	yi4 chuan2
 驟	zhou4
-驟然	zou4 ran2
-驟變	zou4 bian4
-驟跌	zou4 die2
+驟	zou4
 驟降	zhou4 jiang4
 驟降	zou4 jiang4
-驟雨	zou4 yu3
-驟雨狂風	zou4 yu3 kuang2 feng1
 驢	lv2
 驢子	lv2 zi5
 驢生笄角	lv2 sheng1 ji3 jiao3
@@ -63507,7 +63496,6 @@ min_phrase_weight: 100
 齊莊	zhai1 zhuang1
 齊衰	zi1 cui1
 齊論	qi2 lun2
-齊驅並驟	qi2 qu1 bing4 zou4
 齋	zhai1
 齋供	zhai1 gong4
 齋宿	zhai1 su4
