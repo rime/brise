@@ -8,7 +8,7 @@
 
 ---
 name: jyutping
-version: "2013.07.10"
+version: "2013.09.25"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -4505,6 +4505,7 @@ min_phrase_weight: 100
 溪	kai
 啟	kai
 啓	kai
+冚	kam
 靲	kam
 檎	kam
 噤	kam
@@ -6401,6 +6402,7 @@ min_phrase_weight: 100
 䀹	sip
 攝	sip
 葉	sip
+蝕	sit
 疶	sit
 媟	sit
 紲	sit
@@ -9394,6 +9396,7 @@ min_phrase_weight: 100
 輕	hing
 慶	hing
 興	hing
+慷	hong
 漮	hong
 衖	hong
 恇	hong
@@ -11948,6 +11951,11 @@ min_phrase_weight: 100
 曾	zang
 增	zang
 踭	zang	1000
+諍	zang
+崢	zang
+睜	zang
+錚	zang
+箏	zang
 正	zeng
 鄭	zeng
 精	zeng
