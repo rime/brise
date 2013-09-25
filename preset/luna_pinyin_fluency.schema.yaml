@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_fluency
   name: 朙月拼音・語句流
-  version: "0.18"
+  version: "0.19"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -77,7 +77,9 @@ custom_phrase:
   dictionary: ""
   user_dict: custom_phrase
   db_class: stabledb
+  enable_completion: false
   enable_sentence: false
+  initial_quality: 1
 
 reverse_lookup:
   dictionary: cangjie5

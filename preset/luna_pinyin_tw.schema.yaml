@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_tw
   name: 朙月拼音・臺灣正體
-  version: "0.15"
+  version: "0.16"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -74,7 +74,9 @@ custom_phrase:
   dictionary: ""
   user_dict: custom_phrase
   db_class: stabledb
+  enable_completion: false
   enable_sentence: false
+  initial_quality: 1
 
 simplifier:
   opencc_config: zht2zhtw_v.ini
