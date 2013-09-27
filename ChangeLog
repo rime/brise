@@ -1,3 +1,10 @@
+2013-09-05  GONG Chen  <chen.sst@gmail.com>
+
+	* cangjie5, wubi86: make phrases based on commit history.
+	* stroke: replaces 'stroke_simp' and 'stroke5'.
+
+	- Brise 0.28 release.
+
 2013-05-05  GONG Chen  <chen.sst@gmail.com>
 
 	* essay.txt, luna_pinyin, terra_pinyin: lots of bug-fixes.
@@ -17,7 +24,7 @@
 	* array30, scj6, stroke5, wubi_trad, cangjie5, cangjie5_express,
 luna_pinyin, luna_pinyin_fluency, luna_pinyin_simp, luna_pinyin_tw,
 terra_pinyin, combo_pinyin, double_pinyin_abc, jyutping, pinyin_simp, quick5,
-soutzoe, stroke_simp,triungkox3p, wubi86, wubi_pinyin, wugniu, wugniu_lopha,
+soutzoe, stroke_simp, triungkox3p, wubi86, wubi_pinyin, wugniu, wugniu_lopha,
 zyenpheng: correct preedit_format concerning 'ü'.
 
 	* default.yaml: update recognizer patterns for email & url.

@@ -4,13 +4,13 @@
 schema:
   schema_id: pinyin_simp
   name: 袖珍简化字拼音
-  version: "0.5"
+  version: "0.6"
   author:
     - 佚名
   description: |
     源自 Android 拼音
   dependencies:
-    - stroke_simp
+    - stroke
 
 switches:
   - name: ascii_mode
@@ -65,7 +65,7 @@ translator:
     - xform/([jqxy])v/$1u/
 
 reverse_lookup:
-  dictionary: stroke_simp
+  dictionary: stroke
   enable_completion: true
   prefix: "`"
   suffix: "'"

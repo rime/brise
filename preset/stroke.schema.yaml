@@ -2,16 +2,18 @@
 # encoding: utf-8
 
 schema:
-  schema_id: stroke_simp
-  name: "五笔画"
-  version: "0.6"
+  schema_id: stroke
+  name: "五筆畫"
+  version: "0.3"
   author:
-    - 佛振 <chen.sst@gmail.com>
+    - 四季的風
+    - 雪齋
+    - 瑾昀
   description: |
-    以五笔画输入简化字
-    h=横 s=竖 p=撇 n=捺 z=折
+    五筆畫
+    h,s,p,n,z 代表橫、豎、撇、捺、折
   dependencies:
-    - pinyin_simp
+    - luna_pinyin
 
 switches:
   - name: ascii_mode
@@ -38,8 +40,8 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - table_translator
     - reverse_lookup_translator
+    - table_translator
 
 speller:
   alphabet: "abcdefghijklmnopqrstuvwxyz"
@@ -49,7 +51,7 @@ menu:
   page_size: 9
 
 translator:
-  dictionary: stroke_simp
+  dictionary: stroke
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
   comment_format:
@@ -61,7 +63,7 @@ abc_segmentor:
     - reverse_lookup
 
 reverse_lookup:
-  dictionary: pinyin_simp
+  dictionary: luna_pinyin
   prefix: "`"
   suffix: "'"
   tips: 〔拼音〕

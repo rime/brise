@@ -9,7 +9,6 @@ Gong Chen <chen.sst@gmail.com> : (GPLv3)
   supplement/jyutping.schema.yaml
   supplement/pinyin_simp.schema.yaml
   supplement/quick5.schema.yaml
-  supplement/stroke_simp.schema.yaml
   supplement/wubi_pinyin.schema.yaml
   extra/stenotype.schema.yaml
 
@@ -21,6 +20,9 @@ moedict.tw／萌典 (CC0 1.0)
   essay.txt
   preset/luna_pinyin*.yaml
   preset/terra_pinyin*.yaml
+
+derived from rime-aca project, by 四季的風, 雪齋, 瑾昀 <cokunhui@gmail.com> : (GPLv3)
+  preset/stroke.*.yaml
 
 Patrick <ipatrickmac@qq.com>, Gong Chen <chen.sst@gmail.com> : (GPLv3)
   supplement/ipa_xsampa*.yaml
@@ -46,13 +48,9 @@ derived from scim-table-zh : (GPLv2/LGPLv2)
 
 derived from Android Pinyin IME : (Apache License version 2.0)
   supplement/pinyin_simp.dict.yaml
-  supplement/stroke_simp.dict.yaml
 
 麥志洪 <makchehu@netvigator.com> : (GPLv3)
   extra/scj6.*.yaml
-
-香港長者資訊天地 / Hong Kong Seniors IT Advocates <info@hkseniors.net> : (GPL)
-  extra/stroke5.*.yaml
 
 StarSasumi <starsasumi@gmail.com> : (GPLv3)
   supplement/emoji.*.yaml
