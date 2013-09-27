@@ -1,7 +1,7 @@
 # Rime's punctuation and symbols
 # encoding: utf-8
 
-config_version: "0.4"
+config_version: "0.5"
 
 punctuator:
   full_shape:
@@ -848,7 +848,7 @@ punctuator:
       - 虍
       - 彐
       - 卩
-      - 钅
+      - 釒
       - 冂
       - 冖
       - 宀
@@ -860,20 +860,24 @@ punctuator:
       - 犭
       - 亻
       - 彡
-      - 饣
+      - 飠
       - 礻
       - 扌
       - 氵
-      - 纟
+      - 糹
       - 亠
       - 囗
       - 忄
-      - 讠
+      - 訁
       - 衤
       - 廴
       - 尢
       - 夂
       - 丶
+      - 钅
+      - 饣
+      - 纟
+      - 讠
     '/py':
       - ā
       - á
@@ -1044,7 +1048,9 @@ punctuator:
       - 〧
       - 〨
       - 〩
-      - 十
+      - 〸
+      - 〹
+      - 〺
     '/sq': &sq
       - ⓪
       - ①
