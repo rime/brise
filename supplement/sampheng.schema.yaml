@@ -4,7 +4,7 @@
 schema:
   schema_id: sampheng
   name: 中古三拼
-  version: "2013.07.01"
+  version: "2013.10.04"
   author:
     - "polyhedron <biopolyhedron@gmail.com>"
     - "Lely <fourseasons4ji@gmail.com>"
@@ -130,7 +130,7 @@ speller:
     - xform/m$/D/
     - xform/h$/Z/
     - xform/x$/Q/
-    - xform/([a-z]$)/$1A/
+    - xform/([a-z])$/$1A/
     - xform/([jTRDCVZSJAEIOUL])ia/$1Q/
     - xform/ia/W/
     - xform/ya/B/
