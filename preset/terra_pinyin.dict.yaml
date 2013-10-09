@@ -23,14 +23,13 @@
 
 ---
 name: terra_pinyin
-version: "2013.09.03"
+version: "2013.10.09"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
 min_phrase_weight: 100
 ...
 
-⿔	gui1
 〇	ling2
 㐄	kua4
 㐅	wu3
@@ -15869,7 +15868,6 @@ min_phrase_weight: 100
 孏	lan3
 子	zi3	97%
 子	zi5	3%
-子兒少	shao3
 子卯不樂	zi3 mao3 bu4 yue4
 子口	zi3 kou5
 子埝	zi3 nian4
@@ -63617,13 +63615,6 @@ min_phrase_weight: 100
 龡	chui4
 龢	he2
 龤	xie2
-蘭	lan2
-盧	lu2
-老	lao3
-不	bu4
-練	lian4
-識	shi2
-兀	wu4
 𣘨橠	e3 nuo3
 𣝓弧	yan3 hu2
 𣝓絲	yan3 si1
