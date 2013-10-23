@@ -3,8 +3,8 @@
 
 schema:
   schema_id: luna_pinyin_tw
-  name: 朙月拼音・臺灣正體
-  version: "0.16"
+  name: 朙月拼音·臺灣正體
+  version: "0.17"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |

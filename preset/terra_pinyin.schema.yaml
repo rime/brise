@@ -4,7 +4,7 @@
 schema:
   schema_id: terra_pinyin
   name: 地球拼音
-  version: "0.16"
+  version: "0.17"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -40,6 +40,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - table_translator@custom_phrase
     - reverse_lookup_translator
     - script_translator
   filters:
@@ -74,7 +75,7 @@ speller:
 
 translator:
   dictionary: terra_pinyin
-  spelling_hints: 5  # 〜字以內候選標註完整帶調拼音
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
@@ -136,6 +137,14 @@ translator:
     - xform/([nljqxy])v/$1ü/
     - xform/eh[0-5]?/ê/
     - xform/([a-z]+)[0-5]/$1/
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
 
 reverse_lookup:
   dictionary: stroke

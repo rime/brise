@@ -4,7 +4,7 @@
 schema:
   schema_id: cangjie5
   name: 倉頡五代
-  version: "0.19"
+  version: "0.20"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -52,7 +52,7 @@ engine:
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " ;'"
-  #max_code_length: 5
+  #max_code_length: 5  # 五碼頂字上屏
 
 translator:
   dictionary: cangjie5
@@ -72,7 +72,7 @@ translator:
 
 abc_segmentor:
   extra_tags:
-    - reverse_lookup
+    - reverse_lookup  # 與拼音（反查碼）混打
 
 reverse_lookup:
   dictionary: luna_pinyin
@@ -85,6 +85,9 @@ reverse_lookup:
     - xform/([jqxy])v/$1u/
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+
+simplifier:
+  tips: all  # 簡化字模式下提示對應的傳統漢字
 
 punctuator:
   import_preset: default

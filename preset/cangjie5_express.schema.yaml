@@ -3,8 +3,8 @@
 
 schema:
   schema_id: cangjie5_express
-  name: 倉頡・快打模式
-  version: "2013.06.05"
+  name: 倉頡·快打模式
+  version: "2013.10.23"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -84,6 +84,9 @@ reverse_lookup:
     - xform/([jqxy])v/$1u/
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+
+simplifier:
+  tips: all  # 簡化字模式下提示對應的傳統漢字
 
 punctuator:
   import_preset: default

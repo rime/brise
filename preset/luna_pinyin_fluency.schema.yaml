@@ -3,8 +3,8 @@
 
 schema:
   schema_id: luna_pinyin_fluency
-  name: 朙月拼音・語句流
-  version: "0.20"
+  name: 朙月拼音·語句流
+  version: "0.21"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
