@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.10.09"
+version: "2013.10.24"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -7738,7 +7738,7 @@ min_phrase_weight: 100
 三正	san1 zheng4
 三歲看老	san1 sui4 kan4 lao3
 三江侗族自治縣	san1 jiang1 dong4 zu2 zi4 zhi4 xian4
-三浦・梅園	san1 pu3 mei2 yuan2
+三浦·梅園	san1 pu3 mei2 yuan2
 三清道觀	san1 qing1 dao4 guan4
 三災八難	san1 zai1 ba1 nan4
 三百六十行	san1 bai3 liu4 shi2 hang2
@@ -9790,21 +9790,21 @@ min_phrase_weight: 100
 亞得里亞海	ya4 de2 li3 ya4 hai3
 亞撒	ya4 sa1
 亞歐大陸腹地	ya4 ou1 da4 lu4 fu4 di4
-亞歷山大・杜布切克	ya4 li4 shan1 da4 du4 bu4 qie1 ke4
+亞歷山大·杜布切克	ya4 li4 shan1 da4 du4 bu4 qie1 ke4
 亞洲太平洋地區	ya4 zhou1 tai4 ping2 yang2 di4 qu1
 亞洲與太平洋	ya4 zhou1 yu3 tai4 ping2 yang2
 亞洲與太平洋地區	ya4 zhou1 yu3 tai4 ping2 yang2 di4 qu1
 亞洲開發銀行	ya4 zhou1 kai1 fa1 yin2 hang2
 亞特拉斯山脈	ya4 te4 la1 si1 shan1 mai4
 亞當	ya4 dang1
-亞當・斯密	ya4 dang1 si1 mi4
+亞當·斯密	ya4 dang1 si1 mi4
 亞當斯	ya4 dang1 si1
 亞當斯密	ya4 dang1 si1 mi4
 亞的斯亞貝巴	ya4 di4 si1 ya4 bei4 ba1
 亞種	ya4 zhong3
 亞符號模型	ya4 fu2 hao4 mo2 xing2
 亞美利加人種	ya4 mei3 li4 jia1 ren2 zhong3
-亞西爾・阿拉法特	ya4 xi1 er3 a1 la1 fa3 te4
+亞西爾·阿拉法特	ya4 xi1 er3 a1 la1 fa3 te4
 亟	ji2	50%
 亟	qi4	50%
 亟亟	ji2 ji2
@@ -10432,7 +10432,7 @@ min_phrase_weight: 100
 伊哩烏蘆	yi1 li1 wu1 lu2
 伊塞克湖	yi1 sai1 ke4 hu2
 伊妹兒	yi1 mei4 r5
-伊娃・門德斯	yi1 wa2 men2 de2 si1
+伊娃·門德斯	yi1 wa2 men2 de2 si1
 伊寧	yi1 ning2
 伊寧市	yi1 ning2 shi4
 伊寧縣	yi1 ning2 xian4
@@ -10574,7 +10574,7 @@ min_phrase_weight: 100
 伯業	ba4 ye4
 伯樂	bo2 le4
 伯樂一顧	bo2 le4 yi1 gu4
-伯納斯・李	bo2 na4 si1 li3
+伯納斯·李	bo2 na4 si1 li3
 伯羅奔尼撒半島	bo2 luo2 ben1 ni2 sa1 ban4 dao3
 伯羅奔尼撒同盟	bo2 luo2 ben1 ni2 sa1 tong2 meng2
 伯羅奔尼撒戰爭	bo2 luo2 ben1 ni2 sa1 zhan4 zheng1
@@ -10640,7 +10640,7 @@ min_phrase_weight: 100
 似的	si4 de5
 伽	jia1
 伽伽	qie2 qie2
-伽利略・伽利雷	jia1 li4 lve4 jia1 li4 lei2
+伽利略·伽利雷	jia1 li4 lve4 jia1 li4 lei2
 伽南香	qie2 nan2 xiang1
 伽羅瓦	jia1 luo2 wa4
 伽羅華	jia1 luo2 hua4
@@ -10678,7 +10678,7 @@ min_phrase_weight: 100
 佈	bu4
 佈劃	bu4 hua4
 佈散	bu4 san4
-佈萊特妮・墨菲	bu4 lai2 te4 ni1 mo4 fei1
+佈萊特妮·墨菲	bu4 lai2 te4 ni1 mo4 fei1
 佉	qu1
 佊	bi3
 佋	shao2
@@ -12275,15 +12275,15 @@ min_phrase_weight: 100
 傏	tang2
 傐	hao4
 傑	jie2
-傑克・倫敦	jie2 ke4 lun2 dun1
+傑克·倫敦	jie2 ke4 lun2 dun1
 傑克遜	jie2 ke4 sun4
-傑夫・金尼	jie2 fu1 jin1 ni2
-傑奎琳・肯尼迪	jie2 kui2 lin2 ken3 ni2 di2
+傑夫·金尼	jie2 fu1 jin1 ni2
+傑奎琳·肯尼迪	jie2 kui2 lin2 ken3 ni2 di2
 傑弗遜	jie2 fu2 sun4
-傑瑞・宋飛	jie2 rui4 song4 fei1
-傑西・歐文斯	jie2 xi1 ou1 wen2 si1
+傑瑞·宋飛	jie2 rui4 song4 fei1
+傑西·歐文斯	jie2 xi1 ou1 wen2 si1
 傑西卡	jie2 xi1 ka3
-傑西卡・艾爾芭	jie2 xi1 ka3 ai4 er3 ba1
+傑西卡·艾爾芭	jie2 xi1 ka3 ai4 er3 ba1
 傒	xi1
 傒落	xi1 luo4
 傓	shan4
@@ -12787,7 +12787,7 @@ min_phrase_weight: 100
 儑	an4
 儒	ru2
 儒冠	ru2 guan1
-儒勒・凡爾納	ru2 le4 fan2 er3 na4
+儒勒·凡爾納	ru2 le4 fan2 er3 na4
 儒將	ru2 jiang4
 儒教	ru2 jiao4
 儒艮	ru2 gen4
@@ -13073,7 +13073,7 @@ min_phrase_weight: 100
 克萊斯勒	ke4 lai2 si1 le4
 克萊斯勒汽車公司	ke4 lai2 si1 le4 qi4 che1 gong1 si1
 克蕾兒	ke4 lei3 r5
-克里斯汀・貝爾	ke4 li3 si1 ting1 bei4 er3
+克里斯汀·貝爾	ke4 li3 si1 ting1 bei4 er3
 克里蒙梭	ke4 li3 meng2 suo1
 克難	ke4 nan2
 克難運動	ke4 nan2 yun4 dong4
@@ -13467,8 +13467,8 @@ min_phrase_weight: 100
 公開市場活動	gong1 kai1 shi4 chang2 huo2 dong4
 公開鑰匙	gong1 kai1 yao4 shi5
 六	liu4
-六・二五戰爭	liu4 er4 wu3 zhan4 zheng1
-六・四	liu4 si4
+六·二五戰爭	liu4 er4 wu3 zhan4 zheng1
+六·四	liu4 si4
 六分之一	liu4 fen1 zhi1 yi1
 六分儀	liu4 fen1 yi2
 六分儀座	liu4 fen1 yi2 zuo4
@@ -13924,7 +13924,7 @@ min_phrase_weight: 100
 凭	ping2
 凮	feng1
 凯	kai3
-凯茜・弗里曼	kai3 qian4 fu2 li3 man4
+凯茜·弗里曼	kai3 qian4 fu2 li3 man4
 凰	huang2
 凱	kai3
 凱子	kai3 zi5
@@ -14623,7 +14623,7 @@ min_phrase_weight: 100
 列別傑夫	lie4 bie4 jie2 fu1
 列土分疆	lie4 tu3 fen1 jiang1
 列土分茅	lie4 tu3 fen1 mao2
-列夫・托爾斯泰	lie4 fu1 tuo1 er3 si1 tai4
+列夫·托爾斯泰	lie4 fu1 tuo1 er3 si1 tai4
 列女傳	lie4 nv3 zhuan4
 列宿	lie4 xiu4
 列寧	lie4 ning2
@@ -16106,7 +16106,7 @@ min_phrase_weight: 100
 北卡羅萊納州	bei3 ka3 luo2 lai2 na4 zhou1
 北印度語	bei3 yin4 du4 yu3
 北埔	bei3 bu4
-北大西洋・公約・組織	bei3 da4 xi1 yang2 gong1 yue1 zu3 zhi1
+北大西洋·公約·組織	bei3 da4 xi1 yang2 gong1 yue1 zu3 zhi1
 北寧鐵路	bei3 ning2 tie3 lu4
 北方之強	bei3 fang1 zhi1 qiang2
 北方佛教	bei3 fang1 fo2 jiao4
@@ -16123,7 +16123,7 @@ min_phrase_weight: 100
 北碑南帖論	bei3 bei1 nan2 tie3 lun4
 北美草原地帶	bei3 mei3 cao3 yuan2 di4 dai4
 北荷蘭	bei3 he2 lan2
-北萊茵・威斯特法倫州	bei3 lai2 yin1 wei1 si1 te4 fa3 lun2 zhou1
+北萊茵·威斯特法倫州	bei3 lai2 yin1 wei1 si1 te4 fa3 lun2 zhou1
 北路梆子	bei3 lu4 bang1 zi5
 北轍南轅	bei3 che4 nan2 yuan2
 北邊兒	bei3 bian1 r5
@@ -16258,7 +16258,7 @@ min_phrase_weight: 100
 區間	qu1 jian1
 區間車	qu1 jian1 che1
 十	shi2
-十・一	shi2 yi1
+十·一	shi2 yi1
 十七帖	shi2 qi1 tie4
 十三經注疏	shi2 san1 jing1 zhu4 shu4
 十三號星期五	shi2 san1 hao4 xing1 qi2 wu3
@@ -16681,7 +16681,7 @@ min_phrase_weight: 100
 卡斯特羅	ka3 si1 te4 luo2
 卡斯翠	ka3 si1 cui4
 卡斯蒂利亞	ka3 si1 di4 li4 ya4
-卡斯蒂利亞・萊昂	ka3 si1 di4 li4 ya4 lai2 ang2
+卡斯蒂利亞·萊昂	ka3 si1 di4 li4 ya4 lai2 ang2
 卡昂	ka3 ang2
 卡桑德拉	ka3 sang1 de2 la1
 卡梅倫	ka3 mei2 lun2
@@ -16693,7 +16693,7 @@ min_phrase_weight: 100
 卡洛斯	ka3 luo4 si1
 卡港會議	ka3 gang3 hui4 yi4
 卡爾	ka3 er3
-卡爾・馬克思	ka3 er3 ma3 ke4 si1
+卡爾·馬克思	ka3 er3 ma3 ke4 si1
 卡爾加里	ka3 er3 jia1 li3
 卡爾巴拉	ka3 er3 ba1 la1
 卡爾文	ka3 er3 wen2
@@ -17430,7 +17430,7 @@ min_phrase_weight: 100
 古寧頭大捷	gu3 ning2 tou2 da4 jie2
 古巴危機	gu3 ba1 wei2 ji1
 古拙	gu3 zhuo2
-古斯塔夫・多雷	gu3 si1 ta3 fu1 duo1 lei2
+古斯塔夫·多雷	gu3 si1 ta3 fu1 duo1 lei2
 古昔	gu3 xi2
 古時候	gu3 shi2 hou5
 古根罕噴噴氣推進研究中心	gu3 gen1 han3 pen1 pen4 qi4 tui1 jin4 yan2 jiu1 zhong1 xin1
@@ -17634,7 +17634,7 @@ min_phrase_weight: 100
 史乘	shi3 sheng4
 史傳	shi3 zhuan4
 史傳小說	shi3 zhuan4 xiao3 shuo1
-史蒂芬・哈珀	shi3 di4 fen1 ha1 po4
+史蒂芬·哈珀	shi3 di4 fen1 ha1 po4
 史賓塞	shi3 bin1 se4
 史賓格勒	shi3 bin1 ge2 le4
 史跡	shi3 ji1
@@ -18613,7 +18613,7 @@ min_phrase_weight: 100
 和記黃埔	he2 ji4 huang2 pu3
 和詩	he4 shi1
 和調	he2 tiao2
-和達・清夫	he2 da2 qing1 fu1
+和達·清夫	he2 da2 qing1 fu1
 和韻	he2 yun4
 和韻	he4 yun4
 和韻詩	he4 yun4 shi1
@@ -18857,8 +18857,8 @@ min_phrase_weight: 100
 哈	ha1	95%
 哈	ha3	5%
 哈伯太空望遠鏡	ha1 bo2 tai4 kong1 wang4 yuan3 jing4
-哈克貝利・芬歷險記	ha1 ke4 bei4 li4 fen1 li4 xian3 ji4
-哈利・波特	ha1 li4 bo1 te4
+哈克貝利·芬歷險記	ha1 ke4 bei4 li4 fen1 li4 xian3 ji4
+哈利·波特	ha1 li4 bo1 te4
 哈努卡	ha1 nu3 ka3
 哈努卡節	ha1 nu3 ka3 jie2
 哈叭狗	ha3 ba1 gou3
@@ -18875,7 +18875,7 @@ min_phrase_weight: 100
 哈德門	ha3 de2 men2
 哈拉	ha1 la5
 哈米爾卡	ha1 mi3 er3 ka3
-哈莉・貝瑞	ha1 li4 bei4 rui4
+哈莉·貝瑞	ha1 li4 bei4 rui4
 哈辣	ha1 la5
 哈農鋼琴教本	ha1 nong2 gang1 qin2 jiao4 ben3
 哈迪	ha3 di2
@@ -19073,7 +19073,7 @@ min_phrase_weight: 100
 唐王遊地府	tang2 wang2 you2 di4 fu3
 唐突	tang2 tu2
 唐突西施	tang2 tu2 xi1 shi1
-唐納德・川普	tang2 na4 de2 chuan1 pu3
+唐納德·川普	tang2 na4 de2 chuan1 pu3
 唐臨晉帖	tang2 lin2 jin4 tie4
 唐菖蒲	tang2 chang1 pu2
 唑	zuo4
@@ -19672,9 +19672,9 @@ min_phrase_weight: 100
 喬怯	qiao2 que4
 喬文假醋	qiao2 wen2 jia3 cu4
 喬模喬樣	qiao2 mu2 qiao2 yang4
-喬治・奧威爾	qiao2 zhi4 ao4 wei1 er3
-喬治・索羅斯	qiao2 zhi4 suo3 luo2 si1
-喬治・華盛頓	qiao2 zhi4 hua2 sheng4 dun4
+喬治·奧威爾	qiao2 zhi4 ao4 wei1 er3
+喬治·索羅斯	qiao2 zhi4 suo3 luo2 si1
+喬治·華盛頓	qiao2 zhi4 hua2 sheng4 dun4
 喬答摩	qiao2 da1 mo2
 喭	yan4
 單	chan2	0%
@@ -20243,7 +20243,7 @@ min_phrase_weight: 100
 噶喇	ga2 la3
 噶大克	ge2 da4 ke4
 噶廈	ga2 xia4
-噶拉・多傑・仁波切	ga2 la1 duo1 jie2 ren2 bo1 qie4
+噶拉·多傑·仁波切	ga2 la1 duo1 jie2 ren2 bo1 qie4
 噶當派	ga2 dang1 pai4
 噷	hen4
 噸	dun1
@@ -21587,16 +21587,16 @@ min_phrase_weight: 100
 埂子	geng3 zi5
 埃	ai1
 埃佛勒斯峰	ai1 fo2 le4 si1 feng1
-埃克托・柏遼茲	ai1 ke4 tuo1 bo2 liao2 zi1
+埃克托·柏遼茲	ai1 ke4 tuo1 bo2 liao2 zi1
 埃塞俄比亞	ai1 sai4 e2 bi3 ya4
 埃塞俄比亞語	ai1 sai1 e2 bi3 ya4 yu3
-埃德加・愛倫・坡	ai1 de2 jia1 ai4 lun2 po1
-埃德加・斯諾	ai1 de2 jia1 si1 nuo4
+埃德加·愛倫·坡	ai1 de2 jia1 ai4 lun2 po1
+埃德加·斯諾	ai1 de2 jia1 si1 nuo4
 埃德蒙頓	ai1 de2 meng2 dun4
 埃拉托塞尼斯	ai1 la1 tuo1 se4 ni2 si1
 埃涅阿斯	ai1 nie4 a1 si1
 埃涅阿斯紀	ai1 nie4 a1 si1 ji4
-埃爾維斯・普雷斯利	ai1 er3 wei2 si1 pu3 lei2 si1 li4
+埃爾維斯·普雷斯利	ai1 er3 wei2 si1 pu3 lei2 si1 li4
 埃迪卡拉	ai1 di2 ka3 la1
 埃迪卡拉紀	ai1 di2 ka3 la1 ji4
 埄	beng3	50%
@@ -21785,7 +21785,7 @@ min_phrase_weight: 100
 堀堁	ku1 ke3
 堁	ke4
 堂	tang2
-堂・吉河德	tang2 ji2 he2 de2
+堂·吉河德	tang2 ji2 he2 de2
 堂分姑娘	tang2 fen4 gu1 niang2
 堂堂之陳	tang2 tang2 zhi1 zhen4
 堂姊	tang2 jie3
@@ -22406,7 +22406,7 @@ min_phrase_weight: 100
 夏朝	xia4 chao2
 夏楚	jia3 chu3
 夏正	xia4 zheng1
-夏洛特・勃良特	xia4 luo4 te4 bo2 liang2 te4
+夏洛特·勃良特	xia4 luo4 te4 bo2 liang2 te4
 夏王朝	xia4 wang2 chao2
 夏畦	xia4 xi1
 夏蟲朝菌	xia4 chong2 zhao1 jun4
@@ -22762,7 +22762,7 @@ min_phrase_weight: 100
 大埔	da4 bu4
 大埔縣	da4 bu4 xian4
 大埔鄉	da4 bu4 xiang1
-大場・鶇	da4 chang3 dong1
+大場·鶇	da4 chang3 dong1
 大場面	da4 chang2 mian4
 大壑	da4 huo4
 大多數	da4 duo1 shu4
@@ -22999,8 +22999,8 @@ min_phrase_weight: 100
 大行政區	da4 xing2 zheng4 qu1
 大行星	da4 xing2 xing1
 大行院	da4 hang2 yuan4
-大衛・米利班德	da4 wei4 mi3 li4 ban1 de2
-大衛・艾登堡	da4 wei4 ai4 deng1 bao3
+大衛·米利班德	da4 wei4 mi3 li4 ban1 de2
+大衛·艾登堡	da4 wei4 ai4 deng1 bao3
 大衝	da4 chong1
 大衾長枕	da4 qin1 chang2 zhen3
 大袋子	da4 dai4 zi5
@@ -24055,7 +24055,7 @@ min_phrase_weight: 100
 妭	ba2
 妭	bo1
 妮	ni1
-妮可・基德曼	ni1 ke3 ji1 de2 man4
+妮可·基德曼	ni1 ke3 ji1 de2 man4
 妮子	ni1 zi5
 妮子	ni2 zi5
 妯	zhou2
@@ -24264,8 +24264,8 @@ min_phrase_weight: 100
 威嚇	wei1 he4
 威寧彞族回族苗族自治縣	wei1 ning2 yi2 zu2 hui2 zu2 miao2 zu2 zi4 zhi4 xian4
 威寧縣	wei1 ning2 xian4
-威廉・福克納	wei1 lian2 fu2 ke4 na4
-威廉・莎士比亞	wei1 lian2 sha1 shi4 bi3 ya4
+威廉·福克納	wei1 lian2 fu2 ke4 na4
+威廉·莎士比亞	wei1 lian2 sha1 shi4 bi3 ya4
 威懾力量	wei1 she4 li4 liang5
 威斯敏斯特教堂	wei1 si1 min3 si1 te4 jiao4 tang2
 威棱	wei1 leng2
@@ -25140,10 +25140,10 @@ min_phrase_weight: 100
 守藏	shou3 cang2
 守規矩	shou3 gui1 ju5
 安	an1
-安・海瑟薇	an1 hai3 se4 wei1
+安·海瑟薇	an1 hai3 se4 wei1
 安上	an1 shang5
 安不忘危	an1 bu4 wang4 wei2
-安倍・晉三	an1 bei4 jin4 san1
+安倍·晉三	an1 bei4 jin4 san1
 安內攘外	an1 nei4 rang2 wai4
 安全係數	an1 quan2 xi4 shu4
 安全刀片	an1 quan2 dao1 pian4
@@ -25171,10 +25171,10 @@ min_phrase_weight: 100
 安堵樂業	an1 du3 le4 ye4
 安塞	an1 sai1
 安塞縣	an1 sai1 xian4
-安妮・夏菲維	an1 ni2 xia4 fei1 wei2
-安妮・海瑟薇	an1 ni2 hai3 se4 wei1
+安妮·夏菲維	an1 ni2 xia4 fei1 wei2
+安妮·海瑟薇	an1 ni2 hai3 se4 wei1
 安妮的日記	an1 ni2 de5 ri4 ji4
-安娜・卡列尼娜	an1 na4 ka3 lie4 ni2 na4
+安娜·卡列尼娜	an1 na4 ka3 lie4 ni2 na4
 安宅	an1 zhe4
 安宅正路	an1 zhe4 zheng4 lu4
 安守本分	an1 shou3 ben3 fen4
@@ -26414,11 +26414,11 @@ min_phrase_weight: 100
 小步舞曲	xiao3 bu4 wu3 qu3
 小段子	xiao3 duan4 zi5
 小毛頭	xiao3 mao2 tou5
-小池・百合子	xiao3 chi2 bai3 he2 zi5
-小泉・純一郎	xiao3 quan2 chun2 yi1 lang2
+小池·百合子	xiao3 chi2 bai3 he2 zi5
+小泉·純一郎	xiao3 quan2 chun2 yi1 lang2
 小滑頭	xiao3 hua2 tou5
 小猴子	xiao3 hou2 zi5
-小畑・健	xiao3 tian2 jian4
+小畑·健	xiao3 tian2 jian4
 小畜	xiao3 xu4
 小番子	xiao3 fan1 zi5
 小白臉兒	xiao3 bai2 lian3 r5
@@ -26614,11 +26614,11 @@ min_phrase_weight: 100
 尣	wang1
 尤	you2
 尤侗	you2 tong2
-尤利婭・季莫申科	you2 li4 ya4 ji4 mo4 shen1 ke1
+尤利婭·季莫申科	you2 li4 ya4 ji4 mo4 shen1 ke1
 尤卡坦	you2 ka3 tan3
 尤卡坦半島	you2 ka3 tan3 ban4 dao3
 尤爲	you2 wei2
-尤里斯・伊文思	you2 li3 si1 yi1 wen2 si1
+尤里斯·伊文思	you2 li3 si1 yi1 wen2 si1
 尤金塞爾南	you2 jin1 sai4 er3 nan2
 尥	liao4
 尥蹶子	liao4 jue3 zi5
@@ -27781,7 +27781,7 @@ min_phrase_weight: 100
 巴爾扎克	ba1 er3 zha1 ke4
 巴爾的摩	ba1 er3 di4 mo2
 巴爾舍夫斯基	ba1 er3 she3 fu1 si1 ji1
-巴登・符騰堡州	ba1 deng1 fu2 teng2 bao3 zhou1
+巴登·符騰堡州	ba1 deng1 fu2 teng2 bao3 zhou1
 巴着	ba1 zhao2
 巴答	ba1 da1
 巴結	ba1 jie5
@@ -27867,7 +27867,7 @@ min_phrase_weight: 100
 布累爾	bu4 lei2 er3
 布署	bu4 shu4
 布萊雅特蒙古	bu4 lai2 ya3 te4 meng2 gu3
-布蘭妮・斯皮爾斯	bu4 lan2 ni1 si1 pi2 er3 si1
+布蘭妮·斯皮爾斯	bu4 lan2 ni1 si1 pi2 er3 si1
 布衣卿相	bu4 yi1 qing1 xiang4
 布褐	bu4 he2
 布那喀	bu4 na4 ka4
@@ -27898,8 +27898,8 @@ min_phrase_weight: 100
 希	xi1
 希企	xi1 qi4
 希思羅	xi1 si1 luo1
-希拉裏・克林頓	xi1 la1 li3 ke4 lin2 dun4
-希斯・萊傑	xi1 si1 lai2 jie2
+希拉裏·克林頓	xi1 la1 li3 ke4 lin2 dun4
+希斯·萊傑	xi1 si1 lai2 jie2
 希斯羅機場	xi1 si1 luo2 ji1 chang3
 希望落空	xi1 wang4 luo4 kong1
 希特勒	xi1 te4 le4
@@ -27908,7 +27908,7 @@ min_phrase_weight: 100
 希臘建築	xi1 la4 jian4 zhu2
 希臘教會	xi1 la4 jiao4 hui4
 希臘正教	xi1 la4 zheng4 jiao4
-希蒙・佩雷斯	xi1 meng3 pei4 lei2 si1
+希蒙·佩雷斯	xi1 meng3 pei4 lei2 si1
 希行	xi1 xing2
 帍	hu4
 帎	dan4
@@ -27933,7 +27933,7 @@ min_phrase_weight: 100
 帕累托最優	pa4 lei4 tuo1 zui4 you1
 帕累托法則	pa4 lei4 tuo1 fa3 ze2
 帕蘭卡	pa4 lan2 ka3
-帕麗斯・希爾頓	pa4 li4 si1 xi1 er3 dun4
+帕麗斯·希爾頓	pa4 li4 si1 xi1 er3 dun4
 帖	tie1	33.33%
 帖	tie3	33.33%
 帖	tie4	33.33%
@@ -28646,7 +28646,7 @@ min_phrase_weight: 100
 庫模塊	ku4 mo2 kuai4
 庫爾勒	ku4 er3 le4
 庫爾勒市	ku4 er3 le4 shi4
-庫爾特・瓦爾德海姆	ku4 er3 te4 wa3 er3 de2 hai3 mu3
+庫爾特·瓦爾德海姆	ku4 er3 te4 wa3 er3 de2 hai3 mu3
 庫狄	she4 di2
 庫藏	ku4 cang2
 庬	pang2
@@ -28670,7 +28670,7 @@ min_phrase_weight: 100
 康	kang1
 康乾宗迦峯	kang1 qian2 zong1 jia1 feng1
 康乾盛世	kang1 qian2 sheng4 shi4
-康多莉扎・賴斯	kang1 duo1 li4 zha1 lai4 si1
+康多莉扎·賴斯	kang1 duo1 li4 zha1 lai4 si1
 康寧	kang1 ning2
 康巴地區	kang1 ba1 di4 qu1
 康巴藏區	kang1 ba1 zang4 qu1
@@ -29055,13 +29055,13 @@ min_phrase_weight: 100
 弖	hu4
 弗	fu2
 弗塞奇	fu2 sai1 qi2
-弗洛倫蒂諾・佩雷斯	fu2 luo4 lun2 di4 nuo4 pei4 lei2 si1
+弗洛倫蒂諾·佩雷斯	fu2 luo4 lun2 di4 nuo4 pei4 lei2 si1
 弗洛勒斯島	fu2 luo4 lei1 si1 dao3
 弗莱福蘭	fu2 lai2 fu2 lan2
 弗落伊德	fu2 luo4 yi1 de2
-弗蘭西斯・培根	fu2 lan2 xi1 si1 pei2 gen1
+弗蘭西斯·培根	fu2 lan2 xi1 si1 pei2 gen1
 弗裏得裏希	fu2 li3 de2 li3 xi1
-弗里德里希・席勒	fu2 li3 de2 li3 xi1 xi2 le4
+弗里德里希·席勒	fu2 li3 de2 li3 xi1 xi2 le4
 弘	hong2
 弘量	hong2 liang4
 弙	wu1
@@ -30097,8 +30097,8 @@ min_phrase_weight: 100
 德干	de2 gan1
 德干高原	de2 gan1 gao1 yuan2
 德惠地區	de2 hui4 di4 qu1
-德意志・民主・共和國	de2 yi4 zhi4 min2 zhu3 gong4 he2 guo2
-德意志・聯邦・共和國	de2 yi4 zhi4 lian2 bang1 gong4 he2 guo2
+德意志·民主·共和國	de2 yi4 zhi4 min2 zhu3 gong4 he2 guo2
+德意志·聯邦·共和國	de2 yi4 zhi4 lian2 bang1 gong4 he2 guo2
 德意志銀行	de2 yi4 zhi4 yin2 hang2
 德操	de2 cao1
 德業長昭	de2 ye4 chang2 zhao1
@@ -30608,7 +30608,7 @@ min_phrase_weight: 100
 怪	guai4
 怪不得	guai4 bu4 de5
 怪不得	guai4 bu5 de5
-怪人奧爾・揚科維奇	guai4 ren2 ao4 er3 yang2 ke1 wei2 qi2
+怪人奧爾·揚科維奇	guai4 ren2 ao4 er3 yang2 ke1 wei2 qi2
 怪叔叔	guai4 shu1 shu5
 怪圈	guai4 quan1
 怪念頭	guai4 nian4 tou5
@@ -30773,7 +30773,7 @@ min_phrase_weight: 100
 恩眄	en1 mian3
 恩給制	en1 ji3 zhi4
 恩賜	en1 si4
-恩里科・費米	en1 li3 ke1 fei4 mi3
+恩里科·費米	en1 li3 ke1 fei4 mi3
 恩重丘山	en1 zhong4 qiu1 shan1
 恩重如山	en1 zhong4 ru2 shan1
 恩露	en1 lu4
@@ -31480,7 +31480,7 @@ min_phrase_weight: 100
 愛好	ai4 hao4
 愛好者	ai4 hao4 zhe3
 愛將	ai4 jiang4
-愛德華・達拉第	ai4 de2 hua2 da2 la1 di4
+愛德華·達拉第	ai4 de2 hua2 da2 la1 di4
 愛心刮刮樂	ai4 xin1 gua1 gua1 le4
 愛情征服一切	ai4 qing2 zheng1 fu2 yi2 qie4
 愛惜	ai4 xi2
@@ -31491,7 +31491,7 @@ min_phrase_weight: 100
 愛樂	ai4 yue4
 愛樂樂團	ai4 yue4 yue4 tuan2
 愛漂亮	ai4 piao4 liang5
-愛瑪・沃特森	ai4 ma3 wo4 te4 sen1
+愛瑪·沃特森	ai4 ma3 wo4 te4 sen1
 愛的教育	ai4 de5 jiao4 yu4
 愛稱	ai4 cheng1
 愛荷華州	ai4 he2 hua2 zhou1
@@ -32856,7 +32856,7 @@ min_phrase_weight: 100
 托熟	tuo1 shu2
 托葷鹹食	tuo1 hun1 xian2 shi2
 托運行李	tuo1 yun4 xing2 li5
-托馬斯・阿奎納	tuo1 ma3 si1 a1 kui2 na4
+托馬斯·阿奎納	tuo1 ma3 si1 a1 kui2 na4
 扙	zhang4
 扚	di2
 扚	diao3
@@ -33997,7 +33997,7 @@ min_phrase_weight: 100
 拿着雞毛當令箭	na2 zhe5 ji1 mao2 dang4 ling4 jian4
 拿着鷄毛當令箭	na2 zhe5 ji1 mao2 dang4 ling4 jian4
 拿矯	na2 jiao3
-拿破侖・波拿巴	na2 po4 lun2 bo1 na2 ba1
+拿破侖·波拿巴	na2 po4 lun2 bo1 na2 ba1
 拿空子	na2 kong4 zi5
 拿粗挾細	na2 cu1 xie2 xi4
 拿翹	na2 qiao2
@@ -34946,7 +34946,7 @@ min_phrase_weight: 100
 提供者	ti2 gong1 zhe3
 提傀儡上戲場	ti2 kui3 lei3 shang4 xi4 chang2
 提刀弄斧	ti2 dao1 nong4 fu3
-提姆・羅賓斯	ti2 mu3 luo2 bin1 si1
+提姆·羅賓斯	ti2 mu3 luo2 bin1 si1
 提尔	ti2 er3
 提尔市	ti2 er3 shi4
 提得起放得下	ti2 de5 qi3 fang4 de5 xia4
@@ -35432,7 +35432,7 @@ min_phrase_weight: 100
 摨	nai2
 摨	zhi4
 摩	mo2
-摩亨佐・達羅	mo2 heng1 zuo3 da2 luo2
+摩亨佐·達羅	mo2 heng1 zuo3 da2 luo2
 摩卡	mo2 ka3
 摩卡咖啡	mo2 ka3 ka1 fei1
 摩天大廈	mo2 tian1 da4 sha4
@@ -35447,7 +35447,7 @@ min_phrase_weight: 100
 摩挲	mo2 suo1
 摩撒	ma1 sa5
 摩旗相助	mo2 qi2 xiang1 zhu4
-摩根・弗里曼	mo2 gen1 fu2 li3 man4
+摩根·弗里曼	mo2 gen1 fu2 li3 man4
 摩根史坦利指數	mo2 gen1 shi3 tan3 li4 zhi3 shu4
 摩的	mo2 di1
 摩耶夫人	mo2 ye2 fu1 ren2
@@ -37501,14 +37501,14 @@ min_phrase_weight: 100
 斯摩棱斯克	si1 mo2 leng2 si1 ke4
 斯文	si1 wen2
 斯文	si1 wen5
-斯文・海定	si1 wen2 hai3 ding4
-斯文・赫定	si1 wen2 he4 ding4
+斯文·海定	si1 wen2 hai3 ding4
+斯文·赫定	si1 wen2 he4 ding4
 斯文委地	si1 wen2 wei3 di4
 斯文掃地	si1 wen2 sao3 di4
 斯洛伐克共和國	si1 luo4 fa1 ke4 gong4 he2 guo2
 斯瓦特谷地	si1 wa3 te4 gu3 di4
 斯當東	si1 dang1 dong1
-斯蒂芬・哈珀	si1 di4 fen1 ha1 po4
+斯蒂芬·哈珀	si1 di4 fen1 ha1 po4
 斯賓塞	si1 bin1 se4
 斯賓諾莎	si1 bin1 nuo4 sha1
 斯里蘭卡	si1 li3 lan2 ka3
@@ -37834,7 +37834,7 @@ min_phrase_weight: 100
 旣	ji4
 旤	huo4
 日	ri4
-日・電	ri4 dian4
+日·電	ri4 dian4
 日不暇給	ri4 bu4 xia2 ji3
 日不落國	ri4 bu4 luo4 guo2
 日久天長	ri4 jiu3 tian1 chang2
@@ -38359,7 +38359,7 @@ min_phrase_weight: 100
 普及率	pu3 ji2 lv4
 普天率土	pu3 tian1 shuai4 tu3
 普寂	pu3 ji2
-普密蓬・阿杜德	pu3 mi4 peng2 a1 du4 de2
+普密蓬·阿杜德	pu3 mi4 peng2 a1 du4 de2
 普密蓬阿杜德	pu3 mi4 peng2 a1 du4 de2
 普寧	pu3 ning2
 普寧市	pu3 ning2 shi4
@@ -39439,7 +39439,7 @@ min_phrase_weight: 100
 朝氣	zhao1 qi4
 朝氣勃勃	zhao1 qi4 bo2 bo2
 朝氣蓬勃	zhao1 qi4 peng2 bo2
-朝永・振一郎	chao2 yong3 zhen4 yi1 lang2
+朝永·振一郎	chao2 yong3 zhen4 yi1 lang2
 朝獻	chao2 xian4
 朝珠	chao2 zhu1
 朝班	chao2 ban1
@@ -39668,12 +39668,12 @@ min_phrase_weight: 100
 末行	mo4 xing4
 末路之難	mo4 lu4 zhi1 nan2
 本	ben3
-本・拉登	ben3 la1 deng1
+本·拉登	ben3 la1 deng1
 本事	ben3 shi4
 本事	ben3 shi5
 本事不濟	ben3 shi5 bu4 ji4
 本事高強	ben3 shi5 gao1 qiang2
-本傑明・富蘭克林	ben3 jie2 ming2 fu4 lan2 ke4 lin2
+本傑明·富蘭克林	ben3 jie2 ming2 fu4 lan2 ke4 lin2
 本分	ben3 fen4
 本分事	ben3 fen4 shi4
 本分錢	ben3 fen4 qian2
@@ -39704,7 +39704,7 @@ min_phrase_weight: 100
 本相	ben3 xiang4
 本着	ben3 zhe5
 本等伎倆	ben3 deng3 ji4 liang3
-本篤・十六世	ben3 du3 shi2 liu4 shi4
+本篤·十六世	ben3 du3 shi2 liu4 shi4
 本色當行	ben3 se4 dang1 hang2
 本處	ben3 chu4
 本行	ben3 hang2
@@ -39833,7 +39833,7 @@ min_phrase_weight: 100
 材輕德薄	cai2 qing1 de2 bo2
 材高知深	cai2 gao1 zhi4 shen1
 村	cun1
-村上・春樹	cun1 shang4 chun1 shu4
+村上·春樹	cun1 shang4 chun1 shu4
 村上隆	cun1 shang4 long1
 村天樂	cun1 tian1 le4
 村子	cun1 zi5
@@ -40355,12 +40355,12 @@ min_phrase_weight: 100
 查士丁尼一世	zha1 shi4 ding1 ni2 yi1 shi4
 查士丁尼法典	zha1 shi4 ding1 ni2 fa3 dian3
 查士標	zha1 shi4 biao1
-查尔斯・格雷	cha2 er3 si1 ge2 lei2
+查尔斯·格雷	cha2 er3 si1 ge2 lei2
 查慎行	zha1 shen4 xing2
 查果	zha1 guo3
 查梨	zha1 li2
 查沙	zha1 sha1
-查爾斯・狄更斯	cha2 er3 si1 di2 geng1 si1
+查爾斯·狄更斯	cha2 er3 si1 di2 geng1 si1
 查看	cha2 kan4
 查究	cha2 jiu4
 查緝	cha2 ji1
@@ -40390,7 +40390,7 @@ min_phrase_weight: 100
 柭	pei4
 柮	duo4
 柯	ke1
-柯南・道爾	ke1 nan2 dao4 er3
+柯南·道爾	ke1 nan2 dao4 er3
 柯邵忞	ke1 shao4 min2
 柰	nai4
 柱	zhu4
@@ -40810,7 +40810,7 @@ min_phrase_weight: 100
 梅西耶	mei2 xi1 ye1
 梅西耶星表	mei2 xi1 ye1 xing1 biao3
 梅酢	mei2 cu4
-梅里亞姆・韋伯斯特	mei2 li3 ya4 mu3 wei2 bo2 si1 te4
+梅里亞姆·韋伯斯特	mei2 li3 ya4 mu3 wei2 bo2 si1 te4
 梅開二度	mei2 kai1 er4 du4
 梅香拜把子	mei2 xiang1 bai4 ba3 zi5
 梆	bang1
@@ -41024,7 +41024,7 @@ min_phrase_weight: 100
 棬	quan1
 棭	yi4
 森	sen1
-森・喜朗	sen1 xi3 lang3
+森·喜朗	sen1 xi3 lang3
 森林遊樂區	sen1 lin2 you2 le4 qu1
 森海塞爾	sen1 hai3 se4 er3
 棯	ren3
@@ -42566,7 +42566,7 @@ min_phrase_weight: 100
 歇	xie1
 歇宿	xie1 su4
 歇息	xie1 xi5
-歇洛克・福爾摩斯	xie1 luo4 ke4 fu2 er3 mo2 si1
+歇洛克·福爾摩斯	xie1 luo4 ke4 fu2 er3 mo2 si1
 歇處	xie1 chu4
 歈	yu2
 歉	qian4
@@ -43166,7 +43166,7 @@ min_phrase_weight: 100
 比比	bi4 bi4
 比比皆是	bi4 bi4 jie1 shi4
 比比皆然	bi4 bi4 jie1 ran2
-比爾・蓋茨	bi3 er3 gai4 ci2
+比爾·蓋茨	bi3 er3 gai4 ci2
 比率	bi3 lv4
 比登天還難	bi3 deng1 tian1 hai2 nan2
 比箭掄拳	bi3 jian4 lun1 quan2
@@ -43233,8 +43233,8 @@ min_phrase_weight: 100
 毛毛騰騰	mao2 mao2 teng1 teng1
 毛氈苔	mao2 zhan1 tai2
 毛渠	mao2 qu2
-毛澤東・不爲人知的故事	mao2 ze2 dong1 bu4 wei2 ren2 zhi1 de5 gu4 shi5
-毛澤東・鮮爲人知的故事	mao2 ze2 dong1 xian1 wei2 ren2 zhi1 de5 gu4 shi5
+毛澤東·不爲人知的故事	mao2 ze2 dong1 bu4 wei2 ren2 zhi1 de5 gu4 shi5
+毛澤東·鮮爲人知的故事	mao2 ze2 dong1 xian1 wei2 ren2 zhi1 de5 gu4 shi5
 毛燕	mao2 yan4
 毛片	mao2 pian4
 毛玻璃	mao2 bo1 li5
@@ -43791,7 +43791,7 @@ min_phrase_weight: 100
 沁	qin4
 沂	yi2
 沃	wo4
-沃倫・巴菲特	wo4 lun2 ba1 fei1 te4
+沃倫·巴菲特	wo4 lun2 ba1 fei1 te4
 沄	yun2
 沅	yuan2
 沆	hang4
@@ -44366,8 +44366,8 @@ min_phrase_weight: 100
 法華經	fa3 hua1 jing1
 法華經	fa3 hua2 jing1
 法藏	fa3 zang4
-法蘭西斯・培根	fa3 lan2 xi1 si1 pei2 gen1
-法蘭西斯・斐迪南	fa3 lan2 xi1 si1 fei3 di2 nan2
+法蘭西斯·培根	fa3 lan2 xi1 si1 pei2 gen1
+法蘭西斯·斐迪南	fa3 lan2 xi1 si1 fei3 di2 nan2
 法蘭西體育場	fa3 lan2 xi1 ti3 yu4 chang3
 法論功	fa3 lun2 gong1
 法輪常轉	fa3 lun2 chang2 zhuan4
@@ -44597,11 +44597,11 @@ min_phrase_weight: 100
 泰寧縣	tai4 ning2 xian4
 泰山娘娘	tai4 shan1 niang5 niang5
 泰晤士报	tai4 wu4 shi4 bao4
-泰格・伍茲	tai4 ge2 wu3 zi1
+泰格·伍茲	tai4 ge2 wu3 zi1
 泰極而否	tai4 ji2 er2 pi3
 泰極還生否	tai4 ji2 huan2 sheng1 pi3
 泰然處之	tai4 ran2 chu3 zhi1
-泰特斯・安德洛尼克斯	tai4 te4 si1 an1 de2 luo4 ni2 ke4 si1
+泰特斯·安德洛尼克斯	tai4 te4 si1 an1 de2 luo4 ni2 ke4 si1
 泰興	tai4 xing1
 泰興市	tai4 xing1 shi4
 泰華	tai4 hua4
@@ -45926,12 +45926,12 @@ min_phrase_weight: 100
 湮鬱	yin1 yu4
 湯	shang1	1%
 湯	tang1	99%
-湯姆・克蘭西	tang1 mu3 ke4 lan2 xi1
-湯姆・克魯斯	tang1 mu3 ke4 lu3 si1
-湯姆・索亞歷險記	tang1 mu3 suo3 ya4 li4 xian3 ji4
-湯姆・羅賓斯	tang1 mu3 luo2 bin1 si1
+湯姆·克蘭西	tang1 mu3 ke4 lan2 xi1
+湯姆·克魯斯	tang1 mu3 ke4 lu3 si1
+湯姆·索亞歷險記	tang1 mu3 suo3 ya4 li4 xian3 ji4
+湯姆·羅賓斯	tang1 mu3 luo2 bin1 si1
 湯婆子	tang1 po2 zi5
-湯川・秀樹	tang1 chuan1 xiu4 shu4
+湯川·秀樹	tang1 chuan1 xiu4 shu4
 湯湯	shang1 shang1
 湯着	tang1 zhao2
 湰	long2
@@ -45967,7 +45967,7 @@ min_phrase_weight: 100
 溏	tang2
 溏便	tang2 bian4
 源	yuan2
-源・賴朝	yuan2 lai4 chao2
+源·賴朝	yuan2 lai4 chao2
 源於	yuan2 yu2
 源深流長	yuan2 shen1 liu2 chang2
 源賴朝	yuan2 lai4 chao2
@@ -46570,7 +46570,7 @@ min_phrase_weight: 100
 潔操	jie2 cao1
 潔操履	jie2 cao1 lv3
 潔西卡	jie2 xi1 ka3
-潔西卡・艾芭	jie2 xi1 ka3 ai4 ba1
+潔西卡·艾芭	jie2 xi1 ka3 ai4 ba1
 潔言污行	jie2 yan2 wu1 xing2
 潔身自好	jie2 shen1 zi4 hao4
 潔面露	jie2 mian4 lu4
@@ -46924,7 +46924,7 @@ min_phrase_weight: 100
 濰坊地區	wei2 fang1 di4 qu1
 濱	bin1
 濱州地區	bin1 zhou1 di4 qu1
-濱田・靖一	bin1 tian2 jing4 yi1
+濱田·靖一	bin1 tian2 jing4 yi1
 濲	gu3
 濳	qian2
 濴	ying2
@@ -48029,8 +48029,8 @@ min_phrase_weight: 100
 熱核反應	re4 he2 fan3 ying4
 熱核反應堆	re4 he2 fan3 ying4 dui1
 熱核聚變反應	re4 he2 ju4 bian4 fan3 ying4
-熱比亞・卡德爾	re4 bi3 ya4 ka3 de2 er3
-熱比婭・卡德爾	re4 bi3 ya4 ka3 de2 er3
+熱比亞·卡德爾	re4 bi3 ya4 ka3 de2 er3
+熱比婭·卡德爾	re4 bi3 ya4 ka3 de2 er3
 熱淚盈眶	re4 lei4 ying2 kuang1
 熱爪哇	re4 zhao3 wa1
 熱痙攣	re4 jing4 lvan2
@@ -48966,7 +48966,7 @@ min_phrase_weight: 100
 狂轟濫炸	kuang2 hong1 lan4 zha4
 狃	niu3
 狄	di2
-狄奧多・阿多諾	di2 ao4 duo1 a1 duo1 nuo4
+狄奧多·阿多諾	di2 ao4 duo1 a1 duo1 nuo4
 狄斯奈樂園	di2 si1 nai4 le4 yuan2
 狄斯耐卡通	di2 si1 nai4 ka3 tong1
 狄斯耐樂園	di2 si1 nai4 le4 yuan2
@@ -49676,7 +49676,7 @@ min_phrase_weight: 100
 珋	liu3
 珌	bi4
 珍	zhen1
-珍・奧斯汀	zhen1 ao4 si1 ting1
+珍·奧斯汀	zhen1 ao4 si1 ting1
 珍惜	zhen1 xi2
 珍玩	zhen1 wan4
 珍珠丸子	zhen1 zhu1 wan2 zi5
@@ -49885,7 +49885,7 @@ min_phrase_weight: 100
 琱	diao1
 琲	bei4
 琳	lin2
-琳・戴維斯	lin2 dai4 wei2 si1
+琳·戴維斯	lin2 dai4 wei2 si1
 琴	qin2
 琴心相挑	qin2 xin1 xiang1 tiao3
 琴瑟不調	qin2 se4 bu4 tiao2
@@ -49973,7 +49973,7 @@ min_phrase_weight: 100
 瑪莉都鐸	ma3 li4 du1 duo2
 瑪莎拉蒂	ma3 sha1 la1 di4
 瑪莎葛蘭姆	ma3 sha1 ge3 lan2 mu3
-瑪麗蓮・夢露	ma3 li4 lian2 meng4 lou4
+瑪麗蓮·夢露	ma3 li4 lian2 meng4 lou4
 瑪麗蓮夢露	ma3 li4 lian2 meng4 lu4
 瑫	tao1
 瑬	liu2
@@ -55144,7 +55144,7 @@ min_phrase_weight: 100
 穆天子傳	mu4 tian1 zi3 zhuan4
 穆稜	mu4 ling2
 穆稜市	mu4 ling2 shi4
-穆罕默德・歐瑪	mu4 han3 mo4 de2 ou1 ma3
+穆罕默德·歐瑪	mu4 han3 mo4 de2 ou1 ma3
 穇	shan1
 穈	men2
 穉	chi2
@@ -56548,7 +56548,7 @@ min_phrase_weight: 100
 簟子	dian4 zi5
 簠	fu3
 簡	jian3
-簡・愛	jian3 ai4
+簡·愛	jian3 ai4
 簡便	jian3 bian4
 簡分數	jian3 fen1 shu4
 簡單地	jian3 dan1 de5
@@ -57051,14 +57051,14 @@ min_phrase_weight: 100
 約數	yue1 shu4
 約旦哈什米王國	yue1 dan4 ha1 she2 mi3 wang2 guo2
 約期	yue1 qi2
-約瑟夫・斯大林	yue1 se4 fu1 si1 da4 lin2
+約瑟夫·斯大林	yue1 se4 fu1 si1 da4 lin2
 約當現金	yue1 dang1 xian4 jin1
 約等於	yue1 deng3 yu2
 約維克	yao1 wei2 ke4
-約翰・厄普代克	yue1 han4 e4 pu3 dai4 ke4
-約翰・拉貝	yue1 han4 la1 bei4
-約翰・本仁	yue1 han4 ben3 ren2
-約翰・霍金斯	yue1 han4 huo4 jin1 si1
+約翰·厄普代克	yue1 han4 e4 pu3 dai4 ke4
+約翰·拉貝	yue1 han4 la1 bei4
+約翰·本仁	yue1 han4 ben3 ren2
+約翰·霍金斯	yue1 han4 huo4 jin1 si1
 約莫	yue1 mo5
 紅	hong2
 紅刀子出來	hong2 dao1 zi5 chu1 lai2
@@ -57130,7 +57130,7 @@ min_phrase_weight: 100
 納悶	na4 men4
 納悶兒	na4 men4 r5
 納扎爾巴耶夫	na4 zha1 er3 ba1 ye1 fu1
-納撒尼爾・霍桑	na4 sa1 ni2 er3 huo4 sang1
+納撒尼爾·霍桑	na4 sa1 ni2 er3 huo4 sang1
 納粹主義	na3 cui4 zhu3 yi4
 納粹主義	na4 cui4 zhu3 yi4
 納豆菌	na4 dou4 jun1
@@ -57894,7 +57894,7 @@ min_phrase_weight: 100
 綠	lv4
 綠卡	lv4 ka3
 綠地	lv4 di4
-綠壩・花季護航	lv4 ba4 hua1 ji4 hu4 hang2
+綠壩·花季護航	lv4 ba4 hua1 ji4 hu4 hang2
 綠帽子	lv4 mao4 zi5
 綠椿象	lv4 chun1 xiang4
 綠泥石	lv4 ni2 shi2
@@ -57924,7 +57924,7 @@ min_phrase_weight: 100
 綫	xian4
 綬	shou4
 維	wei2
-維克多・雨果	wei2 ke4 duo1 yu3 guo3
+維克多·雨果	wei2 ke4 duo1 yu3 guo3
 維基數據	wei2 ji1 shu4 ju4
 維基物種	wei2 ji1 wu4 zhong3
 維士卡	wei2 shi4 ka3
@@ -58937,9 +58937,9 @@ min_phrase_weight: 100
 羃	mi4
 羄	zhao4
 羅	luo2
-羅伯特・伯恩斯	luo2 bo2 te4 bo2 en1 si1
-羅伯特・佛洛斯特	luo2 bo2 te4 fu2 luo4 si1 te4
-羅伯特・路易斯・斯蒂文森	luo2 bo2 te4 lu4 yi4 si1 si1 di4 wen2 sen1
+羅伯特·伯恩斯	luo2 bo2 te4 bo2 en1 si1
+羅伯特·佛洛斯特	luo2 bo2 te4 fu2 luo4 si1 te4
+羅伯特·路易斯·斯蒂文森	luo2 bo2 te4 lu4 yi4 si1 si1 di4 wen2 sen1
 羅伯遜	luo1 bo2 xun4
 羅切斯特	luo2 qie1 si1 te4
 羅剎	luo2 cha4
@@ -59684,7 +59684,7 @@ min_phrase_weight: 100
 耶穌會士	ye1 su1 hui4 shi4
 耶穌降臨節	ye1 su1 jiang4 lin2 jie2
 耶耶	ye2 ye2
-耶萊娜・揚科維奇	ye2 lai2 nuo2 yang2 ke1 wei2 qi2
+耶萊娜·揚科維奇	ye2 lai2 nuo2 yang2 ke1 wei2 qi2
 耶西	ye1 xi1
 耶誕卡	ye1 dan4 ka3
 耶誕夜	ye1 dan4 ye4
@@ -61856,10 +61856,10 @@ min_phrase_weight: 100
 艾子	ai4 zi5
 艾安	yi4 an1
 艾德矇頓	ai4 de2 meng2 dun4
-艾格尼絲・史沫特萊	ai4 ge2 ni2 si1 shi3 mo4 te4 lai2
+艾格尼絲·史沫特萊	ai4 ge2 ni2 si1 shi3 mo4 te4 lai2
 艾爾米塔奇	ai4 er3 mi3 ta3 ji1
 艾窩窩	ai4 wo1 wo5
-艾薩克・牛頓	ai4 sa4 ke4 niu2 dun4
+艾薩克·牛頓	ai4 sa4 ke4 niu2 dun4
 艾迪卡拉	ai4 di2 ka3 la1
 艿	nai3
 芀	tiao2
@@ -62497,7 +62497,7 @@ min_phrase_weight: 100
 荷花出水	he2 hua1 chu1 shui3
 荷花大少	he2 hua1 da4 shao4
 荷花燈	he2 hua1 deng1
-荷莉・貝瑞	he2 li4 bei4 rui4
+荷莉·貝瑞	he2 li4 bei4 rui4
 荷莫茲海峽	he2 mo4 zi1 hai3 xia2
 荷葉先師	he2 ye4 xian1 shi1
 荷葉肉	he2 ye4 rou4
@@ -62566,8 +62566,8 @@ min_phrase_weight: 100
 莎喲娜拉	sha1 yao1 na4 la1
 莎士比亞	sha1 shi4 bi3 ya4
 莎拉	sha1 la1
-莎拉・佩林	sha1 la1 pei4 lin2
-莎拉・布萊曼	sha1 la1 bu4 lai2 man4
+莎拉·佩林	sha1 la1 pei4 lin2
+莎拉·布萊曼	sha1 la1 bu4 lai2 man4
 莎拉波娃	sha1 la1 bo1 wa2
 莎樂美	sha1 le4 mei3
 莎草	suo1 cao3
@@ -62631,7 +62631,7 @@ min_phrase_weight: 100
 莫予毒也	mo4 yu2 du2 ye3
 莫伊謝耶夫	mo4 yi1 xie4 ye1 fu1
 莫可指數	mo4 ke3 zhi3 shu3
-莫尼卡・萊溫斯基	mo4 ni2 ka3 lai2 wen1 si1 ji1
+莫尼卡·萊溫斯基	mo4 ni2 ka3 lai2 wen1 si1 ji1
 莫干山	mo4 gan1 shan1
 莫府	mu4 fu3
 莫待無時思有時	mo4 dai4 wu2 shi2 si1 you3 shi2
@@ -64242,7 +64242,7 @@ min_phrase_weight: 100
 薩桑王朝	sa4 sang1 wang2 chao2
 薩滿教	sa4 man3 jiao4
 薩珊王朝	sa4 shan1 wang2 chao2
-薩達姆・侯賽因	sa4 da2 mu3 hou2 sai4 yin1
+薩達姆·侯賽因	sa4 da2 mu3 hou2 sai4 yin1
 薩都剌	sa4 du1 la4
 薩非王朝	sa4 fei1 wang2 chao2
 薩默塞特郡	sa4 mo4 sai1 te4 jun4
@@ -64521,7 +64521,7 @@ min_phrase_weight: 100
 蘇打餅乾	su1 da2 bing3 gan1
 蘇打餅乾	su1 da3 bing3 gan1
 蘇格蘭場	su1 ge2 lan2 chang3
-蘇珊・波伊爾	su1 shan1 bo1 yi1 er3
+蘇珊·波伊爾	su1 shan1 bo1 yi1 er3
 蘇秦刺股	su1 qin2 ci4 gu3
 蘇門答臘	su1 men2 da2 la4
 蘇門答臘島	su1 men2 da2 la4 dao3
@@ -66533,7 +66533,7 @@ min_phrase_weight: 100
 裖	zhen3
 裗	liu2
 裘	qiu2
-裘力斯・愷撒	qiu2 li4 si1 kai3 sa3
+裘力斯·愷撒	qiu2 li4 si1 kai3 sa3
 裘葛	qiu2 ge2
 裘葛之遺	qiu2 ge2 zhi1 wei4
 裘褐	qiu2 he2
@@ -66943,7 +66943,7 @@ min_phrase_weight: 100
 西耶那	xi1 ye1 na4
 西葫蘆	xi1 hu2 lu2
 西葫蘆	xi1 hu2 lu5
-西蒙・舒斯特	xi1 meng3 shu1 si1 te4
+西蒙·舒斯特	xi1 meng3 shu1 si1 te4
 西蒙遜	xi1 meng2 xun4
 西藏	xi1 zang4
 西藏人	xi1 zang4 ren2
@@ -67943,8 +67943,8 @@ min_phrase_weight: 100
 詷	tong2
 詸	mi2
 詹	zhan1
-詹姆斯・喬伊斯	zhan1 mu3 si1 qiao2 yi1 si1
-詹姆斯・龐德	zhan1 mu3 si1 pang2 de2
+詹姆斯·喬伊斯	zhan1 mu3 si1 qiao2 yi1 si1
+詹姆斯·龐德	zhan1 mu3 si1 pang2 de2
 詺	ming4
 詻	e4
 詼	hui1
@@ -68530,7 +68530,7 @@ min_phrase_weight: 100
 諾	nuo4
 諾們罕	nuo4 men2 han3
 諾塞斯	nuo4 sai1 si1
-諾姆・喬姆斯基	nuo4 mu3 qiao2 mu3 si1 ji1
+諾姆·喬姆斯基	nuo4 mu3 qiao2 mu3 si1 ji1
 諿	qi1
 諿	xu3
 謀	mou2
@@ -69262,8 +69262,8 @@ min_phrase_weight: 100
 豩	bin1
 豩	huan1
 豪	hao2
-豪伊杜・比豪爾	hao2 yi1 du4 bi3 hao2 er3
-豪伊杜・比豪爾州	hao2 yi1 du4 bi4 hao2 er3 zhou1
+豪伊杜·比豪爾	hao2 yi1 du4 bi3 hao2 er3
+豪伊杜·比豪爾州	hao2 yi1 du4 bi4 hao2 er3 zhou1
 豪俠好義	hao2 xia2 hao4 yi4
 豪俠強徒	hao2 xia2 qiang2 tu2
 豪壮	hao2 zhuang4
@@ -69371,7 +69371,7 @@ min_phrase_weight: 100
 貛	huan1
 貜	jue2
 貝	bei4
-貝・佈托	bei4 bu4 tuo1
+貝·佈托	bei4 bu4 tuo1
 貝他係數	bei4 ta1 xi4 shu4
 貝他蛻變	bei4 ta1 shui4 bian4
 貝伽特症候羣	bei4 qie2 te4 zheng4 hou4 qun2
@@ -69379,7 +69379,7 @@ min_phrase_weight: 100
 貝利卡登	bei4 li4 ka3 deng1
 貝勒	bei4 le5
 貝卡谷地	bei4 ka3 gu3 di4
-貝娜齊爾・布托	bei4 na4 qi2 er3 bu4 tuo1
+貝娜齊爾·布托	bei4 na4 qi2 er3 bu4 tuo1
 貝婭特麗克絲	bei4 ya4 te4 li2 ke4 si1
 貝子	bei4 zi3
 貝子	bei4 zi5
@@ -70015,9 +70015,9 @@ min_phrase_weight: 100
 赫圖阿拉	he4 tu2 a1 la1
 赫塞	he4 se4
 赫塞哥維納	he4 se4 ge1 wei2 na4
-赫曼・麥爾維爾	he4 man4 mai4 er3 wei2 er3
+赫曼·麥爾維爾	he4 man4 mai4 er3 wei2 er3
 赫柏定律	he4 bo2 ding4 lv4
-赫爾穆特・科爾	he4 er3 mu4 te4 ke1 er3
+赫爾穆特·科爾	he4 er3 mu4 te4 ke1 er3
 赫魯曉夫	he4 lu3 xiao3 fu5
 赬	cheng1
 赭	zhe3
@@ -70284,8 +70284,8 @@ min_phrase_weight: 100
 趲行	zan3 xing2
 足	zu2
 足了十人	zu2 liao3 shi2 ren2
-足利・義政	zu2 li4 yi4 zheng4
-足利・義滿	zu2 li4 yi4 man3
+足利·義政	zu2 li4 yi4 zheng4
+足利·義滿	zu2 li4 yi4 man3
 足恭	ju4 gong1
 足數	zu2 shu4
 足癬	zu2 xian3
@@ -70492,8 +70492,8 @@ min_phrase_weight: 100
 路得記	lu4 de2 ji4
 路德教派	lu4 de2 jiao4 pai4
 路數	lu4 shu4
-路易・皮埃爾・阿爾都塞	lu4 yi4 pi2 ai1 er3 a1 er3 dou1 sai1
-路易斯・伊納西奧・盧拉・達席爾瓦	lu4 yi4 si1 yi1 na4 xi1 ao4 lu2 la1 da2 xi2 er3 wa3
+路易·皮埃爾·阿爾都塞	lu4 yi4 pi2 ai1 er3 a1 er3 dou1 sai1
+路易斯·伊納西奧·盧拉·達席爾瓦	lu4 yi4 si1 yi1 na4 xi1 ao4 lu2 la1 da2 xi2 er3 wa3
 路死路埋	lu4 si3 lu4 mai2
 路線測量	lu4 xian4 ce4 liang2
 路貧愁煞人	lu4 pin2 chou2 sha4 ren2
@@ -71995,7 +71995,7 @@ min_phrase_weight: 100
 迪	di2
 迪士尼樂園	di2 shi4 ni2 le4 yuan2
 迪慶藏族自治州	di2 qing4 zang4 zu2 zi4 zhi4 zhou1
-迪戈・加西亞島	di2 ge1 jia1 xi1 ya4 dao3
+迪戈·加西亞島	di2 ge1 jia1 xi1 ya4 dao3
 迪斯尼樂園	di2 si1 ni2 le4 yuan2
 迪斯科吧	di2 si1 ke1 ba1
 迫	po4
@@ -72585,8 +72585,8 @@ min_phrase_weight: 100
 遒	qiu2
 遒勁	qiu2 jing4
 道	dao4
-道・瓊斯	dao4 qiong2 si1
-道・瓊斯指數	dao4 qiong2 si1 zhi3 shu4
+道·瓊斯	dao4 qiong2 si1
+道·瓊斯指數	dao4 qiong2 si1 zhi3 shu4
 道三不着兩	dao4 san1 bu4 zhao2 liang3
 道上	dao4 shang5
 道不了	dao4 bu4 liao3
@@ -72609,7 +72609,7 @@ min_phrase_weight: 100
 道教徒	dao4 jiao4 tu2
 道數	dao4 shu4
 道曲	dao4 qu3
-道格拉斯・麥克阿瑟	dao4 ge2 la1 si1 mai4 ke4 a1 se4
+道格拉斯·麥克阿瑟	dao4 ge2 la1 si1 mai4 ke4 a1 se4
 道殣	dao4 jin3
 道殣相望	dao4 jin3 xiang1 wang4
 道瓊工業指數	dao4 qiong2 gong1 ye4 zhi3 shu4
@@ -72632,13 +72632,13 @@ min_phrase_weight: 100
 道高一尺	dao4 gao1 yi1 chi3
 道高一尺	dao4 gao1 yi4 chi3
 達	da2
-達・芬奇	da2 fen1 qi2
+達·芬奇	da2 fen1 qi2
 達到目的	da2 dao4 mu4 di4
 達卡	da2 ka3
 達喀爾	da2 ka4 er3
 達姆達姆彈	da2 mu3 da2 mu3 dan4
 達子	da2 zi5
-達科塔・芬妮	da2 ke1 ta3 fen1 ni1
+達科塔·芬妮	da2 ke1 ta3 fen1 ni1
 達累斯薩拉姆	da2 lei4 si1 sa4 la1 mu3
 達荷美	da2 he2 mei3
 達識	da2 shi4
@@ -72837,9 +72837,9 @@ min_phrase_weight: 100
 邀喝	yao1 he4
 邀擊	yao1 ji2
 邁	mai4
-邁克爾・傑克遜	mai4 ke4 er3 jie2 ke4 xun4
-邁克爾・克萊頓	mai4 ke4 er3 ke4 lai2 dun4
-邁克爾・喬丹	mai4 ke4 er3 qiao2 dan1
+邁克爾·傑克遜	mai4 ke4 er3 jie2 ke4 xun4
+邁克爾·克萊頓	mai4 ke4 er3 ke4 lai2 dun4
+邁克爾·喬丹	mai4 ke4 er3 qiao2 dan1
 邁跡	mai4 ji1
 邁錫尼城	mai4 xi2 ni2 cheng2
 邁阿密	mai4 a1 mi4
@@ -73030,7 +73030,7 @@ min_phrase_weight: 100
 那曲縣	na3 qu1 xian4
 那更	na4 geng4
 那會子	na4 hui3 zi5
-那木巴爾・恩赫巴亞爾	na3 mu4 ba1 er3 en1 he4 ba1 ya4 er3
+那木巴爾·恩赫巴亞爾	na3 mu4 ba1 er3 en1 he4 ba1 ya4 er3
 那根蔥那根蒜	na3 gen1 cong1 na3 gen1 suan4
 那樣	na3 yang4
 那樣	na4 yang4
@@ -74965,8 +74965,8 @@ min_phrase_weight: 100
 錫賚	xi2 lai4
 錫金	xi2 jin1
 錫鑞	xi2 la4
-錫霍特・阿林	xi1 huo4 te4 a1 lin2
-錫霍特・阿林山脈	xi1 huo4 te4 a1 lin2 shan1 mai4
+錫霍特·阿林	xi1 huo4 te4 a1 lin2
+錫霍特·阿林山脈	xi1 huo4 te4 a1 lin2 shan1 mai4
 錫霍特山脈	xi1 huo4 te4 shan1 mai4
 錬	lian4
 錭	diao1
@@ -76845,7 +76845,7 @@ min_phrase_weight: 100
 阿	a1	90%
 阿	e1	10%
 阿三哥	a1 san1 ge1
-阿不來提・阿不都熱西提	a1 bu4 lai2 ti2 a1 bu4 du1 re4 xi1 ti2
+阿不來提·阿不都熱西提	a1 bu4 lai2 ti2 a1 bu4 du1 re4 xi1 ti2
 阿丹	a1 dan1
 阿也	a1 ye3
 阿井	e1 jing3
@@ -76903,7 +76903,7 @@ min_phrase_weight: 100
 阿利安人	a1 li4 an1 ren2
 阿利曼	a1 li4 man4
 阿加維	a4 jia1 wei2
-阿加莎・克裏斯蒂	a4 jia1 sha1 ke4 li3 si1 di4
+阿加莎·克裏斯蒂	a4 jia1 sha1 ke4 li3 si1 di4
 阿加迪爾	a1 jia1 di2 er3
 阿勃勒	a1 bo2 le4
 阿勒泰	a1 le4 tai4
@@ -77077,7 +77077,7 @@ min_phrase_weight: 100
 阿斯旺	a1 si1 wang4
 阿斯旺高壩	a1 si1 wang4 gao1 ba4
 阿斯蘭	a1 si1 lan2
-阿斯頓・馬丁	a1 si1 dun4 ma3 ding1
+阿斯頓·馬丁	a1 si1 dun4 ma3 ding1
 阿斯馬拉	a1 si1 ma3 la1
 阿旁	a1 pang2
 阿旺曲培	a1 wang4 qu1 pei2
@@ -77147,7 +77147,7 @@ min_phrase_weight: 100
 阿爾斯通公司	a1 er3 si1 tong1 gong1 si1
 阿爾梅里亞	a1 er3 mei2 li3 ya4
 阿爾法	a1 er3 fa3
-阿爾法・羅密歐	a1 er3 fa3 luo2 mi4 ou1
+阿爾法·羅密歐	a1 er3 fa3 luo2 mi4 ou1
 阿爾法粒子	a1 er3 fa3 li4 zi3
 阿爾泰	a1 er3 tai4
 阿爾泰山	a1 er3 tai4 shan1
@@ -77264,15 +77264,15 @@ min_phrase_weight: 100
 阿諛順意	e1 yu2 shun4 yi4
 阿諛順旨	e1 yu2 shun4 zhi3
 阿諾	a1 nuo4
-阿諾・施瓦辛格	a1 nuo4 shi1 wa3 xin1 ge2
-阿諾德・施瓦辛格	a1 nuo4 de2 shi1 wa3 xin1 ge2
+阿諾·施瓦辛格	a1 nuo4 shi1 wa3 xin1 ge2
+阿諾德·施瓦辛格	a1 nuo4 de2 shi1 wa3 xin1 ge2
 阿貓阿狗	a1 mao1 a1 gou3
 阿貝爾	a1 bei4 er3
 阿赫蒂薩裏	a1 he4 di4 sa4 li3
 阿迪斯阿貝巴	a1 di2 si1 a1 bei4 ba1
 阿迪達斯	a1 di2 da2 si1
 阿連	a1 lian2
-阿道司・赫胥黎	a1 dao4 si1 he4 xu1 li2
+阿道司·赫胥黎	a1 dao4 si1 he4 xu1 li2
 阿達	a1 da5
 阿達比爾	a1 da2 bi3 er3
 阿邑	e1 yi4
@@ -78224,7 +78224,7 @@ min_phrase_weight: 100
 零零散散	ling2 ling2 san4 san4
 零零落落	ling2 ling2 luo4 luo4
 雷	lei2
-雷・羅馬諾	lei2 luo2 ma3 nuo4
+雷·羅馬諾	lei2 luo2 ma3 nuo4
 雷公打豆腐	lei2 gong1 da3 dou4 fu5
 雷劈	lei2 pi1
 雷厲風行	lei2 li4 feng1 xing2
@@ -79343,7 +79343,7 @@ min_phrase_weight: 100
 題識	ti2 zhi4
 額	e2
 額分	e2 fen4
-額勒貝格・道爾吉	e2 le4 bei4 ge2 dao4 er3 ji2
+額勒貝格·道爾吉	e2 le4 bei4 ge2 dao4 er3 ji2
 額子	e2 zi5
 額度	e2 du4
 額手稱慶	e2 shou3 cheng1 qing4
@@ -80211,18 +80211,18 @@ min_phrase_weight: 100
 馪	pin1
 馫	xin1
 馬	ma3
-馬丁・路德	ma3 ding1 lu4 de2
-馬丁・路德・金	ma3 ding1 lu4 de2 jin1
+馬丁·路德	ma3 ding1 lu4 de2
+馬丁·路德·金	ma3 ding1 lu4 de2 jin1
 馬丁路得	ma3 ding1 lu4 de2
 馬不知臉長	ma3 bu4 zhi1 lian3 chang2
 馬中錫	ma3 zhong1 xi2
 馬乾	ma3 gan1
 馬伯樂	ma3 bo2 le4
 馬來西亚人	ma3 lai2 xi1 ya4 ren2
-馬克・吐溫	ma3 ke4 tu3 wen1
+馬克·吐溫	ma3 ke4 tu3 wen1
 馬克吐溫	ma3 ke4 tu3 wen1
-馬克思・列寧主義	ma3 ke4 si1 lie4 ning2 zhu3 yi4
-馬克斯・普朗克	ma3 ke4 si1 pu3 lang3 ke4
+馬克思·列寧主義	ma3 ke4 si1 lie4 ning2 zhu3 yi4
+馬克斯·普朗克	ma3 ke4 si1 pu3 lang3 ke4
 馬冠	ma3 guan1
 馬刺	ma3 ci4
 馬前數	ma3 qian2 shu4
@@ -81405,8 +81405,8 @@ min_phrase_weight: 100
 鮏	zheng1
 鮐	tai2
 鮑	bao4
-鮑勃・伍德沃德	bao4 bo2 wu3 de2 wo4 de2
-鮑勃・馬利	bao4 bo2 ma3 li4
+鮑勃·伍德沃德	bao4 bo2 wu3 de2 wo4 de2
+鮑勃·馬利	bao4 bo2 ma3 li4
 鮑叔牙	bao4 shu2 ya2
 鮑耶	bao4 ye1
 鮒	fu4
@@ -82592,7 +82592,7 @@ min_phrase_weight: 100
 麻核桃	ma2 he2 tao5
 麻沸散	ma2 fei4 san3
 麻煩	ma2 fan5
-麻生・太郎	ma2 sheng1 tai4 lang2
+麻生·太郎	ma2 sheng1 tai4 lang2
 麻着膽子	ma2 zhe5 dan3 zi5
 麻糊	ma2 hu2
 麻糬	ma2 shu3
@@ -83037,7 +83037,7 @@ min_phrase_weight: 100
 齈	nong2
 齉	nang4
 齊	qi2
-齊內丁・齊達內	qi2 nei4 ding1 qi2 da2 nei4
+齊內丁·齊達內	qi2 nei4 ding1 qi2 da2 nei4
 齊宿	zhai1 su4
 齊心滌慮	zhai1 xin1 di2 lv4
 齊截	qi2 jie5
