@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_simp
   name: 朙月拼音·简化字
-  version: "0.19"
+  version: "0.20"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -86,6 +86,9 @@ punctuator:
 
 key_binder:
   import_preset: default
+  bindings:
+    - { when: always, accept: Control+Shift+4, toggle: zh_simp }
+    - { when: always, accept: Control+Shift+dollar, toggle: zh_simp }
 
 recognizer:
   import_preset: default
