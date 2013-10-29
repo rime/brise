@@ -30346,7 +30346,7 @@ min_phrase_weight: 100
 忟	wen3
 忠	zhong1
 忠告	zhong1 gao4
-忠告	zhong1 gu4
+忠告	zhong1 gu4	0%
 忠於	zhong1 yu2
 忠於職守	zhong1 yu2 zhi2 shou3
 忠言奇謀	zhong1 yan2 qi2 mo2
@@ -46160,12 +46160,12 @@ min_phrase_weight: 100
 滑溜	hua2 liu5
 滑熟	hua2 shu2
 滑碌碌	hua2 lu1 lu1
-滑稽	gu3 ji1
+滑稽	gu3 ji1	0%
 滑稽	hua2 ji5
 滑稽劇	hua2 ji1 ju4
-滑稽大鼓	gu3 ji1 da4 gu3
-滑稽戲	gu3 ji1 xi4
-滑稽突梯	gu3 ji1 tu2 ti1
+滑稽大鼓	hua2 ji1 da4 gu3
+滑稽戲	hua2 ji1 xi4
+滑稽突梯	hua2 ji1 tu2 ti1
 滑落	hua2 luo4
 滑蓋	hua2 gai4
 滑藉	hua2 jie4
@@ -55614,7 +55614,7 @@ min_phrase_weight: 100
 突擊	tu2 ji2
 突擊檢查	tu2 ji2 jian3 cha2
 突梯	tu2 ti1
-突梯滑稽	tu2 ti1 gu3 ji1
+突梯滑稽	tu2 ti1 hua2 ji1
 突火	tu2 huo3
 突然	tu2 ran2
 突然襲擊	tu2 ran2 xi2 ji2
@@ -72095,7 +72095,7 @@ min_phrase_weight: 100
 送親	song4 qin1
 送還	song4 huan2
 适	kuo4
-适	shi4
+适	shi4	0%
 逃	tao2
 逃北	tao2 bo4
 逃名晦跡	tao2 ming2 hui4 ji1
