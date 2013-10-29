@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.10.24"
+version: "2013.10.29"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -9122,10 +9122,10 @@ min_phrase_weight: 100
 乆	jiu3
 乇	tuo1	50%
 乇	zhe2	50%
-么	ma5
-么	me5
-么	mo2
-么	yao1
+么	ma5	0%
+么	me5	0%
+么	mo2	0%
+么	yao1	100%
 么點	yao1 dian3
 义	yi4
 乊	xx
@@ -9676,7 +9676,7 @@ min_phrase_weight: 100
 于嗟	xu1 jie1
 于思	yu2 sai1
 于飛之樂	yu2 fei1 zhi1 le4
-亏	kui1
+亏	kui1	0%
 亏	yu2
 亐	yu2
 云	yun2
@@ -10104,7 +10104,7 @@ min_phrase_weight: 100
 仄	ze4
 仄行	ze4 xing2
 仅	fu4
-仅	jin3
+仅	jin3	0%
 仅	nu2
 仆	pu1
 仆地	pu1 de5
@@ -12900,7 +12900,7 @@ min_phrase_weight: 100
 儼	yan3
 儽	lei3
 儾	nang4
-儿	er2
+儿	er2	0%
 儿	ren2
 兀	wu4
 兀剌	wu4 la4
@@ -16947,7 +16947,6 @@ min_phrase_weight: 100
 卿大夫	qing1 dai4 fu1
 厀	xi1
 厂	han3
-厂字旁	chang3 zi4 pang2
 厃	wei3
 厃	yan2
 厄	e4
@@ -17665,7 +17664,7 @@ min_phrase_weight: 100
 司長	si1 zhang3
 司隸校尉	si1 li4 xiao4 wei4
 司馬相如	si1 ma3 xiang1 ru2
-叹	tan4
+叹	tan4	0%
 叹	yi3
 叹	you4
 叺	chi3
@@ -18193,7 +18192,7 @@ min_phrase_weight: 100
 含量	han2 liang4
 含飴弄孫	han2 yi2 nong4 sun1
 含齒戴髮	han2 chi3 dai4 fa3
-听	ting1
+听	ting1	0%
 听	yi2
 听	yin3
 听听	yin3 yin3
@@ -21357,10 +21356,9 @@ min_phrase_weight: 100
 坎子	kan3 zi5
 坎特伯雷大主教	kan3 te4 bo2 lei2 da4 zhu3 jiao4
 坎肩兒	kan3 jian1 r5
-坏	huai4
-坏	pei2
-坏	pi1
-坏土	pei2 tu3
+坏	huai4	0%
+坏	pei2	100%
+坏	pi1	5%
 坐	zuo4
 坐下	zuo4 xia4
 坐下	zuo4 xia5
@@ -21548,7 +21546,7 @@ min_phrase_weight: 100
 垣曲縣	yuan2 qu3 xian4
 垤	die2
 垥	xie2
-垦	ken3
+垦	ken3	0%
 垦	yin2
 垧	shang3
 垨	shou3
@@ -26400,7 +26398,6 @@ min_phrase_weight: 100
 小時了了	xiao3 shi2 liao3 liao3
 小時候	xiao3 shi2 hou4
 小時候	xiao3 shi2 hou5
-小時候儿	xiao3 shi2 hou5 r5
 小曲	xiao3 qu3
 小月	xiao3 yue4
 小月	xiao3 yue5
@@ -28515,7 +28512,7 @@ min_phrase_weight: 100
 幾點	ji3 dian3
 幾點了	ji3 dian3 le5
 广	an1
-广	guang3
+广	guang3	0%
 广	yan3
 庀	pi3
 庁	ting1
@@ -30346,7 +30343,7 @@ min_phrase_weight: 100
 忟	wen3
 忠	zhong1
 忠告	zhong1 gao4
-忠告	zhong1 gu4
+忠告	zhong1 gu4	0%
 忠於	zhong1 yu2
 忠於職守	zhong1 yu2 zhi2 shou3
 忠言奇謀	zhong1 yan2 qi2 mo2
@@ -31098,7 +31095,7 @@ min_phrase_weight: 100
 惇	dun1
 惈	guo3
 惉	zhan1
-惊	jing1
+惊	jing1	0%
 惊	liang2
 惋	wan3
 惋傷	wan4 shang1
@@ -33580,7 +33577,6 @@ min_phrase_weight: 100
 拉口子要見血	la1 kou3 zi5 yao4 jian4 xie3
 拉合子	la1 he2 zi5
 拉名糧長	la1 ming2 liang2 zhang3
-拉坏	la1 pei1
 拉場	la1 chang2
 拉場子	la1 chang2 zi5
 拉塞福	la1 se4 fu2
@@ -34382,7 +34378,6 @@ min_phrase_weight: 100
 捎馬子	shao4 ma3 zi5
 捏	nie1
 捏估	nie1 gu5
-捏坏	nie1 pei1
 捏弄	nie1 long4
 捏着鼻子	nie1 zhe5 bi2 zi5
 捏舌頭	nie1 she2 tou5
@@ -39776,7 +39771,7 @@ min_phrase_weight: 100
 朿	ci4
 杀	sha1
 杂	duo3
-杂	za2
+杂	za2	0%
 权	quan2
 杄	qian1
 杅	yu2
@@ -40051,7 +40046,8 @@ min_phrase_weight: 100
 枂	wo4
 枂	yue4
 枃	jin4
-构	gou4
+构	gou3
+构	gou4	0%
 构肆	gou1 si4
 构词	gou4 ci2
 枅	ji1
@@ -40344,7 +40340,7 @@ min_phrase_weight: 100
 柞水縣	zha4 shui3 xian4
 柟	nan2
 柠	chu3
-柠	ning2
+柠	ning2	0%
 柠	zhu4
 柡	yong3
 柢	di3
@@ -40564,7 +40560,6 @@ min_phrase_weight: 100
 样	yang4
 核	he2
 核不擴散	he2 bu2 kuo4 san4
-核儿	hu2 r5
 核分裂	he2 fen1 lie4
 核動力航空母艦	he2 dong4 li4 hang2 kong1 mu3 jian4
 核反應	he2 fan3 ying4
@@ -42001,7 +41996,6 @@ min_phrase_weight: 100
 橡漿	xiang4 jiang1
 橡皮圈	xiang4 pi2 quan1
 橡皮釘子	xiang4 pi2 ding1 zi5
-橡胶树	xiang4 jiao1 shu4
 橢	tuo3
 橢圓函數	tuo3 yuan2 han2 shu4
 橢圓曲線	tuo3 yuan2 qu1 xian4
@@ -44389,7 +44383,7 @@ min_phrase_weight: 100
 泜	zhi1
 泜泜	chi2 chi2
 泝	su4
-泞	ning4
+泞	ning4	0%
 泞	zhu4
 泟	cheng1
 泠	ling2
@@ -46160,12 +46154,12 @@ min_phrase_weight: 100
 滑溜	hua2 liu5
 滑熟	hua2 shu2
 滑碌碌	hua2 lu1 lu1
-滑稽	gu3 ji1
+滑稽	gu3 ji1	0%
 滑稽	hua2 ji5
 滑稽劇	hua2 ji1 ju4
-滑稽大鼓	gu3 ji1 da4 gu3
-滑稽戲	gu3 ji1 xi4
-滑稽突梯	gu3 ji1 tu2 ti1
+滑稽大鼓	hua2 ji1 da4 gu3
+滑稽戲	hua2 ji1 xi4
+滑稽突梯	hua2 ji1 tu2 ti1
 滑落	hua2 luo4
 滑蓋	hua2 gai4
 滑藉	hua2 jie4
@@ -55614,7 +55608,7 @@ min_phrase_weight: 100
 突擊	tu2 ji2
 突擊檢查	tu2 ji2 jian3 cha2
 突梯	tu2 ti1
-突梯滑稽	tu2 ti1 gu3 ji1
+突梯滑稽	tu2 ti1 hua2 ji1
 突火	tu2 huo3
 突然	tu2 ran2
 突然襲擊	tu2 ran2 xi2 ji2
@@ -71930,7 +71924,7 @@ min_phrase_weight: 100
 迎養	ying2 yang4
 迏	ti4
 运	yun3
-运	yun4
+运	yun4	0%
 运筹帷幄	yun4 chou2 wei2 wo4
 近	jin4
 近乎	jin4 hu1
@@ -72095,7 +72089,7 @@ min_phrase_weight: 100
 送親	song4 qin1
 送還	song4 huan2
 适	kuo4
-适	shi4
+适	shi4	0%
 逃	tao2
 逃北	tao2 bo4
 逃名晦跡	tao2 ming2 hui4 ji1
@@ -77785,7 +77779,7 @@ min_phrase_weight: 100
 隵	xi1
 隶	dai4
 隶	di4
-隶	li4
+隶	li4	0%
 隶	yi4
 隷	li4
 隸	li4
