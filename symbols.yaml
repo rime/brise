@@ -1,7 +1,7 @@
 # Rime's punctuation and symbols
 # encoding: utf-8
 
-config_version: "0.6"
+config_version: "0.7"
 
 punctuator:
   full_shape:
@@ -19,7 +19,7 @@ punctuator:
     '\' : [ 、, ＼ ]
     '|' : [ ·, ｜, '§', '¦' ]
     '`' : ｀
-    '~' : [ ～, 〜, 〰 ]
+    '~' : ～
     '!' : { commit: ！ }
     '@' : [ ＠, ☯ ]
     '#' : [ ＃, ⌘ ]
@@ -52,7 +52,7 @@ punctuator:
     '\' : [ 、, '\', ＼ ]
     '|' : [ ·, '|', ｜, '§', '¦' ]
     '`' : '`'
-    '~' : [ '~', ～, 〜, 〰 ]
+    '~' : [ '~', ～ ]
     '!' : { commit: ！ }
     '@' : '@'
     '#' : '#'
