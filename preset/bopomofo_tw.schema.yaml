@@ -4,7 +4,7 @@
 schema:
   schema_id: bopomofo_tw
   name: 注音·臺灣正體
-  version: "1.0"
+  version: "1.1"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -157,7 +157,7 @@ punctuator:
     "\\" : [ 、, ＼ ]
     "|" : [ ・, ｜, "§", "¦" ]
     "`" : ｀
-    "~" : [ 〜, ～, 〰 ]
+    "~" : ～
     "!" : { commit: ！ }
     "@" : [ ＠, ☯ ]
     "#" : [ ＃, ⌘ ]
