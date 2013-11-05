@@ -4,12 +4,12 @@
 schema:
   schema_id: zyenpheng
   name: 中古全拼
-  version: "2013.07.01"
+  version: "2013.11.05"
   author:
     - 古韻 <biopolyhedron@gmail.com>
   description: |
     採用《廣韻》音系的中古漢語拼音，亦稱「古韻羅馬字」。
-    韻典網・廣韻 http://ytenx.org/kyonh/
+    韻典網·廣韻 http://ytenx.org/kyonh/
     http://zh.wikipedia.org/wiki/User:Polyhedron/中古漢語拼音
   dependencies:
     - luna_pinyin
