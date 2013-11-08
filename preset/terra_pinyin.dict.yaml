@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.10.29"
+version: "2013.11.08"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -26186,6 +26186,7 @@ min_phrase_weight: 100
 將軍鄉	jiang1 jun1 xiang1
 將近	jiang1 jin4
 將進酒	jiang1 jin4 jiu3
+將進酒	qiang1 jin4 jiu3
 將遇良才	jiang4 yu4 liang2 cai2
 將銳兵驍	jiang4 rui4 bing1 xiao1
 將錯就錯	jiang1 cuo4 jiu4 cuo4
@@ -62252,10 +62253,15 @@ min_phrase_weight: 100
 茅	mao2
 茅塞	mao2 se4
 茅塞頓開	mao2 se4 dun4 kai1
+茅廁	mao2 ce4
 茅廁	mao2 si5
+茅廁坑	mao2 ce4 keng1
 茅廁坑	mao2 si5 keng1
+茅廁的磚	mao2 ce4 de5 zhuan1
 茅廁的磚	mao2 si5 de5 zhuan1
+茅廁磚頭	mao2 ce4 zhuan1 tou5
 茅廁磚頭	mao2 si5 zhuan1 tou5
+茅廁裏的石頭	mao2 ce4 li3 de5 shi2 tou5
 茅廁裏的石頭	mao2 si5 li3 de5 shi2 tou5
 茆	mao2	50%
 茆	mao3	50%
