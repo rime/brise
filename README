@@ -4,7 +4,7 @@ version: 0.30
 
 project home: http://code.google.com/p/rimeime/
 
-license: GPLv2
+license: GPLv3
 
 providing:
   - default.yaml: Rime default settings
