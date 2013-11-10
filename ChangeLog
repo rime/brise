@@ -1,3 +1,14 @@
+2013-11-10  GONG Chen  <chen.sst@gmail.com>
+
+	* default.yaml, symbols.yaml: prefer middle dot U+00B7 to U+30FB.
+	* bopomofo_tw: bopomofo, output in Taiwan standard.
+	* jyutping: include more characters.
+	* luna_pinyin_simp: enable hotkey Control+Shift+4 to toggle
+	  simplified/traditional Chinese mode.
+	* essay.txt, luna_pinyin, terra_pinyin: lots of improvements.
+
+	- Brise 0.30 release.
+
 2013-09-05  GONG Chen  <chen.sst@gmail.com>
 
 	* cangjie5, wubi86: make phrases based on commit history.
