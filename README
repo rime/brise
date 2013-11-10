@@ -1,8 +1,10 @@
 La brise: the official Rime schema repository.
 
-version: 0.28
+version: 0.30
 
 project home: http://code.google.com/p/rimeime/
+
+license: GPLv2
 
 providing:
   - default.yaml: Rime default settings
@@ -15,6 +17,6 @@ providing:
 
 build dependencies:
   - kyotocabinet (for kctreemgr)
-  - librime>=0.9.8 (for rime_deployer)
+  - librime>=1.0 (for rime_deployer)
 runtime dependency:
-  - librime>=0.9.8
+  - librime>=1.0
