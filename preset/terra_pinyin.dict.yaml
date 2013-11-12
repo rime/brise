@@ -8266,6 +8266,7 @@ min_phrase_weight: 100
 不怕沒柴燒	bu4 pa4 mei2 chai2 shao1
 不怕臊	bu4 pa4 sao4
 不怯氣	bu4 que4 qi4
+不恁麼	bu4 nen4 me5
 不恁麼	bu4 ren4 me5
 不息	bu4 xi2
 不悶	bu4 men4
@@ -30286,6 +30287,7 @@ min_phrase_weight: 100
 忒	te4	50%
 忒	tei1	50%
 忒忒	te4 te4
+忒恁	te4 nen4
 忒恁	te4 ren4
 忒惡	te4 e4
 忒敬思	te4 jing4 si1
@@ -30674,10 +30676,11 @@ min_phrase_weight: 100
 恁	nen4	50%
 恁	nin2	0%
 恁	ren4	50%
+恁地	nen4 de5
 恁地	ren4 de5
-恁時	ren4 shi2
+恁的	nen4 de5
 恁的	ren4 de5
-恁般	ren4 ban1
+恁麼	nen4 me5
 恁麼	ren4 me5
 恂	xun2
 恃	shi4
@@ -52197,7 +52200,6 @@ min_phrase_weight: 100
 直待	zhi2 dai4
 直得	zhi2 de2
 直性子	zhi2 xing4 zi5
-直恁	zhi2 ren4
 直情徑行	zhi2 qing2 jing4 xing2
 直截了當	zhi2 jie2 liao3 dang4
 直捷了當	zhi2 jie2 liao3 dang4
