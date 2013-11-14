@@ -4,12 +4,13 @@
 schema:
   schema_id: jyutping
   name: 粵拼
-  version: "0.10"
+  version: "0.11"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
-    採用《香港語言學會粵語拼音方案》
+    採用香港語言學會粵語拼音方案
     http://www.lshk.org/cantonese.php
+    兼容教育學院拼音方案
     碼表源自 scim-table-zh
   dependencies:
     - luna_pinyin
@@ -41,7 +42,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - r10n_translator
+    - script_translator
     - reverse_lookup_translator
   filters:
     - simplifier
@@ -51,12 +52,21 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    - abbrev/^([a-z]).+$/$1/
-    - derive/^jy?([aeiou])/y$1/
-    - derive/^jyu/ju/
-    - derive/eo([int])$/oe$1/
-    - derive/oe(ng|k)$/eo$1/
-    - derive/aa$/a/
+    - derive/^jy?([aeiou])/y$1/  # 容錯 je -> ye, jyu -> yu
+    - derive/^jyu/ju/            # 容錯 jyu -> ju
+    - derive/yu/y/               # 教院式 jyu -> jy
+    - derive/eoi$/oey/           # 教院式
+    - derive/eoi$/eoy/           # 容錯
+    - derive/eo/oe/              # 教院式
+    - derive/oe(ng|k)$/eo$1/     # 容錯
+    - derive/aa$/a/              # 容錯
+    - abbrev/^([a-z]).+$/$1/     # 首字母簡拼
+    - derive/^z/dz/              # 教院式
+    - derive/^c/ts/              # 教院式
+    - abbrev/^(ng).+$/$1/        # 聲母簡拼
+    - abbrev/^([gk]w).+$/$1/     # 聲母簡拼
+    - abbrev/^(dz).+$/$1/        # 聲母簡拼
+    - abbrev/^(ts).+$/$1/        # 聲母簡拼
 
 translator:
   dictionary: jyutping
