@@ -4,7 +4,7 @@
 schema:
   schema_id: jyutping
   name: 粵拼
-  version: "0.9"
+  version: "0.10"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -52,15 +52,18 @@ speller:
   delimiter: " '"
   algebra:
     - abbrev/^([a-z]).+$/$1/
-    - derive/^jy?([aeiou])/y$1/
-    - derive/^jyu/ju/
+    - derive/^j([aeiou])/y$1/
+    - derive/yu/y/
+    - derive/z/dz/
+    - derive/c/ts/
+    - derive/eoi/oey/
     - derive/eo([int])$/oe$1/
     - derive/oe(ng|k)$/eo$1/
     - derive/aa$/a/
 
 translator:
   dictionary: jyutping
-  spelling_hints: 4
+  spelling_hints: 5
 
 reverse_lookup:
   dictionary: luna_pinyin
