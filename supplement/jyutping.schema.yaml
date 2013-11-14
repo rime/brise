@@ -52,8 +52,12 @@ speller:
   delimiter: " '"
   algebra:
     - abbrev/^([a-z]).+$/$1/
-    - derive/^jy?([aeiou])/y$1/
+    - derive/^j([aeiou])/y$1/
     - derive/^jyu/ju/
+    - derive/yu/y/
+    - derive/z/dz/
+    - derive/c/ts/
+    - derive/eoi/oey/
     - derive/eo([int])$/oe$1/
     - derive/oe(ng|k)$/eo$1/
     - derive/aa$/a/
