@@ -53,6 +53,7 @@ speller:
   algebra:
     - abbrev/^([a-z]).+$/$1/
     - derive/^j([aeiou])/y$1/
+    - derive/^jyu/ju/
     - derive/yu/y/
     - derive/z/dz/
     - derive/c/ts/
@@ -63,7 +64,7 @@ speller:
 
 translator:
   dictionary: jyutping
-  spelling_hints: 5
+  spelling_hints: 4
 
 reverse_lookup:
   dictionary: luna_pinyin
