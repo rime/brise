@@ -7727,7 +7727,7 @@ min_phrase_weight: 100
 三更	san1 geng1
 三更半夜	san1 geng1 ban4 ye4
 三更四鼓	san1 geng1 si4 gu3
-三更燈火五更鷄	san1 geng1 deng1 huo3 wu3 geng1 ji1
+三更燈火五更雞	san1 geng1 deng1 huo3 wu3 geng1 ji1
 三朝五日	san1 zhao1 wu3 ri4
 三朝元老	san1 chao2 yuan2 lao3
 三棱鏡	san1 leng2 jing4
@@ -9724,8 +9724,8 @@ min_phrase_weight: 100
 五更	wu3 geng1
 五更三點	wu3 geng1 san1 dian3
 五更天	wu3 geng1 tian1
+五更雞	wu3 geng1 ji1
 五更頭	wu3 geng1 tou2
-五更鷄	wu3 geng1 ji1
 五權分立	wu3 quan2 fen1 li4
 五濁惡世	wu3 zhuo2 e4 shi4
 五熟行	wu3 shou2 hang2
@@ -12215,11 +12215,11 @@ min_phrase_weight: 100
 偷着浮生半日閒	tou1 zhao2 fu2 sheng1 ban4 ri4 xian2
 偷空	tou1 kong4
 偷薄	tou1 bo2
+偷雞不着蝕把米	tou1 ji1 bu4 zhao2 shi2 ba3 mi3
 偷雞不著蝕把米	tou1 ji1 bu4 zhao2 shi2 ba3 mi3
 偷雞摸狗	tou1 ji1 mo1 gou3
+偷雞摸狗	tou1 ji1 mo1 gou3
 偷饞抹嘴	tou1 chan2 mo3 zui3
-偷鷄不着蝕把米	tou1 ji1 bu4 zhao2 shi2 ba3 mi3
-偷鷄摸狗	tou1 ji1 mo1 gou3
 偸	tou1
 偹	bei4
 偺	zan2
@@ -14869,7 +14869,7 @@ min_phrase_weight: 100
 刺激	ci4 ji1
 刺激劑	ci4 ji1 ji4
 刺激反應論	ci4 ji1 fan3 ying4 lun4
-刺激啟動不同步	ci4 ji1 qi3 dong4 bu4 tong2 bu4
+刺激啓動不同步	ci4 ji1 qi3 dong4 bu4 tong2 bu4
 刺激性	ci4 ji1 xing4
 刺激物	ci4 ji1 wu4
 刺激素	ci4 ji1 su4
@@ -17527,7 +17527,7 @@ min_phrase_weight: 100
 叫	jiao4
 叫化	jiao4 hua1
 叫化子	jiao4 hua1 zi5
-叫化子鷄	jiao4 hua1 zi5 ji1
+叫化子雞	jiao4 hua1 zi5 ji1
 叫哥哥	jiao4 ge1 ge5
 叫喚	jiao4 huan4
 叫喚	jiao4 huan5
@@ -18044,7 +18044,7 @@ min_phrase_weight: 100
 吐絲自縛	tu3 si1 zi4 fu2
 吐絲自縛	tu3 si1 zi4 fu4
 吐綬雞	tu3 shou4 ji1
-吐綬鷄	tu3 shou4 ji1
+吐綬雞	tu3 shou4 ji1
 吐膽	tu3 dan3
 吐膽傾心	tu3 dan3 qing1 xin1
 吐舊容新	tu3 jiu4 rong2 xin1
@@ -18452,7 +18452,7 @@ min_phrase_weight: 100
 味同嚼蠟	wei4 tong2 jue2 la4
 味噌	wei4 ceng1
 味噌湯	wei4 ceng1 tang1
-味如鷄肋	wei4 ru2 ji1 le4
+味如雞肋	wei4 ru2 ji1 le4
 味道	wei4 dao4
 味道	wei4 dao5
 呴	xu1
@@ -19259,8 +19259,15 @@ min_phrase_weight: 100
 啑血	jie2 xue4
 啒	gu3
 啓	qi3
+啓	qi3
+啓動子	qi3 dong4 zi5
+啓德機場	qi3 de2 ji1 chang3
+啓應祈禱	qi3 ying4 qi2 dao3
 啓發式教學法	qi3 fa1 shi4 jiao4 xue2 fa3
 啓白	qi3 bo2
+啓矇	qi3 meng2
+啓矇專制君主	qi3 meng2 zhuan1 zhi4 jun1 zhu3
+啓蒙	qi3 meng2
 啓蒙	qi3 meng2
 啓蒙哲學	qi3 meng2 zhe2 xue2
 啓蒙時代	qi3 meng2 shi2 dai4
@@ -19323,13 +19330,6 @@ min_phrase_weight: 100
 啞默悄靜	ya3 mo4 qiao3 jing4
 啞點	ya3 dian3
 啞鼓	ya3 gu3
-啟	qi3
-啟動子	qi3 dong4 zi5
-啟德機場	qi3 de2 ji1 chang3
-啟應祈禱	qi3 ying4 qi2 dao3
-啟矇	qi3 meng2
-啟矇專制君主	qi3 meng2 zhuan1 zhi4 jun1 zhu3
-啟蒙	qi3 meng2
 啠	zhe2
 啡	fei1
 啢	liang3
@@ -25533,7 +25533,7 @@ min_phrase_weight: 100
 家長制	jia1 zhang3 zhi4
 家長裏短	jia1 chang2 li3 duan3
 家間	jia1 jian1
-家鷄打的團團轉	jia1 ji1 da3 de5 tuan2 tuan2 zhuan4
+家雞打的團團轉	jia1 ji1 da3 de5 tuan2 tuan2 zhuan4
 宷	shen3
 宸	chen2
 容	rong2
@@ -25922,7 +25922,7 @@ min_phrase_weight: 100
 寧爲太平犬	ning2 wei2 tai4 ping2 quan3
 寧爲玉碎	ning2 wei2 yu4 sui4
 寧爲玉碎	ning4 wei2 yu4 sui4
-寧爲鷄口	ning2 wei2 ji1 kou3
+寧爲雞口	ning2 wei2 ji1 kou3
 寧獻王	ning2 xian4 wang2
 寧瑪派	ning2 ma3 pai4
 寧當玉碎	ning2 dang1 yu4 sui4
@@ -26439,7 +26439,7 @@ min_phrase_weight: 100
 小聰明	xiao3 cong1 ming2
 小聰明	xiao3 cong1 ming5
 小肚雞腸	xiao3 du4 ji1 chang2
-小肚鷄腸	xiao3 du4 ji1 chang2
+小肚雞腸	xiao3 du4 ji1 chang2
 小舅子	xiao3 jiu4 zi5
 小興安嶺	xiao3 xing1 an1 ling3
 小菜兒	xiao3 cai4 r5
@@ -32473,7 +32473,7 @@ min_phrase_weight: 100
 手彈	shou3 tan2
 手心手背都是肉	shou3 xin1 shou3 bei4 dou1 shi4 rou4
 手心裏	shou3 xin1 li5
-手扒鷄	shou3 pa2 ji1
+手扒雞	shou3 pa2 ji1
 手扳葫蘆	shou3 ban1 hu2 lu5
 手把子	shou3 ba3 zi5
 手拉葫蘆	shou3 la1 hu2 lu5
@@ -32484,7 +32484,7 @@ min_phrase_weight: 100
 手榴彈	shou3 liu2 dan4
 手模	shou3 mo2
 手機充值卡	shou3 ji1 chong1 zhi2 ka3
-手無縛鷄之力	shou3 wu2 fu2 ji1 zhi1 li4
+手無縛雞之力	shou3 wu2 fu2 ji1 zhi1 li4
 手爪	shou3 zhua3
 手癬	shou3 xian3
 手相	shou3 xiang4
@@ -33997,7 +33997,7 @@ min_phrase_weight: 100
 拿架子	na2 jia4 zi5
 拿派頭	na2 pai4 tou5
 拿着雞毛當令箭	na2 zhe5 ji1 mao2 dang4 ling4 jian4
-拿着鷄毛當令箭	na2 zhe5 ji1 mao2 dang4 ling4 jian4
+拿着雞毛當令箭	na2 zhe5 ji1 mao2 dang4 ling4 jian4
 拿矯	na2 jiao3
 拿破侖·波拿巴	na2 po4 lun2 bo1 na2 ba1
 拿空子	na2 kong4 zi5
@@ -34857,7 +34857,7 @@ min_phrase_weight: 100
 推重	tui1 zhong4
 掩	yan3
 掩卷	yan3 juan4
-掩咯鷄	yan3 luo4 ji1
+掩咯雞	yan3 luo4 ji1
 掩埋	yan3 mai2
 掩埋場	yan3 mai2 chang2
 掩惡揚善	yan3 e4 yang2 shan4
@@ -35524,6 +35524,7 @@ min_phrase_weight: 100
 摸量	mo1 liang2
 摸金校尉	mo1 jin1 jiao4 wei4
 摸門不着	mo1 men2 bu4 zhao2
+摸雞偷狗	mo1 ji1 tou1 gou3
 摸頭	mo1 tou2
 摸頭不着	mo1 tou2 bu4 zhao2
 摸頭路不着	mo1 tou2 lu4 bu4 zhao2
@@ -35531,7 +35532,6 @@ min_phrase_weight: 100
 摸骨相	mo1 gu3 xiang4
 摸魚	mo1 yu2
 摸魚公	mo1 yu2 gong1
-摸鷄偷狗	mo1 ji1 tou1 gou3
 摸黑	mo1 hei1
 摹	mo2
 摹刻	mo2 ke1
@@ -43040,8 +43040,8 @@ min_phrase_weight: 100
 殺衣縮食	shai4 yi1 su4 shi2
 殺身爲報	sha1 shen1 wei2 bao4
 殺雞何必要用牛刀呢	sha1 ji1 he2 bi4 yao4 yong4 niu2 dao1 ne5
+殺雞爲黍	sha1 ji1 wei2 shu3
 殺雞給猴看	sha1 ji1 gei3 hou2 kan4
-殺鷄爲黍	sha1 ji1 wei2 shu3
 殻	qiao4
 殼	ke2	50%
 殼	qiao4	50%
@@ -43237,7 +43237,7 @@ min_phrase_weight: 100
 毛玻璃	mao2 bo1 li5
 毛窩子	mao2 wo1 zi5
 毛細血管	mao2 xi4 xie3 guan3
-毛腳鷄	mao1 jiao3 ji1
+毛腳雞	mao1 jiao3 ji1
 毛茸茸	mao2 rong1 rong1
 毛茸茸	mao2 rong2 rong2
 毛血	mao2 xie3
@@ -44097,7 +44097,7 @@ min_phrase_weight: 100
 沙門氏桿菌	sha1 men2 shi4 gan3 jun4
 沙門氏菌	sha1 men2 shi4 jun1
 沙門菌	sha1 men2 jun1
-沙鷄	cha1 ji1
+沙雞	cha1 ji1
 沚	zhi3
 沛	pei4
 沜	pan4
@@ -47558,7 +47558,7 @@ min_phrase_weight: 100
 無維度	wu2 wei2 du4
 無線電傳真	wu2 xian4 dian4 chuan2 zhen1
 無緣對面不相逢	wu2 yuan2 dui4 mian4 bu4 xiang1 feng2
-無縛鷄之力	wu2 fu2 ji1 zhi1 li4
+無縛雞之力	wu2 fu2 ji1 zhi1 li4
 無縫	wu2 feng4
 無縫連接	wu2 feng4 lian2 jie1
 無置錐地	wu2 zhi4 zhui1 di4
@@ -58232,7 +58232,7 @@ min_phrase_weight: 100
 縛稿爲人	fu2 gao3 wei2 ren2
 縛緊	fu2 jin3
 縛虎手	fu2 hu3 shou3
-縛鷄之力	fu2 ji1 zhi1 li4
+縛雞之力	fu2 ji1 zhi1 li4
 縜	yun2
 縝	zhen3
 縞	gao3
@@ -59078,7 +59078,7 @@ min_phrase_weight: 100
 羞怯怯	xiu1 que4 que4
 羞惡	xiu1 wu4
 羞愧難當	xiu1 kui4 nan2 dang1
-羞於啟齒	xiu1 yu2 qi3 chi3
+羞於啓齒	xiu1 yu2 qi3 chi3
 羞答答	xiu1 da1 da1
 羞與噲伍	xiu1 yu3 kuai4 wu3
 羞與爲伍	xiu1 yu3 wei2 wu3
@@ -62573,7 +62573,7 @@ min_phrase_weight: 100
 莎莎舞	sha1 sha1 wu3
 莎車	sha1 che1
 莎車縣	sha1 che1 xian4
-莎鷄	sha1 ji1
+莎雞	sha1 ji1
 莏	suo1
 莐	chen2
 莑	feng1
@@ -62829,7 +62829,7 @@ min_phrase_weight: 100
 菰	gu1
 菱	ling2
 菱角	ling2 jiao5
-菱角磨作鷄頭	ling2 jiao5 mo2 zuo4 ji1 tou2
+菱角磨作雞頭	ling2 jiao5 mo2 zuo4 ji1 tou2
 菲	fei1	99%
 菲	fei3	1%
 菲人事	fei3 ren2 shi4
@@ -63120,7 +63120,7 @@ min_phrase_weight: 100
 落淚	luo4 lei4
 落湯螃蟹	luo4 tang1 pang2 xie4
 落湯雞	luo4 tang1 ji1
-落湯鷄	luo4 tang1 ji1
+落湯雞	luo4 tang1 ji1
 落潮	luo4 chao2
 落炕	lao4 kang4
 落照	luo4 zhao4
@@ -64711,7 +64711,7 @@ min_phrase_weight: 100
 處子	chu3 zi3
 處子秀	chu3 zi3 xiu4
 處安思危	chu3 an1 si1 wei2
-處宗談鷄	chu3 zong1 tan2 ji1
+處宗談雞	chu3 zong1 tan2 ji1
 處室	chu3 shi4
 處心有道	chu3 xin1 you3 dao4
 處心積慮	chu3 xin1 ji1 lv4
@@ -70111,10 +70111,10 @@ min_phrase_weight: 100
 起重葫蘆	qi3 chong2 hu2 lu5
 起開	qi3 kai5
 起降	qi3 jiang4
+起雞皮疙瘩	qi3 ji1 pi2 ge1 da5
 起頭容易結梢難	qi3 tou2 rong2 yi4 jie2 shao1 nan2
 起飛彈射	qi3 fei1 tan2 she4
 起高調	qi3 gao1 diao4
-起鷄皮疙瘩	qi3 ji1 pi2 ge1 da5
 赸	shan4
 赸過	shan4 guo4
 赹	qiong2
@@ -70181,7 +70181,7 @@ min_phrase_weight: 100
 越王嘗蓼	yue4 wang2 chang2 liao3
 越看越有趣	yue4 kan4 yue4 you3 qu4
 越調	yue4 diao4
-越鷄難伏鵠卵	yue4 ji1 nan2 fu2 hu2 luan3
+越雞難伏鵠卵	yue4 ji1 nan2 fu2 hu2 luan3
 趋	qu1
 趌	ji2
 趌	jie2
@@ -71101,7 +71101,7 @@ min_phrase_weight: 100
 軟底子	ruan3 di3 zi5
 軟怯怯	ruan3 que4 que4
 軟木塞	ruan3 mu4 sai1
-軟殼鷄蛋	ruan3 ke2 ji1 dan4
+軟殼雞蛋	ruan3 ke2 ji1 dan4
 軟泥	ruan3 ni2
 軟泥兒	ruan3 ni2 r5
 軟流圈	ruan3 liu2 quan1
@@ -73760,7 +73760,7 @@ min_phrase_weight: 100
 重合	chong2 he2
 重唱	chong2 chang4
 重商主義	zhong4 shang1 zhu3 yi4
-重啟	chong2 qi3
+重啓	chong2 qi3
 重器	zhong4 qi4
 重囚	zhong4 qiu2
 重回	chong2 hui2
@@ -73826,7 +73826,7 @@ min_phrase_weight: 100
 重新	chong2 xin1
 重新做人	chong2 xin1 zuo4 ren2
 重新加熱	chong2 xin1 jia1 re4
-重新啟動	chong2 xin1 qi3 dong4
+重新啓動	chong2 xin1 qi3 dong4
 重新審視	chong2 xin1 shen3 shi4
 重新統一	chong2 xin1 tong3 yi1
 重新裝修	chong2 xin1 zhuang1 xiu1
@@ -73947,7 +73947,7 @@ min_phrase_weight: 100
 重裀列鼎	chong2 yin1 lie4 ding3
 重裀疊褥	chong2 yin1 die2 ru4
 重複	chong2 fu4
-重複啟動效應	chong2 fu4 qi3 dong4 xiao4 ying4
+重複啓動效應	chong2 fu4 qi3 dong4 xiao4 ying4
 重複法	chong2 fu4 fa3
 重複節	chong2 fu4 jie2
 重複語境	chong2 fu4 yu3 jing4
@@ -75910,8 +75910,8 @@ min_phrase_weight: 100
 長尾巴	zhang3 wei3 ba5
 長尾猴	chang2 wei3 hou2
 長尾闊嘴鳥	chang2 wei3 kuo4 zui3 niao3
+長尾雞	chang2 wei3 ji1
 長尾鮫	chang2 wei3 jiao1
-長尾鷄	chang2 wei3 ji1
 長局	chang2 ju2
 長居	chang2 ju1
 長山山脈	chang2 shan1 shan1 mai4
@@ -77910,8 +77910,8 @@ min_phrase_weight: 100
 雌雄異株	ci1 xiong2 yi4 zhu1
 雌雄異體	ci1 xiong2 yi4 ti3
 雌雄莫辨	ci1 xiong2 mo4 bian4
+雌雞報曉	ci1 ji1 bao4 xiao3
 雌風	ci1 feng1
-雌鷄報曉	ci1 ji1 bao4 xiao3
 雌黃	ci1 huang2
 雍	yong1
 雍容大度	yong1 rong2 da4 du4
@@ -77988,13 +77988,41 @@ min_phrase_weight: 100
 雜質	za2 zhi2
 雝	yong1
 雞	ji1
+雞	ji1
+雞冠	ji1 guan1
 雞冠	ji1 guan1
 雞冠區	ji1 guan1 qu1
+雞冠石	ji1 guan1 shi2
+雞冠花	ji1 guan1 hua1
+雞子	ji1 zi3
+雞子	ji1 zi5
+雞尸牛從	ji1 shi1 niu2 zong4
+雞巴	ji1 ba5
 雞巴	ji1 ba5
 雞樅	ji1 zong1
+雞毛子亂叫	ji1 mao2 zi5 luan4 jiao4
+雞毛撢子	ji1 mao2 dan3 zi5
+雞毛當令箭	ji1 mao2 dang4 ling4 jian4
+雞爪釘	ji1 zhao3 ding1
+雞犬不寧	ji1 quan3 bu4 ning2
+雞犬之聲相聞	ji1 quan3 zhi1 sheng1 xiang1 wen2
+雞犬相聞	ji1 quan3 xiang1 wen2
+雞犬識新豐	ji1 quan3 shi4 xin1 feng1
+雞皮栗子	ji1 pi2 li4 zi5
 雞皮疙瘩	ji1 pi2 ge1 da5
+雞皮疙瘩	ji1 pi2 ge1 da5
+雞皮鶴髮	ji1 pi2 he4 fa3
+雞肋	ji1 le4
+雞肋尊拳	ji1 le4 zun1 quan2
+雞膚鶴髮	ji1 fu1 he4 fa3
 雞蛋殼兒	ji1 dan4 ke2 r5
+雞蛋碰石頭	ji1 dan4 peng4 shi2 tou5
+雞蛋裏挑骨頭	ji1 dan4 li5 tiao1 gu2 tou5
 雞蛋裏挑骨頭	ji1 dan4 li5 tiao1 gu3 tou5
+雞蟲得失	ji1 chong2 de2 shi1
+雞血石	ji1 xie3 shi2
+雞鞠	ji1 ju2
+雞鹿塞	ji1 lu4 sai4
 雟	sui2
 雠	chou2
 雡	liu4
@@ -78028,7 +78056,7 @@ min_phrase_weight: 100
 難以估計	nan2 yi3 gu1 ji4
 難以兩全	nan2 yi3 liang3 quan2
 難以名狀	nan2 yi3 ming2 zhuang4
-難以啟齒	nan2 yi3 qi3 chi3
+難以啓齒	nan2 yi3 qi3 chi3
 難以實現	nan2 yi3 shi2 xian4
 難以忍受	nan2 yi3 ren3 shou4
 難以想像	nan2 yi3 xiang3 xiang4
@@ -82119,7 +82147,7 @@ min_phrase_weight: 100
 鶣	bian3
 鶣	pian1
 鶤	kun1
-鶤鷄	yun4 ji1
+鶤雞	yun4 ji1
 鶥	mei2
 鶦	hu2
 鶧	ying1
@@ -82147,11 +82175,11 @@ min_phrase_weight: 100
 鶴	he4
 鶴企	he4 qi4
 鶴林玉露	he4 lin2 yu4 lu4
-鶴處鷄羣	he4 chu3 ji1 qun2
+鶴處雞羣	he4 chu3 ji1 qun2
 鶴長鳧短	he4 chang2 fu2 duan3
 鶴髮	he4 fa3
 鶴髮童顏	he4 fa3 tong2 yan2
-鶴髮鷄皮	he4 fa3 ji1 pi2
+鶴髮雞皮	he4 fa3 ji1 pi2
 鶵	chu2
 鶶	tang2
 鶷	xia2
@@ -82174,34 +82202,6 @@ min_phrase_weight: 100
 鷂子	yao4 zi5
 鷂子翻身	yao4 zi5 fan1 shen1
 鷃	yan4
-鷄	ji1
-鷄冠	ji1 guan1
-鷄冠石	ji1 guan1 shi2
-鷄冠花	ji1 guan1 hua1
-鷄子	ji1 zi3
-鷄子	ji1 zi5
-鷄尸牛從	ji1 shi1 niu2 zong4
-鷄巴	ji1 ba5
-鷄毛子亂叫	ji1 mao2 zi5 luan4 jiao4
-鷄毛撢子	ji1 mao2 dan3 zi5
-鷄毛當令箭	ji1 mao2 dang4 ling4 jian4
-鷄爪釘	ji1 zhao3 ding1
-鷄犬不寧	ji1 quan3 bu4 ning2
-鷄犬之聲相聞	ji1 quan3 zhi1 sheng1 xiang1 wen2
-鷄犬相聞	ji1 quan3 xiang1 wen2
-鷄犬識新豐	ji1 quan3 shi4 xin1 feng1
-鷄皮栗子	ji1 pi2 li4 zi5
-鷄皮疙瘩	ji1 pi2 ge1 da5
-鷄皮鶴髮	ji1 pi2 he4 fa3
-鷄肋	ji1 le4
-鷄肋尊拳	ji1 le4 zun1 quan2
-鷄膚鶴髮	ji1 fu1 he4 fa3
-鷄蛋碰石頭	ji1 dan4 peng4 shi2 tou5
-鷄蛋裏挑骨頭	ji1 dan4 li5 tiao1 gu2 tou5
-鷄蟲得失	ji1 chong2 de2 shi1
-鷄血石	ji1 xie3 shi2
-鷄鞠	ji1 ju2
-鷄鹿塞	ji1 lu4 sai4
 鷅	li4
 鷆	tian2
 鷇	kou4
@@ -82963,7 +82963,7 @@ min_phrase_weight: 100
 鼠疫菌苗	shu3 yi4 jun1 miao2
 鼠竄狼奔	shu3 cuan4 lang2 ben1
 鼠肚雞腸	shu3 du4 ji1 chang2
-鼠肚鷄腸	shu3 du4 ji1 chang2
+鼠肚雞腸	shu3 du4 ji1 chang2
 鼠麯草	shu3 qu2 cao3
 鼡	shu3
 鼢	fen2
