@@ -7422,9 +7422,9 @@ min_phrase_weight: 100
 一石米養個仇人	yi1 dan4 mi3 yang3 ge5 chou2 ren2
 一碗水往平處端	yi1 wan3 shui3 wang3 ping2 chu4 duan1
 一碼子	yi1 ma3 zi5
+一祕	yi1 mi4
 一神教	yi1 shen2 jiao4
 一票難求	yi1 piao4 nan2 qiu2
-一祕	yi1 mi4
 一程子	yi1 cheng2 zi5
 一種	yi4 zhong3
 一窩子	yi1 wo1 zi5
@@ -8475,6 +8475,7 @@ min_phrase_weight: 100
 不着親	bu4 zhuo2 qin1
 不着調	bu4 zhuo2 diao4
 不着邊際	bu4 zhuo2 bian1 ji4
+不着陸飛行	bu4 zhuo2 lu4 fei1 xing2
 不矜細行	bu4 jin1 xi4 xing4
 不知一個頭腦	bu4 zhi1 yi1 ge5 tou2 nao3
 不知下落	bu4 zhi1 xia4 luo4
@@ -8564,9 +8565,6 @@ min_phrase_weight: 100
 不落空	bu4 luo4 kong1
 不落窠臼	bu2 luo4 ke1 jiu4
 不落窠臼	bu4 luo4 ke1 jiu4
-不著	bu4 zhao2
-不著邊際	bu4 zhuo2 bian1 ji4
-不著陸飛行	bu4 zhuo2 lu4 fei1 xing2
 不葷不素	bu4 hun1 bu4 su4
 不蔓不支	bu4 man4 bu4 zhi1
 不蔓不枝	bu4 man4 bu4 zhi1
@@ -12216,8 +12214,6 @@ min_phrase_weight: 100
 偷空	tou1 kong4
 偷薄	tou1 bo2
 偷雞不着蝕把米	tou1 ji1 bu4 zhao2 shi2 ba3 mi3
-偷雞不著蝕把米	tou1 ji1 bu4 zhao2 shi2 ba3 mi3
-偷雞摸狗	tou1 ji1 mo1 gou3
 偷雞摸狗	tou1 ji1 mo1 gou3
 偷饞抹嘴	tou1 chan2 mo3 zui3
 偸	tou1
@@ -13296,8 +13292,8 @@ min_phrase_weight: 100
 兩相	liang3 xiang1
 兩相好	liang3 xiang1 hao3
 兩相情願	liang3 xiang1 qing2 yuan4
+兩着兒	liang3 zhao1 r5
 兩瞽相扶	liang3 gu3 xiang1 fu2
-兩著兒	liang3 zhao1 r5
 兩虎相爭	liang3 hu3 xiang1 zheng1
 兩虎相鬥	liang3 hu3 xiang1 dou4
 兩處爲難	liang3 chu4 wei2 nan2
@@ -14686,7 +14682,6 @@ min_phrase_weight: 100
 別無長物	bie2 wu2 zhang4 wu4
 別着急	bie2 zhao2 ji2
 別稱	bie2 cheng1
-別著急	bie2 zhao2 ji2
 別處	bie2 chu4
 別裁僞體	bie2 cai2 wei4 ti3
 別要惱着火頭	bie2 yao4 nao3 zhao2 huo3 tou5
@@ -18044,7 +18039,6 @@ min_phrase_weight: 100
 吐絲自縛	tu3 si1 zi4 fu2
 吐絲自縛	tu3 si1 zi4 fu4
 吐綬雞	tu3 shou4 ji1
-吐綬雞	tu3 shou4 ji1
 吐膽	tu3 dan3
 吐膽傾心	tu3 dan3 qing1 xin1
 吐舊容新	tu3 jiu4 rong2 xin1
@@ -18255,7 +18249,7 @@ min_phrase_weight: 100
 吸收劑量	xi1 shou1 ji4 liang4
 吸熱反應	xi1 re4 fan3 ying4
 吸熱玻璃	xi1 re4 bo1 li5
-吸著	xi1 zhuo2
+吸着	xi1 zhuo2
 吸血	xi1 xie3
 吸血蛭	xi1 xie3 zhi4
 吸血蟲	xi1 xie3 chong2
@@ -19259,7 +19253,6 @@ min_phrase_weight: 100
 啑血	jie2 xue4
 啒	gu3
 啓	qi3
-啓	qi3
 啓動子	qi3 dong4 zi5
 啓德機場	qi3 de2 ji1 chang3
 啓應祈禱	qi3 ying4 qi2 dao3
@@ -19267,7 +19260,6 @@ min_phrase_weight: 100
 啓白	qi3 bo2
 啓矇	qi3 meng2
 啓矇專制君主	qi3 meng2 zhuan1 zhi4 jun1 zhu3
-啓蒙	qi3 meng2
 啓蒙	qi3 meng2
 啓蒙哲學	qi3 meng2 zhe2 xue2
 啓蒙時代	qi3 meng2 shi2 dai4
@@ -21729,7 +21721,6 @@ min_phrase_weight: 100
 執着	zhi2 zhuo2
 執結	zhi2 jie2
 執經問難	zhi2 jing1 wen4 nan4
-執著	zhi2 zhuo2
 執行	zhi2 xing2
 執行人	zhi2 xing2 ren2
 執行指揮官	zhi2 xing2 zhi3 hui1 guan1
@@ -22640,11 +22631,11 @@ min_phrase_weight: 100
 夞	wai4
 够	gou4
 夠	gou4
-夠不著	gou4 bu5 zhao2
+夠不着	gou4 bu5 zhao2
 夠分量	gou4 fen4 liang4
 夠勁	gou4 jin4
 夠嗆	gou4 qiang4
-夠得著	gou4 de5 zhao2
+夠得着	gou4 de5 zhao2
 夠情調	gou4 qing2 diao4
 夠戧	gou4 qiang4
 夠數	gou4 shu4
@@ -22988,7 +22979,6 @@ min_phrase_weight: 100
 大處	da4 chu4
 大處着眼	da4 chu4 zhuo2 yan3
 大處落墨	da4 chu4 luo4 mo4
-大處著眼	da4 chu4 zhuo2 yan3
 大蜡	da4 zha4
 大蟲口裏倒涎	da4 chong2 kou3 li3 dao4 xian2
 大衆傳播	da4 zhong4 chuan2 bo1
@@ -23374,7 +23364,6 @@ min_phrase_weight: 100
 失脫	shi1 tuo5
 失落	shi1 luo4
 失落的一代	shi1 luo4 de5 yi1 dai4
-失著	shi1 zhao1
 失血	shi1 xie3
 失賊	shi1 ze2
 失身分	shi1 shen1 fen4
@@ -26439,7 +26428,6 @@ min_phrase_weight: 100
 小聰明	xiao3 cong1 ming2
 小聰明	xiao3 cong1 ming5
 小肚雞腸	xiao3 du4 ji1 chang2
-小肚雞腸	xiao3 du4 ji1 chang2
 小舅子	xiao3 jiu4 zi5
 小興安嶺	xiao3 xing1 an1 ling3
 小菜兒	xiao3 cai4 r5
@@ -26447,7 +26435,6 @@ min_phrase_weight: 100
 小蘇打粉	xiao3 su1 da2 fen3
 小蘿蔔頭	xiao3 luo2 bo5 tou5
 小處着手	xiao3 chu4 zhuo2 shou3
-小處著手	xiao3 chu4 zhuo2 shou3
 小行	xiao3 xing2
 小行星	xiao3 xing2 xing1
 小行星帶	xiao3 xing2 xing1 dai4
@@ -29046,8 +29033,8 @@ min_phrase_weight: 100
 引得	yin3 de2
 引數	yin3 shu4
 引發物質	yin3 fa1 wu4 zhi2
+引着	yin3 zhao2
 引種	yin3 zhong3
-引著	yin3 zhao2
 引調	yin3 tiao2
 引重	yin3 zhong4
 引錐刺股	yin3 zhui1 ci4 gu3
@@ -29901,6 +29888,7 @@ min_phrase_weight: 100
 得當	de2 dang4
 得病	de2 bing4
 得益	de2 yi4
+得着	de2 zhao2
 得知	de2 zhi1
 得神	de2 shen2
 得票	de2 piao4
@@ -29918,7 +29906,6 @@ min_phrase_weight: 100
 得職	de2 zhi2
 得臉	de2 lian3
 得色	de2 se4
-得著	de2 zhao2
 得衷	de2 zhong1
 得親順親	de2 qin1 shun4 qin1
 得解	de2 jie3
@@ -33039,17 +33026,17 @@ min_phrase_weight: 100
 扽	dun4
 找	zhao3
 找不到	zhao3 bu5 dao4
+找不着	zhao3 bu5 zhao2
 找不自在	zhao3 bu2 zi4 zai5
-找不著	zhao3 bu5 zhao2
 找刺兒	zhao3 ci4 r5
 找台階兒	zhao3 tai2 jie1 r5
 找尋	zhao3 xun5
 找對頭	zhao3 dui4 tou5
 找岔子	zhao3 cha4 zi5
 找樂子	zhao3 le4 zi5
+找着	zhao3 zhao2
 找碴兒	zhao3 cha2 r5
 找縫子	zhao3 feng4 zi5
-找著	zhao3 zhao2
 找補	zhao3 bu5
 找轍	zhao3 zhe2
 找面子	zhao3 mian4 zi5
@@ -33996,7 +33983,6 @@ min_phrase_weight: 100
 拿板弄勢	na2 ban3 nong4 shi4
 拿架子	na2 jia4 zi5
 拿派頭	na2 pai4 tou5
-拿着雞毛當令箭	na2 zhe5 ji1 mao2 dang4 ling4 jian4
 拿着雞毛當令箭	na2 zhe5 ji1 mao2 dang4 ling4 jian4
 拿矯	na2 jiao3
 拿破侖·波拿巴	na2 po4 lun2 bo1 na2 ba1
@@ -35492,10 +35478,10 @@ min_phrase_weight: 100
 摸	mo2	50%
 摸不清	mo1 bu4 qing1
 摸不着	mo1 bu4 zhao2
+摸不着	mo1 bu5 zhao2
 摸不着頭腦	mo1 bu4 zhao2 tou2 nao3
+摸不着頭腦	mo1 bu5 zhao2 tou2 nao3
 摸不着頭路	mo1 bu4 zhao2 tou2 lu4
-摸不著	mo1 bu5 zhao2
-摸不著頭腦	mo1 bu5 zhao2 tou2 nao3
 摸吧	mo1 ba1
 摸底	mo1 di3
 摸彩	mo1 cai3
@@ -37160,7 +37146,7 @@ min_phrase_weight: 100
 數不清	shu3 bu4 qing1
 數不清	shu3 bu5 qing1
 數不盡	shu4 bu5 jin4
-數不著	shu3 bu4 zhao2
+數不着	shu3 bu4 zhao2
 數中	shu4 zhong1
 數九	shu3 jiu3
 數九天	shu3 jiu3 tian1
@@ -43812,11 +43798,10 @@ min_phrase_weight: 100
 沉漸剛克	chen2 jian4 gang1 ke4
 沉痾	chen2 e1
 沉着	chen2 zhuo2
+沉着應戰	chen2 zhuo2 ying4 zhan4
 沉着痛快	chen2 zhuo2 tong4 kuai4
 沉脈	chen2 mai4
 沉落	chen2 luo4
-沉著	chen2 zhuo2
-沉著應戰	chen2 zhuo2 ying4 zhan4
 沉重	chen2 zhong4
 沉重寡言	chen2 zhong4 gua3 yan2
 沉重少言	chen2 zhong4 shao3 yan2
@@ -48906,11 +48891,10 @@ min_phrase_weight: 100
 犮	ba2
 犯	fan4
 犯不着	fan4 bu4 zhao2
-犯不著	fan4 bu5 zhao2
+犯不着	fan4 bu5 zhao2
 犯勁	fan4 jin4
 犯得上	fan4 de5 shang4
 犯得着	fan4 de5 zhao2
-犯得著	fan4 de5 zhao2
 犯忌諱	fan4 ji4 hui5
 犯惡	fan4 e4
 犯拙	fan4 zhuo2
@@ -50426,7 +50410,7 @@ min_phrase_weight: 100
 用一當十	yong4 yi1 dang1 shi2
 用不了	yong4 bu5 liao3
 用不着	yong4 bu4 zhao2
-用不著	yong4 bu5 zhao2
+用不着	yong4 bu5 zhao2
 用作配種	yong4 zuo4 pei4 zhong3
 用來配種	yong4 lai2 pei4 zhong3
 用其所長	yong4 qi2 suo3 chang2
@@ -50439,7 +50423,7 @@ min_phrase_weight: 100
 用工夫	yong4 gong1 fu5
 用度	yong4 du4
 用得上	yong4 de5 shang4
-用得著	yong4 de5 zhao2
+用得着	yong4 de5 zhao2
 用志不分	yong4 zhi4 bu4 fen1
 用戶創造內容	yong4 hu4 chuang4 zao4 nei4 rong2
 用戶數據	yong4 hu4 shu4 ju4
@@ -52938,8 +52922,10 @@ min_phrase_weight: 100
 着人	zhuo2 ren2
 着先鞭	zhuo2 xian1 bian1
 着力	zhuo2 li4
+着勁兒	zhuo2 jin4 r5
 着即	zhuo2 ji2
 着呢	zhe5 ne5
+着地	zhao2 di4
 着地	zhuo2 de5
 着地	zhuo2 di4
 着地還錢	zhuo2 di4 huan2 qian2
@@ -52947,12 +52933,16 @@ min_phrase_weight: 100
 着大火	zhao2 da4 huo3
 着實	zhuo2 shi2
 着己	zhuo2 ji3
+着志	zhuo2 zhi4
 着忙	zhao2 mang2
 着急	zhao1 ji2
+着急	zhao2 ji2
 着惱	zhuo2 nao3
 着想	zhao2 xiang3
+着想	zhuo2 xiang3
 着意	zhuo2 yi4
 着慌	zhao1 huang1
+着慌	zhao2 huang1
 着手	zhuo2 shou3
 着手回春	zhuo2 shou3 hui2 chun1
 着手成春	zhuo2 shou3 cheng2 chun1
@@ -52962,7 +52952,9 @@ min_phrase_weight: 100
 着數	zhuo2 shu3
 着棋	zhuo2 qi2
 着水	zhuo2 shui3
+着法	zhao1 fa3
 着涼	zhao1 liang2
+着涼	zhao2 liang2
 着火	zhao2 huo3
 着火點	zhao2 huo3 dian3
 着然	zhuo2 ran2
@@ -52973,28 +52965,39 @@ min_phrase_weight: 100
 着用	zhao2 yong4
 着疼熱	zhuo2 teng2 re4
 着眼	zhao2 yan3
+着眼	zhuo2 yan3
 着眼點	zhao2 yan3 dian3
+着眼點	zhuo2 yan3 dian3
 着着失敗	zhuo2 zhuo2 shi1 bai4
 着着進逼	zhuo2 zhuo2 jin4 bi1
 着筆	zhuo2 bi3
 着糞佛頭	zhuo2 fen4 fo2 tou2
+着緊	zhao2 jin3
 着緊	zhuo2 jin3
 着肉	zhao2 rou4
 着腳	zhuo2 jiao3
 着腳書樓	zhuo2 jiao3 shu1 lou2
 着色	zhuo2 se4
+着花	zhao2 hua1
 着花	zhuo2 hua1
 着莫	zhuo2 mo4
+着落	zhuo2 luo4
 着落	zhuo2 luo5
 着處	zhuo2 chu4
 着衣	zhuo2 yi1
 着衣鏡	zhuo2 yi1 jing4
+着裝	zhuo2 zhuang1
 着跡	zhao2 ji1
 着身	zhuo2 shen1
 着迷	zhao2 mi2
 着道	zhao2 dao4
+着邊	zhao2 bian1
+着邊兒	zhao2 bian1 r5
 着重	zhuo2 zhong4
+着重號	zhuo2 zhong4 hao4
 着陸	zhuo2 lu4
+着陸場	zhuo2 lu4 chang3
+着陸點	zhuo2 lu4 dian3
 着雨	zhuo2 yu3
 着題	zhuo2 ti2
 着風	zhao1 feng1
@@ -53059,7 +53062,6 @@ min_phrase_weight: 100
 睡眼惺忪	shui4 yan3 xing1 song1
 睡着	shui4 zhao2
 睡臥不寧	shui4 wo4 bu4 ning2
-睡著	shui4 zhao2
 睡虎地秦簡	shui4 hu3 di4 qin2 jian3
 睡虎子	shui4 hu3 zi5
 睡覺	shui4 jiao4
@@ -54353,16 +54355,28 @@ min_phrase_weight: 100
 祓	fu2
 祓濯	fu2 zhuo2
 祔	fu4
+祕	bi4	10%
 祕	mi4
+祕	mi4	90%
 祕傳	mi4 chuan2
+祕密	mi4 mi4
+祕密會社	mi4 mi4 hui4 she4
+祕密活動	mi4 mi4 huo2 dong4
 祕密結社	mi4 mi4 jie2 she4
+祕密警察	mi4 mi4 jing3 cha2
+祕技	mi4 ji4
+祕書	mi4 shu1
 祕書監	mi4 shu1 jian4
 祕書長	mi4 shu1 zhang3
+祕笈	mi4 ji2
+祕籍	mi4 ji2
 祕結	mi4 jie2
 祕而不露	mi4 er2 bu4 lu4
 祕藏	mi4 cang2
+祕訣	mi4 jue2
 祕魯	bi4 lu3
 祕魯共和國	bi4 lu3 gong4 he2 guo2
+祕魯苦蘵	bi4 lu3 ku3 zhi2
 祖	zu3
 祖傳	zu3 chuan2
 祖鞭先着	zu3 bian1 xian1 zhuo2
@@ -54733,20 +54747,6 @@ min_phrase_weight: 100
 秕子	bi3 zi5
 秖	zhi1
 秗	yu4
-祕	bi4	10%
-祕	mi4	90%
-祕密	mi4 mi4
-祕密會社	mi4 mi4 hui4 she4
-祕密活動	mi4 mi4 huo2 dong4
-祕密警察	mi4 mi4 jing3 cha2
-祕技	mi4 ji4
-祕書	mi4 shu1
-祕書長	mi4 shu1 zhang3
-祕笈	mi4 ji2
-祕籍	mi4 ji2
-祕訣	mi4 jue2
-祕魯	bi4 lu3
-祕魯苦蘵	bi4 lu3 ku3 zhi2
 秙	ku4
 秚	ban4
 秛	pi1
@@ -55586,11 +55586,10 @@ min_phrase_weight: 100
 穿心槓子	chuan1 xin1 gang4 zi5
 穿甲彈	chuan1 jia3 dan4
 穿着	chuan1 zhuo2
+穿着打扮	chuan1 zhuo2 da3 ban4
+穿着講究	chuan1 zhuo2 jiang3 jiu5
 穿紅着綠	chuan1 hong2 zhuo2 lv4
 穿結	chuan1 jie2
-穿著	chuan1 zhuo2
-穿著打扮	chuan1 zhuo2 da3 ban4
-穿著講究	chuan1 zhuo2 jiang3 jiu5
 穿行	chuan1 xing2
 窀	zhun1
 窀穸	zhun1 xi4
@@ -56307,7 +56306,7 @@ min_phrase_weight: 100
 箟	jun4
 箠	chui2
 管	guan3
-管不著	guan3 bu5 zhao2
+管不着	guan3 bu5 zhao2
 管制空域	guan3 zhi4 kong1 yu4
 管勾	guan3 gou1
 管叔	guan3 shu2
@@ -56780,8 +56779,10 @@ min_phrase_weight: 100
 粘滯性	nian2 zhi4 xing4
 粘皮帶骨	nian2 pi2 dai4 gu3
 粘皮着骨	nian2 pi2 zhuo2 gu3
-粘皮著骨	nian2 pi2 zhu4 gu3
 粘着	nian2 zhe5
+粘着	nian2 zhuo2
+粘着力	zhan1 zhuo2 li4
+粘着性	zhan1 zhuo2 xing4
 粘稠	nian2 chou2
 粘竿	nian2 gan1
 粘米	nian2 mi3
@@ -56796,9 +56797,6 @@ min_phrase_weight: 100
 粘花惹絮	nian2 hua1 re3 xu4
 粘花惹草	nian2 hua1 re3 cao3
 粘菌	nian2 jun1
-粘著	nian2 zhuo2
-粘著力	zhan1 zhuo2 li4
-粘著性	zhan1 zhuo2 xing4
 粘蟲	nian2 chong2
 粘補	nian2 bu3
 粘連	nian2 lian2
@@ -63120,7 +63118,6 @@ min_phrase_weight: 100
 落淚	luo4 lei4
 落湯螃蟹	luo4 tang1 pang2 xie4
 落湯雞	luo4 tang1 ji1
-落湯雞	luo4 tang1 ji1
 落潮	luo4 chao2
 落炕	lao4 kang4
 落照	luo4 zhao4
@@ -63280,54 +63277,11 @@ min_phrase_weight: 100
 著	zhe5	0%
 著	zhu4	100%
 著	zhuo2	0%
-著三不著兩	zhao2 san1 bu4 zhao2 liang3
-著力	zhuo2 li4
-著勁兒	zhuo2 jin4 r5
-著地	zhao2 di4
 著地	zhuo2 di4
-著墨	zhuo2 mo4
-著實	zhuo2 shi2
-著床	zhuo2 chuang2
-著志	zhuo2 zhi4
-著忙	zhao2 mang2
-著急	zhao2 ji2
-著惱	zhuo2 nao3
-著想	zhuo2 xiang3
-著意	zhuo2 yi4
-著慌	zhao2 huang1
-著手	zhuo2 shou3
-著手成春	zhuo2 shou3 cheng2 chun1
-著數	zhao1 shu4
-著棋	zhuo2 qi2
-著法	zhao1 fa3
-著涼	zhao2 liang2
-著火	zhao2 huo3
-著火點	zhao2 huo3 dian3
-著然	zhuo2 ran2
-著眼	zhuo2 yan3
-著眼點	zhuo2 yan3 dian3
 著稱	zhu4 cheng1
 著稱於世	zhu4 cheng1 yu2 shi4
-著筆	zhuo2 bi3
-著緊	zhao2 jin3
 著績	zhu4 ji1
-著色	zhuo2 se4
-著花	zhao2 hua1
 著花	zhuo2 hua1
-著落	zhuo2 luo4
-著著失敗	zhuo2 zhuo2 shi1 bai4
-著處	zhuo2 chu4
-著衣	zhuo2 yi1
-著裝	zhuo2 zhuang1
-著迷	zhao2 mi2
-著邊	zhao2 bian1
-著邊兒	zhao2 bian1 r5
-著重	zhuo2 zhong4
-著重號	zhuo2 zhong4 hao4
-著陸	zhuo2 lu4
-著陸場	zhuo2 lu4 chang3
-著陸點	zhuo2 lu4 dian3
-著魔	zhao2 mo2
 葘	zi1
 葙	xiang1
 葚	ren4	50%
@@ -65649,7 +65603,6 @@ min_phrase_weight: 100
 血化爲碧	xie3 hua4 wei2 bi4
 血化爲碧	xue4 hua4 wei2 bi4
 血參	xie3 shen1
-血參	xie3 shen1
 血口噴人	xie3 kou3 pen1 ren2
 血口噴人	xue4 kou3 pen1 ren2
 血口子	xie3 kou3 zi5
@@ -66248,7 +66201,6 @@ min_phrase_weight: 100
 衣繡晝行	yi4 xiu4 zhou4 xing2
 衣缽相傳	yi1 bo1 xiang1 chuan2
 衣缽真傳	yi1 bo1 zhen1 chuan2
-衣著	yi1 zhuo2
 衣被	yi1 bei4
 衣被	yi4 bei4
 衣裳	yi1 shang5
@@ -71107,10 +71059,10 @@ min_phrase_weight: 100
 軟流圈	ruan3 liu2 quan1
 軟熟	ruan3 shu2
 軟片	ruan3 pian4
+軟着陸	ruan3 zhuo2 lu4
 軟瞇𥉐	ruan3 mi1 xi4
 軟罐頭	ruan3 guan4 tou5
 軟耳朵	ruan3 er3 duo5
-軟著陸	ruan3 zhuo2 lu4
 軟調脾	ruan3 tiao2 pi2
 軟釘子	ruan3 ding1 zi5
 軟骨頭	ruan3 gu2 tou5
@@ -77338,9 +77290,8 @@ min_phrase_weight: 100
 附片	fu4 pian4
 附着	fu4 zhuo2
 附着力	fu4 zhuo2 li4
+附着物	fu4 zhuo2 wu4
 附膻逐臭	fu4 shan1 zhu2 chou4
-附著	fu4 zhuo2
-附著物	fu4 zhuo2 wu4
 附識	fu4 zhi4
 附載	fu4 zai4
 附過還職	fu4 guo4 huan2 zhi2
@@ -77988,8 +77939,6 @@ min_phrase_weight: 100
 雜質	za2 zhi2
 雝	yong1
 雞	ji1
-雞	ji1
-雞冠	ji1 guan1
 雞冠	ji1 guan1
 雞冠區	ji1 guan1 qu1
 雞冠石	ji1 guan1 shi2
@@ -77997,7 +77946,6 @@ min_phrase_weight: 100
 雞子	ji1 zi3
 雞子	ji1 zi5
 雞尸牛從	ji1 shi1 niu2 zong4
-雞巴	ji1 ba5
 雞巴	ji1 ba5
 雞樅	ji1 zong1
 雞毛子亂叫	ji1 mao2 zi5 luan4 jiao4
@@ -78009,7 +77957,6 @@ min_phrase_weight: 100
 雞犬相聞	ji1 quan3 xiang1 wen2
 雞犬識新豐	ji1 quan3 shi4 xin1 feng1
 雞皮栗子	ji1 pi2 li4 zi5
-雞皮疙瘩	ji1 pi2 ge1 da5
 雞皮疙瘩	ji1 pi2 ge1 da5
 雞皮鶴髮	ji1 pi2 he4 fa3
 雞肋	ji1 le4
@@ -82722,6 +82669,7 @@ min_phrase_weight: 100
 黏着	nian2 zhuo2
 黏着劑	nian2 zhuo2 ji4
 黏着力	nian2 zhuo2 li4
+黏着語	nian2 zhuo2 yu3
 黏稠度	nian2 chou2 du4
 黏答答	nian2 da1 da1
 黏糊	nian2 hu5
@@ -82729,9 +82677,6 @@ min_phrase_weight: 100
 黏結	nian2 jie2
 黏膜	nian2 mo4
 黏菌	nian2 jun1
-黏著	nian2 zhuo2
-黏著力	nian2 zhuo2 li4
-黏著語	nian2 zhuo2 yu3
 黏質	nian2 zhi2
 黐	chi1
 黑	hei1
@@ -82962,7 +82907,6 @@ min_phrase_weight: 100
 鼠疫桿菌	shu3 yi4 gan3 jun1
 鼠疫菌苗	shu3 yi4 jun1 miao2
 鼠竄狼奔	shu3 cuan4 lang2 ben1
-鼠肚雞腸	shu3 du4 ji1 chang2
 鼠肚雞腸	shu3 du4 ji1 chang2
 鼠麯草	shu3 qu2 cao3
 鼡	shu3
