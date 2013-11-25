@@ -19304,6 +19304,7 @@ min_phrase_weight: 100
 啞默悄靜	ya3 mo4 qiao3 jing4
 啞點	ya3 dian3
 啞鼓	ya3 gu3
+啟	qi3
 啠	zhe2
 啡	fei1
 啢	liang3
@@ -54682,6 +54683,9 @@ min_phrase_weight: 100
 秕子	bi3 zi5
 秖	zhi1
 秗	yu4
+秘	bi4	10%
+秘	mi4
+秘	mi4	90%
 秙	ku4
 秚	ban4
 秛	pi1
@@ -82055,6 +82059,7 @@ min_phrase_weight: 100
 鷂子	yao4 zi5
 鷂子翻身	yao4 zi5 fan1 shen1
 鷃	yan4
+鷄	ji1
 鷅	li4
 鷆	tian2
 鷇	kou4
