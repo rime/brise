@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.11.25"
+version: "2013.12.11"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -11418,7 +11418,6 @@ min_phrase_weight: 100
 俲	xiao4
 俳	pai2
 俳倡	pai2 chang1
-俳謔	pai2 nve4
 俴	jian4
 俵	biao3
 俵分	biao3 fen1
@@ -16485,7 +16484,6 @@ min_phrase_weight: 100
 南極圈	nan2 ji2 quan1
 南極地區	nan2 ji2 di4 qu1
 南樂縣	nan2 le4 xian4
-南樓詠謔	nan2 lou2 yong3 nve4
 南橫	nan2 heng2
 南泥灣	nan2 ni2 wan1
 南海子	nan2 hai3 zi5
@@ -20041,6 +20039,7 @@ min_phrase_weight: 100
 嘲諷	chao2 feng4
 嘲諷漫罵	chao2 feng4 man4 ma4
 嘲謔	chao2 nve4
+嘲謔	chao2 xve4
 嘲風弄月	chao2 feng1 nong4 yue4
 嘳	kui4
 嘴	zui3
@@ -30203,6 +30202,7 @@ min_phrase_weight: 100
 心靈音樂	xin1 ling2 yin1 yue4
 心願	xin1 yuan5
 心馳魏闕	xin1 chi2 wei4 que4
+心驚肉顫	xin1 jing1 rou4 chan4
 心驚肉顫	xin1 jing1 rou4 zhan4
 心驚膽喪	xin1 jing1 dan3 sang4
 心驚膽懾	xin1 jing1 dan3 zhe2
@@ -32287,7 +32287,6 @@ min_phrase_weight: 100
 戲稱	xi4 cheng1
 戲綵娛親	xi4 cai3 yu2 qin1
 戲行	xi4 hang2
-戲謔	xi4 nve4
 戳	chuo1
 戳份兒	chuo1 fen4 r5
 戳個兒	chuo1 ge4 r5
@@ -32793,6 +32792,7 @@ min_phrase_weight: 100
 打靶場	da3 ba3 chang2
 打頓兒	da3 dun4 r5
 打頦歌	da3 hai2 ge1
+打顫	da3 chan4
 打顫	da3 zhan4
 打飽咯	da3 bao3 ge2
 打馬將	da3 ma3 jiang4
@@ -34304,6 +34304,7 @@ min_phrase_weight: 100
 捉襟肘見	zhuo1 jin1 zhou3 xian4
 捉襟見肘	zhuo1 jin1 xian4 zhou3
 捉迷藏	zhuo1 mi2 cang2
+捉顫	zhuo1 chan4
 捉顫	zhuo1 zhan4
 捉髮	zhuo1 fa3
 捊	fu1
@@ -50940,6 +50941,7 @@ min_phrase_weight: 100
 疙瘩事	ge1 da5 shi4
 疙瘩湯	ge1 da5 tang1
 疙瘩腔	ge1 da5 qiang1
+疙顫顫	ge1 chan4 chan4
 疙顫顫	ge1 zhan4 zhan4
 疚	jiu4
 疛	zhou3
@@ -51420,6 +51422,7 @@ min_phrase_weight: 100
 發難	fa1 nan4
 發電量	fa1 dian4 liang4
 發露	fa1 lu4
+發顫	fa1 chan4
 發顫	fa1 zhan4
 白	bai2
 白不呲咧	bai2 bu4 ci1 lie1
@@ -59928,6 +59931,7 @@ min_phrase_weight: 100
 肉質	rou4 zhi2
 肉重千斤	rou4 zhong4 qian1 jin1
 肉頭	rou4 tou5
+肉顫心驚	rou4 chan4 xin1 jing1
 肉顫心驚	rou4 zhan4 xin1 jing1
 肊	yi4
 肋	lei4
@@ -68354,7 +68358,6 @@ min_phrase_weight: 100
 諧	xie2
 諧當	xie2 dang4
 諧稱	xie2 cheng1
-諧謔	xie2 nve4
 諨	fu2
 諩	pu3
 諪	ting2
@@ -68458,15 +68461,14 @@ min_phrase_weight: 100
 謒	qiang1
 謓	chen1
 謓	zhen4
+謔	nue4
 謔	xue4
-謔浪	nve4 lang4
-謔浪笑敖	nve4 lang4 xiao4 ao4
-謔浪話頭	nve4 lang4 hua4 tou2
 謔稱	nve4 cheng1
 謔稱	xue4 cheng1
-謔而不虐	nve4 er2 bu4 nve4
 謔親	nve4 qin1
+謔親	xve4 qin1
 謔謔	nve4 nve4
+謔謔	xve4 xve4
 謕	si1
 謕	ti2
 謖	su4
@@ -77711,7 +77713,6 @@ min_phrase_weight: 100
 雅致	ya3 zhi4
 雅致	ya3 zhi5
 雅興	ya3 xing4
-雅謔	ya3 nve4
 雅重	ya3 zhong4
 雅量	ya3 liang4
 雅間	ya3 jian1
@@ -78251,7 +78252,9 @@ min_phrase_weight: 100
 震撼彈	zhen4 han4 dan4
 震波曲線	zhen4 bo1 qu1 xian4
 震眩彈	zhen4 xuan4 dan4
+震顫	zhen4 chan4
 震顫	zhen4 zhan4
+震顫麻痺	zhen4 chan4 ma2 bi4
 震顫麻痺	zhen4 zhan4 ma2 bi4
 霈	pei4
 霉	mei2
@@ -79334,17 +79337,26 @@ min_phrase_weight: 100
 顩	yan3
 顪	hui4
 顫	chan4
+顫動	chan4 dong4
 顫動	zhan4 dong4
+顫巍巍	chan4 wei2 wei2
 顫巍巍	zhan4 wei2 wei2
+顫悠	chan4 you1
 顫悠	zhan4 you1
+顫悠悠	chan4 you1 you1
 顫悠悠	zhan4 you1 you1
 顫慄	zhan4 li4
+顫抖	chan4 dou3
 顫抖	zhan4 dou3
+顫抖抖	chan4 dou3 dou3
 顫抖抖	zhan4 dou3 dou3
+顫筆	chan4 bi3
 顫筆	zhan4 bi3
 顫聲	chan4 sheng1
 顫聲	zhan4 sheng1
+顫音	chan4 yin1
 顫音	zhan4 yin1
+顫顫巍巍	chan4 chan4 wei2 wei2
 顫顫巍巍	zhan4 zhan4 wei2 wei2
 顬	ru2
 顭	meng2
