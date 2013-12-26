@@ -1,3 +1,13 @@
+2013-12-26  GONG Chen  <chen.sst@gmail.com>
+
+	* symbols.yaml: rearranged symbol table by Patricivs.
+	* emoji: more Emoji symbols; support tips and alternative spellings.
+	* jyutping: include more Cantonese phrases.
+	* essay.txt, luna_pinyin, terra_pinyin: lots of improvements.
+
+	- Brise 0.32 release.
+
+
 2013-11-10  GONG Chen  <chen.sst@gmail.com>
 
 	* default.yaml, symbols.yaml: prefer middle dot U+00B7 to U+30FB.
