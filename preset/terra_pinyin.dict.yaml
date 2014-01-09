@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2013.12.11"
+version: "2014.01.10"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
