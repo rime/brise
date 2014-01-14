@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.01.10"
+version: "2014.01.14"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -37035,6 +37035,7 @@ min_phrase_weight: 100
 敧	qi3
 敨	tou3
 敩	xiao4
+敩	xue2
 敪	duo2
 敫	jiao3
 敫	jiao4
@@ -37305,6 +37306,7 @@ min_phrase_weight: 100
 斅	xiao4
 斅	xue2
 斆	xiao4
+斆	xue2
 文	wen2
 文人相輕	wen2 ren2 xiang1 qing1
 文以載道	wen2 yi3 zai4 dao4
@@ -86938,6 +86940,7 @@ min_phrase_weight: 100
 𢽸	chuo4
 𢽹	min3
 𢽾	xiao4
+𢽾	xue2
 𢾀	du3
 𢾁	wei2
 𢾃	can2
