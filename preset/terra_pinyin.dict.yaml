@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.01.14"
+version: "2014.01.16"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -13924,7 +13924,6 @@ min_phrase_weight: 100
 凱旋	kai3 xuan2
 凱旋門	kai3 xuan2 men2
 凱樂	kai3 yue4
-凱茜·弗里曼	kai3 qian4 fu2 li3 man4
 凲	gan1
 凳	deng4
 凳子	deng4 zi5
@@ -62228,6 +62227,7 @@ min_phrase_weight: 100
 茚	yin4
 茛	gen4
 茜	qian4
+茜	xi1
 茝	chai3
 茝	zhi3
 茝若	chai3 ruo4
