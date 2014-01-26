@@ -1,7 +1,7 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: "0.32.2"
+config_version: "0.32.3"
 
 schema_list:
   - schema: luna_pinyin
@@ -104,6 +104,7 @@ key_binder:
     - { when: composing, accept: Control+e, send: End }
     - { when: composing, accept: Control+d, send: Delete }
     - { when: composing, accept: Control+k, send: Shift+Delete }
+    - { when: composing, accept: Control+h, send: BackSpace }
     - { when: composing, accept: Control+g, send: Escape }
     - { when: composing, accept: Control+bracketleft, send: Escape }
     - { when: composing, accept: Alt+v, send: Page_Up }
