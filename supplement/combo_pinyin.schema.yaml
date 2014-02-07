@@ -4,7 +4,7 @@
 schema:
   schema_id: combo_pinyin
   name: 宮保拼音
-  version: "0.3"
+  version: "0.5"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -122,11 +122,21 @@ chord_composer:
     - xform/^([mdtnlgkh])$/$1e/
     - xform/^([mdtnlgkh])$/$1e/
     - xform/^([zcsr]h?)$/$1i/
-  # 並擊完成後套用的式樣，追加隔音符號
+  # 並擊完成後套用的式樣
   output_format:
-    - "xform/^([a-z]+)$/$1'/"
-  # 並擊過程中套用的式樣，加方括弧
+    # 追加隔音符號
+    - "xform/^([bpm])([iu]|a|ie|o|[ae]i|i?ao|[oi]u|i?an|[ie]n|[ei]ng|ang|ong)$/$1$2'/"
+    - "xform/^([fw])(u|a|o|[ae]i|ao|ou|an|en|eng|ang|ong)$/$1$2'/"
+    - "xform/^([dtnl])([iuv]|i?a|[iv]?e|u?o|[aeu]i|i?ao|[oi]u|[iu]?an|[iue]n|[ei]ng|i?ang|ong)$/$1$2'/"
+    - "xform/^([gkh])(u|u?a|e|uo|u?ai|[ue]i|ao|ou|u?an|[ue]n|eng|u?ang|ong)$/$1$2'/"
+    - "xform/^([zcs]h?|r)([iu]|u?a|e|uo|u?ai|[ue]i|ao|ou|u?an|[ue]n|eng|u?ang|ong)$/$1$2'/"
+    - "xform/^([jqxy])([iu]|i?a|[iu]?e|o|i?ao|[oi]u|[iu]?an|[iu]n|ing|i?ang|i?ong)$/$1$2'/"
+    - "xform/^([aeo]|[ae]i|ao|ou|[ae]ng?)$/$1'/"
+    # 消除不構成合法音節的並擊組合
+    - "erase/^([A-Za-z]+)$/"
+  # 並擊過程中套用的式樣
   prompt_format:
+    # 加方括弧
     - "xform/^(.*)$/[$1]/"
 
 translator:
