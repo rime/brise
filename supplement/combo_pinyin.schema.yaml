@@ -131,7 +131,7 @@ chord_composer:
     - "xform/^([gkh])(u|u?a|e|uo|u?ai|[ue]i|ao|ou|u?an|[ue]n|eng|u?ang|ong)$/$1$2'/"
     - "xform/^([zcs]h?|r)([iu]|u?a|e|uo|u?ai|[ue]i|ao|ou|u?an|[ue]n|eng|u?ang|ong)$/$1$2'/"
     - "xform/^([jqxy])([iu]|i?a|[iu]?e|o|i?ao|[oi]u|[iu]?an|[iu]n|ing|i?ang|i?ong)$/$1$2'/"
-    - "xform/^([aeo]|[ae]i|ao|ou|[ae]ng?)$/$1'/"
+    - "xform/^([aeo]|[ae]i|ao|ou|[ae]ng?|er)$/$1'/"
     # 消除不構成合法音節的並擊組合
     - "erase/^([A-Za-z]+)$/"
   # 並擊過程中套用的式樣
