@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.01.25"
+version: "2014.02.10"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -34833,6 +34833,7 @@ min_phrase_weight: 100
 掯勒	ken4 le4
 掰	bai1
 掰交情	bai1 jiao1 qing5
+掱	pa2
 掱	shou3
 掲	jie1
 掳	lu3
