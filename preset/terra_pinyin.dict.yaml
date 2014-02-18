@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.02.10"
+version: "2014.02.17"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -19253,6 +19253,7 @@ min_phrase_weight: 100
 啗	dan4
 啘	wa1
 啘	ye4
+啘	yue3
 啙	ci1
 啙	zi3
 啚	bi3
