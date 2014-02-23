@@ -14,7 +14,6 @@ providing:
   - extra schemata: (included in the source package but not installed)
 
 build dependencies:
-  - kyotocabinet (for kctreemgr)
   - librime>=1.0 (for rime_deployer)
 runtime dependency:
   - librime>=1.0
