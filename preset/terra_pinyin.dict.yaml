@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.02.17"
+version: "2014.03.21"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -15506,6 +15506,7 @@ min_phrase_weight: 100
 功均天地	gong1 jun1 tian1 di4
 功均柱地	gong1 jun1 zhu4 di4
 功墮垂成	gong1 hui1 chui2 cheng2
+功夫	gong1 fu1
 功夫	gong1 fu5
 功夫片	gong1 fu1 pian4
 功夫球	gong1 fu5 qiu2
@@ -37854,7 +37855,8 @@ min_phrase_weight: 100
 日間	ri4 jian1
 日間部	ri4 jian1 bu4
 日電	ri4 dian4
-日頭常晌午	ri4 tou2 chang2 shang3 huo5
+日頭常晌午	ri4 tou2 chang2 shang3 huo5	0%
+日頭常晌午	ri4 tou2 chang2 shang3 wu3
 日飲亡何	ri4 yin3 wu2 he2
 旦	dan4
 旦夕	dan4 xi4
@@ -38226,8 +38228,10 @@ min_phrase_weight: 100
 晊	zhi4
 晋	jin4
 晌	shang3
-晌午	shang3 huo5
-晌午歪	shang3 huo5 wai1
+晌午	shang3 huo5	0%
+晌午	shang3 wu3
+晌午歪	shang3 huo5 wai1	0%
+晌午歪	shang3 wu3 wai1
 晌覺	shang3 jiao4
 晍	tong2
 晎	hong3
