@@ -1,7 +1,7 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: "0.33"
+config_version: "0.34"
 
 schema_list:
   - schema: luna_pinyin
@@ -143,4 +143,5 @@ ascii_composer:
     Shift_R: commit_text
     Control_L: noop
     Control_R: noop
-    Caps_Lock: commit_code
+    Caps_Lock: clear
+    Eisu_toggle: clear
