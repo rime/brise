@@ -4,7 +4,7 @@
 schema:
   schema_id: pinyin_simp
   name: 袖珍简化字拼音
-  version: "0.6"
+  version: "0.7"
   author:
     - 佚名
   description: |
@@ -18,6 +18,8 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ ，。, ，． ]
 
 engine:
   processors:
@@ -37,7 +39,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - r10n_translator
+    - script_translator
     - reverse_lookup_translator
 
 speller:

@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_fluency
   name: 朙月拼音·語句流
-  version: "0.23"
+  version: "0.24"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -19,6 +19,8 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ ，。, ，． ]
   - name: simplification
     states: [ 漢字, 汉字 ]
 

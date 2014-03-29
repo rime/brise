@@ -4,7 +4,7 @@
 schema:
   schema_id: sampheng
   name: 中古三拼
-  version: "2013.10.04"
+  version: "2014.03.29"
   author:
     - "polyhedron <biopolyhedron@gmail.com>"
     - "Lely <fourseasons4ji@gmail.com>"
@@ -21,6 +21,8 @@ switches:
     states: [ 中文, 西文 ]
   - name: half_shape
     states: [ 全角, 半角 ]
+  - name: ascii_punct
+    states: [ ，。, ，． ]
   - name: simplification
     states: [ 漢字, 汉字 ]
 

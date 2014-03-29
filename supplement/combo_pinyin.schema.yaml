@@ -4,7 +4,7 @@
 schema:
   schema_id: combo_pinyin
   name: 宮保拼音
-  version: "0.5"
+  version: "0.6"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -16,6 +16,8 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ ，。, ，． ]
   - name: simplification
     states: [ 漢字, 汉字 ]
 
@@ -38,7 +40,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - r10n_translator
+    - script_translator
   filters:
     - simplifier
     - uniquifier

@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu
   name: 上海新派
-  version: "0.12"
+  version: "0.13"
   author:
     - 上海閒話abc <tzyyiggnih@yahoo.com.cn>
     - 吳語越音 <zhufya@mail.ustc.edu.cn>
@@ -21,6 +21,8 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ ，。, ，． ]
   - name: simplification
     states: [ 漢字, 汉字 ]
 
@@ -42,7 +44,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - r10n_translator
+    - script_translator
     - reverse_lookup_translator
   filters:
     - simplifier

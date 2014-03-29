@@ -4,7 +4,7 @@
 schema:
   schema_id: cangjie5_express
   name: 倉頡·快打模式
-  version: "2013.12.17"
+  version: "2014.03.29"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -25,6 +25,8 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ ，。, ，． ]
   - name: simplification
     states: [ 漢字, 汉字 ]
   - name: extended_charset
