@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.03.21"
+version: "2014.03.30"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -24619,6 +24619,7 @@ min_phrase_weight: 100
 嫏嬛福地	lang2 huan2 fu2 di4
 嫐	nao3
 嫑	bao2
+嫑	biao2
 嫒	ai4
 嫓	pi4
 嫔	pin2
