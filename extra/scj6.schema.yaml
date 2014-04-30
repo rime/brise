@@ -4,7 +4,7 @@
 schema:
   schema_id: scj6
   name: 快速倉頡
-  version: "0.7"
+  version: "0.8"
   author:
     - 麥志洪 <makchehu@netvigator.com>
   description: |
@@ -19,10 +19,10 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: ascii_punct
-    states: [ ，。, ，． ]
   - name: simplification
     states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
 
 engine:
   processors:

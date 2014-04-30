@@ -4,7 +4,7 @@
 schema:
   schema_id: stroke
   name: "五筆畫"
-  version: "0.4"
+  version: "0.5"
   author:
     - 四季的風
     - 雪齋
@@ -22,7 +22,7 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: ascii_punct
-    states: [ ，。, ，． ]
+    states: [ 。，, ．， ]
 
 engine:
   processors:

@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_tw
   name: 朙月拼音·臺灣正體
-  version: "0.18"
+  version: "0.19"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -17,7 +17,7 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: ascii_punct
-    states: [ ，。, ，． ]
+    states: [ 。，, ．， ]
   - name: zh_tw
     reset: 1
     # 啓用opencc字形轉換，但不在選單中顯示

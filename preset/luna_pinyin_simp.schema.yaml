@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_simp
   name: 朙月拼音·简化字
-  version: "0.21"
+  version: "0.22"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -16,11 +16,11 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: ascii_punct
-    states: [ ，。, ，． ]
   - name: zh_simp
     reset: 1
     states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
 
 engine:
   processors:

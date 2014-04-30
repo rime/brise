@@ -4,7 +4,7 @@
 schema:
   schema_id: bopomofo
   name: 注音
-  version: "1.6"
+  version: "1.7"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -24,10 +24,10 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: ascii_punct
-    states: [ ，。, ，． ]
   - name: simplification
     states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
 
 engine:
   processors:
