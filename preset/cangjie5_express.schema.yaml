@@ -4,7 +4,7 @@
 schema:
   schema_id: cangjie5_express
   name: 倉頡·快打模式
-  version: "2014.03.29"
+  version: "2014.04.30"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -96,7 +96,7 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
-    - { when: has_menu, accept: comma, send: comma }
+    - { when: paging, accept: comma, send: comma }
     - { when: has_menu, accept: period, send: period }
 
 recognizer:
