@@ -1,7 +1,7 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: "0.34"
+config_version: "0.35"
 
 schema_list:
   - schema: luna_pinyin
@@ -21,6 +21,9 @@ switcher:
     - ascii_punct
     - simplification
     - extended_charset
+  fold_options: true
+  abbreviate_options: true
+  option_list_separator: '／'
 
 menu:
   page_size: 5
