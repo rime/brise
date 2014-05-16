@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.03.30"
+version: "2014.05.16"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -66525,7 +66525,8 @@ min_phrase_weight: 100
 裱糊匠	biao3 hu2 jiang4
 裱褙師傅	biao3 bei4 shi1 fu5
 裲	liang3
-裳	chang2
+裳	chang2	5.42%
+裳	shang5	94.58%
 裳幃	chang2 wei3
 裴	pei2
 裴少俊	pei2 shao4 jun4
