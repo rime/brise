@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.05.16"
+version: "2014.06.12"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -73005,6 +73005,8 @@ min_phrase_weight: 100
 郂	hai2
 郃	he2
 郃陽縣	ge2 yang2 xian4
+郄	qie4
+郄	que4
 郄	xi4
 郅	zhi4
 郆	ji2
