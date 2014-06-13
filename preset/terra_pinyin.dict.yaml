@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.06.12"
+version: "2014.06.13"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -9285,7 +9285,6 @@ min_phrase_weight: 100
 乳臭	ru3 xiu4
 乳臭小子	ru3 xiu4 xiao3 zi5
 乳臭未乾	ru3 xiu4 wei4 gan1
-乳酪	ru3 luo4
 乴	xue2
 乵	yan3
 乶	fu3
@@ -12842,7 +12841,6 @@ min_phrase_weight: 100
 優處	you1 chu4
 優質	you1 zhi2
 優遊自得	you1 you2 zi4 de2
-優酪乳	you1 luo4 ru3
 優長	you1 chang2
 儫	hao2
 儬	chen4
@@ -23753,7 +23751,6 @@ min_phrase_weight: 100
 奶昔	nai3 xi2
 奶牛場	nai3 niu2 chang3
 奶膀子	nai3 pang1 zi5
-奶酪	nai3 luo4
 奷	qian1
 奸	jian1
 奸惡	jian1 e4
@@ -48635,7 +48632,6 @@ min_phrase_weight: 100
 牛肉場	niu2 rou4 chang2
 牛脾氣	niu2 pi2 qi5
 牛蹄子	niu2 ti2 zi5
-牛酪	niu2 luo4
 牛頭不對馬嘴	niu2 tou2 bu2 dui4 ma3 zui3
 牛頭不對馬嘴	niu2 tou2 bu4 dui4 ma3 zui3
 牛鼻子	niu2 bi2 zi5
@@ -73385,8 +73381,6 @@ min_phrase_weight: 100
 酤	gu1
 酥	su1
 酥倒	su1 dao3
-酥酪	su1 lao4
-酥酪	su1 luo4
 酦	fa1
 酧	chou2
 酨	zai4
@@ -73394,16 +73388,7 @@ min_phrase_weight: 100
 酩	ming3
 酩子裏	ming3 zi5 li3
 酪	lao4
-酪乳	luo4 ru3
-酪奴	luo4 nu2
-酪梨	luo4 li2
-酪漿	luo4 jiang1
-酪素	luo4 su4
-酪蛋白	luo4 dan4 bai2
-酪農	luo4 nong2
-酪農業	luo4 nong2 ye4
-酪酥	luo4 su1
-酪酸	luo4 suan1
+酪	luo4
 酫	chuo4
 酬	chou2
 酬和	chou2 he4
@@ -73431,7 +73416,6 @@ min_phrase_weight: 100
 酸	suan1
 酸不溜丟	suan1 bu5 liu1 diu1
 酸中毒	suan1 zhong4 du2
-酸凝酪	suan1 ning2 luo4
 酸巴溜丟	suan1 ba5 liu1 diu1
 酸文假醋	suan1 wen2 jia3 cu4
 酸曲	suan1 qu3
@@ -73440,7 +73424,6 @@ min_phrase_weight: 100
 酸漿	suan1 jiang1
 酸葡萄	suan1 pu2 tao5
 酸葡萄心理	suan1 pu2 tao5 xin1 li3
-酸酪乳	suan1 luo4 ru3
 酸鹼度	suan1 jian3 du4
 酸黃虀爛豆腐	suan1 huang2 ji1 lan4 dou4 fu5
 酹	lei4
