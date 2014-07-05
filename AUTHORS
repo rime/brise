@@ -21,8 +21,10 @@ moedict.tw／萌典 (CC0 1.0)
   preset/luna_pinyin*.yaml
   preset/terra_pinyin*.yaml
 
-fork from rime-aca project, authored by 四季的風, 雪齋, 瑾昀 <cokunhui@gmail.com> : (GPLv3)
-  preset/stroke.*.yaml
+A fork from rime-aca project, authored by 四季的風, 雪齋, 瑾昀 <cokunhui@gmail.com> : (GPLv3)
+  preset/stroke.schema.yaml
+Released under BSD license with approval from original table author 孫海峯，徐孟羅 at pkucn.com (BSD)
+  preset/stroke.dict.yaml
 
 Patrick <ipatrickmac@qq.com>, Gong Chen <chen.sst@gmail.com> : (GPLv3)
   supplement/ipa_xsampa*.yaml
@@ -34,19 +36,19 @@ Patrick <ipatrickmac@qq.com>, Gong Chen <chen.sst@gmail.com> : (GPLv3)
 上海閒話abc <tzyyiggnih@yahoo.com.cn>, 吳語越音 <zhufya@mail.ustc.edu.cn> : (GPLv3)
   supplement/wugniu*.yaml
 
-derived from ibus-table by acevery (Yu Yuwei) : (LGPL)
+Derived from ibus-table by acevery (Yu Yuwei) : (LGPL)
 and based on original work by 朱邦復 / Chu Bong-Foo : (Public Domain)
   preset/cangjie5.dict.yaml
   supplement/quick5.dict.yaml
 
-derived from ibus-table by acevery (Yu Yuwei) : (LGPL)
+Derived from ibus-table by acevery (Yu Yuwei) : (LGPL)
 and based on original work by 王永民 / Wang Yongmin : (Public Domain)
   supplement/wubi86.dict.yaml
 
-derived from scim-table-zh : (GPLv2/LGPLv2)
+Derived from scim-table-zh : (GPLv2/LGPLv2)
   supplement/jyutping.dict.yaml
 
-derived from Android Pinyin IME : (Apache License version 2.0)
+Derived from Android Pinyin IME : (Apache License version 2.0)
   supplement/pinyin_simp.dict.yaml
 
 麥志洪 <makchehu@netvigator.com> : (GPLv3)
