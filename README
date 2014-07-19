@@ -14,6 +14,6 @@ providing:
   - extra schemata: (included in the source package but not installed)
 
 build dependencies:
-  - librime>=1.0 (for rime_deployer)
+  - librime>=1.2 (for rime_deployer)
 runtime dependency:
-  - librime>=1.0
+  - librime>=1.2

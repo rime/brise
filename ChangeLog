@@ -1,3 +1,19 @@
+2014-07-19  GONG Chen  <chen.sst@gmail.com>
+
+	* default.yaml: add switch 'ascii_punct' to switch on and off Chinese
+	punctuations; add hotkey Control+. to toggle ascii_punct;
+	add hotkey Control+h for BackSpace, Control+[ for Escape;
+	clear unfinished input when switching off Chinese mode with Caps Lock;
+	enable folded options in schema list, press space key to unfold.
+	* essay.txt: replaces essay.kct in installed files; fix bugs.
+	* symbols.yaml: /bdz for Chinese punctuations in vertical writing.
+	* stroke.dict.yaml: adopt BSD license as approved by its original author.
+	* combo_pinyin: silently ignore invalid chords.
+	* luna_pinyin_fluency: input various numeric characters with /0 ~ /10.
+	* luna_pinyin, terra_pinyin, emoji, stroke, zyenpheng: update tables.
+
+	- Brise 0.35 release.
+
 2013-12-26  GONG Chen  <chen.sst@gmail.com>
 
 	* symbols.yaml: rearranged symbol table by Patricivs.

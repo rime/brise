@@ -1,3 +1,7 @@
+#! /bin/bash
+#
+# DEPRECATED; only needed by librime < 1.2
+#
 if [ -e essay.kct ]; then
   rm essay.kct
 fi
