@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.08.06"
+version: "2014.08.18"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -10052,6 +10052,7 @@ min_phrase_weight: 100
 人行橫道	ren2 xing2 heng2 dao4
 人行橫道線	ren2 xing2 heng2 dao4 xian4
 人行道	ren2 xing2 dao4
+人言鑿鑿	ren2 yan2 zao2 zao2
 人言鑿鑿	ren2 yan2 zuo4 zuo4
 人財兩空	ren2 cai2 liang3 kong1
 人販子	ren2 fan4 zi5
@@ -20816,6 +20817,7 @@ min_phrase_weight: 100
 圜扉	yuan2 fei1
 圜牆	yuan2 qiang2
 圜鍾	yuan2 zhong1
+圜鑿方枘	yuan2 zao2 fang1 rui4
 圜鑿方枘	yuan2 zuo4 fang1 rui4
 圝	luan2
 圞	luan2
@@ -23166,7 +23168,6 @@ min_phrase_weight: 100
 天監	tian1 jian1
 天相吉人	tian1 xiang4 ji2 ren2
 天真地秀	tian1 zhen1 di4 xiu4
-天真未鑿	tian1 zhen1 wei4 zuo4
 天知地知	tian1 zhi1 di4 zhi1
 天祝藏族自治縣	tian1 zhu4 zang4 zu2 zi4 zhi4 xian4
 天秤	tian1 ping2
@@ -34400,7 +34401,8 @@ min_phrase_weight: 100
 捬	fu3
 捬	fu4
 捭	bai3	50%
-捭	bai4	50%
+捭	bi3	0%
+捭	bo4	50%
 捭闔	bai3 he2
 捭闔縱橫	bai3 he2 zong1 heng2
 据	ju1
@@ -37578,7 +37580,7 @@ min_phrase_weight: 100
 方差	fang1 cha1
 方底圓蓋	fang1 di3 yuan2 gai4
 方彝	fang1 yi2
-方枘圓鑿	fang1 rui4 yuan2 zao2
+方枘圜鑿	fang1 rui4 yuan2 zao2
 方枘圜鑿	fang1 rui4 yuan2 zuo4
 方框	fang1 kuang1
 方框圖	fang1 kuang1 tu2
@@ -37592,7 +37594,6 @@ min_phrase_weight: 100
 方興未艾	fang1 xing1 wei4 ai4
 方行	fang1 xing2
 方言地圖	fang1 yan2 di4 tu2
-方鑿圓枘	fang1 zuo4 yuan2 rui4
 斺	chan3
 斺	jie4
 斻	hang2
@@ -40072,8 +40073,6 @@ min_phrase_weight: 100
 林蔭大道	lin2 yin4 da4 dao4
 林薄	lin2 bo2
 枘	rui4
-枘圓鑿方	rui4 yuan2 zuo4 fang1
-枘鑿	rui4 zuo4
 枙	e4
 枚	mei2
 枛	zhao4
@@ -40153,6 +40152,7 @@ min_phrase_weight: 100
 架空索道	jia4 kong1 suo3 dao4
 架舌頭	jia4 she2 tou5
 架落	jia4 luo4
+架謊鑿空	jia4 huang3 zao2 kong1
 架謊鑿空	jia4 huang3 zuo4 kong1
 枷	jia1
 枸	gou1	5%
@@ -40414,7 +40414,6 @@ min_phrase_weight: 100
 栗喇	li4 la5
 栗子	li4 zi5
 栗苞	li4 bao5
-栗鑿	li4 zuo4
 栘	yi2
 栙	xiang2
 栙䉶	xiang2 shuang1
@@ -47220,6 +47219,7 @@ min_phrase_weight: 100
 炱	tai2
 炲	tai2
 炳	bing3
+炳炳鑿鑿	bing3 bing3 zao2 zao2
 炳炳鑿鑿	bing3 bing3 zuo4 zuo4
 炳賁	bing3 bi4
 炴	yang3
@@ -53915,6 +53915,7 @@ min_phrase_weight: 100
 確定效應	que4 ding4 xiao4 ying4
 確當	que4 dang4
 確鑿不移	que4 zao2 bu4 yi2
+確鑿不移	que4 zuo4 bu4 yi2
 碻	que4
 碼	ma3
 碼分多址	ma3 fen1 duo1 zhi3
@@ -67452,6 +67453,7 @@ min_phrase_weight: 100
 言不踐行	yan2 bu4 jian4 xing2
 言不逮意	yan2 bu4 dai4 yi4
 言不顧行	yan2 bu4 gu4 xing2
+言之鑿鑿	yan2 zhi1 zao2 zao2
 言之鑿鑿	yan2 zhi1 zuo4 zuo4
 言傳	yan2 chuan2
 言傳身教	yan2 chuan2 shen1 jiao4
@@ -75421,25 +75423,20 @@ min_phrase_weight: 100
 鑿	zao2	50%
 鑿	zuo4	50%
 鑿井	zao2 jing3
-鑿圓枘方	zuo4 yuan2 rui4 fang1
+鑿坏	zao2 pei2
 鑿坏	zuo4 pei2
-鑿壁偷光	zuo4 bi4 tou1 guang1
-鑿壁懸梁	zuo4 bi4 xuan2 liang2
 鑿子	zao2 zi3
 鑿子	zao2 zi5
-鑿山破石	zuo4 shan1 po4 shi2
-鑿枘不入	zuo4 rui4 bu4 ru4
-鑿渾沌	zuo4 hun2 dun4
 鑿石場	zao2 shi2 chang3
 鑿石穿	zao2 shi2 chuan1
 鑿空	zao2 kong1
 鑿空	zuo4 kong1
+鑿空指鹿	zao2 kong1 zhi3 lu4
 鑿空指鹿	zuo4 kong1 zhi3 lu4
-鑿竅	zuo4 qiao4
-鑿船蟲	zuo4 chuan2 chong2
+鑿鑿	zao2 zao2
 鑿鑿	zuo4 zuo4
+鑿鑿有據	zao2 zao2 you3 ju4
 鑿鑿有據	zuo4 zuo4 you3 ju4
-鑿飲耕食	zuo4 yin3 geng1 shi2
 钀	nie4
 钀	yi3
 钁	jue2
