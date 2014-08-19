@@ -4,7 +4,7 @@
 schema:
   schema_id: combo_pinyin
   name: 宮保拼音
-  version: "0.7"
+  version: "0.8"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -24,9 +24,9 @@ switches:
 engine:
   processors:
     - ascii_composer
-    - chord_composer  # 實現並擊按鍵處理
     - recognizer
     - key_binder
+    - chord_composer  # 實現並擊按鍵處理
     - speller
     - punctuator
     - selector
