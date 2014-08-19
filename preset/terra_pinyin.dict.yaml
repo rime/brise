@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.08.18"
+version: "2014.08.19"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -18621,12 +18621,21 @@ min_phrase_weight: 100
 咕容	gu1 rong5
 咕攘	gu1 rang5
 咕隆	gu1 long5
-咖	ka1
+咖	ga1	50%
+咖	jia1	35.09%
+咖	ka1	14.91%
 咖哩	ka1 li3
 咖哩	ka1 li5
+咖哩汁	ka1 li3 zhi1
+咖哩粉	ka1 li3 fen3
+咖哩雞	ka1 li3 ji1
+咖哩飯	ka1 li3 fan4
 咖啡館兒	ka1 fei1 guan3 r5
 咖喱	ga1 li2
+咖喱汁	ga1 li2 zhi1
 咖喱粉	ga1 li2 fen3
+咖喱雞	ga1 li2 ji1
+咖喱飯	ga1 li2 fan4
 咗	zuo5
 咘	bu4
 咙	long2
