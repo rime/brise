@@ -4,7 +4,7 @@
 schema:
   schema_id: bopomofo_tw
   name: 注音·臺灣正體
-  version: "1.3"
+  version: "1.4"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -90,7 +90,7 @@ speller:
     - xform/eh/E/
     - xform/([iv])e/$1E/
     - abbrev/^([bpmfdtnlgkhjqxZCSrzcs]).+$/$1/
-    - derive/^([A-Za-z]+)\d$/$1/
+    - abbrev/^([A-Za-z]+)\d$/$1/
     - abbrev/^([bpmfdtnlgkhjqxZCSrzcs]).+(\d)$/$1$2/
     - 'xlit|bpmfdtnlgkhjqxZCSrzcsiuvaoeEAIOUMNKGR12345|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/- 6347|'
 
