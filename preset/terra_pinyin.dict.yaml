@@ -13894,12 +13894,12 @@ min_phrase_weight: 100
 凞	xi1
 凟	du2
 几	ji1
+几	ji3	0%
 几几	ji3 ji3
-几席	ji3 xi2
-几杖	ji3 zhang4
+几席	ji1 xi2
+几杖	ji1 zhang4
 几案	ji1 an4
-几案	ji3 an4
-几筵	ji3 yan2
+几筵	ji1 yan2
 凡	fan2
 凡事總有一個開頭	fan2 shi4 zong3 you3 yi2 ge4 kai1 tou2
 凡知	fan2 zhi4
@@ -37578,7 +37578,7 @@ min_phrase_weight: 100
 方便爲門	fang1 bian4 wei2 men2
 方便米飯	fang1 bian4 mi3 fan4
 方便麪	fang1 bian4 mian4
-方几	fang1 ji3
+方几	fang1 ji1
 方向	fang1 xiang4
 方向	fang1 xiang5
 方員無真假	fang1 yuan2 wu2 zhen1 jia3
@@ -48090,7 +48090,7 @@ min_phrase_weight: 100
 燕侶鶯儔	yan4 lv3 ying1 chou2
 燕儔鶯侶	yan4 chou2 ying1 lv3
 燕入他家	yan4 ru4 ta1 jia1
-燕几	yan4 ji3
+燕几	yan4 ji1
 燕出	yan4 chu1
 燕剪	yan4 jian3
 燕勞	yan4 lao4
@@ -55636,7 +55636,6 @@ min_phrase_weight: 100
 窗戶紙	chuang1 hu5 zhi3
 窗扇	chuang1 shan4
 窗明几淨	chuang1 ming2 ji1 jing4
-窗明几淨	chuang1 ming2 ji3 jing4
 窗槅	chuang1 ge2
 窗檻	chuang1 jian4
 窗櫺子	chuang1 ling2 zi5
@@ -62293,7 +62292,7 @@ min_phrase_weight: 100
 茵藉	yin1 jie4
 茶	cha2
 茶上	cha2 shang5
-茶几	cha2 ji3
+茶几	cha2 ji1
 茶坊	cha2 fang1
 茶坊	cha2 fang2
 茶局子	cha2 ju2 zi5
@@ -77632,7 +77631,7 @@ min_phrase_weight: 100
 隱	yin4	0%
 隱不違親	yin3 bu4 wei2 qin1
 隱介藏形	yin3 jie4 cang2 xing2
-隱几	yin4 ji3
+隱几	yin4 ji1
 隱函數	yin3 han2 shu4
 隱君子	yin3 jun1 zi3
 隱君子	yin3 jun1 zi5
@@ -78074,7 +78073,7 @@ min_phrase_weight: 100
 雪獅子向火	xue3 shi1 zi5 xiang4 huo3
 雪白	xue3 bai2
 雪白	xue4 bai2
-雪窗螢几	xue3 chuang1 ying2 ji3
+雪窗螢几	xue3 chuang1 ying2 ji1
 雪茄	xue3 jia1
 雪茄煙	xue3 jia1 yan1
 雫	na3
