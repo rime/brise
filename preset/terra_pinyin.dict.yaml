@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.08.19"
+version: "2014.09.02"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -43288,9 +43288,12 @@ min_phrase_weight: 100
 氀	shu1
 氀	yu2
 氁	mu2
+氂	li2
 氂	mao2
 氂牛	li2 niu2
+氂牛	mao2 niu2
 氂纓	li2 ying1
+氂纓	mao2 ying1
 氃	tong2
 氃氋	tong2 meng2
 氄	rong3
@@ -48827,6 +48830,7 @@ min_phrase_weight: 100
 犙	san1
 犚	wei4
 犛	li2
+犛	mao2
 犜	dun1
 犝	tong2
 犟	jiang4
@@ -55635,6 +55639,7 @@ min_phrase_weight: 100
 窗明几淨	chuang1 ming2 ji3 jing4
 窗槅	chuang1 ge2
 窗檻	chuang1 jian4
+窗櫺子	chuang1 ling2 zi5
 窗欞子	chuang1 ling2 zi5
 窗沿	chuang1 yan2
 窗間過馬	chuang1 jian1 guo4 ma3
