@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.09.25"
+version: "2014.09.29"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -41050,6 +41050,7 @@ min_phrase_weight: 100
 椅	yi3
 椅子	yi3 zi5
 椆	chou2
+椆苕	diao1 tiao2
 椆苕	diao4 tiao2
 椇	ju3
 椈	ju2
@@ -57048,6 +57049,7 @@ min_phrase_weight: 100
 紅脖子	hong2 bo2 zi5
 紅與黑	hong2 yu3 hei1
 紅色廣場	hong2 se4 guang3 chang2
+紅苕	hong2 shao2
 紅苕	hong2 tiao2
 紅茄苳	hong2 jia1 dong1
 紅葉少棒隊	hong2 ye4 shao4 bang4 dui4
@@ -59202,6 +59204,7 @@ min_phrase_weight: 100
 翠蓋	cui4 gai4
 翠鈿	cui4 dian4
 翡	fei3
+翡翠蘭苕	fei3 cui4 lan2 tiao2
 翢	dao4
 翢	zhou1
 翣	sha4
@@ -62042,9 +62045,17 @@ min_phrase_weight: 100
 苔蘚植物	tai2 xian3 zhi2 wu4
 苔衣	tai2 yi1
 苔錢	tai2 qian2
+苕	shao2
 苕	tiao2
+苕之華	tiao2 zhi1 hua2
+苕子	tiao2 zi5
 苕子	tiao2 zi5
 苕帚	tiao2 zhou5
+苕帚	tiao2 zhou5
+苕果	tiao2 guo3
+苕溪	tiao2 xi1
+苕苕	tiao2 tiao2
+苕華玉	tiao2 hua2 yu4
 苖	di2
 苗	miao2
 苗子	miao2 zi5
@@ -63305,6 +63316,7 @@ min_phrase_weight: 100
 葤	zhou4
 葥	qian2
 葦	wei3
+葦苕繫巢	wei3 tiao2 xi4 chao2
 葦苕繫巢	wei3 tiao2 xi4 chao2
 葧	bo2
 葧薺	bo2 qi2
@@ -77448,6 +77460,7 @@ min_phrase_weight: 100
 陵園	ling2 yuan2
 陵土未乾	ling2 tu3 wei4 gan1
 陵折	ling2 zhe2
+陵苕	ling2 tiao2
 陶	tao2
 陶樂	tao2 le4
 陶樂縣	tao2 le4 xian4
