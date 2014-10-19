@@ -99035,13 +99035,13 @@ min_phrase_weight: 100
 㐵	ru2
 佦	you4
 佨	bao1
-侤	ta0
+侤	ta5
 俧	zhi4
 倿	ning4
 傦	gu3
 僲	xian1
 儏	can4
-兯	han0
+兯	han5
 凧	zheng1
 凩	mu4
 凪	zhi3
@@ -99059,7 +99059,7 @@ min_phrase_weight: 100
 囎	zeng4
 囖	luo2
 囖	luo1
-囖	luo0
+囖	luo5
 圦	kuai4
 圷	xia4
 圸	shan1
@@ -99159,7 +99159,7 @@ min_phrase_weight: 100
 榁	shi3
 榋	chu1
 榌	bi1
-榌	pi0
+榌	pi5
 槝	dao3
 槞	long2
 樭	ji1
@@ -99172,7 +99172,7 @@ min_phrase_weight: 100
 橸	jing1
 橺	xian4
 橻	cu1
-橻	chu0
+橻	chu5
 櫊	ge2
 櫤	jiang4
 櫦	qing4
@@ -99186,7 +99186,7 @@ min_phrase_weight: 100
 毶	san1
 氞	nei4
 氺	shui3
-汢	tu0
+汢	tu5
 汣	jiu3
 涥	heng1
 渏	yi1
@@ -99221,7 +99221,7 @@ min_phrase_weight: 100
 爎	liao2
 爎	liao3
 爘	can1
-爳	han0
+爳	han5
 牜	niu2
 獇	qiang1
 珯	lao3
@@ -99262,14 +99262,14 @@ min_phrase_weight: 100
 笹	ti4
 笽	min3
 筺	kuang1
-筽	o0
+筽	o5
 篐	gu1
 篒	yi4
 簓	diao1
 簗	zhu4
 簯	qi2
 簱	qi2
-籂	shi0
+籂	shi5
 籎	yi2
 籏	qi2
 籡	qie4
@@ -99388,7 +99388,7 @@ min_phrase_weight: 100
 魹	mo2
 鮖	shi2
 鮗	dong1
-鮘	chou0
+鮘	chou5
 鮘	dai4
 鮱	lao3
 鮲	fu2
@@ -99420,6 +99420,6 @@ min_phrase_weight: 100
 鶎	zun1
 鶫	dong1
 𠦌	xi4
-𣐤	jiu
-𦛨	lao
-𩾇	hu
+𣐤	jiu5
+𦛨	lao5
+𩾇	hu5
