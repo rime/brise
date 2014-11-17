@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.09.29"
+version: "2014.11.17"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -39345,6 +39345,7 @@ min_phrase_weight: 100
 朝天宮	chao2 tian1 gong1
 朝天搗亂	chao2 tian1 dao3 luan4
 朝天餛飩	chao2 tian1 hun2 dun5
+朝天餛飩	chao2 tian1 hun2 tun5
 朝天髻	chao2 tian1 ji4
 朝奉	chao2 feng4
 朝宗	chao2 zong1
@@ -72536,6 +72537,7 @@ min_phrase_weight: 100
 道茄子	dao4 qie2 zi5
 道藏	dao4 zang4
 道行	dao4 hang5
+道行	dao4 heng2
 道袍竹冠	dao4 pao2 zhu2 guan1
 道觀	dao4 guan4
 道調	dao4 diao4
@@ -79874,6 +79876,7 @@ min_phrase_weight: 100
 餚	yao2
 餛	hun2
 餛飩	hun2 dun5
+餛飩	hun2 tun5
 餜	guo3
 餜子	guo3 zi5
 餝	shi4
