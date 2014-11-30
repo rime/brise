@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2014.09.02"
+version: "2014.11.17"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -18545,7 +18545,7 @@ min_phrase_weight: 100
 咋唶	zha4 jie4
 咋舌	ze2 she2
 咋舌	zha4 she2
-和	han4	0%
+和	han4	70%
 和	he2	90%
 和	he4	3%
 和	hu2	1%
@@ -21562,7 +21562,7 @@ min_phrase_weight: 100
 垺	pei1
 垺	pou2
 垻	ba4
-垻	bei4
+垻	bei4	0%
 垼	yi4
 垽	yin4
 垾	an4
@@ -28400,7 +28400,7 @@ min_phrase_weight: 100
 幺並矢	yao1 bing4 shi3
 幺喝	yao1 he5
 幺麼	yao1 mo2
-幺麼小丑	yao1 mo2 xiao3 chou3
+幺麼小醜	yao1 mo2 xiao3 chou3
 幺點	yao1 dian3
 幻	huan4
 幻夢成空	huan4 meng4 cheng2 kong1
@@ -30058,6 +30058,7 @@ min_phrase_weight: 100
 徵得	zheng1 de2
 徵答	zheng1 da2
 徵調	zheng1 diao4
+徵調	zhi3 diao4	5%
 徵辟	zheng1 bi4
 徶	bie2
 德	de2
@@ -39344,6 +39345,7 @@ min_phrase_weight: 100
 朝天宮	chao2 tian1 gong1
 朝天搗亂	chao2 tian1 dao3 luan4
 朝天餛飩	chao2 tian1 hun2 dun5
+朝天餛飩	chao2 tian1 hun2 tun5
 朝天髻	chao2 tian1 ji4
 朝奉	chao2 feng4
 朝宗	chao2 zong1
@@ -41049,6 +41051,7 @@ min_phrase_weight: 100
 椅	yi3
 椅子	yi3 zi5
 椆	chou2
+椆苕	diao1 tiao2
 椆苕	diao4 tiao2
 椇	ju3
 椈	ju2
@@ -57047,6 +57050,7 @@ min_phrase_weight: 100
 紅脖子	hong2 bo2 zi5
 紅與黑	hong2 yu3 hei1
 紅色廣場	hong2 se4 guang3 chang2
+紅苕	hong2 shao2
 紅苕	hong2 tiao2
 紅茄苳	hong2 jia1 dong1
 紅葉少棒隊	hong2 ye4 shao4 bang4 dui4
@@ -59201,6 +59205,7 @@ min_phrase_weight: 100
 翠蓋	cui4 gai4
 翠鈿	cui4 dian4
 翡	fei3
+翡翠蘭苕	fei3 cui4 lan2 tiao2
 翢	dao4
 翢	zhou1
 翣	sha4
@@ -62041,9 +62046,15 @@ min_phrase_weight: 100
 苔蘚植物	tai2 xian3 zhi2 wu4
 苔衣	tai2 yi1
 苔錢	tai2 qian2
+苕	shao2
 苕	tiao2
+苕之華	tiao2 zhi1 hua2
 苕子	tiao2 zi5
 苕帚	tiao2 zhou5
+苕果	tiao2 guo3
+苕溪	tiao2 xi1
+苕苕	tiao2 tiao2
+苕華玉	tiao2 hua2 yu4
 苖	di2
 苗	miao2
 苗子	miao2 zi5
@@ -72526,6 +72537,7 @@ min_phrase_weight: 100
 道茄子	dao4 qie2 zi5
 道藏	dao4 zang4
 道行	dao4 hang5
+道行	dao4 heng2
 道袍竹冠	dao4 pao2 zhu2 guan1
 道觀	dao4 guan4
 道調	dao4 diao4
@@ -77447,6 +77459,7 @@ min_phrase_weight: 100
 陵園	ling2 yuan2
 陵土未乾	ling2 tu3 wei4 gan1
 陵折	ling2 zhe2
+陵苕	ling2 tiao2
 陶	tao2
 陶樂	tao2 le4
 陶樂縣	tao2 le4 xian4
@@ -79863,6 +79876,7 @@ min_phrase_weight: 100
 餚	yao2
 餛	hun2
 餛飩	hun2 dun5
+餛飩	hun2 tun5
 餜	guo3
 餜子	guo3 zi5
 餝	shi4
