@@ -17,3 +17,4 @@ build dependencies:
   - librime>=1.2 (for rime_deployer)
 runtime dependency:
   - librime>=1.2
+  - opencc>=1.2

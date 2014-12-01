@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_tw
   name: 朙月拼音·臺灣正體
-  version: "0.19"
+  version: "0.20"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -81,7 +81,7 @@ custom_phrase:
   initial_quality: 1
 
 simplifier:
-  opencc_config: zht2zhtw_v.ini
+  opencc_config: t2tw.json
   option_name: zh_tw
 
 punctuator:

@@ -4,7 +4,7 @@
 schema:
   schema_id: bopomofo_tw
   name: 注音·臺灣正體
-  version: "1.4"
+  version: "1.5"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -144,7 +144,7 @@ reverse_lookup:
     - 'xlit|bpmfdtnlgkhjqxZCSrzcsiuvaoeEAIOUMNKGR2345|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦˊˇˋ˙|'
 
 simplifier:
-  opencc_config: zht2zhtw_v.ini
+  opencc_config: t2tw.json
   option_name: zh_tw
 
 punctuator:
