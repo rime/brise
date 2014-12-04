@@ -12,6 +12,9 @@ Gong Chen <chen.sst@gmail.com> : (GPLv3)
   supplement/wubi_pinyin.schema.yaml
   extra/stenotype.schema.yaml
 
+Gong Chen <chen.sst@gmail.com>, Ye Zhou : (GPL v3)
+  supplement/double_pinyin_pyjj.schema.yaml
+
 Gong Chen <chen.sst@gmail.com>, Kunki Chiu <cokunhui@gmail.com> : (GPLv3)
 using data from Chewing / 新酷音 (GPL),
 opencc / 開放中文轉換 (Apache License version 2),
