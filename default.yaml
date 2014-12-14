@@ -1,7 +1,7 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: "0.35"
+config_version: "0.36"
 
 schema_list:
   - schema: luna_pinyin
