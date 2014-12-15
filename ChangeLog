@@ -1,3 +1,23 @@
+2014-12-14  GONG Chen  <chen.sst@gmail.com>
+
+	* preset/bopomofo: fix syllabification errors when tones are omitted.
+	* preset/cangjie5: enable single_char_filter; enable "/fh" style symbols.
+	* preset/luna_pinyin: enable "/fh" style symbols; update table.
+	* preset/terra_pinyin: update table.
+	* supplement/jyutping: update table.
+	* supplement/double_pinyin_pyjj.schema.yaml: new double pinyin schema
+	originated from PinyinPlusPlus.
+	* opencc/s2t.json: OpenCC 1.0 config file for Simp. to Trad. Chinese
+	conversion.
+	* opencc/t2s.json: OpenCC 1.0 config file for Trad. to Simp. Chinese
+	conversion.
+	* opencc/t2hk.json: OpenCC 1.0 config file for conversion to Hong Kong
+	standard.
+	* opencc/t2tw.json: OpenCC 1.0 config file for conversion to Taiwan
+	standard.
+	* symbols.yaml: reorder frequently used symbols.
+	* essay.txt: fix bugs.
+
 2014-07-19  GONG Chen  <chen.sst@gmail.com>
 
 	* default.yaml: add switch 'ascii_punct' to switch on and off Chinese
