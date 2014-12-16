@@ -1,7 +1,7 @@
 ifeq (${SRCDIR},)
 	SRCDIR=$(shell pwd)
 endif
-DATA:=${SRCDIR}/data
+OUTPUT:=${SRCDIR}/output
 
 ifeq (${PREFIX},)
 	PREFIX=/usr
@@ -12,13 +12,15 @@ endif
 
 all:
 	@echo "building rime data."
-	@mkdir -p ${DATA}
-	@cp essay.txt  ${DATA}
-	@cp default.yaml ${DATA}
-	@cp symbols.yaml ${DATA}
-	@cp preset/*.yaml  ${DATA}
-	@cp supplement/*.yaml  ${DATA}
-	rime_deployer --build  ${DATA}
+	@mkdir -p ${OUTPUT}
+	@cp essay.txt  ${OUTPUT}
+	@cp default.yaml ${OUTPUT}
+	@cp symbols.yaml ${OUTPUT}
+	@cp preset/*.yaml  ${OUTPUT}
+	@cp supplement/*.yaml  ${OUTPUT}
+	@mkdir -p ${OUTPUT}/opencc
+	@cp opencc/*.json  ${OUTPUT}/opencc
+	rime_deployer --build  ${OUTPUT}
 
 # deprecated
 essay.kct:
@@ -29,4 +31,6 @@ essay.kct:
 install:
 	@echo "installing rime data into '${DESTDIR}${RIME_DATA_DIR}'."
 	@install -d ${DESTDIR}${RIME_DATA_DIR}
-	@install -m 644 ${DATA}/* ${DESTDIR}${RIME_DATA_DIR}
+	@install -m 644 ${OUTPUT}/* ${DESTDIR}${RIME_DATA_DIR}
+	@install -d ${DESTDIR}${RIME_DATA_DIR}/opencc
+	@install -m 644 ${OUTPUT}/opencc/* ${DESTDIR}${RIME_DATA_DIR}/opencc
