@@ -11,6 +11,12 @@ Gong Chen <chen.sst@gmail.com> : (GPLv3)
   supplement/quick5.schema.yaml
   supplement/wubi_pinyin.schema.yaml
   extra/stenotype.schema.yaml
+  opencc/t2tw.json
+  opencc/t2hk.json
+
+BYVoid <byvoid@byvoid.com> : (Apache License version 2)
+  opencc/t2s.json
+  opencc/s2t.json
 
 Gong Chen <chen.sst@gmail.com>, Ye Zhou : (GPL v3)
   supplement/double_pinyin_pyjj.schema.yaml
