@@ -6,7 +6,7 @@ Rime schema repository
 
 Project home
 ---
-[rimeime.github.io](https://rimeime.github.io)
+[rimeime.github.io](http://rimeime.github.io)
 
 License
 ---
@@ -15,7 +15,7 @@ GPLv3
 Contents
 ===
 This software package contains a collection of configuration and data files
-used by [Rime](https://rimeime.github.io) to support popular Chinese input methods.
+used by [Rime](http://rimeime.github.io) to support popular Chinese input methods.
 
 A Rime input schema, which defines a specific input method in Rime's DSL,
 consists of a schema file named `*.schema.yaml` where `*` is the schema ID,
