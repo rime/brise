@@ -34,3 +34,8 @@ install:
 	@install -m 644 ${OUTPUT}/*.* ${DESTDIR}${RIME_DATA_DIR}
 	@install -d ${DESTDIR}${RIME_DATA_DIR}/opencc
 	@install -m 644 ${OUTPUT}/opencc/*.* ${DESTDIR}${RIME_DATA_DIR}/opencc
+
+clean:
+	rm -Rf output > /dev/null 2>&1 || true
+
+.PHONY: all install clean
