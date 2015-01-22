@@ -3,12 +3,12 @@
 
 schema:
   schema_id: stenotype
-  name: 速記打字法
-  version: "0.9"
+  name: 打字速記法
+  version: "1.0"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
-    根據書中記述的一種基於打字機的早期中文速記改編。
+    根據書中記述的一種字母式中文速記改編。
 
 switches:
   - name: ascii_mode
@@ -43,7 +43,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA/-=$@~`'<>;:\""
+  alphabet: "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA-=$@~`'<>,.:\""
   delimiter: " _"
   algebra:
     - erase/^xx$/
@@ -53,6 +53,8 @@ speller:
     - xform/([iuv])n$/$1en/
     - xform/ui$/uei/
     - xform/iu$/iou/
+    - xform/uo$/,/
+    - xform/(?<!a)o$/,/
     - xform/ing$/I/
     - xform/^bi/B/
     - xform/^pi/P/
@@ -68,48 +70,57 @@ speller:
     - xform/^ju/J/
     - xform/^qu/Q/
     - xform/^xu/X/
-    - xform/^([zcs])h/$1/
+    # ① ZCSR = zhu/zu,chu/cu,shu/su,ru
+    - derive/^([zcs])h/$1/
     - xform/^zu/Z/
     - xform/^cu/C/
     - xform/^su/S/
     - xform/^ru/R/
+#    # ② ZCSR = zh,ch,sh,r; zcsr = z,c,s,er
+#    - xform/^zh/Z/
+#    - xform/^ch/C/
+#    - xform/^sh/S/
+#    - xform/^r/R/
     - xform/^([bpmf])u$/$1/
     - xform/^([dtnlgkh])e$/$1/
-    - xform/^([jqxzcsr])i/$1/
+    - xform/^([jqxZCSRzcs])i/$1/
     - xform/^er$/r/
+    - xform/(?<![ae])i$/./
+    - xform/(?<!o)u$/:/
+    - "xform/v$/\"/"
+    - xform/ia$/`/
+    - xform/ua$/~/
+    - "xform/a$/'/"
+    - xform/ie$/</
+    - xform/ve$/>/
+    - xform/uai$/@/
+    - xform/uei$/v/
+    - xform/ai$/i/
+    - xform/ei$/e/
+    - xform/i?ao$/o/
+    - xform/i?ou$/u/
+    - xform/ian$/y/
+    - xform/uan$/w/
+    - xform/van$/$/
+    - xform/an$/a/
+    - xform/ien$/=/
+    - xform/uen$/U/
+    - xform/ven$/V/
+    - xform/en$/-/
     - xform/iang$/Y/
     - xform/uang$/W/
     - xform/ang$/A/
     - xform/eng$/E/
     - xform/i?ong$/O/
-    - xform/ien$/=/
-    - xform/uen$/U/
-    - xform/ven$/V/
-    - xform/ian$/y/
-    - xform/uan$/w/
-    - xform/van$/$/
-    - xform|an$|/|
-    - xform|en$|-|
-    - "xform/v$/\"/"
-    - xform/uei$/v/
-    - xform/uai$/@/
-    - xform/ia$/`/
-    - xform/ua$/~/
-    - "xform/a$/'/"
-    - xform/i?ao$/a/
-    - xform/i$/;/
-    - xform/e;$/e/
-    - xform/a;$/i/
-    - "xform/u$/:/"
-    - "xform/i?o:$/u/"
-    - xform/uo$/o/
-    - xform/ie$/</
-    - xform/ve$/>/
-    - derive|^([BPMDTNLjqx])/$|\L$1\Ey|
-    - derive|^([GKHJQXZCSR])/$|\L$1\Ew|
+    - derive|^([BPMDTNLjqx])a$|\L$1\Ey|
+    # ① ZCSR = zhu/zu,chu/cu,shu/su,ru
+    - derive|^([GKHJQXZCSR])a$|\L$1\Ew|
     - derive|^([GKHJQXZCSR])-$|\L$1\EU|
     - derive|^([GKHZCSR])e$|\L$1\Ev|
-    - derive|^([GKHZCSR])o$|\L$1\Eo|
+#    # ② ZCSR = zh,ch,sh,r; zcsr = z,c,s,er
+#    - derive|^([GKHJQX])a$|\L$1\Ew|
+#    - derive|^([GKHJQX])-$|\L$1\EU|
+#    - derive|^([GKH])e$|\L$1\Ev|
 
 translator:
   dictionary: luna_pinyin
@@ -118,35 +129,37 @@ translator:
 punctuator:
   full_shape:
     " " : { commit: "　" }
-    "," : { commit: ， }
-    "." : { commit: 。 }
+    ";" : [ "，", "。", "：", "；" ]
+    "/" : [ "、", ／, "/" ]
     "?" : { commit: ？ }
     "!" : { commit: ！ }
     "^" : { commit: …… }
     "(" : （
     ")" : ）
-    "|" : [ ——, ·, ｜, "§", "¦" ]
-    "[" : [ 「, 【, 〔, ［ ]
-    "]" : [ 」, 】, 〕, ］ ]
-    "{" : [ 『, 〖, ｛ ]
-    "}" : [ 』, 〗, ｝ ]
+    "|" : [ ——, ·, ｜, "¦", "§" ]
+    "[" : [ 「, 【, 〈, 〔, ［ ]
+    "]" : [ 」, 】, 〉, 〕, ］ ]
+    "{" : [ （, 『, 《, 〖, ｛ ]
+    "}" : [ ）, 』, 》, 〗, ｝ ]
   half_shape:
     " " : { commit: " " }
-    "," : { commit: ， }
-    "." : { commit: 。 }
+    ";" : [ "，", "。", "：", "；" ]
+    "/" : [ "、", ／, "/" ]
     "?" : { commit: ？ }
     "!" : { commit: ！ }
     "^" : { commit: …… }
     "(" : （
     ")" : ）
-    "|" : [ ——, ·, ｜, "|", "§", "¦" ]
-    "[" : [ 「, 【, 〔, ［ ]
-    "]" : [ 」, 】, 〕, ］ ]
-    "{" : [ 『, 〖, ｛ ]
-    "}" : [ 』, 〗, ｝ ]
+    "|" : [ ——, ·, "¦", ｜, "§" ]
+    "[" : [ 「, 【, 〈, 〔, ［ ]
+    "]" : [ 」, 】, 〉, 〕, ］ ]
+    "{" : [ （, 『, 《, 〖, ｛ ]
+    "}" : [ ）, 』, 》, 〗, ｝ ]
 
 key_binder:
   import_preset: default
   bindings:
     - { when: has_menu, accept: minus, send: minus }
     - { when: has_menu, accept: equal, send: equal }
+    - { when: paging, accept: comma, send: comma }
+    - { when: has_menu, accept: period, send: period }
