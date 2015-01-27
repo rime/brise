@@ -4,7 +4,7 @@
 schema:
   schema_id: bopomofo
   name: 注音
-  version: "1.8"
+  version: "1.9"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -202,6 +202,10 @@ punctuator:
     "]" : [ 」, 】, 》, 〕, ］ ]
     "{" : [ 『, 〖, 〈, ｛ ]
     "}" : [ 』, 〗, 〉, ｝ ]
+
+editor:
+  bindings:
+    space: toggle_selection
 
 key_binder:
   import_preset: default
