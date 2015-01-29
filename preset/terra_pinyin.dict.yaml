@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.01.27"
+version: "2015.01.29"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -7636,7 +7636,7 @@ min_phrase_weight: 100
 七顛八倒	qi1 dian1 ba1 dao3
 丄	shang4
 丅	xia4
-丆	xx
+#丆
 万	mo4	1%
 万	wan4	99%
 万俟	mo4 qi2
@@ -7856,8 +7856,8 @@ min_phrase_weight: 100
 上當	shang4 dang4
 上疏	shang4 shu4
 上相	shang4 xiang4
-上着	shang zhao
-上着	shang zhe
+上着	shang4 zhao1
+上着	shang4 zhe5
 上知	shang4 zhi4
 上空	shang4 kong1
 上空洗車	shang4 kong1 xi3 che1
@@ -9049,8 +9049,7 @@ min_phrase_weight: 100
 丵	zhuo2
 丶	dian3	50%
 丶	zhu3	50%
-丷	ba1	50%
-丷	xx	50%
+丷	ba1
 丸	wan2
 丸子	wan2 zi5
 丸泥	wan2 ni2
@@ -9125,7 +9124,7 @@ min_phrase_weight: 100
 么	mo2	0%
 么	yao1	100%
 义	yi4
-乊	xx
+#乊
 之	zhi1
 之死靡他	zhi1 si3 mi3 ta1
 之死靡他	zhi1 si3 mi3 tuo1
@@ -9259,14 +9258,14 @@ min_phrase_weight: 100
 乢	gai4
 乣	jiu3
 乣軍	diu1 jun1
-乤	xx
-乥	xx
+#乤
+#乥
 书	shu1
-乧	xx
+#乧
 乨	shi3
 乩	ji1
 乪	nang1
-乫	xx
+#乫
 乬	ju4
 乭	shi2
 乮	mao3
@@ -9288,13 +9287,13 @@ min_phrase_weight: 100
 乴	xue2
 乵	yan3
 乶	fu3
-乷	xx
+#乷
 乸	na3
 乹	gan1	50%
 乹	qian2	50%
-乺	xx
+#乺
 乻	yu2
-乼	xx
+#乼
 乽	zhe3
 乾	gan1	80%
 乾	qian2	20%
@@ -9880,7 +9879,7 @@ min_phrase_weight: 100
 产	chan3
 亨	heng1
 亩	mu3
-亪	xx
+#亪
 享	xiang3
 享樂	xiang3 le4
 享樂主義	xiang3 le4 zhu3 yi4
@@ -10080,8 +10079,7 @@ min_phrase_weight: 100
 人魚小姐	ren2 yu2 xiao3 jie5
 亻	ren2
 亼	ji2
-亽	ji2	50%
-亽	xx	50%
+亽	ji2
 亾	wang2
 亿	yi4
 什	she2	0%
@@ -10155,7 +10153,7 @@ min_phrase_weight: 100
 仏	fo2
 仐	san3
 仑	lun2
-仒	xx
+#仒
 仓	cang1
 仔	zai3	90%
 仔	zi1	0%
@@ -15991,7 +15989,7 @@ min_phrase_weight: 100
 匀	jun1
 匀	yun2
 匀	yun4
-匁	xx
+#匁
 匃	gai4
 匄	gai4
 包	bao1
@@ -16727,8 +16725,7 @@ min_phrase_weight: 100
 卧	wo4
 卨	xie4
 卩	jie2
-卪	jie2	50%
-卪	xx	50%
+卪	jie2
 卫	wei4
 卬	ang2
 卬首信眉	ang2 shou3 shen1 mei2
@@ -17074,7 +17071,7 @@ min_phrase_weight: 100
 去得	qu4 de5
 去得快	qu4 de2 kuai4
 去處	qu4 chu4
-厼	xx
+#厼
 厽	lei3
 厾	du1
 县	xian4
@@ -22332,7 +22329,7 @@ min_phrase_weight: 100
 士子	shi4 zi5
 士爲知己者死	shi4 wei4 zhi1 ji3 zhe3 si3
 壬	ren2
-壭	xx
+#壭
 壮	zhuang4
 壯	zhuang4
 壯盛	zhuang4 sheng4
@@ -39589,7 +39586,7 @@ min_phrase_weight: 100
 木餾油	mu4 liu4 you2
 木骨都束	mu4 gu3 du1 shu4
 木齒耙	mu4 chi3 pa2
-朩	xx
+#朩
 未	wei4
 未了	wei4 liao3
 未了公案	wei4 liao3 gong1 an4
@@ -39683,7 +39680,7 @@ min_phrase_weight: 100
 术	shu2
 术	shu4
 术	zhu2
-朰	xx
+#朰
 朱	zhu1
 朱利婭	zhu1 li4 ya4
 朱士行	zhu1 shi4 xing2
@@ -50531,7 +50528,7 @@ min_phrase_weight: 100
 畐	fu2
 畑	tian2
 畒	mu3
-畓	xx
+#畓
 畔	pan4
 畕	jiang1
 畖	wa1
@@ -58785,7 +58782,7 @@ min_phrase_weight: 100
 罓	gang1
 罔	wang3
 罕	han3
-罖	xx
+#罖
 罗	luo1
 罘	fu2
 罙	mi2
@@ -71795,7 +71792,7 @@ min_phrase_weight: 100
 边	bian1
 辺	bian1
 辻	shi2
-込	xx
+#込
 辽	liao2
 达	da2
 达	ta4
