@@ -5357,6 +5357,7 @@ use_preset_vocabulary: true
 粰	biu	
 𢞦	byo	
 福	piuk	
+福	phiuh	0%
 綍	pyot	
 榑	byo	
 箙	biuk	
@@ -7057,6 +7058,7 @@ use_preset_vocabulary: true
 𢘆	ghong	
 𢘆	ghuan	
 恒	ghong	
+恆	ghong	
 珩	ghrang	
 桁	ghang	
 桁	ghrang	
@@ -15580,7 +15582,7 @@ use_preset_vocabulary: true
 䙄	chrip	
 䙄	crep	
 䔾	khied	
-䔾	mat	
+䔾	muat	
 槭	ciuk	
 𦩣	kheh	
 𡢖	kheh	
@@ -18986,7 +18988,7 @@ use_preset_vocabulary: true
 坦	thanx	
 䏙	thomx	
 袒	danx	
-袒	trenh	
+袒	drenh	
 菼	thamx	
 毯	thamx	
 𦵹	thamx	
@@ -25663,7 +25665,7 @@ use_preset_vocabulary: true
 站	tremh	
 㟞	zrenx	
 偡	dremx	
-䋎	trenh	
+䋎	drenh	
 棧	zranh	
 棧	zrenx	
 棧	zrienx	
@@ -25674,7 +25676,7 @@ use_preset_vocabulary: true
 㴴	dremx	
 䗃	zranh	
 䗃	zranx	
-綻	trenh	
+綻	drenh	
 輚	zranh	
 輚	zrenx	
 嶘	zrenx	
