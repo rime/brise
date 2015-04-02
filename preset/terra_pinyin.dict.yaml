@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.01.29"
+version: "2015.04.02"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -13600,7 +13600,8 @@ min_phrase_weight: 100
 内	rui4
 円	yuan2
 冇	mao3
-冈	gang1
+冈	gang1	0%
+冈	wang3
 冉	ran3
 冊	ce4
 冊子	ce4 zi5
@@ -58781,7 +58782,7 @@ min_phrase_weight: 100
 罐頭起子	guan4 tou5 qi3 zi5
 网	wang3
 罒	wang3
-罓	gang1
+罓	wang3
 罔	wang3
 罕	han3
 #罖
