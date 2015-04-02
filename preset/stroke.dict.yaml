@@ -14227,7 +14227,7 @@ max_phrase_length: 0         # 不生成詞彙
 每	phzznnh
 毐	hshzzph
 毑	zznnhzsz
-毒	hhshzznnh
+毒	hhshzzph
 毓	phzznnhhznpsz
 比	hzhz
 毕	hzhzhs
@@ -25620,7 +25620,7 @@ max_phrase_length: 0         # 不生成詞彙
 顑	hphszhznphpszhhhpn
 顒	szhhszshnhpszhhhpn
 顓	szshpszsshpszhhhpn
-顔	nhnphz
+顔	nhnphpppphpszhhhpn
 顕	szhhssnphhpszhhhpn
 顖	pszpnhnznnhpszhhhpn
 顗	szshszhnphhpszhhhpn
@@ -89098,7 +89098,6 @@ max_phrase_length: 0         # 不生成詞彙
 顅	nzhpszhhhpszhhhpn
 顈	pzzznspnhpszhhhpn
 顑	hphszhzpnhpszhhhpn
-顔	nhnphpppphpszhhhpn
 願	hppszhhspnhpszhhhpn
 顚	pzszhhhzpnhpszhhhpn
 顜	hhsshszshhhpszhhhpn
