@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.04.02"
+version: "2015.04.07"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -72919,7 +72919,7 @@ min_phrase_weight: 100
 那不勒斯王國	na4 bu2 le4 si1 wang2 guo2
 那些	na3 xie1
 那些	na4 xie1
-那個	na3 ge5
+那個	na3 ge5	0%
 那個	na4 ge5
 那個	nei4 ge4
 那個耗子不偷油	na3 ge5 hao4 zi5 bu4 tou1 you2
