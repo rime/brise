@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.04.17"
+version: "2015.04.20"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -47089,7 +47089,7 @@ min_phrase_weight: 100
 一個	yi1 ge5
 一個不小心	yi1 ge5 bu4 xiao3 xin1
 一個中國政策	yi2 ge4 zhong1 guo2 zheng4 ce4
-一個個要着地	ge4 ge4 yao4 zhuo2 di4
+一個個要着地	yi2 ge4 ge4 yao4 zhuo2 di4
 一個勁	yi2 ge4 jin4
 一個勁兒	yi2 ge4 jin4 r5
 一個富貴心	yi1 ge5 fu4 gui4 xin1
@@ -49470,7 +49470,8 @@ min_phrase_weight: 100
 二鬼子	er4 gui3 zi5
 于嗟	xu1 jie1
 于思	yu2 sai1
-于闐縣
+于闐	yu2 tian2
+于闐縣	yu2 tian2 xian4
 于飛之樂	yu2 fei1 zhi1 le4
 云爲	yun2 wei2
 互不相讓	hu4 bu4 xiang1 rang4
@@ -59532,7 +59533,7 @@ min_phrase_weight: 100
 大黃	dai4 huang2
 天上人間	tian1 shang4 ren2 jian1
 天上少有	tian1 shang4 shao3 you3
-天下危	tian1 xia4 wei2 zhu4
+天下危	tian1 xia4 wei2
 天下無難事	tian1 xia4 wu2 nan2 shi4
 天下爲一	tian1 xia4 wei2 yi1
 天下爲公	tian1 xia4 wei2 gong1
@@ -60433,7 +60434,7 @@ min_phrase_weight: 100
 姪女婿	zhi2 nv3 xu4
 姪女婿	zhi2 nv3 xu5
 姪子	zhi2 zi5
-姹女
+姹女	cha4 nv3
 姻親	yin1 qin1
 姿態婀娜	zi1 tai4 e1 nuo2
 姿質	zi1 zhi2
@@ -62208,7 +62209,7 @@ min_phrase_weight: 100
 局部連結網絡	ju2 bu4 lian2 jie2 wang3 luo4
 局量	ju2 liang4
 局長	ju2 zhang3
-局限於
+局限於	ju2 xian4 yu2
 屁滾尿流	pi4 gun3 niao4 liu2
 屁眼兒	pi4 yan3 r5
 屁股	pi4 gu5
@@ -63800,7 +63801,7 @@ min_phrase_weight: 100
 強壯劑	qiang2 zhuang4 ji4
 強大	qiang2 da4
 強奪	qiang2 duo2
-強如手撥剌	ru2 shou3 bo1 la4
+強如手撥剌	qiang2 ru2 shou3 bo1 la4
 強姦	qiang2 jian1
 強姦民意	qiang2 jian1 min2 yi4
 強姦罪	qiang2 jian1 zui4
@@ -69346,7 +69347,7 @@ min_phrase_weight: 100
 效率	xiao4 lv4
 敏感度	min3 gan3 du4
 敏給	min3 ji3
-救之就要吃人肉	zhi1 jiu4 yao4 chi1 ren2 rou4
+救之就要吃人肉	jiu4 zhi1 jiu4 yao4 chi1 ren2 rou4
 救困扶危	jiu4 kun4 fu2 wei2
 救度	jiu4 du4
 救恩計劃	jiu4 en1 ji4 hua4
@@ -72182,8 +72183,8 @@ min_phrase_weight: 100
 柵極	zha4 ji2
 柿子	shi4 zi5
 柿子椒	shi4 zi5 jiao1
-栀子
-栀子花
+栀子	zhi1 zi3
+栀子花	zhi1 zi3 hua1
 栓塞	shuan1 se4
 栖息	xi1 xi2
 栖栖	xi1 xi1
@@ -74840,7 +74841,7 @@ min_phrase_weight: 100
 泥龍	ni2 long2
 注入式教學法	zhu4 ru4 shi4 jiao4 xue2 fa3
 注子	zhu4 zi5
-注意將	yi4 jiang4
+注意將	zhu4 yi4 jiang4
 注意相	zhu4 yi4 xiang4
 注意看	zhu4 yi4 kan4
 注疏	zhu4 shu4
@@ -75894,7 +75895,7 @@ min_phrase_weight: 100
 滿口應承	man3 kou3 ying4 cheng2
 滿口稱讚	man3 kou3 cheng1 zan4
 滿口答應	man3 kou3 da1 ying4
-滿嘴起疱
+滿嘴起疱	man3 zui3 qi3 pao4
 滿嘴跑舌頭	man3 zui3 pao3 she2 tou5
 滿地	man3 di4
 滿地撿芝麻	man3 di4 jian3 zhi1 ma5
@@ -76455,7 +76456,7 @@ min_phrase_weight: 100
 烏什塔拉	wu1 shen2 ta3 la1
 烏什塔拉回族鄉	wu1 shen2 ta3 la1 hui2 zu2 xiang1
 烏什塔拉鄉	wu1 shen2 ta3 la1 xiang1
-烏來	wu1 lai2 xiang1
+烏來	wu1 lai2
 烏塗	wu1 tu5
 烏塗水	wu1 tu5 shui3
 烏天黑地	wu1 tian1 hei1 di4
@@ -77093,7 +77094,7 @@ min_phrase_weight: 100
 爪哇人	zhao3 wa1 ren2
 爪哇國	zhao3 wa1 guo2
 爪哇島	zhao3 wa1 dao3
-爪哇族	zhao3 wa1
+爪哇族	zhao3 wa1 zu2
 爪士	zhao3 shi4
 爪子	zhua3 zi5
 爪尋	zhao3 xun2
@@ -78123,11 +78124,11 @@ min_phrase_weight: 100
 瓦解星散	wa3 jie3 xing1 san4
 瓦解雲散	wa3 jie3 yun2 san4
 瓦隆	wa3 long1
-瓮中捉鱉
-瓮安
-瓮棺
-瓮棺葬
-瓮菜
+瓮中捉鱉	weng4 zhong1 zhuo1 bie1
+瓮安	weng4 an1
+瓮棺	weng4 guan1
+瓮棺葬	weng4 guan1 zang4
+瓮菜	weng4 cai4
 瓴甋	ling2 di2
 瓶刷子樹	ping2 shua1 zi5 shu4
 瓶塞	ping2 sai1
@@ -85768,7 +85769,7 @@ min_phrase_weight: 100
 芟落	shan1 luo4
 芥子園畫傳	jie4 zi3 yuan2 hua4 zhuan4
 芥子氣惡病質	jie4 zi3 qi4 e4 bing4 zhi4
-芥子氣水疱
+芥子氣水疱	jie4 zi3 qi4 shui3 pao4
 芥末	jie4 mo4
 芥末	jie4 mo5
 芥藍	gai4 lan2
@@ -86065,7 +86066,7 @@ min_phrase_weight: 100
 荊棘載途	jing1 ji2 zai4 tu2
 荊軻	jing1 ke1
 荎藸	chi2 chu2
-荐言
+荐言	jian4 yan2
 荑手纖纖	ti2 shou3 xian1 xian1
 荒功好頑	huang1 gong1 hao4 wan2
 荒唐無稽	huang1 tang2 wu2 ji1
@@ -86890,7 +86891,7 @@ min_phrase_weight: 100
 蓋頭	gai4 tou2
 蓋頭	gai4 tou5
 蓋飯	gai4 fan4
-蓬戶瓮牖
+蓬戶瓮牖	peng2 hu4 weng4 you3
 蓬茆	peng2 mao2
 蓬蓬	peng2 peng2
 蓬蓬	peng2 peng5
@@ -93384,7 +93385,7 @@ min_phrase_weight: 100
 金融卡	jin1 rong2 ka3
 金融時報指數	jin1 rong2 shi2 bao4 zhi3 shu4
 金融槓桿	jin1 rong2 gang4 gan3
-金蟬脫殻
+金蟬脫殻	jin1 chan2 tuo1 qiao4
 金蟬脫殼	jin1 chan2 tuo1 ke2
 金谷酒數	jin1 gu3 jiu3 shu4
 金質	jin1 zhi2
