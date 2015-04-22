@@ -1,18 +1,17 @@
-# Rime schema settings
+# Rime schema
 # encoding: utf-8
 
 schema:
-  schema_id: quick5
-  name: 速成
-  version: "0.20"
+  schema_id: luna_quanpin
+  name: 全拼
+  version: "0.1"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
-    速成、倉頡詞句連打
-    碼表源自倉頡之友發佈的《五倉世紀版》
-    www.chinesecj.com
+    所謂「全拼」。其實是去除聲調的漢語拼音。
+    詞典供形碼用作拼音反查。
   dependencies:
-    - luna_quanpin
+    - stroke
 
 switches:
   - name: ascii_mode
@@ -43,45 +42,40 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - script_translator
     - reverse_lookup_translator
+    - script_translator
   filters:
     - simplifier
     - uniquifier
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " ;'"
+  delimiter: " '"
   algebra:
-    - 'derive/^([^z])\w+(\w)$/$1$2/'  # 取倉頡首尾二碼爲速成碼
+    - derive/^([nl])ve$/$1ue/
+    - derive/^([jqxy])u/$1v/
+    - derive/un$/uen/
+    - derive/ui$/uei/
+    - derive/iu$/iou/
 
 translator:
-  dictionary: quick5
-  prism: quick5
-  preedit_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz;'|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符··|"
-  comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
-  disable_user_dict_for_patterns:
-    - "^z.*$"
-    - "^yyy.*$"
-
-abc_segmentor:
-  extra_tags:
-    - reverse_lookup
-
-reverse_lookup:
   dictionary: luna_pinyin
   prism: luna_quanpin
-  prefix: "`"
-  suffix: "'"
-  tips: 〔拼音〕
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+
+reverse_lookup:
+  dictionary: stroke
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
   comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+    - xform/([nl])v/$1ü/
 
 punctuator:
   import_preset: default

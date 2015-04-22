@@ -4,7 +4,7 @@
 schema:
   schema_id: cangjie5_express
   name: 倉頡·快打模式
-  version: "2014.11.19"
+  version: "2015.04.22"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -17,7 +17,7 @@ schema:
       - 取消 , . 翻頁
       - 取消拼音混打
   dependencies:
-    - luna_pinyin
+    - luna_quanpin
 
 switches:
   - name: ascii_mode
@@ -78,6 +78,7 @@ translator:
 
 reverse_lookup:
   dictionary: luna_pinyin
+  prism: luna_quanpin
   prefix: "`"
   suffix: "'"
   tips: 〔拼音〕

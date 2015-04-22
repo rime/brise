@@ -4,13 +4,15 @@
 schema:
   schema_id: array30
   name: "行列30"
-  version: "0.11"
+  version: "0.12"
   author:
     - 發明人 廖明德先生
     - Jiehong Ma <ma.jiehong@gmail.com>
   description: |
     行列輸入法
     http://www.array.com.tw/
+  dependencies:
+    - luna_quanpin
 
 switches:
   - name: ascii_mode
@@ -99,6 +101,7 @@ abc_segmentor:
 
 reverse_lookup:
   dictionary: luna_pinyin
+  prism: luna_quanpin
   prefix: "`"
   suffix: "'"
   tips: 〔拼音〕
