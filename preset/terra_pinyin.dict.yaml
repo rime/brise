@@ -12236,6 +12236,7 @@ min_phrase_weight: 100
 弙	wu1
 弚	tui2
 弛	chi2
+弛	shi3	0%
 弜	jiang4
 弝	ba4
 弞	shen3
@@ -47235,9 +47236,7 @@ min_phrase_weight: 100
 一度着蛇咬	yi2 du4 zhao1 she2 yao3
 一廟一個神	yi2 miao4 yi2 ge5 shen2
 一弛一張	yi4 chi2 yi4 zhang1
-一弛一張	yi4 shi3 yi4 zhang1
 一張一弛	yi4 zhang1 yi4 chi2
-一張一弛	yi4 zhang1 yi4 shi3
 一彈指	yi4 tan2 zhi3
 一彈指頃	yi4 tan2 zhi3 qing3
 一得	yi4 de2
@@ -55175,7 +55174,6 @@ min_phrase_weight: 100
 原發性進行性失語	yuan2 fa1 xing4 jin4 xing2 xing4 shi1 yu3
 原處	yuan2 chu4
 原質	yuan2 zhi2
-厥弛	jue2 shi3
 厥角	jue2 jue2
 厭厭	yan1 yan1
 厭惡	yan4 wu4
@@ -63364,7 +63362,6 @@ min_phrase_weight: 100
 廠子	chang3 zi5
 廠長	chang3 zhang3
 廡殿	wu3 dian4
-廢弛	fei4 shi3
 廢然長嘆	fei4 ran2 chang2 tan4
 廣傳	guang3 chuan2
 廣儲司	guang3 chu2 si1
@@ -63608,10 +63605,6 @@ min_phrase_weight: 100
 弗裏得裏希	fu2 li3 de2 li3 xi1
 弗里德里希·席勒	fu2 li3 de2 li3 xi1 xi2 le4
 弘量	hong2 liang4
-弛廢	shi3 fei4
-弛張	shi3 zhang1
-弛禁	shi3 jin4
-弛緩	shi3 huan3
 弟兄	di4 xiong5
 弟媳婦	di4 xi2 fu5
 弟弟	di4 di5
@@ -63653,8 +63646,6 @@ min_phrase_weight: 100
 張家長李家短	zhang1 jia1 chang2 li3 jia1 duan3
 張寧	zhang1 ning2
 張弓挾矢	zhang1 gong1 xie2 shi3
-張弛	zhang1 chi2
-張弛	zhang1 shi3
 張怡寧	zhang1 yi2 ning2
 張掖	zhang1 ye4
 張掖地區	zhang1 ye4 di4 qu1
@@ -69214,7 +69205,6 @@ min_phrase_weight: 100
 放空	fang4 kong1
 放空氣	fang4 kong1 qi4
 放空炮	fang4 kong1 pao4
-放蕩弛縱	fang4 dang4 shi3 zong4
 放虎容易擒虎難	fang4 hu3 rong2 yi4 qin2 hu3 nan2
 放行	fang4 xing2
 放解	fang4 jie4
@@ -76057,7 +76047,6 @@ min_phrase_weight: 100
 澄觀	cheng2 guan1
 澄邁	cheng2 mai4
 澄邁縣	cheng2 mai4 xian4
-澆弛	jiao1 shi3
 澆薄	jiao1 bo2
 澆頭	jiao1 tou5
 澆風薄俗	jiao1 feng1 bo2 su2
@@ -82210,7 +82199,6 @@ min_phrase_weight: 100
 簡子	jian3 zi5
 簡帖	jian3 tie3
 簡帖兒	jian3 tie3 r5
-簡弛	jian3 shi3
 簡截了當	jian3 jie2 liao3 dang4
 簡括	jian3 gua1
 簡朝亮	jian3 chao2 liang4
@@ -83150,7 +83138,6 @@ min_phrase_weight: 100
 綰轂	wan3 gu3
 綰髮	wan3 fa3
 綱常掃地	gang1 chang2 sao3 di4
-綱紀廢弛	gang1 ji4 fei4 shi3
 網傘菌	wang3 san3 jun4
 網卡	wang3 ka3
 網吧	wang3 ba5
@@ -85597,7 +85584,6 @@ min_phrase_weight: 100
 色散	se4 san4
 色楞格河	se4 leng2 ge2 he2
 色盅	shai3 zhong1
-色衰愛弛	se4 shuai1 ai4 shi3
 色調	se4 diao4
 色質細胞	se4 zhi2 xi4 bao1
 色達縣	shai3 da2 xian4
@@ -90620,7 +90606,6 @@ min_phrase_weight: 100
 跂訾	qi4 zi3
 跂跂	qi2 qi2
 跂蹻	qi2 jue2
-跅弛	tuo4 shi3
 跌了彈的斑鳩	die2 le5 dan4 de5 ban1 jiu1
 跌交	die2 jiao1
 跌倒	die1 dao3
