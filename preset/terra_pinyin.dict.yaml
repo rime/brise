@@ -9113,8 +9113,8 @@ min_phrase_weight: 100
 哅	xiong1
 哆	duo1
 哇	wa1
-哈	ha1	95%
-哈	ha3	5%
+哈	ha1	96%
+哈	ha3	4%
 哉	zai1
 哊	you4
 哋	di4
@@ -18899,8 +18899,8 @@ min_phrase_weight: 100
 畨	fan1
 畨	pan1
 畩	yi1
-番	fan1	95%
-番	pan1	5%
+番	fan1	96%
+番	pan1	4%
 畫	hua4
 畬	yu2
 畭	yu2
@@ -23405,8 +23405,8 @@ min_phrase_weight: 100
 蓈	lang2
 蓉	rong2
 蓊	weng3
-蓋	gai4	50%
-蓋	ge3	50%
+蓋	gai4	96%
+蓋	ge3	4%
 蓌	cuo4
 蓍	shi1
 蓎	tang2
@@ -24851,8 +24851,8 @@ min_phrase_weight: 100
 覧	lan3
 覨	e4
 覩	du3
-親	qin1	95%
-親	qing4	5%
+親	qin1	99%
+親	qing4	1%
 覫	pang3
 覬	ji4
 覭	ming2
