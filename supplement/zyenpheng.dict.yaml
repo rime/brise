@@ -22,9 +22,13 @@ use_preset_vocabulary: true
 䙡	khyoih	
 	khyoih	
 䱷	ngio	
+	ngio	
 䜌	luan	
+	luan	
 䜌	lyen	
+	lyen	
 䜌	lyenh	
+	lyenh	
 吖	qra	
 阿	qa	
 啊	qa	
@@ -379,7 +383,7 @@ use_preset_vocabulary: true
 襬	pie	
 庍	hionh	
 庍	preh	
-𢈕      preh	
+𢈕	preh	
 拜	praih	
 䢙	brad	
 敗	brad	
@@ -700,6 +704,7 @@ use_preset_vocabulary: true
 甏	brangh	
 蹦	bongh	
 鏰	pongh	
+輣	breng
 䨻	brengh	
 皀	hiang	
 皀	kip	
@@ -734,6 +739,7 @@ use_preset_vocabulary: true
 荸	buot	
 鼻	bjiih	
 𪌈	bje	
+𪀐	bip
 𩾳	bip	
 𩾳	giep	
 𩾳	kip	
@@ -964,6 +970,7 @@ use_preset_vocabulary: true
 鼊	pek	
 砭	piem	
 砭	piemh	
+𥐗	piem
 𥑁	piem	
 萹	pen	
 萹	penx	
@@ -992,6 +999,7 @@ use_preset_vocabulary: true
 籩	pen	
 釆	brenh	
 𦥘	piemx	
+𡬯	piemx	
 窆	piemh	
 扁	benx	20%
 扁	bjenx	20%
@@ -1591,6 +1599,7 @@ use_preset_vocabulary: true
 糙	chauh	
 𢻥	chau	
 曹	zau	
+曺	zau	
 傮	cau	
 蓸	zau	
 嘈	zau	
@@ -2272,7 +2281,7 @@ use_preset_vocabulary: true
 騬	zsjing	
 逞	thriengx	
 徎	thengx	
-徎	triengx	
+徎	driengx	
 悜	thriengx	
 庱	thring	
 庱	thringx	
@@ -2584,6 +2593,7 @@ use_preset_vocabulary: true
 醻	zju	
 躊	driu	
 讎	zju	
+讐	zju	
 𪆇	driu	
 𪇘	driu	
 丑	thriux	
@@ -3077,7 +3087,7 @@ use_preset_vocabulary: true
 𧱪	chuh	
 𪉮	chuh	
 𤿚	cho	
-𥅗	chiox	
+𤿚	chiox	
 粗	zox	
 麁	cho	
 麤	cho	
@@ -3626,8 +3636,11 @@ use_preset_vocabulary: true
 鍀	tok	
 𣌏	tok	
 的	tek	
+旳	tek	
 扽	tuonh	
 登	tong	
+豋	tong
+𢍪	tong	
 䔲	tong	
 噔	tong	
 璒	tong	
@@ -3980,7 +3993,7 @@ use_preset_vocabulary: true
 耋	det	
 喋	dep	
 喋	tep	
-喋	trap	
+喋	drap	
 㥈	dep	
 詄	det	
 惵	dep	
@@ -4200,6 +4213,7 @@ use_preset_vocabulary: true
 𦘴	toh	
 剢	tuk	
 督	tuuk	
+𣈉	tuuk	
 嘟	to	
 醏	to	
 醏	zjiih	
@@ -5352,6 +5366,7 @@ use_preset_vocabulary: true
 𤱽	byo	
 蜉	biu	
 鳧	byo	
+𩾜	byo	
 艀	biu	
 鉜	biu	
 颫	byo	
@@ -5535,6 +5550,7 @@ use_preset_vocabulary: true
 𩯅	phiuh	
 𩯅	phiuk	
 𩺽	bruk	
+鰒	bruk	
 𧕡	phok	
 𠓗	phrak	
 𠓗	phyoh	
@@ -6054,6 +6070,8 @@ use_preset_vocabulary: true
 彀	kuh	
 㝅	kuh	
 㝅	nux	
+㺉	kuh
+㺉	huk	
 㗕	ku	
 雊	kuh	
 詬	huh	
@@ -6117,6 +6135,7 @@ use_preset_vocabulary: true
 扢	kuot	
 抇	ghuot	
 𠒂	kox	
+𠑹	gox	
 谷	giak	1%
 谷	jyuk	1%
 谷	kuk	
@@ -6241,6 +6260,9 @@ use_preset_vocabulary: true
 𦫳	kruai	
 𦫳	kruax	
 𦫳	kruex	
+𠁥	kruai
+𠁥	kruax
+𠁥	kruex
 拐	grex	
 枴	kruex	
 柺	kruex	
@@ -6411,6 +6433,7 @@ use_preset_vocabulary: true
 𠐤	kuai	
 龜	kiu	
 龜	kyi	
+⿔	kyi
 鮭	ghre	
 鮭	khue	
 鮭	kue	
@@ -6881,6 +6904,8 @@ use_preset_vocabulary: true
 滈	ghaux	
 滈	hruk	
 暭	ghaux	
+皞	ghaux	
+暤	ghaux	
 𡠖	ghauh	
 薃	ghaux	
 㙱	ghauh	
@@ -7354,6 +7379,7 @@ use_preset_vocabulary: true
 戸	ghox	
 互	ghoh	
 戶	ghox	
+户	ghox
 冱	ghoh	
 𦬚	ghoh	
 㕆	ghox	
@@ -8105,6 +8131,7 @@ use_preset_vocabulary: true
 雞	ke	
 䟇	kioi	
 䪡	ce	
+䪠	ce	
 譏	kioi	
 鐖	kioi	
 饑	kioi	
@@ -8115,6 +8142,7 @@ use_preset_vocabulary: true
 齎	ce	
 齎	cii	
 𩐒	ce	
+䪡	ce
 羇	kie	
 齏	ce	
 羈	kie	
@@ -9259,6 +9287,7 @@ use_preset_vocabulary: true
 衿	kim	
 𦘔	cin	
 矜	king	
+矝	king
 埐	cim	
 埐	zim	
 紟	gimh	
@@ -9503,6 +9532,7 @@ use_preset_vocabulary: true
 顈	ghenx	
 顈	khuengx	
 丩	kiu	
+丩	ky
 勼	kiu	
 𠃚	ky	
 𠠳	kiu	
@@ -9647,6 +9677,7 @@ use_preset_vocabulary: true
 𦥑	kiuk	
 𦥑	kyuk	
 局	gyuk	
+𡱈	gyuk	
 𨸰	kiuk	
 㘲	kiuk	
 泦	kiuk	
@@ -9785,6 +9816,7 @@ use_preset_vocabulary: true
 駏	giox	
 聚	zyoh	
 聚	zyox	
+冣	zyoh	
 㜘	cia	
 劇	giek	
 勮	gioh	
@@ -10196,6 +10228,7 @@ use_preset_vocabulary: true
 戡	trimx	
 𩑟	khom	
 龕	khom	
+𪚕	khom
 坎	khomx	
 侃	khanh	
 侃	khanx	
@@ -10666,6 +10699,7 @@ use_preset_vocabulary: true
 𡐠	kruex	
 窺	khjye	
 虧	khye	
+𧇾	khye
 顝	khuai	
 顝	khuaix	
 顝	khuot	
@@ -11420,6 +11454,8 @@ use_preset_vocabulary: true
 𧲡	lik	
 珕	leh	
 珕	lieh	
+矝	king
+𧇾	khye
 莉	dri	
 莉	drii	
 莉	le	
@@ -11474,6 +11510,8 @@ use_preset_vocabulary: true
 𣛒	leh	
 勵	lied	
 歷	lek	
+厯	lek	
+𠪱	lek	
 曆	lek	
 𦠓	lek	
 篥	lit	
@@ -11483,6 +11521,7 @@ use_preset_vocabulary: true
 𦃊	lit	
 鬁	liih	
 隸	leh	
+𣜩	leh	
 𨍫	lit	
 𨢌	lek	
 㔏	lek	
@@ -11518,7 +11557,7 @@ use_preset_vocabulary: true
 䶘	lip	
 蠣	lied	
 皪	lek	
-𥃏	leh	
+盭	leh	
 糲	lad	
 糲	lat	
 糲	lied	
@@ -12066,7 +12105,7 @@ use_preset_vocabulary: true
 輘	long	
 蕶	leng	
 鹷	leng	
-𩜁	hingh	
+𩜁	lingh	
 𩜁	ling	
 鴒	leng	
 魿	gin	
@@ -12335,6 +12374,7 @@ use_preset_vocabulary: true
 簍	lux	
 簍	lyox	
 陋	luh	
+㔷	luh	
 屚	luh	
 𦸢	luh	
 漏	luh	
@@ -12724,6 +12764,8 @@ use_preset_vocabulary: true
 率	lyt	
 率	sryih	10%
 率	sryt	3%
+卛	sryt
+卛	sryih
 葎	lyt	
 𠷈	lyt	
 氯	lyuk	
@@ -12745,7 +12787,7 @@ use_preset_vocabulary: true
 𩥆	lioh	
 㠥	lyi	
 𥶌	lioh	
-卛	kyanh	
+㪻	kyanh	
 鑢	lioh	
 𠣊	lioh	
 㨼	liak	
@@ -12962,7 +13004,7 @@ use_preset_vocabulary: true
 矛	miu	
 茆	liux	
 茆	mraux	
-茅	driox	
+芧	driox	
 茅	mrau	
 枆	mau	
 牦	mau	
@@ -13076,6 +13118,8 @@ use_preset_vocabulary: true
 脄	maih	
 脄	muai	
 梅	muai	
+楳	muai	
+槑	muai
 脢	muai	
 脢	muaih	
 郿	mii	
@@ -13114,6 +13158,7 @@ use_preset_vocabulary: true
 每	muaih	
 每	muaix	
 美	miix	
+羙	miix	
 挴	muaix	
 浼	muaix	
 𢮇	maix	
@@ -13640,6 +13685,7 @@ use_preset_vocabulary: true
 抹	muat	
 懡	muax	
 𣋟	muax	
+𠬸	muot
 𠬛	muot	
 末	muat	
 𠇱	muat	
@@ -13932,6 +13978,7 @@ use_preset_vocabulary: true
 𡽧	nrau	
 獶	qiu	
 鐃	nrau	
+夒	nau
 巎	nau	
 獿	nau	
 獿	nraux	
@@ -13972,7 +14019,11 @@ use_preset_vocabulary: true
 𨡌	nuai	
 𢅼	nanh	
 𢅼	nuai	
+𢅼	nuon	
 𢆃	nanh	
+㡪	nanh
+㡪	nuai
+㡪	nuon
 㼏	nuaix	
 餒	nuaix	
 𩗔	nuaix	
@@ -14638,7 +14689,7 @@ use_preset_vocabulary: true
 皰	brauh	
 皰	phrauh	
 㯡	brau	
-麭	phrauh	
+㯡	phrauh	
 嚗	pruk	
 礮	phrauh	
 呸	phii	
@@ -14805,6 +14856,7 @@ use_preset_vocabulary: true
 𠜱	phe	
 紕	bje	
 紕	chjix	
+䊼	chjix
 紕	phjii	
 耚	phie	
 旇	bieh	
@@ -15081,6 +15133,7 @@ use_preset_vocabulary: true
 牝	bjinx	
 聘	phjengh	
 乒	pheng	
+㽕	ju	
 甹	ju	
 甹	pheng	
 俜	pheng	
@@ -15586,7 +15639,7 @@ use_preset_vocabulary: true
 䙄	chrip	
 䙄	crep	
 䔾	khied	
-䔾	muat	
+䔾	mat	
 槭	ciuk	
 𦩣	kheh	
 𡢖	kheh	
@@ -16299,6 +16352,7 @@ use_preset_vocabulary: true
 鰌	chiu	
 鰌	ziu	
 厹	giu	
+厹	njux
 扏	giu	
 囚	zsiu	
 叴	giu	
@@ -16614,6 +16668,7 @@ use_preset_vocabulary: true
 𡇱	khruk	
 却	khiak	
 𡴊	khruk	
+𡉉	khruk
 卻	khiak	
 卻	kiak	
 埆	khruk	
@@ -16666,6 +16721,7 @@ use_preset_vocabulary: true
 𤸷	ngruan	
 𦃢	khjynx	
 㱿	khruk	
+𣪊	khruk	
 冄	njem	
 呥	njem	
 肰	njen	
@@ -16891,6 +16947,8 @@ use_preset_vocabulary: true
 䢇	njyungx	
 𨍷	njyungx	
 氄	njyungx	
+𤮪	niyungx
+𧜈	njyungx
 𪕎	njyungx	
 𩼅	njyungh	
 禸	njux	
@@ -16905,6 +16963,7 @@ use_preset_vocabulary: true
 葇	njux	
 瑈	nju	
 䐓	nju	
+脜	nju	
 腬	nju	
 腬	nriuh	
 煣	njuh	
@@ -16954,6 +17013,7 @@ use_preset_vocabulary: true
 獳	nu	
 濡	njyo	
 濡	nuan	
+渜	nuan
 孺	njyoh	
 嬬	njyo	
 鴽	njo	
@@ -17021,6 +17081,7 @@ use_preset_vocabulary: true
 㼱	cynh	
 㼱	njyenx	
 㼱	njyo	
+臑	nauh
 腝	nauh	
 腝	njyenx	
 腝	nuonh	
@@ -17597,6 +17658,8 @@ use_preset_vocabulary: true
 蛥	zsjet	
 舍	sjah	
 舍	sjax	
+舎	sjax
+舎	sjah	
 捨	sjax	
 䬷	sjax	
 𩜉	sjax	
@@ -17611,6 +17674,7 @@ use_preset_vocabulary: true
 涉	tep	
 涉	zjep	
 赦	sjah	
+𢼜	sjah	
 設	sjet	
 涻	sjah	
 䠶	zsjah	
@@ -18027,6 +18091,8 @@ use_preset_vocabulary: true
 售	zjuh	
 壽	zjuh	2%
 壽	zjux	
+夀	zjux
+夀	zjuh	
 瘦	sriuh	
 𤸃	sriuh	
 綬	zjuh	
@@ -18149,6 +18215,8 @@ use_preset_vocabulary: true
 捒	srioh	
 捒	sryoh	
 𦒸	zjyoh	
+贖	zjyoh
+贖	zsjyuk	
 㲓	sjyoh	
 㾁	huot	
 恕	sjoh	
@@ -18205,6 +18273,7 @@ use_preset_vocabulary: true
 拴	chyen	
 閂	sruan	
 栓	sryen	
+𣟴	sruan
 𣠯	sruan	
 𢮛	zjyenh	
 涮	sruanh	
@@ -18676,6 +18745,8 @@ use_preset_vocabulary: true
 遂	zsyih	
 𠭥	cjyed	
 𠭥	syih	
+𫩀	cjyed
+𫩀	syih	
 𣔾	zsyih	
 碎	suaih	
 歲	syed	
@@ -18992,7 +19063,7 @@ use_preset_vocabulary: true
 坦	thanx	
 䏙	thomx	
 袒	danx	
-袒	drenh	
+袒	trenh	
 菼	thamx	
 毯	thamx	
 𦵹	thamx	
@@ -20280,6 +20351,7 @@ use_preset_vocabulary: true
 寪	yex	
 𠆎	yoi	
 𩎯	yoi	
+𩏏	yoi
 闈	yoi	
 鍏	yoi	
 鍏	yoix	
@@ -20971,7 +21043,7 @@ use_preset_vocabulary: true
 蒵	gheh	
 蓆	zsiek	
 椺	ghek	
-𧋐	sek	
+𧊸	sek	
 媳	sik	
 𦸚	zsip	
 覡	ghek	
@@ -21772,6 +21844,7 @@ use_preset_vocabulary: true
 㖑	hraih	
 㳦	ghraih	
 屑	set	
+㞕	set
 屓	hiih	
 焎	hiet	
 械	ghraih	
@@ -21835,7 +21908,7 @@ use_preset_vocabulary: true
 䊝	sit	
 𤏻	sep	
 鞢	sep	
-鞢	trap	
+鞢	drap	
 䵦	zsiax	
 䉣	siah	
 㒠	ghraih	
@@ -22168,6 +22241,7 @@ use_preset_vocabulary: true
 烼	hyot	
 𣸃	syt	
 𡲁	zsioh	
+𡱣	zsioh
 𥍰	khek	
 壻	seh	
 𧊥	syt	
@@ -22225,6 +22299,8 @@ use_preset_vocabulary: true
 吅	zsyungh	
 咺	hyanx	
 宣	syen	
+亘	syen
+𠄢	syen	
 軒	hian	
 揎	syen	
 萱	hyan	
@@ -23594,6 +23670,8 @@ use_preset_vocabulary: true
 㚤	jik	
 𢖫	ngioih	
 抑	qik	
+𢬃	qik
+𢑏	qik	
 𡊁	qik	
 坄	du	
 坄	jyek	
@@ -23855,6 +23933,7 @@ use_preset_vocabulary: true
 鐿	qih	
 鷁	ngek	
 懿	qiih	
+㦤	qiih	
 𩍖	qik	
 鷖	qe	
 𤼌	jik	
@@ -23908,6 +23987,7 @@ use_preset_vocabulary: true
 䤃	qim	
 諲	qjin	
 霠	qim	
+𩃬	qim	
 闉	qjin	
 㶏	qion	
 㶏	qionh	
@@ -24092,7 +24172,8 @@ use_preset_vocabulary: true
 迎	ngieng	
 迎	ngiengh	
 盈	jeng	
-𣵹	triengx	
+𣵹	driengx	
+塣	driengx
 𦳖	ghuengx	
 桯	gheng	
 桯	theng	
@@ -24523,6 +24604,8 @@ use_preset_vocabulary: true
 牏	dryoh	
 牏	du	
 牏	jyo	
+匬	du
+匬	jyox	
 艅	jo	
 㼶	jyo	
 歈	du	
@@ -24827,6 +24910,7 @@ use_preset_vocabulary: true
 眢	quan	
 眢	qyan	
 冤	qyan	
+寃	qyan	
 弲	hjyen	
 弲	quen	
 葾	qyan	
@@ -25212,6 +25296,8 @@ use_preset_vocabulary: true
 栽	zaih	
 烖	cai	
 菑	cri	
+𦵰	cri
+𦵰	cai
 𦳦	cai	
 渽	cai	
 溨	zai	
@@ -25521,12 +25607,12 @@ use_preset_vocabulary: true
 霅	cjep	
 霅	ghrap	
 霅	sop	
-霅	trap	
+霅	drap	
 𧼰	zrep	
 𩿤	cret	
 鍘	zrat	
 鍘	zret	
-𤁳	trap	
+𤁳	drap	
 䮢	zrep	
 𨰉	zrat	
 厏	crax	
@@ -25669,7 +25755,7 @@ use_preset_vocabulary: true
 站	tremh	
 㟞	zrenx	
 偡	dremx	
-䋎	drenh	
+䋎	trenh	
 棧	zranh	
 棧	zrenx	
 棧	zrienx	
@@ -25680,7 +25766,7 @@ use_preset_vocabulary: true
 㴴	dremx	
 䗃	zranh	
 䗃	zranx	
-綻	drenh	
+綻	trenh	
 輚	zranh	
 輚	zrenx	
 嶘	zrenx	
@@ -26896,6 +26982,7 @@ use_preset_vocabulary: true
 轛	tryih	
 轛	tuaih	
 𨮱	dryed	
+𨪗	dryed
 迍	tryn	
 肫	cjyn	
 窀	d'ruen	
@@ -26960,6 +27047,7 @@ use_preset_vocabulary: true
 丵	zruk	
 浞	zruk	
 㧻	truk	
+椓	truk	
 梲	cjyet	
 梲	thuat	
 梲	thuot	
@@ -27037,6 +27125,7 @@ use_preset_vocabulary: true
 孜	ci	
 𨚖	cie	
 茲	ci	
+玆	ci
 茲	zi	1%
 㠿	cie	
 姕	chie	
@@ -27380,6 +27469,7 @@ use_preset_vocabulary: true
 𢃒	cuad	
 𢃒	cuaih	
 最	cuad	
+㝡	cuad	
 晬	cuaih	
 祽	cuaih	
 罪	zuaix	
