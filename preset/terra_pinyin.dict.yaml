@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.05.11"
+version: "2015.05.15"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -2797,7 +2797,7 @@ min_phrase_weight: 100
 㻋	la4
 㻌	tu2
 㻍	wu2
-㻎	li4
+㻎	se4
 㻏	ling2
 㻑	ji4
 㻒	jun4
@@ -5774,8 +5774,8 @@ min_phrase_weight: 100
 䥂	meng4
 䥃	yue4
 䥄	cu4
-䥅	qian4
-䥆	jin3
+䥅	qin2
+䥆	qin2
 䥇	shan4
 䥈	mu3
 䥉	yuan1
