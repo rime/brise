@@ -10,13 +10,14 @@ Gong Chen <chen.sst@gmail.com> : (GPLv3)
   supplement/pinyin_simp.schema.yaml
   supplement/quick5.schema.yaml
   supplement/wubi_pinyin.schema.yaml
+  supplement/wubi_trad.schema.yaml
   extra/stenotype.schema.yaml
-  opencc/t2tw.json
-  opencc/t2hk.json
 
 BYVoid <byvoid@byvoid.com> : (Apache License version 2)
   opencc/t2s.json
   opencc/s2t.json
+  opencc/t2tw.json
+  opencc/t2hk.json
 
 Gong Chen <chen.sst@gmail.com>, Ye Zhou : (GPL v3)
   supplement/double_pinyin_pyjj.schema.yaml
@@ -44,6 +45,9 @@ Patrick <ipatrickmac@qq.com>, Gong Chen <chen.sst@gmail.com> : (GPLv3)
 
 上海閒話abc <tzyyiggnih@yahoo.com.cn>, 吳語越音 <zhufya@mail.ustc.edu.cn> : (GPLv3)
   supplement/wugniu*.yaml
+
+寒寒豆, 吳語越音 <zhufya@mail.ustc.edu.cn> : (GPLv3)
+  extra/soutzoe*.yaml
 
 Derived from ibus-table by acevery (Yu Yuwei) : (LGPL)
 and based on original work by 朱邦復 / Chu Bong-Foo : (Public Domain)
