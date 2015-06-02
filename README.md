@@ -30,7 +30,10 @@ General
 
 Preset schemata
 ---
-  - bopomofo: Zhuyin (Bopomofo)
+
+Input methods that are fundamental, or prevalent in a region.
+
+  - bopomofo: Zhuyin (aka. Bopomofo) standard layout
   - cangjie5
   - luna_pinyin: Pinyin in Tranditional Chinese
   - stroke: five strokes represented by "hspnz"
@@ -38,25 +41,46 @@ Preset schemata
 
 Supplemental schemata
 ---
+
+Including input methods that are widely used and those who implement major
+modern dialects or historical diasystems. Less popular input methods with
+small dictionaries or without independent dictionaries are also included.
+
   - combo_pinyin: Chord-typing Pinyin
-  - double_pinyin: ZiRanMa, ABC, flyPY, MSPY, PYJJ
+  - double_pinyin: ZiRanMa, ABC, flyPY, MSPY, PYJJ variants
   - emoji
   - ipa_xsampa: IPA symbols in X-SAMPA encoding
   - jyutping: Cantonese
   - pinyin_simp: Pinyin in Simplified Chinese
   - quick5: Simplified Cangjie 5
   - sampheng: Middle Chinese in 3-key shorthand
-  - soutzoe: Wu (Suzhounese)
   - wubi86
   - wugniu: Wu (Shanghainese)
   - zyenpheng: Middle Chinese Pinyin
 
 Extra schemata
 ---
-Included in the source package but not to be installed.
+
+Established input methods used by a minority, and evolving new inventions,
+are included in the source package but are not to be installed by default.
+
   - array30
   - scj6
-  - wubi_trad: Wubi, Traditional Chinese output
+  - soutzoe: Wu (Suzhounese)
+  - stenotype: a stenographic system derived from ABC Easy Shorthand
+
+Pull requests are welcome for anything notable that hasn't been included here,
+but you'll be responsible for providing data files along with an open-source
+license because licensing will be rigidly scrutinized by downstream packagers.
+
+OpenCC configurations
+---
+
+[OpenCC](https://github.com/BYVoid/OpenCC) is used by many of the above input
+methods for conversion to Simplified/Traditional Chinese or other variant forms.
+As of OpenCC 1.0.2, some of the configurations used by brise are missing.
+We provide those configuration files under `opencc/` as a backup, until they
+become widely available via future versions of downstream OpenCC packages.
 
 Install
 ===

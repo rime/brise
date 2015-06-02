@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.05.15"
+version: "2015.05.25"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -25806,6 +25806,7 @@ min_phrase_weight: 100
 賨	cong2
 賩	cong2
 質	zhi4
+質	zhi2
 賫	ji1
 賬	zhang4
 賭	du3
@@ -48727,8 +48728,6 @@ min_phrase_weight: 100
 中國國家地震局	zhong1 guo2 guo2 jia1 di4 zhen4 ju2
 中國國際航空公司	zhong1 guo2 guo2 ji4 hang2 kong1 gong1 si1
 中國地球物理學會	zhong1 guo2 di4 qiu2 wu4 li3 xue2 hui4
-中國地質大學	zhong1 guo2 di4 zhi4 da4 xue2
-中國地質調查局	zhong1 guo2 di4 zhi4 diao4 cha2 ju2
 中國地震局	zhong1 guo2 di4 zhen4 ju2
 中國地震臺	zhong1 guo2 di4 zhen4 tai2
 中國天主教愛國會	zhong1 guo2 tian1 zhu3 jiao4 ai4 guo2 hui4
@@ -48867,7 +48866,6 @@ min_phrase_weight: 100
 中計	zhong1 ji4
 中計	zhong4 ji4
 中調	zhong1 diao4
-中質原油	zhong1 zhi2 yuan2 you2
 中路梆子	zhong1 lu4 bang1 zi5
 中轉	zhong1 zhuan3
 中轉櫃檯	zhong1 zhuan3 gui4 tai2
@@ -49337,7 +49335,6 @@ min_phrase_weight: 100
 事急且相隨	shi4 ji2 qie3 xiang1 sui2
 事急馬行田	shi4 ji2 ma3 xing2 tian2
 事業年度	shi4 ye4 nian2 du4
-事物的本質重於外在	shi4 wu4 de5 ben3 zhi4 chong2 yu2 wai4 zai4
 事畜	shi4 xu4
 事發地點	shi4 fa1 di4 dian3
 事與願違	shi4 yu3 yuan4 wei2
@@ -49460,7 +49457,6 @@ min_phrase_weight: 100
 互相聯繫	hu4 xiang1 lian2 xi4
 互相連接	hu4 xiang1 lian2 jie1
 互調	hu4 diao4
-互質	hu4 zhi2
 五伯	wu3 ba4
 五侯鯖	wu3 hou2 zheng1
 五分之一	wu3 fen1 zhi1 yi1
@@ -49846,9 +49842,7 @@ min_phrase_weight: 100
 今非昔比	jin1 fei1 xi2 bi3
 介於兩難	jie4 yu2 liang3 nan2
 介殼蟲	jie4 ke2 chong2
-介質	jie4 zhi2
 介電常數	jie4 dian4 chang2 shu4
-介電質	jie4 dian4 zhi2
 介面卡	jie4 mian4 ka3
 仔密	zi3 mi4
 仔牛肉	zai3 niu2 rou4
@@ -51631,6 +51625,7 @@ min_phrase_weight: 100
 傳輸	chuan2 shu1
 傳輸協定	chuan2 shu1 xie2 ding4
 傳輸媒界	chuan2 shu1 mei2 jie4
+傳輸媒質	chuan2 shu1 mei2 zhi2
 傳輸媒質	chuan2 shu1 mei2 zhi4
 傳輸媒體	chuan2 shu1 mei2 ti3
 傳輸層	chuan2 shu1 ceng2
@@ -51817,7 +51812,6 @@ min_phrase_weight: 100
 優樂	you1 le4
 優洽	you1 xia2
 優處	you1 chu4
-優質	you1 zhi2
 優遊自得	you1 you2 zi4 de2
 優長	you1 chang2
 儱侗	long3 tong2
@@ -54135,7 +54129,6 @@ min_phrase_weight: 100
 劣相	lie4 xiang4
 劣種	lie4 zhong3
 劣行	lie4 xing4
-劣質	lie4 zhi2
 劣跡	lie4 ji1
 劣跡昭著	lie4 ji1 zhao1 zhu4
 助人爲快樂之本	zhu4 ren2 wei2 kuai4 le4 zhi1 ben3
@@ -54262,7 +54255,6 @@ min_phrase_weight: 100
 動植物分類	dong4 zhi2 wu4 fen1 lei4
 動物傳染病	dong4 wu4 chuan2 ran3 bing4
 動物分類	dong4 wu4 fen1 lei4
-動物性蛋白質	dong4 wu4 xing4 dan4 bai2 zhi2
 動物育種	dong4 wu4 yu4 zhong3
 動物農場	dong4 wu4 nong2 chang3
 動脈	dong4 mai4
@@ -54486,7 +54478,6 @@ min_phrase_weight: 100
 化學劑量計	hua4 xue2 ji4 liang4 ji4
 化學反應	hua4 xue2 fan3 ying4
 化學彈藥	hua4 xue2 dan4 yao4
-化學性質	hua4 xue2 xing4 zhi2
 化學成分	hua4 xue2 cheng2 fen4
 化學當量	hua4 xue2 dang1 liang4
 化學航彈	hua4 xue2 hang2 dan4
@@ -54611,7 +54602,6 @@ min_phrase_weight: 100
 區分	qu1 fen1
 區分大小寫	qu1 fen1 da4 xiao3 xie3
 區劃	qu1 hua4
-區域變質	qu1 yu4 bian4 zhi2
 區脫	ou1 tuo1
 區落	qu1 luo4
 區蓋	ou1 gai4
@@ -55283,16 +55273,12 @@ min_phrase_weight: 100
 原子爆彈	yuan2 zi3 bao4 dan4
 原子爆破彈藥	yuan2 zi3 bao4 po4 dan4 yao4
 原子落塵	yuan2 zi3 luo4 chen2
-原子質量	yuan2 zi3 zhi4 liang4
 原子量	yuan2 zi3 liang4
 原形畢露	yuan2 xing2 bi4 lu4
-原形質	yuan2 xing2 zhi2
-原生質	yuan2 sheng1 zhi2
 原產地	yuan2 chan3 di4
 原產地證明書	yuan2 chan3 di4 zheng4 ming2 shu1
 原發性進行性失語	yuan2 fa1 xing4 jin4 xing2 xing4 shi1 yu3
 原處	yuan2 chu4
-原質	yuan2 zhi2
 厥角	jue2 jue2
 厭厭	yan1 yan1
 厭惡	yan4 wu4
@@ -55433,7 +55419,6 @@ min_phrase_weight: 100
 反正一樣	fan3 zheng4 yi2 yang4
 反氣旋	fan3 qi4 xuan2
 反照率	fan3 zhao4 lv4
-反物質	fan3 wu4 zhi2
 反目成仇	fan3 mu4 cheng2 chou2
 反相	fan3 xiang4
 反省	fan3 xing3
@@ -55738,7 +55723,6 @@ min_phrase_weight: 100
 可口可樂公司	ke3 kou3 ke3 le4 gong1 si1
 可圈可點	ke3 quan1 ke3 dian3
 可塞	ke3 sai4
-可孕物質	ke3 yun4 wu4 zhi2
 可展曲面	ke3 zhan3 qu1 mian4
 可待	ke3 dai4
 可待因	ke3 dai4 yin1
@@ -56280,7 +56264,6 @@ min_phrase_weight: 100
 吳興	wu2 xing1
 吳興區	wu2 xing1 qu1
 吳興縣	wu2 xing1 xian4
-吳質	wu2 zhi2
 吳越曲	wu2 yue4 qu1
 吳都	wu2 du1
 吵吵	chao1 chao5
@@ -56895,8 +56878,6 @@ min_phrase_weight: 100
 品行	pin3 xing4
 品行端醇	pin3 xing4 duan1 chun2
 品調	pin3 diao4
-品質	pin3 zhi2
-品質管制	pin3 zhi2 guan3 zhi4
 品量	pin3 liang2
 品高德重	pin3 gao1 de2 zhong4
 哄了一日是兩晌	hong3 le5 yi2 ri4 shi4 liang3 shang3
@@ -57728,7 +57709,6 @@ min_phrase_weight: 100
 器械體操	qi4 xie4 ti3 cao1
 器樂	qi4 yue4
 器識	qi4 shi4
-器質	qi4 zhi2
 器重	qi4 zhong4
 器量	qi4 liang4
 器鼠難投	qi4 shu3 nan2 tou2
@@ -58042,7 +58022,6 @@ min_phrase_weight: 100
 國家航空公司	guo2 jia1 hang2 kong1 gong1 si1
 國家行爲主義	guo2 jia1 xing2 wei2 zhu3 yi4
 國家計劃委員會	guo2 jia1 ji4 hua4 wei3 yuan2 hui4
-國家質量監督檢驗檢疫總局	guo2 jia1 zhi4 liang4 jian1 du1 jian3 yan4 jian3 yi4 zong3 ju2
 國家重點學科	guo2 jia1 zhong4 dian3 xue2 ke1
 國家重點實驗室	guo2 jia1 zhong4 dian3 shi2 yan4 shi4
 國家開發銀行	guo2 jia1 kai1 fa1 yin2 hang2
@@ -58220,8 +58199,6 @@ min_phrase_weight: 100
 土行孫	tu3 xing2 sun1
 土調	tu3 diao4
 土豆泥	tu3 dou4 ni2
-土質	tu3 zhi2
-土質液化	tu3 zhi2 ye4 hua4
 土長根生	tu3 zhang3 gen1 sheng1
 土饅頭	tu3 man2 tou5
 在不夷不惠之間	zai4 bu4 yi2 bu2 hui4 zhi1 jian1
@@ -58564,10 +58541,6 @@ min_phrase_weight: 100
 地質	di4 zhi4
 地質學	di4 zhi2 xue2
 地質學	di4 zhi4 xue2
-地質學家	di4 zhi4 xue2 jia1
-地質年代表	di4 zhi4 nian2 dai4 biao3
-地質年表	di4 zhi4 nian2 biao3
-地質活動	di4 zhi2 huo2 dong4
 地躺拳	di4 tang3 quan2
 地軸	di4 zhou2
 地輿	di4 yu2
@@ -59693,8 +59666,6 @@ min_phrase_weight: 100
 大脖子病	da4 bo2 zi5 bing4
 大腔當	da4 qiang1 dang4
 大腦出血性中風	da4 nao3 chu1 xie3 xing4 zhong4 feng1
-大腦皮質	da4 nao3 pi2 zhi2
-大腦髓質	da4 nao3 sui3 zhi2
 大腸息肉	da4 chang2 xi2 rou4
 大腸桿菌羣	da4 chang2 gan3 jun4 qun2
 大腸癌	da4 chang2 ai2
@@ -59921,7 +59892,6 @@ min_phrase_weight: 100
 天理難容	tian1 li3 nan2 rong2
 天生地設	tian1 sheng1 di4 she4
 天生的一對	tian1 sheng1 de5 yi2 dui4
-天生麗質	tian1 sheng1 li4 zhi2
 天監	tian1 jian1
 天相吉人	tian1 xiang4 ji2 ren2
 天真地秀	tian1 zhen1 di4 xiu4
@@ -60727,7 +60697,6 @@ min_phrase_weight: 100
 姹女	cha4 nv3
 姻親	yin1 qin1
 姿態婀娜	zi1 tai4 e1 nuo2
-姿質	zi1 zhi2
 威信掃地	wei1 xin4 sao3 di4
 威嚇	wei1 he4
 威寧彝族回族苗族自治縣	wei1 ning2 yi2 zu2 hui2 zu2 miao2 zu2 zi4 zhi4 xian4
@@ -60817,7 +60786,6 @@ min_phrase_weight: 100
 媒人嘴	mei2 ren5 zui3
 媒人婆拾馬糞	mei2 ren5 po2 shi2 ma3 fen4
 媒人婆迷了路	mei2 ren5 po2 mi2 le5 lu4
-媒質	mei2 zhi2
 媒頭	mei2 tou5
 媕婀	an1 e1
 媕婀	yan3 e1
@@ -61258,7 +61226,6 @@ min_phrase_weight: 100
 完全懂得	wan2 quan2 dong3 de5
 完全打擊	wan2 quan2 da3 ji2
 完全數	wan2 quan2 shu4
-完全蛋白質	wan2 quan2 dan4 bai2 zhi2
 完結	wan2 jie2
 完結篇	wan2 jie2 pian1
 完達山脈	wan2 da2 shan1 mai4
@@ -61488,7 +61455,6 @@ min_phrase_weight: 100
 容積率	rong2 ji1 lv4
 容臭	rong2 xiu4
 容與	rong2 yu3
-容質	rong2 zhi2
 容足地	rong2 zu2 di4
 容身之地	rong2 shen1 zhi1 di4
 容車	rong2 ju1
@@ -61738,10 +61704,6 @@ min_phrase_weight: 100
 實行	shi2 xing2
 實變函數	shi2 bian4 han2 shu4
 實變函數論	shi2 bian4 han2 shu4 lun4
-實質	shi2 zhi2
-實質利率	shi2 zhi2 li4 lv4
-實質所得	shi2 zhi2 suo3 de2
-實質違建	shi2 zhi2 wei2 jian4
 實際應用	shi2 ji4 ying4 yong4
 實驗劇場	shi2 yan4 ju4 chang2
 寧人負我	ning2 ren2 fu4 wo3
@@ -62145,7 +62107,6 @@ min_phrase_weight: 100
 對衝基金	dui4 chong1 ji1 jin1
 對親	dui4 qin1
 對調	dui4 diao4
-對質	dui4 zhi2
 對轉	dui4 zhuan3
 對還	dui4 huan2
 對酒當歌	dui4 jiu3 dang1 ge1
@@ -62395,7 +62356,6 @@ min_phrase_weight: 100
 少白頭	shao4 bai2 tou2
 少禮	shao3 li3
 少私寡慾	shao3 si1 gua3 yu4
-少突膠質	shao3 tu1 jiao1 zhi4
 少管閒事	shao3 guan3 xian2 shi4
 少艾	shao4 ai4
 少見	shao3 jian4
@@ -63582,7 +63542,6 @@ min_phrase_weight: 100
 幽軋	you1 ya4
 幽都	you1 du1
 幾丁	ji1 ding1
-幾丁質	ji1 ding1 zhi4
 幾乎	ji1 hu1
 幾乎不	ji1 hu1 bu4
 幾乎不可能	ji1 hu1 bu4 ke3 neng2
@@ -64012,6 +63971,7 @@ min_phrase_weight: 100
 引得	yin3 de2
 引數	yin3 shu4
 引發物質	yin3 fa1 wu4 zhi2
+引發物質	yin3 fa1 wu4 zhi4
 引着	yin3 zhao2
 引種	yin3 zhong3
 引調	yin3 tiao2
@@ -64056,7 +64016,6 @@ min_phrase_weight: 100
 弱相互作用	ruo4 xiang1 hu4 zuo4 yong4
 弱肉強食	ruo4 rou4 qiang2 shi2
 弱脈	ruo4 mai4
-弱質	ruo4 zhi2
 弳度	jing4 du4
 張僧繇	zhang1 seng1 you2
 張冠李戴	zhang1 guan1 li3 dai4
@@ -64379,7 +64338,6 @@ min_phrase_weight: 100
 形影相顧	xing2 ying3 xiang1 gu4
 形相	xing2 xiang4
 形藏	xing2 zang4
-形質	xing2 zhi2
 形跡	xing2 ji1
 形跡可疑	xing2 ji1 ke3 yi2
 形跡敗露	xing2 ji1 bai4 lu4
@@ -64399,7 +64357,6 @@ min_phrase_weight: 100
 彫喪	diao1 sang4
 彫楹碧檻	diao1 ying2 bi4 kan3
 彫蟲篆刻	diao1 chong2 zhuan4 ke1
-彬彬文質	bin1 bin1 wen2 zhi2
 彭蒙	peng2 meng2
 彭蠡	peng2 li3
 彭蠡湖	peng2 li3 hu2
@@ -64510,7 +64467,6 @@ min_phrase_weight: 100
 待解	dai4 jie3
 待詔	dai4 zhao4
 待賈	dai4 gu3
-待質	dai4 zhi2
 待遇	dai4 yu4
 徇務	xun2 wu4
 徇地	xun4 di4
@@ -65188,7 +65144,6 @@ min_phrase_weight: 100
 性行爲	xing4 xing2 wei2
 性衝動	xing4 chong1 dong4
 性變態行爲	xing4 bian4 tai4 xing2 wei2
-性質	xing4 zhi2
 性關係	xing4 guan1 xi5
 怨不得	yuan4 bu5 de5
 怨仇	yuan4 chou2
@@ -66147,11 +66102,9 @@ min_phrase_weight: 100
 懷寶夜行	huai2 bao3 ye4 xing2
 懷惡不悛	huai2 e4 bu4 quan1
 懷憂喪志	huai2 you1 sang4 zhi4
-懷文抱質	huai2 wen2 bao4 zhi2
 懷璧爲罪	huai2 bi4 wei2 zui4
 懷着身子	huai2 zhe5 shen1 zi5
 懷空	huai2 kong1
-懷質抱真	huai2 zhi2 bao4 zhen1
 懸崖	xuan2 yai2
 懸崖勒馬	xuan2 ya2 le4 ma3
 懸崖勒馬	xuan2 yai2 le4 ma3
@@ -69867,7 +69820,6 @@ min_phrase_weight: 100
 教育視導	jiao4 yu4 shi4 dao3
 教育計畫	jiao4 yu4 ji4 hua4
 教育費	jiao4 yu4 fei4
-教育質量	jiao4 yu4 zhi4 liang4
 教育輔導	jiao4 yu4 fu3 dao3
 教育部	jiao4 yu4 bu4
 教育部長	jiao4 yu4 bu4 zhang3
@@ -70239,7 +70191,6 @@ min_phrase_weight: 100
 文化傳統	wen2 hua4 chuan2 tong3
 文化圈	wen2 hua4 juan4
 文化模式	wen2 hua4 mo2 shi4
-文化特質	wen2 hua4 te4 zhi2
 文化衝擊	wen2 hua4 chong1 ji1
 文君當壚	wen2 jun1 dang1 lu2
 文場	wen2 chang2
@@ -70263,8 +70214,6 @@ min_phrase_weight: 100
 文蛤	wen2 ge2
 文調	wen2 diao4
 文謅謅	wen2 zou1 zou1
-文質	wen2 zhi2
-文質彬彬	wen2 zhi2 bin1 bin1
 文身斷髮	wen2 shen1 duan4 fa3
 文過	wen4 guo4
 文過遂非	wen4 guo4 sui4 fei1
@@ -70801,7 +70750,6 @@ min_phrase_weight: 100
 星象惡曜	xing1 xiang4 e4 yao4
 星降	xing1 jiang4
 星際旅行	xing1 ji4 lv3 xing2
-星際物質	xing1 ji4 wu4 zhi2
 星離雨散	xing1 li2 yu3 san4
 星點彈塗	xing1 dian3 tan2 tu2
 春假	chun1 jia4
@@ -71629,7 +71577,6 @@ min_phrase_weight: 100
 有樣子	you3 yang4 zi5
 有機分子	you3 ji1 fen1 zi3
 有機玻璃	you3 ji1 bo1 li5
-有機質	you3 ji1 zhi2
 有毛的蠻子	you3 mao2 de5 man2 zi5
 有氧舞蹈	you3 yang3 wu3 dao4
 有求必應	you3 qiu2 bi4 ying4
@@ -71708,7 +71655,6 @@ min_phrase_weight: 100
 服務提供商	fu2 wu4 ti2 gong1 shang1
 服務提供者	fu2 wu4 ti2 gong1 zhe3
 服務處	fu2 wu4 chu4
-服務質量	fu2 wu4 zhi4 liang4
 服喪	fu2 sang1
 服帖	fu2 tie1
 服服	fu4 fu5
@@ -71998,9 +71944,6 @@ min_phrase_weight: 100
 木禺	mu4 ou3
 木管樂器	mu4 guan3 yue4 qi4
 木落	mu4 luo4
-木質	mu4 zhi2
-木質莖	mu4 zhi2 jing1
-木質部	mu4 zhi2 bu4
 木里藏族自治縣	mu4 li3 zang4 zu2 zi4 zhi4 xian4
 木鋸	mu4 ju4
 木雕泥塑	mu4 diao1 ni2 su4
@@ -72088,7 +72031,6 @@ min_phrase_weight: 100
 本色當行	ben3 se4 dang1 hang2
 本處	ben3 chu4
 本行	ben3 hang2
-本質	ben3 zhi2
 札子	zha2 zi5
 札抹	zha2 mo3
 札馬剌丁	za1 ma3 la2 ding1
@@ -72161,7 +72103,6 @@ min_phrase_weight: 100
 杏子	xing4 zi5
 杏脯	xing4 fu3
 材大難用	cai2 da4 nan2 yong4
-材質	cai2 zhi2
 材輕德薄	cai2 qing1 de2 bo2
 材高知深	cai2 gao1 zhi4 shen1
 村上隆	cun1 shang4 long1
@@ -72937,7 +72878,6 @@ min_phrase_weight: 100
 椰胡	ye2 hu2
 椰菜	ye2 cai4
 椰雕	ye2 diao1
-椹質	zhen1 zhi4
 椽子	chuan2 zi5
 椿壽	chun1 shou4
 椿庭	chun1 ting2
@@ -73381,8 +73321,6 @@ min_phrase_weight: 100
 樸素無華	pu2 su4 wu2 hua2
 樸訥	pu2 na4
 樸訥誠篤	pu2 na4 cheng2 du3
-樸質	pu2 zhi2
-樸質無華	pu2 zhi2 wu2 hua2
 樸鄙	pu2 bi3
 樸重	pu2 zhong4
 樸野	pu2 ye3
@@ -74073,7 +74011,6 @@ min_phrase_weight: 100
 殼果	ke2 guo3
 殼牌	qiao4 pai2
 殼牌公司	qiao4 pai2 gong1 si1
-殼質	qiao4 zhi4
 殿屎	dian4 xi1
 毀家紓難	hui3 jia1 shu1 nan4
 毀屍滅跡	hui3 shi1 mie4 ji1
@@ -74373,7 +74310,6 @@ min_phrase_weight: 100
 氣褥子	qi4 ru4 zi5
 氣誼相投	qi4 yi4 xiang1 tou2
 氣貫長虹	qi4 guan4 chang2 hong2
-氣質	qi4 zhi2
 氣量	qi4 liang4
 氣量	qi4 liang5
 氣鑽	qi4 zuan1
@@ -74453,7 +74389,6 @@ min_phrase_weight: 100
 水蓼	shui3 liao3
 水處理	shui3 chu3 li3
 水覆難收	shui3 fu4 nan2 shou1
-水質	shui3 zhi2
 水逝雲卷	shui3 shi4 yun2 juan3
 水過地皮溼	shui3 guo4 di4 pi2 shi1
 水遠山長	shui3 yuan3 shan1 chang2
@@ -75213,9 +75148,6 @@ min_phrase_weight: 100
 泥蟠	ni2 pan2
 泥豬	ni2 zhu1
 泥豬瓦狗	ni2 zhu1 wa3 gou3
-泥質	ni2 zhi4
-泥質岩	ni2 zhi4 yan2
-泥質頁岩	ni2 zhi4 ye4 yan2
 泥足巨人	ni2 zu2 ju4 ren2
 泥酒	ni4 jiu3
 泥醉	ni2 zui4
@@ -75475,7 +75407,6 @@ min_phrase_weight: 100
 流言切莫輕信	liu2 yan2 qie1 mo4 qing1 xin4
 流言混語	liu2 yan2 hun4 yu3
 流言蜚語	liu2 yan2 fei1 yu3
-流質	liu2 zhi2
 流量	liu2 liang4
 流量計	liu2 liang4 ji4
 流露	liu2 lu4
@@ -75576,7 +75507,6 @@ min_phrase_weight: 100
 海水浴場	hai3 shui3 yu4 chang2
 海水難量	hai3 shui3 nan2 liang2
 海泡石	hai3 pao1 shi2
-海洋地質	hai3 yang2 di4 zhi2
 海洋溫差發電	hai3 yang2 wen1 cha1 fa1 dian4
 海洋溫度	hai3 yang2 wen1 du4
 海洋牧場	hai3 yang2 mu4 chang2
@@ -76197,7 +76127,6 @@ min_phrase_weight: 100
 溶沒	rong2 mo4
 溶溶脈脈	rong2 rong2 mai4 mai4
 溶解度	rong2 jie3 du4
-溶質	rong2 zhi2
 溷廁	hun4 ci4
 溺器	niao4 qi4
 溺窩子	niao4 wo1 zi5
@@ -76614,7 +76543,6 @@ min_phrase_weight: 100
 激靈	ji1 ling5
 濁度	zhuo2 du4
 濁臭熏天	zhuo2 chou4 xun1 tian1
-濁質凡姿	zhuo2 zhi2 fan2 zi1
 濂洛關閩	lian2 luo4 guan1 min2
 濃墨重彩	nong2 mo4 zhong4 cai3
 濃妝淡抹	nong2 zhuang1 dan4 mo3
@@ -76777,7 +76705,6 @@ min_phrase_weight: 100
 灰泥	hui1 ni2
 灰漿	hui1 jiang1
 灰濛濛	hui1 meng1 meng1
-灰質	hui1 zhi2
 灰軀糜骨	hui1 qu1 mi2 gu3
 灸刺	jiu3 ci4
 灼艾分痛	zhuo2 ai4 fen1 tong4
@@ -77742,8 +77669,6 @@ min_phrase_weight: 100
 牙縫兒	ya2 feng4 r5
 牙縫高低	ya2 feng4 gao1 di1
 牙行	ya2 hang2
-牙質	ya2 zhi2
-牙釉質	ya2 you4 zhi2
 牙鑽	ya2 zuan4
 牛不喝水強按頭	niu2 bu4 he1 shui3 qiang2 an4 tou2
 牛仔布	niu2 zi3 bu4
@@ -77799,7 +77724,6 @@ min_phrase_weight: 100
 物以稀爲貴	wu4 yi3 xi1 wei2 gui4
 物價指數	wu4 jia4 zhi3 shu4
 物我無間	wu4 wo3 wu2 jian4
-物理性質	wu4 li3 xing4 zhi2
 物理結構	wu4 li3 jie2 gou4
 物理量	wu4 li3 liang4
 物盛則衰	wu4 sheng4 ze2 shuai1
@@ -77807,14 +77731,6 @@ min_phrase_weight: 100
 物種起源	wu4 zhong3 qi3 yuan2
 物累	wu4 lei3
 物資供應	wu4 zi1 gong1 ying4
-物質	wu4 zhi2
-物質三態	wu4 zhi2 san1 tai4
-物質不滅律	wu4 zhi2 bu2 mie4 lv4
-物質建設	wu4 zhi2 jian4 she4
-物質文明	wu4 zhi2 wen2 ming2
-物質文明和精神文明	wu4 zhi4 wen2 ming2 han4 jing1 shen2 wen2 ming2
-物質文明和精神文明	wu4 zhi4 wen2 ming2 he2 jing1 shen2 wen2 ming2
-物質生活	wu4 zhi2 sheng1 huo2
 牲口	sheng1 kou3
 牲口	sheng1 kou5
 牲畜	sheng1 chu4
@@ -77856,7 +77772,6 @@ min_phrase_weight: 100
 特衛強	te4 wei4 qiang2
 特許行業	te4 xu3 hang2 ye4
 特調	te4 tiao2
-特質	te4 zhi2
 特長	te4 chang2
 特高頻率	te4 gao1 pin2 lv4
 牽一髮而動全身	qian1 yi2 fa4 er2 dong4 quan2 shen1
@@ -78208,6 +78123,7 @@ min_phrase_weight: 100
 玉色	yu4 shai5
 玉蘭片	yu4 lan2 pian4
 玉質金相	yu4 zhi2 jin1 xiang4
+玉質金相	yu4 zhi4 jin1 xiang4
 玉闕	yu4 que4
 玉露	yu4 lu4
 玉露如珠	yu4 lu4 ru2 zhu1
@@ -78319,7 +78235,6 @@ min_phrase_weight: 100
 玻璃絲	bo1 li5 si1
 玻璃絲襪	bo1 li5 si1 wa4
 玻璃纖維	bo1 li5 xian1 wei2
-玻璃質肥料	bo1 li5 zhi2 fei2 liao4
 玻璃鋼	bo1 li5 gang1
 玻璃體	bo1 li5 ti3
 玻色子	bo1 se4 zi5
@@ -78438,8 +78353,6 @@ min_phrase_weight: 100
 琵琶行	pi2 pa2 xing2
 琵琶行	pi2 pa5 xing2
 琵琶調	pi2 pa2 diao4
-琺瑯質	fa4 lang2 zhi2
-瑋質	wei3 zhi2
 瑕瑜互見	xia2 yu2 hu4 xian4
 瑜伽師地論	yu2 jia1 shi1 di4 lun4
 瑜伽行派	yu2 jia1 xing2 pai4
@@ -78473,7 +78386,6 @@ min_phrase_weight: 100
 璞玉爲石	pu2 yu4 wei2 shi2
 璧還	bi4 huan2
 環伺	huan2 si4
-環境地質學	huan2 jing4 di4 zhi2 xue2
 環境溫度	huan2 jing4 wen1 du4
 環境行動主義	huan2 jing4 xing2 dong4 zhu3 yi4
 環境重災區	huan2 jing4 zhong4 zai1 qu1
@@ -78491,7 +78403,6 @@ min_phrase_weight: 100
 環行	huan2 xing2
 瓊崖海棠	qiong2 yai2 hai3 tang2
 瓊廚金穴	qiong2 chu2 jin1 xue4
-瓊林玉質	qiong2 lin2 yu4 zhi2
 瓊漿	qiong2 jiang1
 瓊漿玉液	qiong2 jiang1 yu4 ye4
 瓊漿金液	qiong2 jiang1 jin1 ye4
@@ -78640,7 +78551,6 @@ min_phrase_weight: 100
 生死與共	sheng1 si3 yu3 gong4
 生死與奪	sheng1 si3 yu3 duo2
 生殺與奪	sheng1 sha1 yu3 duo2
-生活品質	sheng1 huo2 pin3 zhi2
 生活圈	sheng1 huo2 quan1
 生活態度	sheng1 huo2 tai4 du4
 生活教育	sheng1 huo2 jiao4 yu4
@@ -78908,7 +78818,6 @@ min_phrase_weight: 100
 異聞傳說	yi4 wen2 chuan2 shuo1
 異花傳粉	yi4 hua1 chuan2 fen3
 異苔同岑	yi4 tai2 tong2 cen2
-異質	yi4 zhi2
 異軍突起	yi4 jun1 tu2 qi3
 異重流	yi4 zhong4 liu2
 當一天和尚撞一天鐘	dang1 yi4 tian1 he2 shang4 zhuang4 yi4 tian1 zhong1
@@ -79099,7 +79008,6 @@ min_phrase_weight: 100
 當雄縣	dang1 xiong2 xian4
 當面	dang1 mian4
 當面唾罵	dang1 mian4 tuo4 ma4
-當面對質	dang1 mian4 dui4 zhi2
 當面銀子對面錢	dang1 mian4 yin2 zi5 dui4 mian4 qian2
 當面錯過	dang1 mian4 cuo4 guo4
 當面鑼	dang1 mian4 luo2
@@ -79476,7 +79384,6 @@ min_phrase_weight: 100
 白衣教練	bai2 yi1 jiao4 lian4
 白變種	bai2 bian4 zhong3
 白費心血	bai2 fei4 xin1 xie3
-白質	bai2 zhi2
 白跑一趟	bai2 pao3 yi2 tang4
 白蹧蹋	bai2 zao1 ta5
 白醭	bai2 pu2
@@ -79675,8 +79582,6 @@ min_phrase_weight: 100
 皮膚癌	pi2 fu1 yan2
 皮解庫	pi2 jie4 ku4
 皮諾切特	pi2 nuo4 qie1 te4
-皮質	pi2 zhi2
-皮質素	pi2 zhi2 su4
 皮重	pi2 zhong4
 皮錫瑞	pi2 xi2 rui4
 皺彆	zhou4 bie1
@@ -80980,7 +80885,6 @@ min_phrase_weight: 100
 石渠閣	shi2 qu2 ge2
 石渠閣議	shi2 qu2 ge2 yi4
 石濤	shi2 tao2
-石灰質	shi2 hui1 zhi2
 石燕	shi2 yan4
 石片	shi2 pian4
 石版印刷	shi2 ban3 yin4 shua1
@@ -81017,7 +80921,6 @@ min_phrase_weight: 100
 矽藻	xi4 zao3
 矽藻土	xi4 zao3 tu3
 矽谷	xi4 gu3
-矽質岩	xi4 zhi2 yan2
 矽酸	xi4 suan1
 矽酸鹽	xi4 suan1 yan2
 矽鋼	xi4 gang1
@@ -81027,7 +80930,6 @@ min_phrase_weight: 100
 砂漿	sha1 jiang1
 砂石場	sha1 shi2 chang2
 砂磨	sha1 mo2
-砂質	sha1 zhi2
 砉然	huo4 ran2
 砌塊建築	qi4 kuai4 jian4 zhu2
 砌末	qie4 mo4
@@ -81126,7 +81028,6 @@ min_phrase_weight: 100
 硬腦膜	ying4 nao3 mo4
 硬裏子	ying4 li3 zi5
 硬語盤空	ying4 yu3 pan2 kong1
-硬質合金	ying4 zhi2 he2 jin1
 硬骨頭	ying4 gu2 tou5
 硯水壺兒	yan4 shui3 hu2 r5
 硯臺	yan4 tai5
@@ -81335,7 +81236,6 @@ min_phrase_weight: 100
 磨齒	mo2 chi3
 磬子	qing4 zi5
 磬折	qing4 zhe2
-磷脂質	lin2 zhi1 zhi2
 磺胺劑	huang2 an1 ji4
 磽地	qiao1 di4
 磽薄	qiao1 bo2
@@ -81345,7 +81245,6 @@ min_phrase_weight: 100
 礙難照辦	ai4 nan2 zhao4 ban4
 礙面子	ai4 mian4 zi5
 礤牀兒	ca3 chuang2 r5
-礦物質	kuang4 wu4 zhi2
 礦脈	kuang4 mai4
 礦藏	kuang4 cang2
 礦難	kuang4 nan4
@@ -81422,7 +81321,6 @@ min_phrase_weight: 100
 神甫	shen2 fu5
 神的兒子	shen2 de5 er2 zi5
 神祕主義	shen2 mi4 zhu3 yi4
-神經質	shen2 jing1 zhi2
 神色自得	shen2 se4 zi4 de2
 神荼鬱壘	shen2 shu1 yu4 lv4
 神號鬼哭	shen2 hao2 gui3 ku1
@@ -83109,10 +83007,8 @@ min_phrase_weight: 100
 純所得	chun2 suo3 de2
 純樸	chun2 pu2
 純熟	chun2 shu2
-純物質	chun2 wu4 zhi2
 純種	chun2 zhong3
 純粹數學	chun2 cui4 shu4 xue2
-純質	chun2 zhi2
 紕繆	pi1 miu4
 紙上空談	zhi3 shang4 kong1 tan2
 紙尿布	zhi3 niao4 bu4
@@ -83152,9 +83048,6 @@ min_phrase_weight: 100
 素行	su4 xing4
 素行不良	su4 xing4 bu4 liang2
 素識	su4 shi4
-素質	su4 zhi2
-素質差	su4 zhi4 cha4
-素質教育	su4 zhi4 jiao4 yu4
 素隱行怪	su4 yin3 xing4 guai4
 素面朝天	su4 mian4 chao2 tian1
 素馨	su4 xing1
@@ -83269,8 +83162,6 @@ min_phrase_weight: 100
 細磨刀石	xi4 mo4 dao1 shi2
 細細地流	xi4 xi4 de5 liu2
 細胞分裂	xi4 bao1 fen1 lie4
-細胞原生質	xi4 bao1 yuan2 sheng1 zhi2
-細胞質	xi4 bao1 zhi2
 細胞週期	xi4 bao1 zhou1 qi2
 細胞遺傳學	xi4 bao1 yi2 chuan2 xue2
 細胞銀行	xi4 bao1 yin2 hang2
@@ -83592,7 +83483,6 @@ min_phrase_weight: 100
 絲瓜絡	si1 gua1 lao4
 絲竹樂	si1 zhu2 yue4
 絲絛	si1 tao1
-絲質	si1 zhi2
 絲髮	si1 fa3
 絲髮之功	si1 fa3 zhi1 gong1
 絳帖	jiang4 tie4
@@ -84124,7 +84014,6 @@ min_phrase_weight: 100
 纔子	cai2 zi5
 纖度	xian1 du4
 纖穠中度	xian1 nong2 zhong4 du4
-纖纖弱質	xian1 xian1 ruo4 zhi2
 纖阿	xian1 e1
 缸子	gang1 zi5
 缺少	que1 shao3
@@ -84271,7 +84160,6 @@ min_phrase_weight: 100
 羊膜類	yang2 mo4 lei4
 羊落虎口	yang2 luo4 hu3 kou3
 羊觸藩籬	yang2 chu4 fan2 li2
-羊質虎皮	yang2 zhi2 hu3 pi2
 羊霜腸	yang2 shuang1 chang5
 羊鬚瘡	yang2 xu1 cang1
 羌帖	qiang1 tie5
@@ -84286,8 +84174,6 @@ min_phrase_weight: 100
 美噸	mei3 dun4
 美國國家航天航空局	mei3 guo2 guo2 jia1 hang2 tian1 hang2 kong1 ju2
 美國國家航空航天局	mei3 guo2 guo2 jia1 hang2 kong1 hang2 tian1 ju2
-美國地質局	mei3 guo2 di4 zhi4 ju2
-美國地質調查局	mei3 guo2 di4 zhi4 diao4 cha2 ju2
 美國聯邦航空局	mei3 guo2 lian2 bang1 hang2 kong1 ju2
 美國聯邦調查局	mei3 guo2 lian2 bang1 diao4 cha2 ju2
 美國航空	mei3 guo2 hang2 kong1
@@ -84308,7 +84194,6 @@ min_phrase_weight: 100
 美眄	mei3 mian3
 美稱	mei3 cheng1
 美處	mei3 chu4
-美質	mei3 zhi2
 美髮	mei3 fa3
 美麗的磨坊少女	mei3 li4 de5 mo4 fang1 shao4 nv3
 羓子	ba1 zi5
@@ -84644,7 +84529,6 @@ min_phrase_weight: 100
 考中	kao3 zhong4
 考分	kao3 fen1
 考卷	kao3 juan4
-考古質疑	kao3 gu3 zhi2 yi2
 考差	kao3 chai1
 考期	kao3 qi2
 考校	kao3 jiao4
@@ -84986,7 +84870,6 @@ min_phrase_weight: 100
 肉畜	rou4 chu4
 肉脯	rou4 fu3
 肉袒面縛	rou4 tan3 mian4 fu2
-肉質	rou4 zhi2
 肉重千斤	rou4 zhong4 qian1 jin1
 肉頭	rou4 tou5
 肉顫心驚	rou4 chan4 xin1 jing1
@@ -85347,7 +85230,6 @@ min_phrase_weight: 100
 腎臟癌	shen4 zang4 yan2
 腐化分子	fu3 hua4 fen4 zi3
 腐惡	fu3 e4
-腐植質	fu3 zhi2 zhi2
 腐殖覆蓋物	fu3 zhi2 fu4 gai4 wu4
 腐熟	fu3 shu2
 腐臭	fu3 chou4
@@ -85593,7 +85475,6 @@ min_phrase_weight: 100
 臨淵結網	lin2 yuan1 jie2 wang3
 臨淵羨魚不如退而結網	lin2 yuan1 xian4 yu2 bu4 ru2 tui4 er2 jie2 wang3
 臨滄地區	lin2 cang1 di4 qu1
-臨界質量	lin2 jie4 zhi4 liang4
 臨行	lin2 xing2
 臨財苟得	lin2 cai2 gou3 de2
 臨陣磨槍	lin2 zhen4 mo2 qiang1
@@ -86176,9 +86057,6 @@ min_phrase_weight: 100
 良種繁育	liang2 zhong3 fan2 yu4
 良莠不分	liang2 you3 bu4 fen1
 良賈深藏若虛	liang2 gu3 shen1 cang2 ruo4 xu1
-良質	liang2 zhi2
-良質米	liang2 zhi2 mi3
-良質美手	liang2 zhi2 mei3 shou3
 良馬見鞭影而行	liang2 ma3 jian4 bian1 ying3 er2 xing2
 艱危	jian1 wei2
 艱難	jian1 nan2
@@ -86193,7 +86071,6 @@ min_phrase_weight: 100
 色楞格河	se4 leng2 ge2 he2
 色盅	shai3 zhong1
 色調	se4 diao4
-色質細胞	se4 zhi2 xi4 bao1
 色達縣	shai3 da2 xian4
 色鍾	shai3 zhong1
 色長	se4 zhang3
@@ -86234,7 +86111,6 @@ min_phrase_weight: 100
 芝麻餅	zhi1 ma5 bing3
 芟落	shan1 luo4
 芥子園畫傳	jie4 zi3 yuan2 hua4 zhuan4
-芥子氣惡病質	jie4 zi3 qi4 e4 bing4 zhi4
 芥子氣水疱	jie4 zi3 qi4 shui3 pao4
 芥末	jie4 mo4
 芥末	jie4 mo5
@@ -86269,7 +86145,6 @@ min_phrase_weight: 100
 花奶奶	hua1 nai3 nai5
 花子	hua1 zi5
 花崗岩	hua1 gang1 yan2
-花崗岩質層	hua1 gang1 yan2 zhi2 ceng2
 花崗石	hua1 gang1 shi2
 花巾着目	hua1 jin1 zhuo2 mu4
 花息	hua1 xi2
@@ -86495,7 +86370,6 @@ min_phrase_weight: 100
 茶藨子	cha2 biao1 zi5
 茶行	cha2 hang2
 茶褐色	cha2 he2 se4
-茶質	cha2 zhi2
 茶錢	cha2 qian5
 茶食	cha2 shi5
 茶館兒	cha2 guan3 r5
@@ -86525,7 +86399,6 @@ min_phrase_weight: 100
 草臺班子	cao3 tai2 ban1 zi5
 草草了事	cao3 cao3 liao3 shi4
 草行露宿	cao3 xing2 lu4 su4
-草質莖	cao3 zhi2 jing1
 草長鶯飛	cao3 zhang3 ying1 fei1
 草間求活	cao3 jian1 qiu2 huo2
 草靡風行	cao3 mi3 feng1 xing2
@@ -86685,7 +86558,6 @@ min_phrase_weight: 100
 菌蓋	jun4 gai4
 菌血症	jun4 xie3 zheng4
 菌褶	jun4 zhe2
-菌質	jun4 zhi2
 菌陳蒿	jun1 chen2 hao1
 菌類培養液	jun4 lei4 pei2 yang3 ye4
 菖鮋	chang1 you2
@@ -87065,7 +86937,6 @@ min_phrase_weight: 100
 葉片	ye4 pian4
 葉片狀	ye4 pian4 zhuang4
 葉盛蘭	ye4 sheng4 lan2
-葉綠體基質	ye4 lv4 ti3 ji1 zhi2
 葉縣	she4 xian4
 葉脈	ye4 mai4
 葉脈序	ye4 mai4 xu4
@@ -87445,10 +87316,6 @@ min_phrase_weight: 100
 蕉扇	jiao1 shan4
 蕉萃	qiao2 cui4
 蕉葛	jiao1 ge2
-蕙心紈質	hui4 xin1 wan2 zhi2
-蕙心蘭質	hui4 xin1 lan2 zhi2
-蕙質	hui4 zhi2
-蕙質蘭心	hui4 zhi2 lan2 xin1
 蕩散	dang4 san4
 蕩蕩悠悠	dang4 dang5 you1 you1
 蕪累	wu2 lei3
@@ -87833,7 +87700,6 @@ min_phrase_weight: 100
 蘭若	lan2 re3
 蘭茝	lan2 chai3
 蘭葉撇	lan2 ye4 pie3
-蘭蕙質	lan2 hui4 zhi2
 蘭鄭長成品油管道	lan2 zheng4 chang2 cheng2 pin3 you2 guan3 dao4
 蘭鄭長管道	lan2 zheng4 chang2 guan3 dao4
 蘮蒘	ji4 ru2
@@ -87851,7 +87717,6 @@ min_phrase_weight: 100
 虎無爪	hu3 wu2 zhua3
 虎爪拳	hu3 zhao3 quan2
 虎爪豆	hu3 zhao3 dou4
-虎皮羊質	hu3 pi2 yang2 zhi2
 虎穴	hu3 xue4
 虎穴龍潭	hu3 xue4 long2 tan2
 虎而冠	hu3 er2 guan4
@@ -88025,7 +87890,6 @@ min_phrase_weight: 100
 蛋卷	dan4 juan3
 蛋殼	dan4 ke2
 蛋白尿	dan4 bai2 niao4
-蛋白質	dan4 bai2 zhi2
 蛐蛐兒	qu1 qu5 r5
 蛐蟮	qu1 shan4
 蛐蟮	qu1 shan5
@@ -89016,7 +88880,6 @@ min_phrase_weight: 100
 褂子	gua4 zi5
 複分解反應	fu4 fen1 jie3 fan3 ying4
 複合企業	fu4 he2 qi4 ye4
-複合蛋白質	fu4 he2 dan4 bai2 zhi2
 複合量詞	fu4 he2 liang4 ci2
 複名數	fu4 ming2 shu4
 複式教學	fu4 shi4 jiao4 xue2
@@ -89517,7 +89380,6 @@ min_phrase_weight: 100
 角落	jue2 luo4
 角角	jue2 jue2
 角調	jue2 diao4
-角質層	jiao3 zhi2 ceng2
 角逐	jiao3 zhu2
 角逐	jue2 zhu2
 角速度	jiao3 su4 du4
@@ -90468,7 +90330,6 @@ min_phrase_weight: 100
 變種	bian4 zhong3
 變聲期	bian4 sheng1 qi2
 變調	bian4 diao4
-變質	bian4 zhi2
 變跡埋名	bian4 ji1 mai2 ming2
 變速傳動	bian4 su4 chuan2 dong4
 變量	bian4 liang4
@@ -90584,7 +90445,6 @@ min_phrase_weight: 100
 象拔蚌	xiang4 ba2 bang4
 象數	xiang4 shu4
 象牙海岸共和國	xiang4 ya2 hai3 an4 gong4 he2 guo2
-象牙質	xiang4 ya2 zhi2
 象瑱	xiang4 tian4
 象車	xiang4 ju1
 象闕	xiang4 que4
@@ -90841,7 +90701,6 @@ min_phrase_weight: 100
 資產重估	zi1 chan3 chong2 gu1
 資興	zi1 xing1
 資興市	zi1 xing1 shi4
-資質	zi1 zhi2
 賈人	gu3 ren2
 賈人渡河	gu3 ren2 du4 he2
 賈儈	gu3 kuai4
@@ -90958,8 +90817,6 @@ min_phrase_weight: 100
 賦與	fu4 yu3
 賦間	fu4 jian1
 賦食行水	fu4 shi2 xing2 shui3
-質和量	zhi4 he2 liang4
-質問	zhi2 wen4
 質因數	zhi2 yin1 shu4
 質因數	zhi4 yin1 shu4
 質地	zhi2 di4
@@ -90967,40 +90824,24 @@ min_phrase_weight: 100
 質子	zhi2 zi3
 質子	zhi4 zi3
 質子數	zhi4 zi3 shu4
-質實	zhi2 shi2
-質對	zhi2 dui4
-質感	zhi2 gan3
-質成	zhi2 cheng2
 質數	zhi2 shu4
 質數	zhi4 shu4
-質料	zhi2 liao4
-質明	zhi2 ming2
-質朴	zhi2 pu2
-質樸	zhi2 pu2
+質當	zhi2 dang4
 質當	zhi4 dang4
-質疑	zhi2 yi2
 質疑問難	zhi2 yi2 wen4 nan4
+質疑問難	zhi4 yi2 wen4 nan4
 質的	zhi2 di4
-質直	zhi2 zhi2
-質直渾厚	zhi2 zhi2 hun2 hou4
-質而不俚	zhi2 er2 bu4 li3
+質的	zhi4 di4
 質能不滅定律	zhi2 neng2 bu2 mie4 ding4 lv4
-質言	zhi2 yan2
-質詢	zhi2 xun2
-質證	zhi2 zheng4
-質變	zhi2 bian4
-質讓	zhi2 rang4
-質責	zhi2 ze2
+質能不滅定律	zhi4 neng2 bu2 mie4 ding4 lv4
 質量	zhi2 liang4
 質量	zhi4 liang4
+質量保障	zhi2 liang4 bao3 zhang4
 質量保障	zhi4 liang4 bao3 zhang4
 質量數	zhi2 liang4 shu4
 質量數	zhi4 liang4 shu4
-質量檢查	zhi4 liang4 jian3 cha2
-質量管理	zhi4 liang4 guan3 li3
-質鋪	zhi4 pu4
+質難	zhi2 nan4
 質難	zhi4 nan4
-質點	zhi2 dian3
 賬房先生	zhang4 fang2 xian1 sheng5
 賬載	zhang4 zai3
 賭博場	du3 bo2 chang2
@@ -91569,6 +91410,7 @@ min_phrase_weight: 100
 身首分離	shen1 shou3 fen1 li2
 身首異處	shen1 shou3 yi4 chu4
 身體力行	shen1 ti3 li4 xing2
+身體質量指數	shen1 ti3 zhi2 liang4 zhi3 shu4
 身體質量指數	shen1 ti3 zhi4 liang4 zhi3 shu4
 身體部分	shen1 ti3 bu4 fen4
 身體髮膚	shen1 ti3 fa3 fu1
@@ -92926,7 +92768,6 @@ min_phrase_weight: 100
 遺傳工程	yi2 chuan2 gong1 cheng2
 遺傳性	yi2 chuan2 xing4
 遺傳性疾病	yi2 chuan2 xing4 ji2 bing4
-遺傳物質	yi2 chuan2 wu4 zhi4
 遺傳病	yi2 chuan2 bing4
 遺少	yi2 shao4
 遺尿	yi2 niao4
@@ -93724,6 +93565,7 @@ min_phrase_weight: 100
 重賞	zhong4 shang3
 重賞之下	zhong4 shang3 zhi1 xia4
 重質原油	zhong4 zhi2 yuan2 you2
+重質原油	zhong4 zhi4 yuan2 you2
 重赴鹿鳴	chong2 fu4 lu4 ming2
 重足側目	chong2 zu2 ce4 mu4
 重足而立	chong2 zu2 er2 li4
@@ -93907,6 +93749,7 @@ min_phrase_weight: 100
 金相學	jin1 xiang4 xue2
 金相玉式	jin1 xiang4 yu4 shi4
 金相玉質	jin1 xiang4 yu4 zhi2
+金相玉質	jin1 xiang4 yu4 zhi4
 金石爲虧	jin1 shi2 wei2 kui1
 金穴	jin1 xue4
 金紫光祿大夫	jin1 zi3 guang1 lu4 dai4 fu1
@@ -93919,7 +93762,6 @@ min_phrase_weight: 100
 金蟬脫殻	jin1 chan2 tuo1 qiao4
 金蟬脫殼	jin1 chan2 tuo1 ke2
 金谷酒數	jin1 gu3 jiu3 shu4
-金質	jin1 zhi2
 金都	jin1 du1
 金針度人	jin1 zhen1 du4 ren2
 金鈴子	jin1 ling2 zi3
@@ -93979,7 +93821,6 @@ min_phrase_weight: 100
 鈞旋轂轉	jun1 xuan2 gu3 zhuan3
 鈞長	jun1 zhang3
 鈣片	gai4 pian4
-鈣質	gai4 zhi2
 鈴鐺	ling2 dang1
 鈴鐺	ling2 dang5
 鈴鐺壽星	ling2 dang5 shou4 xing5
@@ -94044,6 +93885,7 @@ min_phrase_weight: 100
 銀行貸款	yin2 hang2 dai4 kuan3
 銀行體系資金	yin2 hang2 ti3 xi4 zi1 jin1
 銀質沉着	yin2 zhi2 chen2 zhuo2
+銀質沉着	yin2 zhi4 chen2 zhuo2
 銀闕	yin2 que4
 銀髮	yin2 fa3
 銀髮族	yin2 fa3 zu2
@@ -94406,7 +94248,6 @@ min_phrase_weight: 100
 鐵落	tie3 luo4
 鐵蛋子	tie3 dan4 zi5
 鐵血宰相	tie3 xue4 zai3 xiang4
-鐵質	tie3 zhi2
 鐵路地下化	tie3 lu4 di4 xia4 hua4
 鐵都	tie3 du1
 鐵鉤兒	tie3 gou1 r5
@@ -95092,8 +94933,8 @@ min_phrase_weight: 100
 間不容息	jian4 bu4 rong2 xi2
 間不容髮	jian4 bu4 rong2 fa3
 間充	jian1 chong1
+間充質	jian1 chong1 zhi2
 間充質	jian1 chong1 zhi4
-間充質幹細胞	jian1 chong1 zhi4 gan4 xi4 bao1
 間入	jian4 ru4
 間出	jian4 chu1
 間別	jian4 bie2
@@ -95144,6 +94985,7 @@ min_phrase_weight: 100
 間諜船	jian4 die2 chuan2
 間諜軟件	jian4 die2 ruan3 jian4
 間質性肺炎	jian1 zhi2 xing4 fei4 yan2
+間質性肺炎	jian1 zhi4 xing4 fei4 yan2
 間道	jian4 dao4
 間量	jian1 liang4
 間闊	jian4 kuo4
@@ -95166,7 +95008,6 @@ min_phrase_weight: 100
 閤家	he2 jia1
 閤家歡	he2 jia1 huan1
 閤眼	he2 yan3
-閨中妙質	gui1 zhong1 miao4 zhi2
 閩中	min2 zhong1
 閩侯	min2 hou2
 閩劇	min2 ju4
@@ -96255,7 +96096,6 @@ min_phrase_weight: 100
 雜糅	za2 rou3
 雜興	za2 xing4
 雜處	za2 chu3
-雜質	za2 zhi2
 雞冠	ji1 guan1
 雞冠區	ji1 guan1 qu1
 雞冠石	ji1 guan1 shi2
@@ -96579,7 +96419,6 @@ min_phrase_weight: 100
 電視轉播	dian4 shi4 zhuan3 bo1
 電視轉播車	dian4 shi4 zhuan3 bo4 che1
 電視遊樂器	dian4 shi4 you2 le4 qi4
-電解質	dian4 jie3 zhi2
 電話傳真	dian4 hua4 chuan2 zhen1
 電話卡	dian4 hua4 ka3
 電話答錄機	dian4 hua4 da2 lu4 ji1
@@ -96894,7 +96733,6 @@ min_phrase_weight: 100
 面臨困難	mian4 lin2 kun4 nan2
 面般	mian4 pan2
 面薄腰纖	mian4 bo2 yao1 xian1
-面質	mian4 zhi2
 面重	mian4 zhong4
 面露不悅	mian4 lu4 bu2 yue4
 面面相窺	mian4 mian4 xiang1 kui1
@@ -97000,7 +96838,6 @@ min_phrase_weight: 100
 音樂電鈴	yin1 yue4 dian4 ling2
 音綴	yin1 zhui4
 音調	yin1 diao4
-音質	yin1 zhi2
 音重	yin1 zhong4
 音量	yin1 liang4
 音長	yin1 chang2
@@ -97981,10 +97818,6 @@ min_phrase_weight: 100
 骨董行	gu3 dong3 hang2
 骨血	gu3 xie3
 骨裏骨碌	gu2 li5 gu2 lu4
-骨質	gu3 zhi2
-骨質疏鬆症	gu3 zhi2 shu1 song1 zheng4
-骨質石化症	gu3 zhi2 shi2 hua4 zheng4
-骨質軟化症	gu3 zhi2 ruan3 hua4 zheng4
 骨都	gu1 du1
 骨都	gu3 du1
 骨都都	gu1 du1 du1
@@ -98024,7 +97857,6 @@ min_phrase_weight: 100
 體行	ti3 xing2
 體調	ti3 diao4
 體諒	ti3 liang5
-體質	ti3 zhi2
 體重	ti3 zhong4
 體重器	ti3 zhong4 qi4
 體重計	ti3 zhong4 ji4
@@ -98091,7 +97923,6 @@ min_phrase_weight: 100
 高爆彈	gao1 bao4 dan4
 高爵重祿	gao1 jue2 zhong4 lu4
 高爾夫球場	gao1 er3 fu1 qiu2 chang3
-高畫質電視	gao1 hua4 zhi2 dian4 shi4
 高盛	gao1 sheng4
 高看	gao1 kan4
 高空	gao1 kong1
@@ -98125,6 +97956,7 @@ min_phrase_weight: 100
 高調照片	gao1 diao4 zhao4 pian4
 高識遠度	gao1 shi4 yuan3 du4
 高識遠見	gao1 shi4 yuan3 jian4
+高質量	gao1 zhi2 liang4
 高質量	gao1 zhi4 liang4
 高蹈	gao1 dao4
 高蹈遠引	gao1 dao4 yuan3 yin3
@@ -98276,7 +98108,6 @@ min_phrase_weight: 100
 鬼混	gui3 hun4
 鬼蜮伎倆	gui3 yu4 ji4 liang3
 鬼行胸臆	gui3 xing2 xiong1 yi4
-鬼質	gui3 zhi2
 鬼門上占卦	gui3 men2 shang4 zhan1 gua4
 鬼頭	gui3 tou5
 鬼飯疙瘩	gui3 fan4 ge1 da5
@@ -98331,7 +98162,6 @@ min_phrase_weight: 100
 魚與熊掌不可兼得	yu2 yu3 xiong2 zhang3 bu4 ke3 jian1 de2
 魚藏劍	yu2 cang2 jian4
 魚貫而行	yu2 guan4 er2 xing2
-魚質龍文	yu2 zhi2 long2 wen2
 魚鉤兒	yu2 gou1 r5
 魚香茄子	yu2 xiang1 qie2 zi5
 魚驚鳥散	yu2 jing1 niao3 san4
@@ -98589,8 +98419,6 @@ min_phrase_weight: 100
 麗江地區	li4 jiang1 di4 qu1
 麗池卡登	li2 chi2 ka3 deng1
 麗緻	li2 zhi4
-麗質	li4 zhi2
-麗質天生	li4 zhi2 tian1 sheng1
 麗都	li4 du1
 麗靡	li4 mi3
 麛夭	mi2 ao3
@@ -98761,7 +98589,6 @@ min_phrase_weight: 100
 黏結	nian2 jie2
 黏膜	nian2 mo4
 黏菌	nian2 jun1
-黏質	nian2 zhi2
 黑下	hei1 xia5
 黑不溜丟	hei1 bu5 liu1 diu1
 黑人音樂	hei1 ren2 yin1 yue4
@@ -98965,7 +98792,6 @@ min_phrase_weight: 100
 齒落舌鈍	chi3 luo4 she2 dun4
 齒落髮白	chi3 luo4 fa3 bai2
 齒豁頭童	chi3 huo4 tou2 tong2
-齒質	chi3 zhi2
 齒輪傳動	chi3 lun2 chuan2 dong4
 齒髮	chi3 fa3
 齗齗	yin2 yin2
