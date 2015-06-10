@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: bopomofo
-  name: 注音
+  schema_id: bopomofo_express
+  name: 注音·快打模式
   version: "2.0"
   author:
     - 佛振 <chen.sst@gmail.com>
@@ -11,7 +11,7 @@ schema:
     注音符號輸入，採用「大千式」鍵盤排列。
 
     本方案採用「無模式」設計，以大寫字母鍵或上下方向鍵、回車鍵選詞；
-    空格鍵輸入第一聲，標記爲「ˉ」。
+    空格鍵輸入第一聲，標記爲「ˉ」。也可省略聲調或韻母部份。
 
     請配合 librime>=0.9.8 使用。
 
@@ -90,10 +90,6 @@ speller:
     - xform/er/R/
     - xform/eh/E/
     - xform/([iv])e/$1E/
-    - derive/([bpmfdtnlgkhjqxZCSrzcs])([iuv])/$2$1/
-    - derive/([iuv])([aoeEAIOUMNKGR])/$2$1/
-    - derive/([bpmfdtnlgkhjqxZCSrzcs])([aoeEAIOUMNKGR])/$2$1/
-    - derive/([bpmfdtnlgkhjqxZCSrzcs])([iuv])/$2$1/
     - abbrev/^([bpmfdtnlgkhjqxZCSrzcs]).+$/$1/
     - abbrev/^([A-Za-z]+)\d$/$1/
     - abbrev/^([bpmfdtnlgkhjqxZCSrzcs]).+(\d)$/$1$2/
@@ -101,7 +97,7 @@ speller:
 
 translator:
   dictionary: terra_pinyin
-  prism: bopomofo
+  prism: bopomofo_express
   preedit_format:
     - "xlit|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/- 6347'|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦˉˊˇˋ˙ |"
 
