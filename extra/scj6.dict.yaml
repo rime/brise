@@ -4077,7 +4077,7 @@ max_phrase_length: 1
 	ccz
 	ccz
 釥	ccz
-	ccz
+㑳	ccz
 鉷	ccz
 鎻	ccz
 	ccz
@@ -4130,7 +4130,7 @@ max_phrase_length: 1
 	cdz
 	cdz
 䤪	cdz
-	cdz
+㧏	cdz
 錄	ce
 錔	cea
 鐋	ceah
@@ -4745,7 +4745,7 @@ max_phrase_length: 1
 鎽	cjz
 	cjz
 釺	cjz
-	cjz
+𠂇	cjz
 	cjz
 父	ck
 釱	ck
@@ -5330,7 +5330,7 @@ max_phrase_length: 1
 	cqz
 銉	cqz
 	cqz
-	cqz
+𠃌	cqz
 鎿	cqz
 釦	cr
 鋗	crb
@@ -9179,7 +9179,7 @@ max_phrase_length: 1
 	efz
 	efz
 	efz
-	efz
+䦛	efz
 濙	efz
 	efz
 	efz
@@ -9305,7 +9305,7 @@ max_phrase_length: 1
 	egz
 洤	egz
 	egz
-	egz
+䅟	egz
 	egz
 涏	egz
 沙	eh
@@ -10102,7 +10102,7 @@ max_phrase_length: 1
 冲	elz
 	elz
 渊	elz
-	elz
+𢦏	elz
 澵	elz
 江	em
 潛	ema
@@ -13882,7 +13882,7 @@ max_phrase_length: 1
 璪	gdz
 㘾	gdz
 堢	gdz
-	gdz
+䌷	gdz
 	gdz
 報	ge
 馨	gea
@@ -14126,7 +14126,7 @@ max_phrase_length: 1
 邽	ggnl
 瑪	ggnm
 玖	ggno
-	ggod
+䌷	ggod
 珍	ggoh
 玲	ggoi
 玫	ggok
@@ -14241,7 +14241,7 @@ max_phrase_length: 1
 瓘	ggz
 	ggz
 瑝	ggz
-	ggz
+⺳	ggz
 ；	gh
 者	gha
 珀	gha
@@ -14952,9 +14952,9 @@ max_phrase_length: 1
 趛	goc
 趥	gocmw
 趜	god
-	god
+䌷	god
 赽	godk
-	gods
+䌷	gods
 趣	goe
 趭	gof
 趂	gof
@@ -16781,7 +16781,7 @@ max_phrase_length: 1
 栞	hdz
 犔	hdz
 竾	hdz
-	hdz
+㧟	hdz
 秄	hdz
 条	hdz
 槩	hdz
@@ -21113,7 +21113,7 @@ max_phrase_length: 1
 烕	ifz
 	ifz
 	ifz
-	ifz
+䦃	ifz
 	ifz
 祢	ifz
 麖	ifz
@@ -23135,8 +23135,8 @@ max_phrase_length: 1
 烖	jfz
 	jfz
 竂	jfz
-	jfz
-	jfz
+䦅	jfz
+䲣	jfz
 鵼	jfz
 ：	jg
 竇	jgc
@@ -29817,7 +29817,7 @@ max_phrase_length: 1
 㺭	mdz
 㻧	mdz
 㻌	mdz
-	mdz
+䌷	mdz
 㻡	mdz
 瑈	mdz
 臶	mdz
@@ -30361,7 +30361,7 @@ max_phrase_length: 1
 瑜	mgomv
 琁	mgono
 琀	mgonr
-	mgord
+䌷	mgord
 琢	mgos
 琵	mgp
 琨	mgp
@@ -31088,7 +31088,7 @@ max_phrase_length: 1
 砞	mjz
 琒	mjz
 㻼	mjz
-	mjz
+𠂉	mjz
 	mjz
 酙	mjz
 瓧	mjz
@@ -34870,7 +34870,7 @@ max_phrase_length: 1
 贖	nkz
 矦	nkz
 廴	nkz
-	nkz
+䥽	nkz
 䰻	nkz
 引	nl
 弔	nl
@@ -40005,7 +40005,7 @@ max_phrase_length: 1
 憐	piz
 懷	piz
 忛	piz
-	piz
+䙡	piz
 乸	piz
 悼	pj
 慎	pjbc
@@ -40742,7 +40742,7 @@ max_phrase_length: 1
 憂	puz
 憮	puz
 	puz
-	puz
+⺷	puz
 愰	puz
 忙	pv
 頓	pvc
@@ -46950,7 +46950,7 @@ max_phrase_length: 1
 	sgz
 埾	sgz
 	sgz
-	sgz
+㭎	sgz
 刀	sh
 力	sh
 鬐	sha
@@ -48112,7 +48112,7 @@ max_phrase_length: 1
 竪	stz
 	stz
 	stz
-	stz
+㳠	stz
 己	su
 已	su
 驨	sub
@@ -48495,7 +48495,7 @@ max_phrase_length: 1
 	taz
 蕳	taz
 	taz
-	taz
+䴔	taz
 期	tb
 蓂	tbac
 萉	tbau
@@ -48958,7 +48958,7 @@ max_phrase_length: 1
 鞟	tdz
 	tdz
 蒣	tdz
-	tdz
+䴙	tdz
 	tdz
 䔉	tdz
 萘	tdz
@@ -49208,9 +49208,9 @@ max_phrase_length: 1
 韀	tfz
 鴹	tfz
 虅	tfz
-	tfz
-	tfz
-	tfz
+𤇾	tfz
+䲟	tfz
+䲠	tfz
 䔳	tfz
 藮	tfz
 	tfz
@@ -50335,7 +50335,7 @@ max_phrase_length: 1
 	tlz
 	tlz
 	tlz
-	tlz
+䴘	tlz
 䔮	tlz
 茽	tlz
 䣐	tlz
@@ -51330,8 +51330,8 @@ max_phrase_length: 1
 鞛	trz
 䓀	trz
 萔	trz
-	trz
-	trz
+䲢	trz
+䴓	trz
 䓫	trz
 䓟	trz
 	trz
@@ -51687,7 +51687,7 @@ max_phrase_length: 1
 	tuz
 蒓	tuz
 葿	tuz
-	tuz
+䴗	tuz
 蒭	tuz
 覥	tuz
 	tuz
@@ -59859,7 +59859,7 @@ max_phrase_length: 1
 䛏	ypz
 訫	ypz
 譩	ypz
-	ypz
+䙌	ypz
 請	yqb
 謮	yqc
 誄	yqd
@@ -60688,7 +60688,7 @@ max_phrase_length: 1
 	yrz
 訽	yrz
 䢛	yrz
-	yrz
+㘎	yrz
 逈	yrz
 迉	ys
 盧	ys
