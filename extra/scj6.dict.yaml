@@ -837,7 +837,6 @@ max_phrase_length: 1
 闇	anyta
 閡	anyvo
 門	anz
-門	anz
 剔	anz
 閌	anz
 昑	anz
@@ -8137,11 +8136,9 @@ max_phrase_length: 1
 椔	dvw
 根	dvz
 婪	dvz
-根	dvz
 樓	dvz
 櫻	dvz
 棲	dvz
-婪	dvz
 桹	dvz
 椄	dvz
 椳	dvz
@@ -15360,9 +15357,6 @@ max_phrase_length: 1
 ╒	grp
 ╤	grp
 ╕	grp
-╞	grp
-╪	grp
-╡	grp
 ╘	grp
 ╧	grp
 ╛	grp
@@ -15376,11 +15370,6 @@ max_phrase_length: 1
 ╨	grp
 ╜	grp
 ║	grp
-═	grp
-╭	grp
-╮	grp
-╰	grp
-╯	grp
 喜	grr
 嘉	grr
 囍	grr
@@ -19980,7 +19969,6 @@ max_phrase_length: 1
 鼤	huyk
 氈	huyr
 毡	huyr
-氈	huyr
 氈	huyrd
 毡	huyrs
 辠	huytj
@@ -20612,7 +20600,6 @@ max_phrase_length: 1
 救	i
 態	i
 福	i
-廣	i
 魔	i
 康	i
 良	i
@@ -26503,7 +26490,6 @@ max_phrase_length: 1
 幛	lbj
 褔	lbj
 褌	lbj
-幛	lbj
 褌	lbjd
 幛	lbjf
 褌	lbjj
@@ -29100,7 +29086,6 @@ max_phrase_length: 1
 下	m
 天	m
 電	m
-工	m
 而	m
 現	m
 三	m
@@ -33566,7 +33551,6 @@ max_phrase_length: 1
 酩	mwr
 覉	mwr
 酷	mwr
-酩	mwr
 醣	mwr
 酪	mwr
 酷	mwrd
@@ -36187,7 +36171,6 @@ max_phrase_length: 1
 全	o
 做	o
 您	o
-入	o
 內	o
 合	o
 今	o
@@ -44489,7 +44472,6 @@ max_phrase_length: 1
 踫	rmc
 蹟	rmc
 跡	rmc
-趴	rmc
 躓	rmc
 啞	rmcd
 踫	rmcf
@@ -52307,18 +52289,7 @@ max_phrase_length: 1
 顗	ucz
 巑	ucz
 	ucz
-嶺	ucz
-嶼	ucz
-巔	ucz
-顗	ucz
-崟	ucz
-顓	ucz
-岤	ucz
-嵿	ucz
-巑	ucz
-崸	ucz
 顄	ucz
-	ucz
 崢	ud
 崧	udci
 岥	ude
@@ -53672,7 +53643,6 @@ max_phrase_length: 1
 婒	vff
 鷥	vff
 練	vff
-絲	vff
 綜	vff
 繚	vff
 縲	vff
@@ -56904,10 +56874,6 @@ max_phrase_length: 1
 黝	wsz
 嬲	wsz
 圀	wsz
-男	wsz
-黝	wsz
-嬲	wsz
-圀	wsz
 曲	wt
 異	wtc
 羈	wtf
@@ -56917,10 +56883,7 @@ max_phrase_length: 1
 圔	wtz
 黭	wtz
 畊	wtz
-黭	wtz
-圔	wtz
 曲	wtz
-畊	wtz
 圈	wu
 圌	wub
 圌	wumb
@@ -62579,10 +62542,6 @@ max_phrase_length: 1
 ╟	zza
 ╮	zzb
 ╯	zzb
-╮	zzb
-╯	zzb
-╭	zzb
-╰	zzb
 ╭	zzb
 ╰	zzb
 ┘	zzc
@@ -62592,7 +62551,6 @@ max_phrase_length: 1
 ┤	zzd
 ╡	zzd
 ╣	zzd
-╡	zzd
 ╢	zzd
 ┐	zze
 ╗	zze
@@ -62627,7 +62585,6 @@ max_phrase_length: 1
 ╪	zzh
 ╡	zzh
 ║	zzh
-═	zzh
 ↑	zzi
 ↓	zzi
 ←	zzi
@@ -62661,7 +62618,6 @@ max_phrase_length: 1
 ︱	zzl
 ∥	zzl
 ∣	zzl
-▕	zzl
 ▕	zzl
 –	zzm
 —	zzm
