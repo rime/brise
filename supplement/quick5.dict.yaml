@@ -24119,11 +24119,9 @@ min_phrase_weight: 100
 䦒	anmr
 䦠	anmso
 䦲	anncr
-䦛	annsd
 䦰	annwu
 䦏	anoll
 䦍	anon
-䦟	anoog
 䦐	anq
 䦬	anqhk
 䦮	anqka
@@ -24231,7 +24229,6 @@ min_phrase_weight: 100
 䏹	bbuu
 䯚	bbvib
 䯠	bbwot
-㓁	bc
 䴍	bcbcf
 䞈	bcbhf
 䐉	bccw
@@ -24259,7 +24256,6 @@ min_phrase_weight: 100
 䝧	bcpim
 䝧	bcpmm
 䝭	bcpr
-䝼	bcqmb
 䞁	bcsav
 䝻	bcsjr
 䝲	bcsoy
@@ -24284,7 +24280,6 @@ min_phrase_weight: 100
 䳿	bfhaf
 㸋	bfhdw
 㬺	bfqb
-䲢	bfqm
 䏥	bgb
 䐦	bgit
 㦟	bgp
@@ -24344,7 +24339,6 @@ min_phrase_weight: 100
 䐒	bknn
 㰿	bkno
 䐭	bkpb
-䴗	bkpym
 䐛	bksj
 䏮	bkso
 䏙	blbu
@@ -24390,7 +24384,6 @@ min_phrase_weight: 100
 䏗	bomn
 䏩	bomr
 䞐	boqka
-䞍	boqmb
 䞏	bowp
 䏟	bph
 䐇	bpha
@@ -24405,7 +24398,6 @@ min_phrase_weight: 100
 䏳	bqhl
 䐏	bqka
 䏾	bqkq
-䏝	bqni
 䐣	brbc
 䌛	brhvf
 㢥	brip
@@ -24459,7 +24451,6 @@ min_phrase_weight: 100
 䀳	budl
 䀑	buei
 䁊	bueiu
-䁖	bufdv
 䁱	buggu
 䀷	bugis
 䁄	bugtj
@@ -24607,13 +24598,11 @@ min_phrase_weight: 100
 䥩	chok
 䥏	chol
 䥞	chsk
-䥇	chsm
 䥷	chtn
 䤝	chvl
 䲲	cihaf
 䤞	ciku
 䥝	cipp
-䥇	cism
 䤹	cjfe
 䥱	cjhf
 䤩	cjhp
@@ -24703,7 +24692,6 @@ min_phrase_weight: 100
 㯒	dbbu
 㰄	dbci
 㭩	dbdi
-㭎	dbk
 㭗	dbt
 㮳	dbtk
 㮬	dcim
@@ -25181,7 +25169,6 @@ min_phrase_weight: 100
 㳰	eyit
 㳘	eyiu
 㳆	eyj
-㳠	eyk
 㵦	eykb
 㶆	eyra
 㶛	eysc
@@ -25659,7 +25646,6 @@ min_phrase_weight: 100
 㦵	hdi
 䅊	hdihp
 䄾	hdij
-䅟	hdikh
 䅯	hdilr
 䅆	hdimo
 䆅	hdioc
@@ -25980,7 +25966,6 @@ min_phrase_weight: 100
 㦣	hnp
 䫾	hnph
 䬍	hnphp
-䴘	hnpym
 䫸	hnsh
 䫿	hnshr
 䬚	hnsqf
@@ -26457,7 +26442,6 @@ min_phrase_weight: 100
 䴫	ipmbi
 䶭	ipmg
 䴨	ipmhf
-䶮	ipmk
 㼾	ipmvn
 䴩	ipmwf
 䬥	ipoiv
@@ -26486,13 +26470,11 @@ min_phrase_weight: 100
 㢜	itwp
 㢘	itxf
 㢕	ivhg
-䜣	ivhml
 䜨	ivllp
 䜥	ivnkm
 㓪	ivsh
 䜧	ivsim
 䜤	ivtc
-䜩	ivtlf
 䜦	ivtpa
 㢆	iwg
 㢇	iymr
@@ -27238,8 +27220,6 @@ min_phrase_weight: 100
 㲏	llhqu
 㸞	lllll
 㸠	lllmo
-䙡	llmc
-䙌	llmo
 㸝	llno
 㸥	llnri
 㸟	llpa
@@ -27281,8 +27261,6 @@ min_phrase_weight: 100
 䙙	lseq
 䳙	lshaf
 䘲	lsme
-䦶	lsnsd
-䦷	lsoog
 䘦	lsp
 䙔	lsrr
 䘿	lsuu
@@ -27387,7 +27365,6 @@ min_phrase_weight: 100
 䨐	mbomr
 㥑	mbp
 䨚	mbphp
-䴓	mbpym
 䨮	mbqjs
 䨝	mbqmb
 䨒	mbsmm
@@ -27598,7 +27575,6 @@ min_phrase_weight: 100
 㱰	mnjyj
 㱦	mnkmr
 㡂	mnlb
-㱮	mnlmo
 㱹	mnmhm
 㱛	mnmni
 䂬	mnmr
@@ -27609,7 +27585,6 @@ min_phrase_weight: 100
 㱷	mnogd
 㤠	mnp
 㘸	mnpg
-䴕	mnpym
 㧬	mnq
 㱴	mnqmc
 㠫	mnqo
@@ -28131,7 +28106,6 @@ min_phrase_weight: 100
 㣆	nmbg
 䰜	nmbn
 䲤	nmemw
-䲟	nmhpl
 㢨	nmj
 䯃	nmjv
 䗺	nmlii
@@ -28139,11 +28113,9 @@ min_phrase_weight: 100
 㢪	nmms
 㞪	nmmu
 䲝	nmosu
-䲠	nmqka
 㣂	nmrb
 䯄	nmrob
 䯅	nmsje
-䲡	nmtcw
 㣅	nmua
 㢾	nmwg
 䲞	nmyt
@@ -28387,7 +28359,6 @@ min_phrase_weight: 100
 㩿	onok
 㖌	onrp
 㲷	onrrj
-㑇	onsm
 㐷	onvm
 㪁	onye
 㪂	onye
@@ -28410,22 +28381,15 @@ min_phrase_weight: 100
 㒇	ootf
 㪘	ooye
 㑅	ooym
-䦆	opbue
 䥾	opbym
 㐌	opd
 䥿	ophms
 䦂	ophsm
-䦂	opism
-䥽	opive
 䦄	opjiv
 䥻	opmku
-䥺	opmvh
 䥼	opphh
 䦁	opqjl
 䦀	opsmm
-䦃	optja
-䦅	opttr
-㑳	opuu
 㐿	oq
 㑍	oqd
 㑜	oqhl
@@ -28613,7 +28577,6 @@ min_phrase_weight: 100
 㦩	pnlp
 㥠	pnob
 㥝	pnsj
-㤘	pnsm
 㤔	podi
 㤛	pohg
 㤷	poir
@@ -28624,7 +28587,6 @@ min_phrase_weight: 100
 㣿	ppi
 㩺	ppje
 㐂	ppp
-㥮	ppuu
 䘡	ppyhv
 㥭	pqke
 㤽	pqki
@@ -28681,9 +28643,7 @@ min_phrase_weight: 100
 㩧	qate
 㨠	qbac
 㨄	qbgr
-㧏	qbk
 㧇	qbm
-䴖	qbpym
 㨄	qbqr
 䨼	qbtoe
 㩴	qbug
@@ -28711,14 +28671,10 @@ min_phrase_weight: 100
 䎣	qdvio
 䎩	qdvvw
 㨂	qdw
-䎬	qdwli
-䎱	qdwlp
 䎮	qdycb
 䎭	qdyhr
 䎧	qdytr
 㧺	qea
-㧐	qee
-㧟	qes
 㩞	qffd
 㨘	qfhu
 䋤	qfpi
@@ -28822,7 +28778,6 @@ min_phrase_weight: 100
 㨕	qnst
 㩦	qogb
 㨦	qoge
-㩳	qoge
 㩯	qokf
 㧉	qomn
 㧿	qooo
@@ -28904,7 +28859,6 @@ min_phrase_weight: 100
 㖏	rag
 㖷	ramo
 㗴	ranb
-㘚	rank
 㗿	ranr
 㘓	ranw
 㖟	rbbe
@@ -28977,7 +28931,6 @@ min_phrase_weight: 100
 㗲	rlgm
 㖀	rlq
 㠯	rlr
-㘎	rlsk
 㖂	rlwp
 㖽	rmbc
 䟹	rmbdi
@@ -29108,7 +29061,6 @@ min_phrase_weight: 100
 㖺	rqka
 䑝	rrbnq
 㕺	rrmvs
-㖞	rrob
 㗃	rrpa
 㘙	rrrk
 㗊	rrrr
@@ -29425,13 +29377,11 @@ min_phrase_weight: 100
 䎄	srsmm
 㔵	sruc
 㪊	srye
-䴙	sryjm
 䛐	srymr
 䢹	ssnl
 㲯	sthqu
 㔋	stln
 㞟	stwk
-㔾	su
 䪱	sumbc
 㠱	sutmc
 㞯	suu
@@ -29583,7 +29533,6 @@ min_phrase_weight: 100
 䩵	tjbjj
 䩤	tjbuu
 䩺	tjcim
-䓖	tjcs
 䪂	tjdbb
 䩖	tjfh
 䳬	tjhaf
@@ -30241,7 +30190,6 @@ min_phrase_weight: 100
 㚦	vml
 䍀	vmlit
 㛐	vmlk
-䌷	vmlw
 㛉	vmlw
 䌿	vmmrw
 䌸	vmqni
@@ -30475,7 +30423,6 @@ min_phrase_weight: 100
 䱗	yenwf
 㛑	yev
 䢯	yffq
-䱷	yfok
 㕻	yfr
 䢠	yft
 䚒	ygbuu
@@ -30520,7 +30467,6 @@ min_phrase_weight: 100
 䃦	ykmr
 㐎	ykn
 㪱	yknbk
-䴔	ykpym
 㪯	ykq
 䢖	ylq
 㜪	ylv
@@ -30538,7 +30484,6 @@ min_phrase_weight: 100
 䣜	ymnl
 䧳	ymog
 㱓	ymoii
-䲣	ymok
 䳄	ymphf
 㰣	ympno
 䢩	ymrk
