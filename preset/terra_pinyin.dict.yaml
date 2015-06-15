@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.05.25"
+version: "2015.06.15"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -9449,7 +9449,8 @@ min_phrase_weight: 100
 嗏	cha1
 嗐	hai4
 嗑	ke4
-嗒	ta4
+嗒	da1	99%
+嗒	ta4	1%
 嗓	sang3
 嗔	chen1
 嗕	ru4
