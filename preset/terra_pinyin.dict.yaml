@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.06.15"
+version: "2015.07.07"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -12205,7 +12205,7 @@ min_phrase_weight: 100
 廾	gong3
 廿	nian4
 开	jian1	95%
-开	kai	0%
+开	kai1	0%
 开	qian1	5%
 弁	bian4
 异	yi2
