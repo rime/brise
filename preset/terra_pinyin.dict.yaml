@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.07.07"
+version: "2015.07.13"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -8974,8 +8974,8 @@ min_phrase_weight: 100
 呢	ne5	33.33%
 呢	ni1	33.33%
 呢	ni2	33.33%
-呣	m2	50%
-呣	m4	50%
+呣	mu2	50%
+呣	mu4	50%
 呤	ling2
 呥	ran2
 呦	you1
@@ -9575,6 +9575,7 @@ min_phrase_weight: 100
 嘶	si1
 嘷	hao2
 嘸	fu3
+嘸	mu2	0%
 嘹	liao2
 嘺	qiao2
 嘺	qiao4
@@ -57679,7 +57680,7 @@ min_phrase_weight: 100
 嘶啞	si1 ya3
 嘶啞聲	si1 ya3 sheng1
 嘶喝	si1 ye4
-嘸蝦米	m2 xia1 mi3
+嘸蝦米	mu2 xia1 mi3
 嘻和	xi1 he5
 嘻嘻嗄嗄	xi1 xi1 sha4 sha4
 嘽嘽	chan3 chan3
