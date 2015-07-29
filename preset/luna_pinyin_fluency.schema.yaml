@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin_fluency
   name: 朙月拼音·語句流
-  version: "0.25"
+  version: "0.26"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -104,5 +104,5 @@ recognizer:
   import_preset: default
   patterns:
     number: "^[-+]?[0-9][.:0-9]*[%]?$"
-    punct: "^/[0-9]*[a-z]*$"
+    punct: "^/([0-9]0?|[a-z]+)$"
     reverse_lookup: "`[a-z]*'?$"
