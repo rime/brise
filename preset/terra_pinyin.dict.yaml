@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.07.13"
+version: "2015.08.24"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -25275,7 +25275,7 @@ min_phrase_weight: 100
 謒	qiang1
 謓	chen1
 謓	zhen4
-謔	nue4
+謔	nve4
 謔	xue4
 謕	si1
 謕	ti2
