@@ -74,7 +74,7 @@ translator:
     - xform/j/y/
     - xform/z/j/
     - xform/c/ch/
-    - xform/aa$/a/
+    - xform/aa(\>|$)/a/
     - xform/eu/iu/
     - xform/eo/eu/
     - xform/oe/eu/
