@@ -14020,8 +14020,8 @@ min_phrase_weight: 100
 擇	zhai2	5%
 擈	pu1
 擉	chuo4
-擊	ji1
-擊	ji2
+擊	ji1	50%
+擊	ji2	50%
 擋	dang3	50%
 擋	dang4	50%
 擌	se4
@@ -47938,7 +47938,8 @@ min_phrase_weight: 100
 不了解	bu4 liao3 jie3
 不予	bu4 yu2
 不二價	bu2 er4 jia4
-不亞於	bu2 ya4 yu2
+不亞於	bu2 ya4 yu2 50%
+不亞於	bu2 ya3 yu2 50%
 不亦樂乎	bu2 yi4 le4 hu1
 不什	bu4 she2
 不付得	bu2 fu4 de2
@@ -48006,8 +48007,10 @@ min_phrase_weight: 100
 不分青紅皂白	bu4 fen1 qing1 hong2 zao4 bai2
 不分高下	bu4 fen1 gao1 xia4
 不切實際	bu2 qie4 shi2 ji4
-不列顛哥倫比亞	bu2 lie4 dian1 ge1 lun2 bi3 ya4
-不列顛哥倫比亞省	bu2 lie4 dian1 ge1 lun2 bi3 ya4 sheng3
+不列顛哥倫比亞	bu2 lie4 dian1 ge1 lun2 bi3 ya4 50%
+不列顛哥倫比亞	bu2 lie4 dian1 ge1 lun2 bi3 ya3 50%
+不列顛哥倫比亞省	bu2 lie4 dian1 ge1 lun2 bi3 ya4 sheng3 50%
+不列顛哥倫比亞省	bu2 lie4 dian1 ge1 lun2 bi3 ya3 sheng3 50%
 不利落	bu2 li4 luo4
 不到得	bu2 dao4 de5
 不到長城非好漢	bu2 dao4 chang2 cheng2 fei1 hao3 han4
@@ -49528,33 +49531,61 @@ min_phrase_weight: 100
 井田制度	jing3 tian2 zhi4 du4
 井窩子	jing3 wo1 zi5
 些個	xie1 ge5
+亞　ya3   50%
+亞　ya4   50%
 亞匹	ya3 pi3
-亞塞拜然	ya4 se4 bai4 ran2
-亞塞拜然共和國	ya4 se4 bai4 ran2 gong4 he2 guo2
-亞太地區	ya4 tai4 di4 qu1
-亞平寧	ya4 ping2 ning4
-亞平寧山脈	ya4 ping2 ning2 shan1 mai4
-亞得里亞海	ya4 de2 li3 ya4 hai3
-亞撒	ya4 sa1
-亞歐大陸腹地	ya4 ou1 da4 lu4 fu4 di4
-亞歷山大·杜布切克	ya4 li4 shan1 da4 du4 bu4 qie1 ke4
-亞洲太平洋地區	ya4 zhou1 tai4 ping2 yang2 di4 qu1
-亞洲與太平洋	ya4 zhou1 yu3 tai4 ping2 yang2
-亞洲與太平洋地區	ya4 zhou1 yu3 tai4 ping2 yang2 di4 qu1
-亞洲開發銀行	ya4 zhou1 kai1 fa1 yin2 hang2
-亞爾發和奧米加	ya4 er3 fa1 han4 ao4 mi3 jia1
-亞爾發和奧米加	ya4 er3 fa1 he2 ao4 mi3 jia1
-亞特拉斯山脈	ya4 te4 la1 si1 shan1 mai4
-亞當	ya4 dang1
-亞當·斯密	ya4 dang1 si1 mi4
-亞當斯	ya4 dang1 si1
-亞當斯密	ya4 dang1 si1 mi4
-亞的斯亞貝巴	ya4 di4 si1 ya4 bei4 ba1
-亞種	ya4 zhong3
-亞符號模型	ya4 fu2 hao4 mo2 xing2
-亞美利加人種	ya4 mei3 li4 jia1 ren2 zhong3
-亞美尼亞共和國	ya4 mei3 ni2 ya4 gong4 he2 guo2
-亞西爾·阿拉法特	ya4 xi1 er3 a1 la1 fa3 te4
+亞塞拜然	ya4 se4 bai4 ran2   50%
+亞塞拜然共和國	ya4 se4 bai4 ran2 gong4 he2 guo2   50%
+亞太地區	ya4 tai4 di4 qu1   50%
+亞平寧	ya4 ping2 ning4   50%
+亞平寧山脈	ya4 ping2 ning2 shan1 mai4   50%
+亞得里亞海	ya4 de2 li3 ya4 hai3   50%
+亞撒	ya4 sa1   50%
+亞歐大陸腹地	ya4 ou1 da4 lu4 fu4 di4   50%
+亞歷山大·杜布切克	ya4 li4 shan1 da4 du4 bu4 qie1 ke4   50%
+亞洲太平洋地區	ya4 zhou1 tai4 ping2 yang2 di4 qu1   50%
+亞洲與太平洋	ya4 zhou1 yu3 tai4 ping2 yang2   50%
+亞洲與太平洋地區	ya4 zhou1 yu3 tai4 ping2 yang2 di4 qu1   50%
+亞洲開發銀行	ya4 zhou1 kai1 fa1 yin2 hang2   50%
+亞爾發和奧米加	ya4 er3 fa1 han4 ao4 mi3 jia1   50%
+亞爾發和奧米加	ya4 er3 fa1 he2 ao4 mi3 jia1   50%
+亞特拉斯山脈	ya4 te4 la1 si1 shan1 mai4   50%
+亞當	ya4 dang1   50%
+亞當·斯密	ya4 dang1 si1 mi4   50%
+亞當斯	ya4 dang1 si1   50%
+亞當斯密	ya4 dang1 si1 mi4   50%
+亞的斯亞貝巴	ya4 di4 si1 ya4 bei4 ba1   50%
+亞種	ya4 zhong3   50%
+亞符號模型	ya4 fu2 hao4 mo2 xing2   50%
+亞美利加人種	ya4 mei3 li4 jia1 ren2 zhong3   50%
+亞美尼亞共和國	ya4 mei3 ni2 ya4 gong4 he2 guo2   50%
+亞西爾·阿拉法特	ya4 xi1 er3 a1 la1 fa3 te4   50%
+亞塞拜然	ya3 se4 bai4 ran2   50%
+亞塞拜然共和國	ya3 se4 bai4 ran2 gong4 he2 guo2   50%
+亞太地區	ya3 tai4 di4 qu1   50%
+亞平寧	ya3 ping2 ning4   50%
+亞平寧山脈	ya3 ping2 ning2 shan1 mai4   50%
+亞得里亞海	ya3 de2 li3 ya3 hai3   50%
+亞撒	ya3 sa1   50%
+亞歐大陸腹地	ya3 ou1 da4 lu4 fu4 di4   50%
+亞歷山大·杜布切克	ya3 li4 shan1 da4 du4 bu4 qie1 ke4   50%
+亞洲太平洋地區	ya3 zhou1 tai4 ping2 yang2 di4 qu1   50%
+亞洲與太平洋	ya3 zhou1 yu3 tai4 ping2 yang2   50%
+亞洲與太平洋地區	ya3 zhou1 yu3 tai4 ping2 yang2 di4 qu1   50%
+亞洲開發銀行	ya3 zhou1 kai1 fa1 yin2 hang2   50%
+亞爾發和奧米加	ya3 er3 fa1 han4 ao4 mi3 jia1   50%
+亞爾發和奧米加	ya3 er3 fa1 he2 ao4 mi3 jia1   50%
+亞特拉斯山脈	ya3 te4 la1 si1 shan1 mai4   50%
+亞當	ya3 dang1   50%
+亞當·斯密	ya3 dang1 si1 mi4   50%
+亞當斯	ya3 dang1 si1   50%
+亞當斯密	ya3 dang1 si1 mi4   50%
+亞的斯亞貝巴	ya3 di4 si1 ya3 bei4 ba1   50%
+亞種	ya3 zhong3   50%
+亞符號模型	ya3 fu2 hao4 mo2 xing2   50%
+亞美利加人種	ya3 mei3 li4 jia1 ren2 zhong3   50%
+亞美尼亞共和國	ya3 mei3 ni2 ya3 gong4 he2 guo2   50%
+亞西爾·阿拉法特	ya3 xi1 er3 a1 la1 fa3 te4   50%
 亟亟	ji2 ji2
 亟待	ji2 dai4
 亟思	ji2 si1
