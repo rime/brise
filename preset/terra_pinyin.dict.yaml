@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.08.24"
+version: "2015.11.27"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -7236,6 +7236,7 @@ min_phrase_weight: 100
 亜	ya4
 亝	qi2
 亝	zhai1
+亞	ya3
 亞	ya4
 亟	ji2	50%
 亟	qi4	50%
@@ -47939,6 +47940,7 @@ min_phrase_weight: 100
 不予	bu4 yu2
 不二價	bu2 er4 jia4
 不亞於	bu2 ya4 yu2
+不亞於	bu4 ya3 yu2
 不亦樂乎	bu2 yi4 le4 hu1
 不什	bu4 she2
 不付得	bu2 fu4 de2
@@ -48006,7 +48008,9 @@ min_phrase_weight: 100
 不分青紅皂白	bu4 fen1 qing1 hong2 zao4 bai2
 不分高下	bu4 fen1 gao1 xia4
 不切實際	bu2 qie4 shi2 ji4
+不列顛哥倫比亞	bu2 lie4 dian1 ge1 lun2 bi3 ya3
 不列顛哥倫比亞	bu2 lie4 dian1 ge1 lun2 bi3 ya4
+不列顛哥倫比亞省	bu2 lie4 dian1 ge1 lun2 bi3 ya3 sheng3
 不列顛哥倫比亞省	bu2 lie4 dian1 ge1 lun2 bi3 ya4 sheng3
 不利落	bu2 li4 luo4
 不到得	bu2 dao4 de5
@@ -49528,32 +49532,57 @@ min_phrase_weight: 100
 井田制度	jing3 tian2 zhi4 du4
 井窩子	jing3 wo1 zi5
 些個	xie1 ge5
-亞匹	ya3 pi3
+亞塞拜然	ya3 se4 bai4 ran2
 亞塞拜然	ya4 se4 bai4 ran2
+亞塞拜然共和國	ya3 se4 bai4 ran2 gong4 he2 guo2
 亞塞拜然共和國	ya4 se4 bai4 ran2 gong4 he2 guo2
+亞太地區	ya3 tai4 di4 qu1
 亞太地區	ya4 tai4 di4 qu1
+亞平寧	ya3 ping2 ning4
 亞平寧	ya4 ping2 ning4
+亞平寧山脈	ya3 ping2 ning2 shan1 mai4
 亞平寧山脈	ya4 ping2 ning2 shan1 mai4
+亞得里亞海	ya3 de2 li3 ya3 hai3
 亞得里亞海	ya4 de2 li3 ya4 hai3
+亞撒	ya3 sa1
 亞撒	ya4 sa1
+亞歐大陸腹地	ya3 ou1 da4 lu4 fu4 di4
 亞歐大陸腹地	ya4 ou1 da4 lu4 fu4 di4
+亞歷山大·杜布切克	ya3 li4 shan1 da4 du4 bu4 qie1 ke4
 亞歷山大·杜布切克	ya4 li4 shan1 da4 du4 bu4 qie1 ke4
+亞洲太平洋地區	ya3 zhou1 tai4 ping2 yang2 di4 qu1
 亞洲太平洋地區	ya4 zhou1 tai4 ping2 yang2 di4 qu1
+亞洲與太平洋	ya3 zhou1 yu3 tai4 ping2 yang2
 亞洲與太平洋	ya4 zhou1 yu3 tai4 ping2 yang2
+亞洲與太平洋地區	ya3 zhou1 yu3 tai4 ping2 yang2 di4 qu1
 亞洲與太平洋地區	ya4 zhou1 yu3 tai4 ping2 yang2 di4 qu1
+亞洲開發銀行	ya3 zhou1 kai1 fa1 yin2 hang2
 亞洲開發銀行	ya4 zhou1 kai1 fa1 yin2 hang2
+亞爾發和奧米加	ya3 er3 fa1 han4 ao4 mi3 jia1
+亞爾發和奧米加	ya3 er3 fa1 he2 ao4 mi3 jia1
 亞爾發和奧米加	ya4 er3 fa1 han4 ao4 mi3 jia1
 亞爾發和奧米加	ya4 er3 fa1 he2 ao4 mi3 jia1
+亞特拉斯山脈	ya3 te4 la1 si1 shan1 mai4
 亞特拉斯山脈	ya4 te4 la1 si1 shan1 mai4
+亞當	ya3 dang1
 亞當	ya4 dang1
+亞當·斯密	ya3 dang1 si1 mi4
 亞當·斯密	ya4 dang1 si1 mi4
+亞當斯	ya3 dang1 si1
 亞當斯	ya4 dang1 si1
+亞當斯密	ya3 dang1 si1 mi4
 亞當斯密	ya4 dang1 si1 mi4
+亞的斯亞貝巴	ya3 di4 si1 ya3 bei4 ba1
 亞的斯亞貝巴	ya4 di4 si1 ya4 bei4 ba1
+亞種	ya3 zhong3
 亞種	ya4 zhong3
+亞符號模型	ya3 fu2 hao4 mo2 xing2
 亞符號模型	ya4 fu2 hao4 mo2 xing2
+亞美利加人種	ya3 mei3 li4 jia1 ren2 zhong3
 亞美利加人種	ya4 mei3 li4 jia1 ren2 zhong3
+亞美尼亞共和國	ya3 mei3 ni2 ya3 gong4 he2 guo2
 亞美尼亞共和國	ya4 mei3 ni2 ya4 gong4 he2 guo2
+亞西爾·阿拉法特	ya3 xi1 er3 a1 la1 fa3 te4
 亞西爾·阿拉法特	ya4 xi1 er3 a1 la1 fa3 te4
 亟亟	ji2 ji2
 亟待	ji2 dai4
@@ -49926,7 +49955,7 @@ min_phrase_weight: 100
 以便	yi3 bian4
 以假爲真	yi3 jia3 wei2 zhen1
 以免藉口	yi3 mian3 jie4 kou3
-以利亞	yi3 li4 ya3
+以利亞撒	yi3 li4 ya3 sa3
 以利亞撒	yi3 li4 ya4 sa3
 以升量石	yi3 sheng1 liang2 dan4
 以卵擊石	yi3 luan3 ji2 shi2
@@ -49966,7 +49995,6 @@ min_phrase_weight: 100
 以西結書	yi3 xi1 jie2 shu1
 以規爲瑱	yi3 gui1 wei2 tian4
 以訛傳訛	yi3 e2 chuan2 e2
-以賽亞	yi3 sai4 ya3
 以身相許	yi3 shen1 xiang1 xu3
 以退爲進	yi3 tui4 wei2 jin4
 以逸待勞	yi3 yi4 dai4 lao2
@@ -50295,6 +50323,7 @@ min_phrase_weight: 100
 余車	yu2 ju1
 佚樂	yi4 le4
 佛剎	fo2 cha4
+佛吉尼亞	fu2 ji2 ni2 ya3
 佛吉尼亞	fu2 ji2 ni2 ya4
 佛圖澄	fo2 tu2 cheng2
 佛地	fo2 di4
@@ -50526,7 +50555,9 @@ min_phrase_weight: 100
 依地酸二鈷	yi1 di4 suan1 er4 gu3
 依我來看	yi1 wo3 lai2 kan4
 依我看	yi1 wo3 kan4
+依撒依亞	yi1 sa1 yi1 ya3
 依撒依亞	yi1 sa1 yi1 ya4
+依撒意亞	yi1 sa1 yi4 ya3
 依撒意亞	yi1 sa1 yi4 ya4
 依撒格	yi1 sa1 ge2
 依樣畫葫蘆	yi1 yang4 hua4 hu2 lu5
@@ -50704,6 +50735,7 @@ min_phrase_weight: 100
 保保	bao3 bao5
 保健操	bao3 jian4 cao1
 保全處分	bao3 quan2 chu3 fen4
+保加利亞共和國	bao3 jia1 li4 ya3 gong4 he2 guo2
 保加利亞共和國	bao3 jia1 li4 ya4 gong4 he2 guo2
 保叔塔	bao3 shu2 ta3
 保和殿	bao3 he2 dian4
@@ -51121,6 +51153,7 @@ min_phrase_weight: 100
 倬詭	zhuo2 gui3
 倭子	wo1 zi5
 倭遲	wei1 chi2
+倭馬亞王朝	wo1 ma3 ya3 wang2 chao2
 倭馬亞王朝	wo1 ma3 ya4 wang2 chao2
 值宿	zhi2 su4
 值得	zhi2 de5
@@ -51995,8 +52028,11 @@ min_phrase_weight: 100
 克當一面	ke4 dang1 yi2 mian4
 克當量	ke4 dang1 liang4
 克絲鉗子	ke4 si1 qian2 zi5
+克羅地亞	ke4 luo2 di4 ya3
 克羅地亞	ke4 luo2 di4 ya4
+克羅地亞共和國	ke4 luo2 di4 ya3 gong4 he2 guo2
 克羅地亞共和國	ke4 luo2 di4 ya4 gong4 he2 guo2
+克羅地亞語	ke4 luo2 di4 ya3 yu3
 克羅地亞語	ke4 luo2 di4 ya4 yu3
 克耶族	ke4 ye1 zu2
 克耶邦	ke4 ye1 bang1
@@ -54088,6 +54124,7 @@ min_phrase_weight: 100
 功高望重	gong1 gao1 wang4 zhong4
 加冠	jia1 guan1
 加冠進祿	jia1 guan1 jin4 lu4
+加利福尼亞大學洛杉磯分校	jia1 li4 fu2 ni2 ya3 da4 xue2 luo4 shan1 ji1 fen1 xiao4
 加利福尼亞大學洛杉磯分校	jia1 li4 fu2 ni2 ya4 da4 xue2 luo4 shan1 ji1 fen1 xiao4
 加勁	jia1 jin4
 加勁兒	jia1 jin4 r5
@@ -54556,6 +54593,7 @@ min_phrase_weight: 100
 匱盟	kui4 meng2
 匱竭	kui4 jie2
 匱缺	kui4 que1
+匹亞	pi3 ya3
 匹亞	pi3 ya4
 匹似	pi3 si4
 匹似閑	pi1 si4 xian2
@@ -54816,6 +54854,8 @@ min_phrase_weight: 100
 南卡羅來納州	nan2 ka3 luo2 lai2 na4 zhou1
 南和	nan2 he2
 南和縣	nan2 he2 xian4
+南喬治亞島和南桑威奇	nan2 qiao2 zhi4 ya3 dao3 han4 nan2 sang1 wei1 qi2
+南喬治亞島和南桑威奇	nan2 qiao2 zhi4 ya3 dao3 he2 nan2 sang1 wei1 qi2
 南喬治亞島和南桑威奇	nan2 qiao2 zhi4 ya4 dao3 han4 nan2 sang1 wei1 qi2
 南喬治亞島和南桑威奇	nan2 qiao2 zhi4 ya4 dao3 he2 nan2 sang1 wei1 qi2
 南天北地	nan2 tian1 bei3 di4
@@ -54963,6 +55003,7 @@ min_phrase_weight: 100
 卡司	ka3 si1
 卡哇伊	ka3 wa1 yi1
 卡土穆	ka3 tu3 mu4
+卡塔尼亞	ka3 ta3 ni2 ya3
 卡塔尼亞	ka3 ta3 ni2 ya4
 卡塔爾	ka3 ta3 er3
 卡塔赫納	ka3 ta3 he4 na4
@@ -54991,6 +55032,7 @@ min_phrase_weight: 100
 卡拉奇那	ka3 la1 ji1 na4
 卡拉姆昌德	ka3 la1 mu3 chang1 de2
 卡拉季奇	ka3 la1 ji4 ji1
+卡拉布里亞	ka3 la1 bu4 li3 ya3
 卡拉布里亞	ka3 la1 bu4 li3 ya4
 卡拉揚	ka3 la1 yang2
 卡拉比拉	ka3 la1 bi3 la1
@@ -55000,7 +55042,9 @@ min_phrase_weight: 100
 卡斯特利翁	ka3 si1 te4 li4 weng1
 卡斯特羅	ka3 si1 te4 luo2
 卡斯翠	ka3 si1 cui4
+卡斯蒂利亞	ka3 si1 di4 li4 ya3
 卡斯蒂利亞	ka3 si1 di4 li4 ya4
+卡斯蒂利亞·萊昂	ka3 si1 di4 li4 ya3 lai2 ang2
 卡斯蒂利亞·萊昂	ka3 si1 di4 li4 ya4 lai2 ang2
 卡昂	ka3 ang2
 卡桑德拉	ka3 sang1 de2 la1
@@ -55088,8 +55132,11 @@ min_phrase_weight: 100
 印度哲學	yin4 du4 zhe2 xue2
 印度國大黨	yin4 du4 guo2 da4 dang3
 印度大麻草	yin4 du4 da4 ma2 cao3
+印度尼西亞	yin4 du4 ni2 xi1 ya3
 印度尼西亞	yin4 du4 ni2 xi1 ya4
+印度尼西亞共和國	yin4 du4 ni2 xi1 ya3 gong4 he2 guo2
 印度尼西亞共和國	yin4 du4 ni2 xi1 ya4 gong4 he2 guo2
+印度尼西亞語	yin4 du4 ni2 xi1 ya3 yu3
 印度尼西亞語	yin4 du4 ni2 xi1 ya4 yu3
 印度希臘式	yin4 du4 xi1 la4 shi4
 印度支那	yin4 du4 zhi1 na4
@@ -55236,7 +55283,6 @@ min_phrase_weight: 100
 卻行	que4 xing2
 卿大夫	qing1 dai4 fu1
 厄什塔	e4 shen2 ta3
-厄利垂亞	e4 li4 chui2 ya3
 厄瓜多共和國	e4 gua1 duo1 gong4 he2 guo2
 厄難	e4 nan4
 厏厊	zha3 ya3
@@ -55947,6 +55993,7 @@ min_phrase_weight: 100
 合零爲整	he2 ling2 wei2 zheng3
 吉丁當	ji2 ding1 dang1
 吉丁疙疸	ji2 ding1 ge1 da5
+吉亞卡摩	ji2 ya3 ka3 mo2
 吉亞卡摩	ji2 ya4 ka3 mo2
 吉人天相	ji2 ren2 tian1 xiang4
 吉人自有天相	ji2 ren2 zi4 you3 tian1 xiang4
@@ -56943,6 +56990,7 @@ min_phrase_weight: 100
 哏毒	hen1 du2
 哤聒	mang2 gua1
 哥們兒	ge1 men5 r5
+哥倫比亞共和國	ge1 lun2 bi3 ya3 gong4 he2 guo2
 哥倫比亞共和國	ge1 lun2 bi3 ya4 gong4 he2 guo2
 哥兒	ge1 r5
 哥哥	ge1 ge5
@@ -57435,6 +57483,7 @@ min_phrase_weight: 100
 喬治·奧威爾	qiao2 zhi4 ao4 wei1 er3
 喬治·索羅斯	qiao2 zhi4 suo3 luo2 si1
 喬治·華盛頓	qiao2 zhi4 hua2 sheng4 dun4
+喬治亞共和國	qiao2 zhi4 ya3 gong4 he2 guo2
 喬治亞共和國	qiao2 zhi4 ya4 gong4 he2 guo2
 喬答摩	qiao2 da1 mo2
 單一市場	dan1 yi1 shi4 chang3
@@ -57566,7 +57615,6 @@ min_phrase_weight: 100
 嘆爲觀止	tan4 wei2 guan1 zhi3
 嘈聒	cao2 gua1
 嘉南大圳	jia1 nan2 da4 zun4
-嘉德麗亞蘭	jia1 de2 li4 ya3 lan2
 嘉應大學	jia1 ying1 da4 xue2
 嘉柏隆里	jia1 bo2 long2 li3
 嘉興	jia1 xing1
@@ -58647,6 +58695,7 @@ min_phrase_weight: 100
 坡撇	po1 pie3
 坤寧宮	kun1 ning2 gong1
 坤角	kun1 jue2
+坦尚尼亞聯合共和國	tan3 shang4 ni2 ya3 lian2 he2 gong4 he2 guo2
 坦尚尼亞聯合共和國	tan3 shang4 ni2 ya4 lian2 he2 gong4 he2 guo2
 坦率	tan3 shuai4
 坦誠相見	tan3 cheng2 xiang1 jian4
@@ -58701,7 +58750,9 @@ min_phrase_weight: 100
 埃佛勒斯峰	ai1 fo2 le4 si1 feng1
 埃克托·柏遼茲	ai1 ke4 tuo1 bo2 liao2 zi1
 埃及阿拉伯共和國	ai1 ji2 a1 la1 bo2 gong4 he2 guo2
+埃塞俄比亞	ai1 sai4 e2 bi3 ya3
 埃塞俄比亞	ai1 sai4 e2 bi3 ya4
+埃塞俄比亞語	ai1 sai1 e2 bi3 ya3 yu3
 埃塞俄比亞語	ai1 sai1 e2 bi3 ya4 yu3
 埃德加·愛倫·坡	ai1 de2 jia1 ai4 lun2 po1
 埃德加·斯諾	ai1 de2 jia1 si1 nuo4
@@ -58937,6 +58988,7 @@ min_phrase_weight: 100
 塞內加爾共和國	se4 nei4 jia1 er3 gong4 he2 guo2
 塞凡提斯	sai4 fan2 ti2 si1
 塞北	sai4 bei3
+塞哥維亞	se4 ge1 wei2 ya3
 塞哥維亞	se4 ge1 wei2 ya4
 塞外	sai4 wai4
 塞子	sai1 zi5
@@ -58958,11 +59010,17 @@ min_phrase_weight: 100
 塞爾南	sai4 er3 nan2
 塞爾特	sai1 er3 te4
 塞爾特語	sai1 er3 te4 yu3
+塞爾維亞	sai1 er3 wei2 ya3
 塞爾維亞	sai1 er3 wei2 ya4
+塞爾維亞	se4 er3 wei2 ya3
 塞爾維亞	se4 er3 wei2 ya4
+塞爾維亞克羅地亞語	sai1 er3 wei2 ya3 ke4 luo2 di4 ya3 yu3
 塞爾維亞克羅地亞語	sai1 er3 wei2 ya4 ke4 luo2 di4 ya4 yu3
+塞爾維亞和黑山	sai1 er3 wei2 ya3 he2 hei1 shan1
 塞爾維亞和黑山	sai1 er3 wei2 ya4 he2 hei1 shan1
+塞爾維亞民主黨	sai1 er3 wei2 ya3 min2 zhu3 dang3
 塞爾維亞民主黨	sai1 er3 wei2 ya4 min2 zhu3 dang3
+塞爾維亞語	sai1 er3 wei2 ya3 yu3
 塞爾維亞語	sai1 er3 wei2 ya4 yu3
 塞牙	sai1 ya2
 塞牙縫	sai1 ya2 feng4
@@ -58972,6 +59030,7 @@ min_phrase_weight: 100
 塞納河	sai1 na4 he2
 塞納河	se4 na4 he2
 塞給	sai1 gei3
+塞維利亞	sai1 wei2 li4 ya3
 塞維利亞	sai1 wei2 li4 ya4
 塞翁失馬	sai4 weng1 shi1 ma3
 塞翁失馬安知非福	sai4 weng1 shi1 ma3 an1 zhi1 fei1 fu2
@@ -59584,6 +59643,7 @@ min_phrase_weight: 100
 大有大難	da4 you3 da4 nan2
 大有爲	da4 you3 wei2
 大有裨益	da4 you3 bi4 yi4
+大東亞共榮圈	da4 dong1 ya3 gong4 rong2 quan1
 大東亞共榮圈	da4 dong1 ya4 gong4 rong2 quan1
 大柴旦行政區	da4 chai2 dan4 xing2 zheng4 qu1
 大柴旦行政委員會	da4 chai2 dan4 xing2 zheng4 wei3 yuan2 hui4
@@ -60311,6 +60371,7 @@ min_phrase_weight: 100
 奧斯卡金像獎	ao4 si1 ka3 jin1 xiang4 jiang3
 奧會模式	ao4 hui4 mo2 shi4
 奧杜伐峽谷	ao4 du4 fa1 xia2 gu3
+奧林匹亞	ao4 lin2 pi3 ya3
 奧林匹亞	ao4 lin2 pi3 ya4
 奧林匹克委員會	ao4 lin2 pi1 ke4 wei3 yuan2 hui4
 奧林匹克精神	ao4 lin2 pi3 ke4 jing1 shen2
@@ -60704,6 +60765,7 @@ min_phrase_weight: 100
 威寧彝族回族苗族自治縣	wei1 ning2 yi2 zu2 hui2 zu2 miao2 zu2 zi4 zhi4 xian4
 威寧縣	wei1 ning2 xian4
 威廉·福克納	wei1 lian2 fu2 ke4 na4
+威廉·莎士比亞	wei1 lian2 sha1 shi4 bi3 ya3
 威廉·莎士比亞	wei1 lian2 sha1 shi4 bi3 ya4
 威懾力量	wei1 she4 li4 liang5
 威斯敏斯特教堂	wei1 si1 min3 si1 te4 jiao4 tang2
@@ -62388,6 +62450,7 @@ min_phrase_weight: 100
 尚有可爲	shang4 you3 ke3 wei2
 尚武	shang3 wu3
 尚武	shang4 wu3
+尚比亞共和國	shang4 bi3 ya3 gong4 he2 guo2
 尚比亞共和國	shang4 bi3 ya4 gong4 he2 guo2
 尜兒	ga2 r5
 尜尜	ga2 ga5
@@ -63011,14 +63074,15 @@ min_phrase_weight: 100
 巴士噶語言	ba1 shi4 ge2 yu3 yan2
 巴士底監獄	ba1 shi4 di3 jian1 yu4
 巴子	ba1 zi5
+巴尼亞盧卡	ba1 ni2 ya3 lu2 ka3
 巴尼亞盧卡	ba1 ni2 ya4 lu2 ka3
 巴嶺山脈	ba1 ling3 shan1 mai4
 巴巴劫劫	ba1 ba5 jie5 jie5
 巴巴急急	ba1 ba5 ji5 ji5
 巴巴結結	ba1 ba1 jie1 jie1
 巴巴結結	ba1 ba5 jie5 jie5
+巴布亞新幾內亞	ba1 bu4 ya3 xin1 ji3 nei4 ya3
 巴布亞新幾內亞	ba1 bu4 ya4 xin1 ji3 nei4 ya4
-巴布亞紐幾內亞	ba1 bu4 ya4 niu3 ji1 nei4 ya4
 巴得	ba1 de2
 巴拉圭共和國	ba1 la1 gui1 gong4 he2 guo2
 巴拉拉卡琴	ba1 la1 la1 ka3 qin2
@@ -63207,6 +63271,7 @@ min_phrase_weight: 100
 席凡寧根	xi2 fan2 ning2 gen1
 席勒	xi2 le4
 席卷	xi2 juan3
+席卷亞洲	xi2 juan3 ya3 zhou1
 席卷亞洲	xi2 juan3 ya4 zhou1
 席卷天下	xi2 juan3 tian1 xia4
 席地	xi2 di4
@@ -63565,10 +63630,15 @@ min_phrase_weight: 100
 幾個	ji3 ge5
 幾個月	ji3 ge5 yue4
 幾倍	ji3 bei4
+幾內亞	ji1 nei4 ya3
 幾內亞	ji1 nei4 ya4
+幾內亞共和國	ji1 nei4 ya3 gong4 he2 guo2
 幾內亞共和國	ji1 nei4 ya4 gong4 he2 guo2
+幾內亞比索	ji1 nei4 ya3 bi3 suo3
 幾內亞比索	ji1 nei4 ya4 bi3 suo3
+幾內亞比索共和國	ji3 nei4 ya3 bi3 suo3 gong4 he2 guo2
 幾內亞比索共和國	ji3 nei4 ya4 bi3 suo3 gong4 he2 guo2
+幾內亞比紹	ji1 nei4 ya3 bi3 shao4
 幾內亞比紹	ji1 nei4 ya4 bi3 shao4
 幾化	ji3 hua4
 幾十億	ji3 shi2 yi4
@@ -65759,6 +65829,7 @@ min_phrase_weight: 100
 愛日惜力	ai4 ri4 xi2 li4
 愛樂	ai4 yue4
 愛樂樂團	ai4 yue4 yue4 tuan2
+愛沙尼亞共和國	ai4 sha1 ni2 ya3 gong4 he2 guo2
 愛沙尼亞共和國	ai4 sha1 ni2 ya4 gong4 he2 guo2
 愛漂亮	ai4 piao4 liang5
 愛爾蘭共和國	ai4 er3 lan2 gong4 he2 guo2
@@ -67347,6 +67418,7 @@ min_phrase_weight: 100
 拉纜子擺渡	la1 lan3 zi5 bai3 du4
 拉老婆舌頭	la1 lao3 po5 she2 tou5
 拉肚子	la1 du4 zi5
+拉脫維亞共和國	la1 tuo1 wei2 ya3 gong4 he2 guo2
 拉脫維亞共和國	la1 tuo1 wei2 ya4 gong4 he2 guo2
 拉舌頭	la1 she2 tou5
 拉蓋爾	la1 gai4 er3
@@ -68860,7 +68932,9 @@ min_phrase_weight: 100
 撒謎語	sa3 mi2 yu3
 撒豆成兵	sa3 dou4 cheng2 bing1
 撒賴	sa1 lai4
+撒迦利亞	sa1 jia1 li4 ya3
 撒迦利亞	sa1 jia1 li4 ya4
+撒迦利亞書	sa1 jia1 li4 ya3 shu1
 撒迦利亞書	sa1 jia1 li4 ya4 shu1
 撒都該人	sa1 du1 gai1 ren2
 撒酒瘋	sa1 jiu3 feng1
@@ -70282,6 +70356,7 @@ min_phrase_weight: 100
 斬監候	zhan3 jian1 hou4
 斬衰	zhan3 cui1
 斯卡伯勒礁	si1 ka3 bo2 le4 jiao1
+斯堪的納維亞	si1 kan1 di4 na4 wei2 ya3
 斯堪的納維亞	si1 kan1 di4 na4 wei2 ya4
 斯多噶學派	si1 duo1 ge2 xue2 pai4
 斯大林格勒	si1 da4 lin2 ge2 le4
@@ -70298,6 +70373,7 @@ min_phrase_weight: 100
 斯文委地	si1 wen2 wei3 di4
 斯文掃地	si1 wen2 sao3 di4
 斯洛伐克共和國	si1 luo4 fa1 ke4 gong4 he2 guo2
+斯洛文尼亞共和國	si1 luo4 wen2 ni2 ya3 gong4 he2 guo2
 斯洛文尼亞共和國	si1 luo4 wen2 ni2 ya4 gong4 he2 guo2
 斯瓦特谷地	si1 wa3 te4 gu3 di4
 斯當東	si1 dang1 dong1
@@ -70322,7 +70398,9 @@ min_phrase_weight: 100
 新干	xin1 gan1
 新干縣	xin1 gan1 xian4
 新年快樂	xin1 nian2 kuai4 le4
+新幾內亞	xin1 ji3 nei4 ya3
 新幾內亞	xin1 ji3 nei4 ya4
+新幾內亞島	xin1 ji1 nei4 ya3 dao3
 新幾內亞島	xin1 ji1 nei4 ya4 dao3
 新廈	xin1 xia4
 新式拚法	xin1 shi4 pin1 fa3
@@ -72161,6 +72239,7 @@ min_phrase_weight: 100
 杯行	bei1 xing2
 東一榔頭西一棒	dong1 yi4 lang2 tou5 xi1 yi2 bang4
 東一榔頭西一棒子	dong1 yi4 lang2 tou2 xi1 yi2 bang4 zi5
+東亞銀行	dong1 ya3 yin2 hang2
 東亞銀行	dong1 ya4 yin2 hang2
 東倒西歪	dong1 dao3 xi1 wai1
 東偷西摸	dong1 tou1 xi1 mo1
@@ -72732,6 +72811,7 @@ min_phrase_weight: 100
 梅西耶	mei2 xi1 ye1
 梅西耶星表	mei2 xi1 ye1 xing1 biao3
 梅酢	mei2 cu4
+梅里亞姆·韋伯斯特	mei2 li3 ya3 mu3 wei2 bo2 si1 te4
 梅里亞姆·韋伯斯特	mei2 li3 ya4 mu3 wei2 bo2 si1 te4
 梅開二度	mei2 kai1 er4 du4
 梅香拜把子	mei2 xiang1 bai4 ba3 zi5
@@ -74065,6 +74145,7 @@ min_phrase_weight: 100
 比劃	bi3 hua4
 比劃	bi3 hua5
 比勒費爾德	bi3 le4 fei4 er3 de2
+比勒陀利亞	bi3 le4 tuo2 li4 ya3
 比勒陀利亞	bi3 le4 tuo2 li4 ya4
 比及	bi4 ji2
 比周	bi4 zhou1
@@ -75032,6 +75113,7 @@ min_phrase_weight: 100
 波折	bo1 zhe2
 波數	bo1 shu4
 波斯地毯	bo1 si1 di4 tan3
+波斯尼亞和黑塞哥維納共和國	bo1 si1 ni2 ya3 he2 hei1 sai1 ge1 wei2 na4 gong4 he2 guo2
 波斯尼亞和黑塞哥維納共和國	bo1 si1 ni2 ya4 he2 hei1 sai1 ge1 wei2 na4 gong4 he2 guo2
 波斯教	bo1 si1 jiao4
 波斯灣危機	bo1 si1 wan1 wei2 ji1
@@ -76053,6 +76135,7 @@ min_phrase_weight: 100
 湮鬱	yin1 yu4
 湯姆·克蘭西	tang1 mu3 ke4 lan2 xi1
 湯姆·克魯斯	tang1 mu3 ke4 lu3 si1
+湯姆·索亞歷險記	tang1 mu3 suo3 ya3 li4 xian3 ji4
 湯姆·索亞歷險記	tang1 mu3 suo3 ya4 li4 xian3 ji4
 湯姆·羅賓斯	tang1 mu3 luo2 bin1 si1
 湯婆子	tang1 po2 zi5
@@ -76518,6 +76601,7 @@ min_phrase_weight: 100
 澤當	ze2 dang1
 澤當鎮	ze2 dang1 zhen4
 澤陂	ze2 pi2
+澳大利亞首都特區	ao4 da4 li4 ya3 shou3 du1 te4 qu1
 澳大利亞首都特區	ao4 da4 li4 ya4 shou3 du1 te4 qu1
 澳門國際機場	ao4 men2 guo2 ji4 ji1 chang3
 澶漫	chan2 man2
@@ -77212,6 +77296,7 @@ min_phrase_weight: 100
 熱核反應	re4 he2 fan3 ying4
 熱核反應堆	re4 he2 fan3 ying4 dui1
 熱核聚變反應	re4 he2 ju4 bian4 fan3 ying4
+熱比亞·卡德爾	re4 bi3 ya3 ka3 de2 er3
 熱比亞·卡德爾	re4 bi3 ya4 ka3 de2 er3
 熱比婭·卡德爾	re4 bi3 ya4 ka3 de2 er3
 熱淚盈眶	re4 lei4 ying2 kuang1
@@ -78210,6 +78295,7 @@ min_phrase_weight: 100
 玳瑁殼	dai4 mao4 ke2
 玳瑁筵	dai4 mei4 yan2
 玷辱	dian4 ru4
+玻利維亞共和國	bo1 li4 wei2 ya3 gong4 he2 guo2
 玻利維亞共和國	bo1 li4 wei2 ya4 gong4 he2 guo2
 玻尿酸	bo1 niao4 suan1
 玻片	bo1 pian4
@@ -78363,6 +78449,7 @@ min_phrase_weight: 100
 瑟弄琴調	se4 nong4 qin2 tiao2
 瑟調	se4 diao4
 瑟調琴弄	se4 tiao2 qin2 nong4
+瑣羅亞斯德教	suo3 luo2 ya3 si1 de2 jiao4
 瑣羅亞斯德教	suo3 luo2 ya4 si1 de2 jiao4
 瑤池閬苑	yao2 chi2 lang4 yuan4
 瑤臺銀闕	yao2 tai2 yin2 que4
@@ -78486,6 +78573,7 @@ min_phrase_weight: 100
 甘地主義	gan1 di4 zhu3 yi4
 甘孜藏族自治州	gan1 zi1 zang4 zu2 zi4 zhi4 zhou1
 甘心如薺	gan1 xin1 ru2 ji4
+甘比亞共和國	gan1 bi3 ya3 gong4 he2 guo2
 甘比亞共和國	gan1 bi3 ya4 gong4 he2 guo2
 甘結	gan1 jie2
 甘羅說趙王	gan1 luo2 shui4 zhao4 wang2
@@ -82170,7 +82258,9 @@ min_phrase_weight: 100
 突地	tu2 di4
 突如其來	tu2 ru2 qi2 lai2
 突尼斯	tu2 ni2 si1
+突尼西亞	tu2 ni2 xi1 ya3
 突尼西亞	tu2 ni2 xi1 ya4
+突尼西亞共和國	tu2 ni2 xi1 ya3 gong4 he2 guo2
 突尼西亞共和國	tu2 ni2 xi1 ya4 gong4 he2 guo2
 突怒	tu2 nu4
 突擊	tu2 ji2
@@ -82982,12 +83072,14 @@ min_phrase_weight: 100
 紋縷兒	wen2 lv3 r5
 納什	na4 shen2
 納垢藏污	na4 gou4 cang2 wu1
+納尼亞傳奇	na4 ni2 ya3 chuan2 qi2
 納尼亞傳奇	na4 ni2 ya4 chuan2 qi2
 納德阿里	na4 de2 a1 li3
 納悶	na4 men4
 納悶兒	na4 men4 r5
 納扎爾巴耶夫	na4 zha1 er3 ba1 ye1 fu1
 納撒尼爾·霍桑	na4 sa1 ni2 er3 huo4 sang1
+納米比亞共和國	na4 mi3 bi3 ya3 gong4 he2 guo2
 納米比亞共和國	na4 mi3 bi3 ya4 gong4 he2 guo2
 納粹主義	na3 cui4 zhu3 yi4
 納粹主義	na4 cui4 zhu3 yi4
@@ -82999,6 +83091,7 @@ min_phrase_weight: 100
 紐卡斯爾	niu3 ka3 si1 er3
 紐卡素	niu3 ka3 su4
 紐子	niu3 zi5
+紐幾內亞	niu3 ji1 nei4 ya3
 紐幾內亞	niu3 ji1 nei4 ya4
 紐捽	niu3 zu2
 紐約帝國大廈	niu3 yue1 di4 guo2 da4 sha4
@@ -84138,6 +84231,7 @@ min_phrase_weight: 100
 羅馬假期	luo2 ma3 jia4 qi2
 羅馬公教	luo2 ma3 gong1 jiao4
 羅馬共和國	luo2 ma3 gong4 he2 guo2
+羅馬尼亞共和國	luo2 ma3 ni2 ya3 gong4 he2 guo2
 羅馬尼亞共和國	luo2 ma3 ni2 ya4 gong4 he2 guo2
 羅馬廣場	luo2 ma3 guang3 chang2
 羅馬建築	luo2 ma3 jian4 zhu2
@@ -84688,6 +84782,7 @@ min_phrase_weight: 100
 聖哈辛托	sha1 jia1 mian3 du4
 聖哈辛托	sheng4 ha1 xin1 tuo1
 聖地	sheng4 di4
+聖地亞哥	sheng4 di4 ya3 ge1
 聖地亞哥	sheng4 di4 ya4 ge1
 聖地牙哥	sheng4 di4 ya2 ge1
 聖基茨和尼維斯	sheng4 ji1 ci2 han4 ni2 wei2 si1
@@ -84712,7 +84807,9 @@ min_phrase_weight: 100
 聖皮埃爾和密克隆	sheng4 pi2 ai1 er3 he2 mi4 ke4 long2
 聖神降臨	sheng4 shen2 jiang4 lin2
 聖神降臨週	sheng4 shen2 jiang4 lin2 zhou1
+聖索菲亞大教堂	sheng4 suo3 fei1 ya3 da4 jiao4 tang2
 聖索菲亞大教堂	sheng4 suo3 fei1 ya4 da4 jiao4 tang2
+聖索非亞大教堂	sheng4 suo3 fei1 ya3 da4 jiao4 tang2
 聖索非亞大教堂	sheng4 suo3 fei1 ya4 da4 jiao4 tang2
 聖經外傳	sheng4 jing1 wai4 zhuan4
 聖經段落	sheng4 jing1 duan4 luo4
@@ -84723,6 +84820,7 @@ min_phrase_weight: 100
 聖赫勒拿	sheng4 he4 lei1 na2
 聖赫勒拿島	sheng4 he4 le4 na2 dao3
 聖蹟	sheng4 ji1
+聖露西亞	sheng4 lu4 xi1 ya3
 聖露西亞	sheng4 lu4 xi1 ya4
 聖靈降臨	sheng4 ling2 jiang4 lin2
 聖餅子	sheng4 bing3 zi5
@@ -84964,6 +85062,7 @@ min_phrase_weight: 100
 肩擔之家	jian1 dan4 zhi1 jia1
 肩相比	jian1 xiang1 bi4
 肩背相望	jian1 bei4 xiang1 wang4
+肯亞共和國	ken3 ya3 gong4 he2 guo2
 肯亞共和國	ken3 ya4 gong4 he2 guo2
 肯分的	ken3 fen1 de5
 肯德基炸雞	ken3 de2 ji1 zha2 ji1
@@ -86480,6 +86579,7 @@ min_phrase_weight: 100
 莊稼漢	zhuang1 jia5 han4
 莊重	zhuang1 zhong4
 莎喲娜拉	sha1 yao1 na4 la1
+莎士比亞	sha1 shi4 bi3 ya3
 莎士比亞	sha1 shi4 bi3 ya4
 莎拉	sha1 la1
 莎拉·佩林	sha1 la1 pei4 lin2
@@ -87050,6 +87150,7 @@ min_phrase_weight: 100
 蒙古人	meng3 gu3 ren2
 蒙古人民共和國	meng3 gu3 ren2 min2 gong4 he2 guo2
 蒙古人種	meng2 gu3 ren2 zhong3
+蒙古利亞	meng2 gu3 li4 ya3
 蒙古利亞	meng2 gu3 li4 ya4
 蒙古國	meng3 gu3 guo2
 蒙古地方	meng2 gu3 di4 fang1
@@ -87085,6 +87186,7 @@ min_phrase_weight: 100
 蒙師	meng2 shi1
 蒙席	meng2 xi2
 蒙彼利埃	meng2 bi3 li4 ai1
+蒙得維的亞	meng2 de2 wei2 di4 ya3
 蒙得維的亞	meng2 de2 wei2 di4 ya4
 蒙恩	meng2 en1
 蒙恬	meng2 tian2
@@ -87114,6 +87216,7 @@ min_phrase_weight: 100
 蒙籠	meng2 long2
 蒙籠暗碧	meng2 long2 an4 bi4
 蒙絡	meng2 luo4
+蒙羅維亞	meng2 luo2 wei2 ya3
 蒙羅維亞	meng2 luo2 wei2 ya4
 蒙羞	meng2 xiu1
 蒙胞	meng2 bao1
@@ -87189,6 +87292,7 @@ min_phrase_weight: 100
 蓋世太保	gai4 shi4 tai4 bao3
 蓋世無雙	gai4 shi4 wu2 shuang1
 蓋世雄才	gai4 shi4 xiong2 cai2
+蓋亞那合作共和國	gai4 ya3 na4 he2 zuo4 gong4 he2 guo2
 蓋亞那合作共和國	gai4 ya4 na4 he2 zuo4 gong4 he2 guo2
 蓋人	gai4 ren2
 蓋仙	gai4 xian1
@@ -88969,6 +89073,7 @@ min_phrase_weight: 100
 襲擊	xi2 ji2
 襲跡	xi2 ji1
 襲逮	xi2 dai4
+西伯利亞反氣旋	xi1 bo2 li4 ya3 fan3 qi4 xuan2
 西伯利亞反氣旋	xi1 bo2 li4 ya4 fan3 qi4 xuan2
 西北航空公司	xi1 bei3 hang2 kong1 gong1 si1
 西印度	xi1 yin4 du4
@@ -90725,6 +90830,7 @@ min_phrase_weight: 100
 賊骨頭	zei2 gu2 tou5
 賊鬼	zei2 gui5
 賑給	zhen4 ji3
+賓夕法尼亞州	bin1 xi4 fa3 ni2 ya3 zhou1
 賓夕法尼亞州	bin1 xi4 fa3 ni2 ya4 zhou1
 賓待	bin1 dai4
 賓得	bin1 de2
@@ -90851,6 +90957,7 @@ min_phrase_weight: 100
 賭色	du3 shai3
 賴和	lai4 he2
 賴子	lai4 zi5
+賴比瑞亞共和國	lai4 bi3 rui4 ya3 gong4 he2 guo2
 賴比瑞亞共和國	lai4 bi3 rui4 ya4 gong4 he2 guo2
 賴象嗑瓜子	lai4 xiang4 ke4 gua1 zi5
 賺取	zhuan4 qu3
@@ -90906,7 +91013,9 @@ min_phrase_weight: 100
 赤血鹽	chi4 xie3 yan2
 赤誠相待	chi4 cheng2 xiang1 dai4
 赤誠相見	chi4 cheng2 xiang4 jian4
+赤道幾內亞	chi4 dao4 ji1 nei4 ya3
 赤道幾內亞	chi4 dao4 ji1 nei4 ya4
+赤道幾內亞共和國	chi4 dao4 ji3 nei4 ya3 gong4 he2 guo2
 赤道幾內亞共和國	chi4 dao4 ji3 nei4 ya4 gong4 he2 guo2
 赤露	chi4 lu4
 赤鯶公	chi4 hun4 gong1
@@ -92139,6 +92248,7 @@ min_phrase_weight: 100
 迦陵頻伽	jia1 ling2 pin2 qie2
 迪士尼樂園	di2 shi4 ni2 le4 yuan2
 迪慶藏族自治州	di2 qing4 zang4 zu2 zi4 zhi4 zhou1
+迪戈·加西亞島	di2 ge1 jia1 xi1 ya3 dao3
 迪戈·加西亞島	di2 ge1 jia1 xi1 ya4 dao3
 迪斯尼樂園	di2 si1 ni2 le4 yuan2
 迪斯科吧	di2 si1 ke1 ba1
@@ -92966,6 +93076,7 @@ min_phrase_weight: 100
 那曲縣	na4 qu1 xian4
 那更	na4 geng4
 那會子	na4 hui3 zi5
+那木巴爾·恩赫巴亞爾	na4 mu4 ba1 er3 en1 he4 ba1 ya3 er3
 那木巴爾·恩赫巴亞爾	na4 mu4 ba1 er3 en1 he4 ba1 ya4 er3
 那根蔥那根蒜	na3 gen1 cong1 na3 gen1 suan4
 那樣	na3 yang4	0%
@@ -93296,6 +93407,7 @@ min_phrase_weight: 100
 里仁爲美	li3 ren2 wei2 mei3
 里奇蒙	li3 qi2 meng2
 里弄	li3 long4
+里瓦幾亞條約	li3 wa3 ji1 ya3 tiao2 yue1
 里瓦幾亞條約	li3 wa3 ji1 ya4 tiao2 yue1
 里長	li3 zhang3
 重三	chong2 san1
@@ -95149,6 +95261,7 @@ min_phrase_weight: 100
 阿丹	a1 dan1
 阿也	a1 ye3
 阿井	e1 jing3
+阿亞圖拉	a1 ya3 tu2 la1
 阿亞圖拉	a1 ya4 tu2 la1
 阿亨	a1 heng1
 阿亨工業大學	a1 heng1 gong1 ye4 da4 xue2
@@ -95215,7 +95328,9 @@ min_phrase_weight: 100
 阿卡	a1 ka3
 阿卡提	a1 ka3 di1
 阿卡普爾科	a1 ka3 pu3 er3 ke1
+阿卡迪亞	a1 ka3 di2 ya3
 阿卡迪亞	a1 ka3 di2 ya4
+阿卡迪亞大學	a1 ka3 di2 ya3 da4 xue2
 阿卡迪亞大學	a1 ka3 di2 ya4 da4 xue2
 阿叔	a1 shu2
 阿司匹林	a1 si1 pi3 lin2
@@ -95287,6 +95402,7 @@ min_phrase_weight: 100
 阿巴	a1 ba1
 阿巴丹	a1 ba1 dan1
 阿巴嘎旗	a1 ba1 ga1 qi2
+阿巴拉契亞	a1 ba1 la1 qi4 ya3
 阿巴拉契亞	a1 ba1 la1 qi4 ya4
 阿巴斯	a1 ba1 si1
 阿巴桑	e1 ba1 sang1
@@ -95365,11 +95481,14 @@ min_phrase_weight: 100
 阿提密斯	a1 ti2 mi4 si1
 阿提拉	a1 ti2 la1
 阿摩司書	a1 mo2 si1 shu1
+阿摩尼亞	a1 mo2 ni2 ya3
 阿摩尼亞	a1 mo2 ni2 ya4
+阿摩尼亞水	a1 mo2 ni2 ya3 shui3
 阿摩尼亞水	a1 mo2 ni2 ya4 shui3
 阿斗	a1 dou3
 阿斯匹林	a1 si1 pi3 lin2
 阿斯匹靈	a1 si1 pi1 ling2
+阿斯圖里亞斯	a1 si1 tu2 li3 ya3 si1
 阿斯圖里亞斯	a1 si1 tu2 li3 ya4 si1
 阿斯塔納	a1 si1 ta3 na4
 阿斯巴特	a1 si1 ba1 te4
@@ -95410,8 +95529,11 @@ min_phrase_weight: 100
 阿檀	a1 tan2
 阿母	a1 mu3
 阿比	a1 bi3
+阿比西尼亞	a1 bi3 xi1 ni2 ya3
 阿比西尼亞	a1 bi3 xi1 ni2 ya4
+阿比西尼亞人	a1 bi3 xi1 ni2 ya3 ren2
 阿比西尼亞人	a1 bi3 xi1 ni2 ya4 ren2
+阿比西尼亞官話	a1 bi3 xi1 ni2 ya3 guan1 hua4
 阿比西尼亞官話	a1 bi3 xi1 ni2 ya4 guan1 hua4
 阿比讓	a1 bi3 rang4
 阿毗曇	a1 pi2 tian2
@@ -95435,17 +95557,23 @@ min_phrase_weight: 100
 阿爾卑斯山	a1 er3 bei1 si1 shan1
 阿爾卑斯山脈	a1 er3 bei1 si1 shan1 mai4
 阿爾卡特	a1 er3 ka3 te4
+阿爾及利亞	a1 er3 ji2 li4 ya3
 阿爾及利亞	a1 er3 ji2 li4 ya4
+阿爾及利亞人	a1 er3 ji2 li4 ya3 ren2
 阿爾及利亞人	a1 er3 ji2 li4 ya4 ren2
 阿爾及爾	a1 er3 ji2 er3
 阿爾坎塔拉	a1 er3 kan3 ta3 la1
 阿爾山	a1 er3 shan1
 阿爾山市	a1 er3 shan1 shi4
+阿爾巴尼亞	a1 er3 ba1 ni2 ya3
 阿爾巴尼亞	a1 er3 ba1 ni2 ya4
+阿爾巴尼亞人	a1 er3 ba1 ni2 ya3 ren2
 阿爾巴尼亞人	a1 er3 ba1 ni2 ya4 ren2
+阿爾巴尼亞共和國	a1 er3 ba1 ni2 ya3 gong4 he2 guo2
 阿爾巴尼亞共和國	a1 er3 ba1 ni2 ya4 gong4 he2 guo2
 阿爾斯太	a1 er3 si1 tai4
 阿爾斯通公司	a1 er3 si1 tong1 gong1 si1
+阿爾梅里亞	a1 er3 mei2 li3 ya3
 阿爾梅里亞	a1 er3 mei2 li3 ya4
 阿爾法	a1 er3 fa3
 阿爾法·羅密歐	a1 er3 fa3 luo2 mi4 ou1
@@ -95486,6 +95614,7 @@ min_phrase_weight: 100
 阿甘正傳	a1 gan1 zheng4 zhuan4
 阿留申羣島	a1 liu2 shen1 qun2 dao3
 阿的平	a1 di4 ping2
+阿皮亞	a1 pi2 ya3
 阿皮亞	a1 pi2 ya4
 阿盟	a1 meng2
 阿監	a1 jian4
@@ -95505,6 +95634,7 @@ min_phrase_weight: 100
 阿維拉	a1 wei2 la1
 阿羅漢	a1 luo2 han4
 阿羅約	a1 luo2 yue1
+阿美尼亞	a1 mei3 ni2 ya3
 阿美尼亞	a1 mei3 ni2 ya4
 阿美恩斯	a1 mei3 en1 si1
 阿美族	a1 mei3 zu2
@@ -95619,6 +95749,7 @@ min_phrase_weight: 100
 阿魯科爾沁	a1 lu3 ke1 er3 qin4
 阿魯科爾沁旗	a1 lu3 ke1 er3 qin4 qi2
 阿魯納恰爾邦	a1 lu3 na4 qia4 er3 bang1
+阿麗亞娜	a1 li4 ya3 na4
 阿麗亞娜	a1 li4 ya4 na4
 阿黑門尼德王朝	a1 hei1 men2 ni2 de2 wang2 chao2
 阿黨	e1 dang3
@@ -96792,6 +96923,7 @@ min_phrase_weight: 100
 韋轂	wei2 gu3
 韋馱	wei2 tuo2
 韋馱菩薩	wei2 tuo2 pu2 sa4
+韓亞航空	han2 ya3 hang2 kong1
 韓亞航空	han2 ya4 hang2 kong1
 韓信將兵	han2 xin4 jiang4 bing1
 韓國共和國	han2 guo2 gong4 he2 guo2
