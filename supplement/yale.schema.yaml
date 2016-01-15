@@ -64,12 +64,13 @@ speller:
     - xform/ep/ip/           # 夾 gep -> gip
     - abbrev/^([a-z]).+$/$1/ # 首字母簡拼
     - abbrev/^(ng).+$/$1/    # 聲母簡拼
+    - abbrev/^(ch).+$/$1/    # 聲母簡拼
     - abbrev/^([gk]w).+$/$1/ # 聲母簡拼
 
 translator:
   dictionary: jyutping
   spelling_hints: 5
-  comment_format:
+  comment_format: &comment_rules
     - xform/jy/y/
     - xform/j/y/
     - xform/z/j/
@@ -90,17 +91,7 @@ reverse_lookup:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
-  comment_format:
-    - xform/jy/y/
-    - xform/j/y/
-    - xform/z/j/
-    - xform/c/ch/
-    - xform/aa$/a/
-    - xform/eu/iu/
-    - xform/eo/eu/
-    - xform/oe/eu/
-    - xform/em/im/
-    - xform/ep/ip/
+  comment_format: *comment_rules
 
 punctuator:
   import_preset: default
