@@ -69,6 +69,7 @@ speller:
 
 translator:
   dictionary: jyutping
+  prism: yale
   spelling_hints: 5
   comment_format: &comment_rules
     - xform/jy/y/
