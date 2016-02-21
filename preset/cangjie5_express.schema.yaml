@@ -3,8 +3,8 @@
 
 schema:
   schema_id: cangjie5_express
-  name: 倉頡·快打模式
-  version: "2015.04.22"
+  name: 倉頡五代·快打模式
+  version: "2016.02.21"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -104,4 +104,4 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "`[a-z]*'?$"
+    reverse_lookup: "`[a-z]*'?$|[a-z]*'$"
