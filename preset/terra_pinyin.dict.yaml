@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2015.11.27"
+version: "2016.04.01"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -25630,7 +25630,8 @@ min_phrase_weight: 100
 豈	kai3	1%
 豈	qi3	99%
 豉	chi3
-豊	feng1
+豊	feng1	0%
+豊	li3	100%
 豋	deng1
 豌	wan1
 豍	bi1
