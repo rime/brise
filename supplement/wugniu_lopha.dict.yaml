@@ -11,7 +11,7 @@
 
 ---
 name: wugniu_lopha
-version: "2013.02.23"
+version: "2016.05.14"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
