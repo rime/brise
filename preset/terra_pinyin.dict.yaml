@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2016.04.01"
+version: "2016.05.22"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -8436,8 +8436,8 @@ min_phrase_weight: 100
 劣	lie4
 劤	jin4
 劥	keng1
-劦	lie4	50%
-劦	xie2	50%
+劦	lie4	0%
+劦	xie2	100%
 劧	zhi3
 动	dong4
 助	zhu4
@@ -15891,7 +15891,8 @@ min_phrase_weight: 100
 欏	luo2
 欏	luo3
 欐	li4
-欑	zan4
+欑	cuan2
+欑	zuan4
 欒	luan2
 欓	dang3
 欓	tang3
@@ -17864,7 +17865,8 @@ min_phrase_weight: 100
 燂	qian2
 燃	ran2
 燄	yan4
-燅	xian2
+燅	xian2	0%
+燅	xun2	100%
 燆	qiao1
 燆	xiao1
 燇	jun4
@@ -24560,7 +24562,8 @@ min_phrase_weight: 100
 袯	bo2
 袰	bo1
 袱	fu2
-袲	yi2
+袲	chi3
+袲	nuo3
 袳	chi3
 袳	duo3
 袳	nuo3
@@ -26708,7 +26711,7 @@ min_phrase_weight: 100
 迶	you4
 迷	mi2
 迸	beng4
-迹	ji1
+迹	ji4
 迺	nai3
 迻	yi2
 迼	jie2
