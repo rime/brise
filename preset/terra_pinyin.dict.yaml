@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2016.05.22"
+version: "2016.06.12"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -8707,6 +8707,7 @@ min_phrase_weight: 100
 厑	ya2
 厒	he2
 厓	ya2
+厓	yai2
 厔	zhi4
 厕	ce4
 厖	pang2
@@ -9259,6 +9260,7 @@ min_phrase_weight: 100
 唾	tuo4
 唿	hu1
 啀	ai2
+啀	yai2
 啁	zhou1
 啂	nou3
 啃	ken3
@@ -9521,6 +9523,7 @@ min_phrase_weight: 100
 嘈	cao2
 嘉	jia1
 嘊	ai2
+嘊	yai2
 嘋	xiao1
 嘌	piao1	50%
 嘌	piao4	50%
@@ -10818,6 +10821,7 @@ min_phrase_weight: 100
 娾	ai2
 娾	ai3
 娾	e4
+娾	yai2
 娿	e1
 娿	e3
 婀	e1
@@ -11652,7 +11656,9 @@ min_phrase_weight: 100
 崓	gu4
 崔	cui1
 崕	ya2
+崕	yai2
 崖	ya2
+崖	yai2
 崗	gang3
 崘	lun2
 崙	lun2
@@ -19467,6 +19473,7 @@ min_phrase_weight: 100
 睘	qiong2
 睙	lie4
 睚	ya2
+睚	yai2
 睛	jing1
 睜	zheng1
 睝	li2
@@ -47097,6 +47104,8 @@ min_phrase_weight: 100
 𫛢	ning2
 𫛶	chi4
 𫛸	ti2
+
+#以下爲詞組
 㓦劃	bo4 hua4
 㕷啦	pa1 la1
 㕷噠	pa1 da2
@@ -48436,6 +48445,7 @@ min_phrase_weight: 100
 不空	bu4 kong1
 不空成就佛	bu4 kong1 cheng2 jiu4 fo2
 不空成就如來	bu4 kong1 cheng2 jiu4 ru2 lai2
+不立崖岸	bu2 li4 ya2 an4
 不立崖岸	bu2 li4 yai2 an4
 不答理	bu4 da1 li3
 不答腔	bu4 da1 qiang1
@@ -54021,6 +54031,7 @@ min_phrase_weight: 100
 劈情操	pi1 qing2 cao1
 劈手	pi1 shou3
 劈拉	pi3 la5
+劈拉着腿坐崖頭	pi3 la5 zhe5 tui3 zuo4 ya2 tou2
 劈拉着腿坐崖頭	pi3 la5 zhe5 tui3 zuo4 yai2 tou2
 劈排定對	pi1 pai2 ding4 dui4
 劈掛拳	pi1 gua4 quan2
@@ -54276,6 +54287,7 @@ min_phrase_weight: 100
 勒開	le4 kai1
 勒限	le4 xian4
 勒馬	le4 ma3
+勒馬懸崖	le4 ma3 xuan2 ya2
 勒馬懸崖	le4 ma3 xuan2 yai2
 勒龐	le4 pang2
 動不動	dong4 bu2 dong4
@@ -55290,8 +55302,6 @@ min_phrase_weight: 100
 厄瓜多共和國	e4 gua1 duo1 gong4 he2 guo2
 厄難	e4 nan4
 厏厊	zha3 ya3
-厓山	yai2 shan1
-厓谷	yai2 gu3
 厚今薄古	hou4 jin1 bo2 gu3
 厚古薄今	hou4 gu3 bo2 jin1
 厚實	hou4 shi5
@@ -57141,7 +57151,6 @@ min_phrase_weight: 100
 唾面自乾	tuo4 mian4 zi4 gan1
 唿喇	hu1 la3
 唿喇喇	hu1 la4 la4
-啀喍	yai2 chai2
 啁哳	zhou1 zha2
 啁噍	zhou1 jiu1
 啃骨頭	ken3 gu2 tou5
@@ -58797,6 +58806,7 @@ min_phrase_weight: 100
 埋香骨	mai2 xiang1 gu3
 埋骨	mai2 gu3
 城垛口	cheng2 duo3 kou3
+城子崖遺跡	cheng2 zi3 ya2 yi2 ji1
 城子崖遺跡	cheng2 zi3 yai2 yi2 ji1
 城市熱效應	cheng2 shi4 re4 xiao4 ying4
 城市規劃	cheng2 shi4 gui1 hua4
@@ -59122,7 +59132,6 @@ min_phrase_weight: 100
 墩子	dun1 zi5
 墩葫蘆	dun1 hu2 lu5
 墮地	duo4 di4
-墮崖	duo4 yai2
 墮落	duo4 luo4
 墳圈子	fen2 quan4 zi5
 墳地	fen2 di4
@@ -62731,7 +62740,6 @@ min_phrase_weight: 100
 山姆叔叔	shan1 mu3 shu2 shu5
 山子	shan1 zi3
 山子	shan1 zi5
-山崖	shan1 yai2
 山崗	shan1 gang1
 山崩地坼	shan1 beng1 di4 che4
 山崩地裂	shan1 beng1 di4 lie4
@@ -62794,7 +62802,6 @@ min_phrase_weight: 100
 峰迴路轉	feng1 hui2 lu4 zhuan3
 島蓋部	dao3 gai4 bu4
 峻切	jun4 qie4
-峻崖	jun4 yai2
 峻阪鹽車	jun4 ban3 yan2 ju1
 崁頂	kan3 ding3
 崁頂鄉	kan3 ding3 xiang1
@@ -62802,7 +62809,6 @@ min_phrase_weight: 100
 崆峒區	kong1 tong2 qu1
 崆峒山	kong1 tong2 shan1
 崇寧	chong2 ning2
-崇崖	chong2 yai2
 崇朝	chong2 zhao1
 崇阿	chong2 e1
 崑山片玉	kun1 shan1 pian4 yu4
@@ -62813,16 +62819,6 @@ min_phrase_weight: 100
 崒嵂	zu2 lv4
 崔巍	cui1 wei2
 崔烈銅臭	cui1 lie4 tong2 xiu4
-崖山	yai2 shan1
-崖岸	yai2 an4
-崖岸自高	yai2 an4 zi4 gao1
-崖檢	yai2 jian3
-崖次	yai2 ci4
-崖涘	yai2 si4
-崖略	yai2 lve4
-崖異	yai2 yi4
-崖縣	yai2 xian4
-崖邊	yai2 bian1
 崗子	gang3 zi5
 崗樓	gang3 lou2
 崗樓	gang3 lou4
@@ -62869,7 +62865,6 @@ min_phrase_weight: 100
 嶺巆	ling3 ying2
 嶽得爾歌	yue4 de2 er3 ge1
 巃嵷	long2 zong1
-巉崖	chan2 yai2
 巍峨	wei2 e2
 巍巍	wei2 wei2
 巍巍蕩蕩	wei2 wei2 dang4 dang4
@@ -62877,8 +62872,6 @@ min_phrase_weight: 100
 巍然屹立	wei2 ran2 yi4 li4
 巍科	wei2 ke1
 巔峰負載	dian1 feng1 fu4 zai4
-巔崖	dian1 yai2
-巔崖峻谷	dian1 yai2 jun4 gu3
 巖居穴處	yan2 ju1 xue4 chu3
 巖徼	yan2 jiao4
 巖流圈	yan2 liu2 quan1
@@ -66182,11 +66175,8 @@ min_phrase_weight: 100
 懷璧爲罪	huai2 bi4 wei2 zui4
 懷着身子	huai2 zhe5 shen1 zi5
 懷空	huai2 kong1
-懸崖	xuan2 yai2
 懸崖勒馬	xuan2 ya2 le4 ma3
 懸崖勒馬	xuan2 yai2 le4 ma3
-懸崖峭壁	xuan2 yai2 qiao4 bi4
-懸崖絕壁	xuan2 yai2 jue2 bi4
 懸揣	xuan2 chuan3
 懸梁刺股	xuan2 liang2 ci4 gu3
 懸梁刺骨	xuan2 liang2 ci4 gu3
@@ -68710,7 +68700,7 @@ min_phrase_weight: 100
 摩天大廈	mo2 tian1 da4 sha4
 摩姑	mo2 gu5
 摩尼教	mo2 ni2 jiao4
-摩崖	mo2 yai2
+摩崖石刻	mo2 ya2 shi2 ke1
 摩崖石刻	mo2 yai2 shi2 ke1
 摩弄	mo2 nong4
 摩托車的士	mo2 tuo1 che1 di1 shi4
@@ -70452,7 +70442,6 @@ min_phrase_weight: 100
 斲雕爲樸	zhuo2 diao1 wei2 pu2
 斷喝	duan4 he4
 斷層掃描	duan4 ceng2 sao3 miao2
-斷崖	duan4 yai2
 斷根絕種	duan4 gen1 jue2 zhong3
 斷爛朝報	duan4 lan4 chao2 bao4
 斷片	duan4 pian4
@@ -75583,7 +75572,6 @@ min_phrase_weight: 100
 海寧觀潮	hai3 ning2 guan1 chao2
 海岸山脈	hai3 an4 shan1 mai4
 海峽兩岸關係協會	hai3 xia2 liang3 an4 guan1 xi5 xie2 hui4
-海崖	hai3 yai2
 海帶卷	hai3 dai4 juan3
 海底地震	hai3 di3 di4 zhen4
 海底摸月	hai3 di3 mo1 yue4
@@ -75619,7 +75607,6 @@ min_phrase_weight: 100
 海蛤蝓	hai3 ge2 yu2
 海蜇	hai3 zhe2
 海蜇皮	hai3 zhe2 pi2
-海蝕崖	hai3 shi2 yai2
 海蝕臺地	hai3 shi2 tai2 di4
 海螵蛸	hai3 piao1 xiao1
 海行	hai3 xing2
@@ -78341,7 +78328,6 @@ min_phrase_weight: 100
 珠圍翠擁	zhu1 wei2 cui4 yong3
 珠子	zhu1 zi5
 珠宮貝闕	zhu1 gong1 bei4 que4
-珠崖	zhu1 yai2
 珠沉玉沒	zhu1 chen2 yu4 mo4
 珠流璧轉	zhu1 liu2 bi4 zhuan3
 珠淚偷彈	zhu1 lei4 tou1 tan2
@@ -78494,7 +78480,6 @@ min_phrase_weight: 100
 環繞喇叭	huan2 rao4 la3 ba5
 環肥燕瘦	huan2 fei2 yan4 shou4
 環行	huan2 xing2
-瓊崖海棠	qiong2 yai2 hai3 tang2
 瓊廚金穴	qiong2 chu2 jin1 xue4
 瓊漿	qiong2 jiang1
 瓊漿玉液	qiong2 jiang1 yu4 ye4
@@ -80527,7 +80512,6 @@ min_phrase_weight: 100
 眠琴綠陰	mian2 qin2 lu4 yin1
 眠花宿柳	mian2 hua1 su4 liu3
 眠鷗宿鷺	mian2 ou1 su4 lu4
-眥睚	zi4 yai2
 眨巴	zha3 ba5
 眯縫	mi1 feng5
 眴轉	xuan4 zhuan3
@@ -82395,7 +82379,6 @@ min_phrase_weight: 100
 立地成佛	li4 di4 cheng2 fo2
 立地書廚	li4 di4 shu1 chu2
 立地金剛	li4 di4 jin1 gang1
-立崖岸	li4 yai2 an4
 立帳子	li4 zhang4 zi5
 立扎	li4 zha1
 立掃千言	li4 sao3 qian1 yan2
@@ -85560,6 +85543,7 @@ min_phrase_weight: 100
 臨場	lin2 chang3
 臨場感	lin2 chang3 gan3
 臨寂	lin2 ji2
+臨崖勒馬	lin2 ya2 le4 ma3
 臨崖勒馬	lin2 yai2 le4 ma3
 臨帖	lin2 tie4
 臨時分居	lin2 shi2 fen1 ju1
@@ -85626,7 +85610,6 @@ min_phrase_weight: 100
 自在	zi4 zai5
 自大狂	zi4 dai4 kuang2
 自好	zi4 hao4
-自崖而反	zi4 yai2 er2 fan3
 自己方便	zi4 ji3 fang1 bian4
 自度	zi4 duo4
 自度曲	zi4 du4 qu3
@@ -89300,7 +89283,6 @@ min_phrase_weight: 100
 視而不見	shi4 er2 bu2 jian4
 視聽傳播	shi4 ting1 chuan2 bo4
 視聽教育	shi4 ting1 jiao4 yu4
-視覺懸崖	shi4 jue2 xuan2 yai2
 視覺空間	shi4 jue2 kong1 jian1
 視覺適應	shi4 jue2 shi4 ying4
 視訊捕捉卡	shi4 xun4 bu3 zhuo1 ka3
@@ -97932,6 +97914,7 @@ min_phrase_weight: 100
 骨嘟	gu1 du1
 骨子	gu3 zi5
 骨子裏	gu3 zi5 li3
+骨崖崖	gu3 ya2 ya2
 骨崖崖	gu3 yai2 yai2
 骨扇	gu3 shan4
 骨折	gu3 zhe2
