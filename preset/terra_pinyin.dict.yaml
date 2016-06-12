@@ -19162,6 +19162,7 @@ min_phrase_weight: 100
 癊	yin4
 癋	he4
 癌	ai2
+癌	yan2
 癍	ban1
 癎	xian2
 癏	guan1
@@ -49098,8 +49099,6 @@ min_phrase_weight: 100
 乳暈	ru3 yun4
 乳燕	ru3 yan4
 乳燕雙雙	ru3 yan4 shuang1 shuang1
-乳癌	ru3 ai2
-乳癌	ru3 yan2
 乳白天空	ru3 bai2 tian1 kong1
 乳糜	ru3 mi2
 乳臭	ru3 xiu4
@@ -55617,8 +55616,6 @@ min_phrase_weight: 100
 口給	kou3 ji3
 口能舌便	kou3 neng2 she2 pian2
 口腔期	kou3 qiang1 qi2
-口腔癌	kou3 qiang1 ai2
-口腔癌	kou3 qiang1 yan2
 口腔黏膜	kou3 qiang1 nian2 mo4
 口臭	kou3 chou4
 口舌之便	kou3 she2 zhi1 bian4
@@ -57332,8 +57329,6 @@ min_phrase_weight: 100
 喉嚨	hou2 long5
 喉塞音	hou2 se4 yin1
 喉片	hou2 pian4
-喉癌	hou2 ai2
-喉癌	hou2 yan2
 喉結	hou2 jie2
 喉長氣短	hou2 chang2 qi4 duan3
 喊嗓子	han3 sang3 zi5
@@ -59743,8 +59738,6 @@ min_phrase_weight: 100
 大腦出血性中風	da4 nao3 chu1 xie3 xing4 zhong4 feng1
 大腸息肉	da4 chang2 xi2 rou4
 大腸桿菌羣	da4 chang2 gan3 jun4 qun2
-大腸癌	da4 chang2 ai2
-大腸癌	da4 chang2 yan2
 大腸菌	da4 chang2 jun4
 大腸菌類	da4 chang2 jun4 lei4
 大腹便便	da4 fu4 pian2 pian2
@@ -60953,8 +60946,6 @@ min_phrase_weight: 100
 子宮內膜癌	zi3 gong1 nei4 mo4 yan2
 子宮抹片檢查	zi3 gong1 mo3 pian4 jian3 cha2
 子宮頸抹片檢查	zi3 gong1 jing3 mo3 pian4 jian3 cha2
-子宮頸癌	zi3 gong1 jing3 ai2
-子宮頸癌	zi3 gong1 jing3 yan2
 子彈	zi3 dan4
 子彈火車	zi3 dan4 huo3 che1
 子息	zi3 xi2
@@ -79271,7 +79262,6 @@ min_phrase_weight: 100
 癉惡彰善	dan4 e4 zhang1 shan4
 癉暑	dan4 shu3
 癉瘧	dan1 nve4
-癌症	yan2 zheng4
 癖好	pi3 hao4
 癟三	bie1 san1
 癟三	bie3 san1
@@ -79657,8 +79647,6 @@ min_phrase_weight: 100
 皮相	pi2 xiang4
 皮相士	pi2 xiang4 shi4
 皮破血流	pi2 po4 xie3 liu2
-皮膚癌	pi2 fu1 ai2
-皮膚癌	pi2 fu1 yan2
 皮解庫	pi2 jie4 ku4
 皮諾切特	pi2 nuo4 qie1 te4
 皮重	pi2 zhong4
@@ -79954,8 +79942,6 @@ min_phrase_weight: 100
 直肚直腸	zhi2 du4 zhi2 chang2
 直脈	zhi2 mai4
 直腸子	zhi2 chang2 zi5
-直腸癌	zhi2 chang2 ai2
-直腸癌	zhi2 chang2 yan2
 直腸直肚	zhi2 chang2 zhi2 du4
 直落	zhi2 luo4
 直落三	zhi2 luo4 san1
@@ -85017,8 +85003,6 @@ min_phrase_weight: 100
 肝橫膽乍	gan1 heng2 dan3 zha4
 肝氣	gan1 qi5
 肝火盛	gan1 huo3 sheng4
-肝癌	gan1 ai2
-肝癌	gan1 yan2
 肝腦塗地	gan1 nao3 tu2 di4
 肝膽塗地	gan1 dan3 tu2 di4
 肝膽相照	gan1 dan3 xiang1 zhao4
@@ -85065,14 +85049,10 @@ min_phrase_weight: 100
 肺炎克雷伯氏菌	fei4 yan2 ke4 lei2 bo2 shi4 jun1
 肺炎雙球菌	fei4 yan2 shuang1 qiu2 jun1
 肺炎黴漿菌	fei4 yan2 mei2 jiang1 jun1
-肺癌	fei4 ai2
-肺癌	fei4 yan2
 肺結核	fei4 jie2 he2
 肺結核病	fei4 jie2 he2 bing4
 肺肺	pei4 pei4
 肺靜脈	fei4 jing4 mai4
-胃癌	wei4 ai2
-胃癌	wei4 yan2
 胃脘	wei4 wan3
 背包	bei1 bao1
 背包客	bei1 bao1 ke4
@@ -85314,8 +85294,6 @@ min_phrase_weight: 100
 腌貨	yan1 huo4
 腎結核	shen4 jie2 he2
 腎結石	shen4 jie2 shi2
-腎臟癌	shen4 zang4 ai2
-腎臟癌	shen4 zang4 yan2
 腐化分子	fu3 hua4 fen4 zi3
 腐惡	fu3 e4
 腐殖覆蓋物	fu3 zhi2 fu4 gai4 wu4
@@ -88213,9 +88191,6 @@ min_phrase_weight: 100
 血液	xue4 ye4
 血液增強劑	xue4 ye4 zeng1 qiang2 ji4
 血滴子	xie3 di1 zi3
-血癌	xie3 ai2
-血癌	xie3 yan2
-血癌	xue4 ai2
 血肉橫飛	xie3 rou4 heng2 fei1
 血肉橫飛	xue4 rou4 heng2 fei1
 血量	xie3 liang4
@@ -97922,8 +97897,6 @@ min_phrase_weight: 100
 骨殖	gu3 zhi2
 骨片	gu3 pian4
 骨牌效應	gu3 pai2 xiao4 ying4
-骨癌	gu3 ai2
-骨癌	gu3 yan2
 骨相	gu3 xiang5
 骨碌	gu2 lu5
 骨碌碌	gu2 lu4 lu5
@@ -98975,3 +98948,4 @@ min_phrase_weight: 100
 𣝓弧	yan3 hu2
 𣝓絲	yan3 si1
 𧑗蝦	ning2 xia1
+
