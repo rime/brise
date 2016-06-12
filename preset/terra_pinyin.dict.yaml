@@ -14677,8 +14677,8 @@ min_phrase_weight: 100
 朋	peng2
 朌	ban1
 朌	fen2
-服	fu2	99%
-服	fu4	1%
+服	fu2	100%
+服	fu4	0%
 朎	ling2
 朏	fei3
 朐	qu2
@@ -25820,8 +25820,8 @@ min_phrase_weight: 100
 賧	dan3
 賨	cong2
 賩	cong2
-質	zhi4
 質	zhi2
+質	zhi4
 賫	ji1
 賬	zhang4
 賭	du3
@@ -48749,6 +48749,10 @@ min_phrase_weight: 100
 中國國家地震局	zhong1 guo2 guo2 jia1 di4 zhen4 ju2
 中國國際航空公司	zhong1 guo2 guo2 ji4 hang2 kong1 gong1 si1
 中國地球物理學會	zhong1 guo2 di4 qiu2 wu4 li3 xue2 hui4
+中國地質大學	zhong1 guo2 di4 zhi2 da4 xue2
+中國地質大學	zhong1 guo2 di4 zhi4 da4 xue2
+中國地質調查局	zhong1 guo2 di4 zhi2 diao4 cha2 ju2
+中國地質調查局	zhong1 guo2 di4 zhi4 diao4 cha2 ju2
 中國地震局	zhong1 guo2 di4 zhen4 ju2
 中國地震臺	zhong1 guo2 di4 zhen4 tai2
 中國天主教愛國會	zhong1 guo2 tian1 zhu3 jiao4 ai4 guo2 hui4
@@ -49354,6 +49358,8 @@ min_phrase_weight: 100
 事急且相隨	shi4 ji2 qie3 xiang1 sui2
 事急馬行田	shi4 ji2 ma3 xing2 tian2
 事業年度	shi4 ye4 nian2 du4
+事物的本質重於外在	shi4 wu4 de5 ben3 zhi2 chong2 yu2 wai4 zai4
+事物的本質重於外在	shi4 wu4 de5 ben3 zhi4 chong2 yu2 wai4 zai4
 事畜	shi4 xu4
 事發地點	shi4 fa1 di4 dian3
 事與願違	shi4 yu3 yuan4 wei2
@@ -49819,6 +49825,7 @@ min_phrase_weight: 100
 人言鑿鑿	ren2 yan2 zuo4 zuo4
 人財兩空	ren2 cai2 liang3 kong1
 人販子	ren2 fan4 zi5
+人質	ren2 zhi4
 人跡	ren2 ji1
 人跡杳然	ren2 ji1 yao3 ran2
 人跡罕至	ren2 ji1 han3 zhi4
@@ -50776,6 +50783,8 @@ min_phrase_weight: 100
 保角對應	bao3 jiao3 dui4 ying4
 保識人	bao3 shi4 ren2
 保護模式	bao3 hu4 mo2 shi4
+保質保量	bao3 zhi2 bao3 liang4
+保質保量	bao3 zhi4 bao3 liang4
 保重	bao3 zhong4
 保長對應	bao3 chang2 dui4 ying4
 保障監督	bao3 zhang4 jian1 du1
@@ -51667,6 +51676,7 @@ min_phrase_weight: 100
 傳譯員	chuan2 yi4 yuan2
 傳譽古今	chuan2 yu4 gu3 jin1
 傳賢	chuan2 xian2
+傳質	chuan2 zhi4
 傳贊	zhuan4 zan4
 傳踏	zhuan4 ta4
 傳車	zhuan4 ju1
@@ -52197,6 +52207,8 @@ min_phrase_weight: 100
 全軍覆沒	quan2 jun1 fu4 mo4
 全都	quan2 dou1
 全長	quan2 chang2
+全面質量管理	quan2 mian4 zhi2 liang4 guan3 li3
+全面質量管理	quan2 mian4 zhi4 liang4 guan3 li3
 兩下子	liang3 xia4 zi5
 兩不相下	liang3 bu4 xiang1 xia4
 兩不相欠	liang3 bu4 xiang1 qian4
@@ -52523,6 +52535,7 @@ min_phrase_weight: 100
 典範長存	dian3 fan4 chang2 cun2
 典藏	dian3 cang2
 典藏本	dian3 cang2 ben3
+典質	dian3 zhi4
 典鋪	dian3 pu4
 兼併與收購	jian1 bing4 yu3 shou1 gou4
 兼差	jian1 chai1
@@ -53009,6 +53022,8 @@ min_phrase_weight: 100
 分支機關	fen1 zhi1 ji1 guan1
 分教	fen1 jiao4
 分散	fen1 san4
+分散介質	fen1 san4 jie4 zhi2
+分散介質	fen1 san4 jie4 zhi4
 分散式	fen1 san4 shi4
 分散式網路	fen1 san4 shi4 wang3 lu4
 分散注意	fen1 san4 zhu4 yi4
@@ -54199,6 +54214,7 @@ min_phrase_weight: 100
 努着	nu3 zhuo5
 努睛突眼	nu3 jing1 tu2 yan3
 劫後英雄傳	jie2 hou4 ying1 xiong2 zhuan4
+劫持人質	jie2 chi2 ren2 zhi4
 劫數	jie2 shu4
 劫數難逃	jie2 shu4 nan2 tao2
 劫法場	jie2 fa3 chang2
@@ -55334,6 +55350,8 @@ min_phrase_weight: 100
 原子爆彈	yuan2 zi3 bao4 dan4
 原子爆破彈藥	yuan2 zi3 bao4 po4 dan4 yao4
 原子落塵	yuan2 zi3 luo4 chen2
+原子質量	yuan2 zi3 zhi2 liang4
+原子質量	yuan2 zi3 zhi4 liang4
 原子量	yuan2 zi3 liang4
 原形畢露	yuan2 xing2 bi4 lu4
 原產地	yuan2 chan3 di4
@@ -56938,6 +56956,8 @@ min_phrase_weight: 100
 品行	pin3 xing4
 品行端醇	pin3 xing4 duan1 chun2
 品調	pin3 diao4
+品質因數	pin3 zhi2 yin1 shu4
+品質因數	pin3 zhi4 yin1 shu4
 品量	pin3 liang2
 品高德重	pin3 gao1 de2 zhong4
 哄了一日是兩晌	hong3 le5 yi2 ri4 shi4 liang3 shang3
@@ -58080,6 +58100,8 @@ min_phrase_weight: 100
 國家航空公司	guo2 jia1 hang2 kong1 gong1 si1
 國家行爲主義	guo2 jia1 xing2 wei2 zhu3 yi4
 國家計劃委員會	guo2 jia1 ji4 hua4 wei3 yuan2 hui4
+國家質量監督檢驗檢疫總局	guo2 jia1 zhi2 liang4 jian1 du1 jian3 yan4 jian3 yi4 zong3 ju2
+國家質量監督檢驗檢疫總局	guo2 jia1 zhi4 liang4 jian1 du1 jian3 yan4 jian3 yi4 zong3 ju2
 國家重點學科	guo2 jia1 zhong4 dian3 xue2 ke1
 國家重點實驗室	guo2 jia1 zhong4 dian3 shi2 yan4 shi4
 國家開發銀行	guo2 jia1 kai1 fa1 yin2 hang2
@@ -58597,8 +58619,24 @@ min_phrase_weight: 100
 地貌	di4 mao4
 地質	di4 zhi2
 地質	di4 zhi4
+地質圖	di4 zhi2 tu2
+地質圖	di4 zhi4 tu2
 地質學	di4 zhi2 xue2
 地質學	di4 zhi4 xue2
+地質學家	di4 zhi2 xue2 jia1
+地質學家	di4 zhi4 xue2 jia1
+地質年代表	di4 zhi2 nian2 dai4 biao3
+地質年代表	di4 zhi4 nian2 dai4 biao3
+地質年表	di4 zhi2 nian2 biao3
+地質年表	di4 zhi4 nian2 biao3
+地質活動	di4 zhi2 huo2 dong4
+地質活動	di4 zhi4 huo2 dong4
+地質災害	di4 zhi2 zai1 hai4
+地質災害	di4 zhi4 zai1 hai4
+地質礦產部	di4 zhi2 kuang4 chan3 bu4
+地質礦產部	di4 zhi4 kuang4 chan3 bu4
+地質編錄	di4 zhi2 bian1 lu4
+地質編錄	di4 zhi4 bian1 lu4
 地躺拳	di4 tang3 quan2
 地軸	di4 zhou2
 地輿	di4 yu2
@@ -61772,6 +61810,12 @@ min_phrase_weight: 100
 實行	shi2 xing2
 實變函數	shi2 bian4 han2 shu4
 實變函數論	shi2 bian4 han2 shu4 lun4
+實質利率	shi2 zhi2 li4 lv4
+實質利率	shi2 zhi4 li4 lv4
+實質成長	shi2 zhi2 cheng2 zhang3
+實質成長	shi2 zhi4 cheng2 zhang3
+實質所得	shi2 zhi2 suo3 de2
+實質所得	shi2 zhi4 suo3 de2
 實際應用	shi2 ji4 ying4 yong4
 實驗劇場	shi2 yan4 ju4 chang2
 寧人負我	ning2 ren2 fu4 wo3
@@ -62424,6 +62468,8 @@ min_phrase_weight: 100
 少白頭	shao4 bai2 tou2
 少禮	shao3 li3
 少私寡慾	shao3 si1 gua3 yu4
+少突膠質	shao3 tu1 jiao1 zhi2
+少突膠質	shao3 tu1 jiao1 zhi4
 少管閒事	shao3 guan3 xian2 shi4
 少艾	shao4 ai4
 少見	shao3 jian4
@@ -62915,6 +62961,8 @@ min_phrase_weight: 100
 工礦用地	gong1 kuang4 yong4 di4
 工程分析	gong1 cheng2 fen1 xi1
 工程測量	gong1 cheng2 ce4 liang2
+工程質量	gong1 cheng2 zhi2 liang4
+工程質量	gong1 cheng2 zhi4 liang4
 工程進度	gong1 cheng2 jin4 du4
 工種	gong1 zhong3
 工藝教育	gong1 yi4 jiao4 yu4
@@ -63597,6 +63645,8 @@ min_phrase_weight: 100
 幽軋	you1 ya4
 幽都	you1 du1
 幾丁	ji1 ding1
+幾丁質	ji1 ding1 zhi2
+幾丁質	ji1 ding1 zhi4
 幾乎	ji1 hu1
 幾乎不	ji1 hu1 bu4
 幾乎不可能	ji1 hu1 bu4 ke3 neng2
@@ -64030,8 +64080,6 @@ min_phrase_weight: 100
 引導扇區	yin3 dao3 shan4 qu1
 引得	yin3 de2
 引數	yin3 shu4
-引發物質	yin3 fa1 wu4 zhi2
-引發物質	yin3 fa1 wu4 zhi4
 引着	yin3 zhao2
 引種	yin3 zhong3
 引調	yin3 tiao2
@@ -64437,6 +64485,7 @@ min_phrase_weight: 100
 影視卡	ying3 shi4 ka3
 影調	ying3 diao4
 影調劇	ying3 diao4 ju4
+影質	ying3 zhi4
 影跡	ying3 ji1
 彴約	bo2 yue1
 彷似	fang3 si4
@@ -64527,6 +64576,8 @@ min_phrase_weight: 100
 待解	dai4 jie3
 待詔	dai4 zhao4
 待賈	dai4 gu3
+待質	dai4 zhi2
+待質	dai4 zhi4
 待遇	dai4 yu4
 徇務	xun2 wu4
 徇地	xun4 di4
@@ -65694,6 +65745,10 @@ min_phrase_weight: 100
 惡識	e4 shi4
 惡貫滿盈	e4 guan4 man3 ying2
 惡貫禍盈	e4 guan4 huo4 ying2
+惡質	e4 zhi2
+惡質	e4 zhi4
+惡質化	e4 zhi2 hua4
+惡質化	e4 zhi4 hua4
 惡賴	e4 lai4
 惡趣	e4 qu4
 惡跡	e4 ji4
@@ -67740,6 +67795,7 @@ min_phrase_weight: 100
 持蠡測海	chi2 li2 ce4 hai3
 持行	chi2 xing2
 持衡擁璇	chi2 heng2 yong3 xuan2
+持質	chi2 zhi4
 持重	chi2 zhong4
 挂冠	gua4 guan1
 挂燈結綵	gua4 deng1 jie2 cai3
@@ -68398,6 +68454,8 @@ min_phrase_weight: 100
 提不起來	ti2 bu5 qi3 lai5
 提不起勁	ti2 bu4 qi3 jin4
 提供	ti2 gong1
+提供優質服務	ti2 gong1 you1 zhi2 fu2 wu4
+提供優質服務	ti2 gong1 you1 zhi4 fu2 wu4
 提供商	ti2 gong1 shang1
 提供者	ti2 gong1 zhe3
 提傀儡上戲場	ti2 kui3 lei3 shang4 xi4 chang2
@@ -68424,6 +68482,8 @@ min_phrase_weight: 100
 提防	di1 fang5
 提防	ti2 fang2
 提頭兒	ti2 tou2 r5
+提高產品質量	ti2 gao1 chan3 pin3 zhi2 liang4
+提高產品質量	ti2 gao1 chan3 pin3 zhi4 liang4
 插上	cha1 shang5
 插圈弄套	cha1 quan1 nong4 tao4
 插子	cha1 zi5
@@ -68637,6 +68697,7 @@ min_phrase_weight: 100
 搶呼	qiang1 hu1
 搶地	qiang1 di4
 搶地呼天	qiang1 di4 hu1 tian1
+搶救人質	qiang3 jiu4 ren2 zhi4
 搶棺材奔命	qiang3 guan1 cai2 ben4 ming4
 搶槓	qiang3 gang4
 搶生意	qiang3 sheng1 yi5
@@ -69788,6 +69849,8 @@ min_phrase_weight: 100
 教學相長	jiao4 xue2 xiang1 zhang3
 教學節目	jiao4 xue2 jie2 mu4
 教學計劃	jiao4 xue2 ji4 hua4
+教學質量	jiao4 xue2 zhi2 liang4
+教學質量	jiao4 xue2 zhi4 liang4
 教學醫院	jiao4 xue2 yi1 yuan4
 教學電視	jiao4 xue2 dian4 shi4
 教安	jiao4 an1
@@ -69881,6 +69944,8 @@ min_phrase_weight: 100
 教育視導	jiao4 yu4 shi4 dao3
 教育計畫	jiao4 yu4 ji4 hua4
 教育費	jiao4 yu4 fei4
+教育質量	jiao4 yu4 zhi2 liang4
+教育質量	jiao4 yu4 zhi4 liang4
 教育輔導	jiao4 yu4 fu3 dao3
 教育部	jiao4 yu4 bu4
 教育部長	jiao4 yu4 bu4 zhang3
@@ -71719,6 +71784,8 @@ min_phrase_weight: 100
 服務提供商	fu2 wu4 ti2 gong1 shang1
 服務提供者	fu2 wu4 ti2 gong1 zhe3
 服務處	fu2 wu4 chu4
+服務質量	fu2 wu4 zhi2 liang4
+服務質量	fu2 wu4 zhi4 liang4
 服喪	fu2 sang1
 服帖	fu2 tie1
 服服	fu4 fu5
@@ -72944,6 +73011,8 @@ min_phrase_weight: 100
 椰胡	ye2 hu2
 椰菜	ye2 cai4
 椰雕	ye2 diao1
+椹質	zhen1 zhi2
+椹質	zhen1 zhi4
 椽子	chuan2 zi5
 椿壽	chun1 shou4
 椿庭	chun1 ting2
@@ -73387,6 +73456,10 @@ min_phrase_weight: 100
 樸素無華	pu2 su4 wu2 hua2
 樸訥	pu2 na4
 樸訥誠篤	pu2 na4 cheng2 du3
+樸質	pu2 zhi2
+樸質	pu2 zhi4
+樸質無華	pu2 zhi2 wu2 hua2
+樸質無華	pu2 zhi4 wu2 hua2
 樸鄙	pu2 bi3
 樸重	pu2 zhong4
 樸野	pu2 ye3
@@ -74077,6 +74150,8 @@ min_phrase_weight: 100
 殼果	ke2 guo3
 殼牌	qiao4 pai2
 殼牌公司	qiao4 pai2 gong1 si1
+殼質	qiao4 zhi2
+殼質	qiao4 zhi4
 殿屎	dian4 xi1
 毀家紓難	hui3 jia1 shu1 nan4
 毀屍滅跡	hui3 shi1 mie4 ji1
@@ -74419,6 +74494,12 @@ min_phrase_weight: 100
 水底摸月	shui3 di3 mo1 yue4
 水底相機	shui3 di3 xiang4 ji1
 水往低處流	shui3 wang3 di1 chu4 liu2
+水文地質	shui3 wen2 di4 zhi2
+水文地質	shui3 wen2 di4 zhi4
+水文地質學	shui3 wen2 di4 zhi2 xue2
+水文地質學	shui3 wen2 di4 zhi4 xue2
+水文地質條件	shui3 wen2 di4 zhi2 tiao2 jian4
+水文地質條件	shui3 wen2 di4 zhi4 tiao2 jian4
 水旱碼頭	shui3 han4 ma3 tou5
 水晶心肝玻璃人	shui3 jing1 xin1 gan1 bo1 li5 ren2
 水曲	shui3 qu1
@@ -75216,6 +75297,12 @@ min_phrase_weight: 100
 泥蟠	ni2 pan2
 泥豬	ni2 zhu1
 泥豬瓦狗	ni2 zhu1 wa3 gou3
+泥質	ni2 zhi2
+泥質	ni2 zhi4
+泥質岩	ni2 zhi2 yan2
+泥質岩	ni2 zhi4 yan2
+泥質頁岩	ni2 zhi2 ye4 yan2
+泥質頁岩	ni2 zhi4 ye4 yan2
 泥足巨人	ni2 zu2 ju4 ren2
 泥酒	ni4 jiu3
 泥醉	ni2 zui4
@@ -75574,6 +75661,8 @@ min_phrase_weight: 100
 海水浴場	hai3 shui3 yu4 chang2
 海水難量	hai3 shui3 nan2 liang2
 海泡石	hai3 pao1 shi2
+海洋地質	hai3 yang2 di4 zhi2
+海洋地質	hai3 yang2 di4 zhi4
 海洋溫差發電	hai3 yang2 wen1 cha1 fa1 dian4
 海洋溫度	hai3 yang2 wen1 du4
 海洋牧場	hai3 yang2 mu4 chang2
@@ -77800,6 +77889,16 @@ min_phrase_weight: 100
 物種起源	wu4 zhong3 qi3 yuan2
 物累	wu4 lei3
 物資供應	wu4 zi1 gong1 ying4
+物質不滅	wu4 zhi2 bu2 mie4
+物質不滅	wu4 zhi4 bu2 mie4
+物質不滅定律	wu4 zhi2 bu2 mie4 ding4 lv4
+物質不滅定律	wu4 zhi4 bu2 mie4 ding4 lv4
+物質不滅律	wu4 zhi2 bu2 mie4 lv4
+物質不滅律	wu4 zhi4 bu2 mie4 lv4
+物質刺激	wu4 zhi2 ci4 ji1
+物質刺激	wu4 zhi4 ci4 ji1
+物質力量	wu4 zhi2 li4 liang4
+物質力量	wu4 zhi4 li4 liang4
 牲口	sheng1 kou3
 牲口	sheng1 kou5
 牲畜	sheng1 chu4
@@ -78305,6 +78404,8 @@ min_phrase_weight: 100
 玻璃絲	bo1 li5 si1
 玻璃絲襪	bo1 li5 si1 wa4
 玻璃纖維	bo1 li5 xian1 wei2
+玻璃質肥料	bo1 li5 zhi2 fei2 liao4
+玻璃質肥料	bo1 li5 zhi4 fei2 liao4
 玻璃鋼	bo1 li5 gang1
 玻璃體	bo1 li5 ti3
 玻色子	bo1 se4 zi5
@@ -78456,8 +78557,12 @@ min_phrase_weight: 100
 璞玉爲石	pu2 yu4 wei2 shi2
 璧還	bi4 huan2
 環伺	huan2 si4
+環境地質學	huan2 jing4 di4 zhi2 xue2
+環境地質學	huan2 jing4 di4 zhi4 xue2
 環境溫度	huan2 jing4 wen1 du4
 環境行動主義	huan2 jing4 xing2 dong4 zhu3 yi4
+環境質量	huan2 jing4 zhi2 liang4
+環境質量	huan2 jing4 zhi4 liang4
 環境重災區	huan2 jing4 zhong4 zai1 qu1
 環太平洋地震帶	huan2 tai4 ping2 yang2 di4 zhen4 dai4
 環形結構	huan2 xing2 jie2 gou4
@@ -78625,6 +78730,8 @@ min_phrase_weight: 100
 生活態度	sheng1 huo2 tai4 du4
 生活教育	sheng1 huo2 jiao4 yu4
 生活空間	sheng1 huo2 kong1 jian1
+生活質量	sheng1 huo2 zhi2 liang4
+生活質量	sheng1 huo2 zhi4 liang4
 生煞煞	sheng1 sha4 sha4
 生物倫琴當量	sheng1 wu4 lun2 qin2 dang1 liang4
 生物傳感器	sheng1 wu4 chuan2 gan3 qi4
@@ -78673,6 +78780,8 @@ min_phrase_weight: 100
 產供銷	chan3 gong1 xiao1
 產假	chan3 jia4
 產品結構	chan3 pin3 jie2 gou4
+產品質量	chan3 pin3 zhi2 liang4
+產品質量	chan3 pin3 zhi4 liang4
 產地	chan3 di4
 產地價格	chan3 di4 jia4 ge2
 產地證	chan3 di4 zheng4
@@ -79078,6 +79187,8 @@ min_phrase_weight: 100
 當雄縣	dang1 xiong2 xian4
 當面	dang1 mian4
 當面唾罵	dang1 mian4 tuo4 ma4
+當面對質	dang1 mian4 dui4 zhi2
+當面對質	dang1 mian4 dui4 zhi4
 當面銀子對面錢	dang1 mian4 yin2 zi5 dui4 mian4 qian2
 當面錯過	dang1 mian4 cuo4 guo4
 當面鑼	dang1 mian4 luo2
@@ -80985,6 +81096,8 @@ min_phrase_weight: 100
 矽藻	xi4 zao3
 矽藻土	xi4 zao3 tu3
 矽谷	xi4 gu3
+矽質岩	xi4 zhi2 yan2
+矽質岩	xi4 zhi4 yan2
 矽酸	xi4 suan1
 矽酸鹽	xi4 suan1 yan2
 矽鋼	xi4 gang1
@@ -82071,6 +82184,8 @@ min_phrase_weight: 100
 空氣調節	kong1 qi4 tiao2 jie2
 空氣調節機	kong1 qi4 tiao2 jie2 ji1
 空氣警報	kong1 qi4 jing3 bao4
+空氣質量	kong1 qi4 zhi2 liang4
+空氣質量	kong1 qi4 zhi4 liang4
 空氣軸承	kong1 qi4 zhou2 cheng2
 空氣錘	kong1 qi4 chui2
 空氣鎗	kong1 qi4 qiang1
@@ -83116,6 +83231,10 @@ min_phrase_weight: 100
 素行	su4 xing4
 素行不良	su4 xing4 bu4 liang2
 素識	su4 shi4
+素質差	su4 zhi2 cha4
+素質差	su4 zhi4 cha4
+素質教育	su4 zhi2 jiao4 yu4
+素質教育	su4 zhi4 jiao4 yu4
 素隱行怪	su4 yin3 xing4 guai4
 素面朝天	su4 mian4 chao2 tian1
 素馨	su4 xing1
@@ -84243,6 +84362,10 @@ min_phrase_weight: 100
 美噸	mei3 dun4
 美國國家航天航空局	mei3 guo2 guo2 jia1 hang2 tian1 hang2 kong1 ju2
 美國國家航空航天局	mei3 guo2 guo2 jia1 hang2 kong1 hang2 tian1 ju2
+美國地質局	mei3 guo2 di4 zhi2 ju2
+美國地質局	mei3 guo2 di4 zhi4 ju2
+美國地質調查局	mei3 guo2 di4 zhi2 diao4 cha2 ju2
+美國地質調查局	mei3 guo2 di4 zhi4 diao4 cha2 ju2
 美國聯邦航空局	mei3 guo2 lian2 bang1 hang2 kong1 ju2
 美國聯邦調查局	mei3 guo2 lian2 bang1 diao4 cha2 ju2
 美國航空	mei3 guo2 hang2 kong1
@@ -85542,6 +85665,8 @@ min_phrase_weight: 100
 臨淵結網	lin2 yuan1 jie2 wang3
 臨淵羨魚不如退而結網	lin2 yuan1 xian4 yu2 bu4 ru2 tui4 er2 jie2 wang3
 臨滄地區	lin2 cang1 di4 qu1
+臨界質量	lin2 jie4 zhi2 liang4
+臨界質量	lin2 jie4 zhi4 liang4
 臨行	lin2 xing2
 臨財苟得	lin2 cai2 gou3 de2
 臨陣磨槍	lin2 zhen4 mo2 qiang1
@@ -86177,6 +86302,8 @@ min_phrase_weight: 100
 芝麻餅	zhi1 ma5 bing3
 芟落	shan1 luo4
 芥子園畫傳	jie4 zi3 yuan2 hua4 zhuan4
+芥子氣惡病質	jie4 zi3 qi4 e4 bing4 zhi2
+芥子氣惡病質	jie4 zi3 qi4 e4 bing4 zhi4
 芥子氣水疱	jie4 zi3 qi4 shui3 pao4
 芥末	jie4 mo4
 芥末	jie4 mo5
@@ -86211,6 +86338,8 @@ min_phrase_weight: 100
 花奶奶	hua1 nai3 nai5
 花子	hua1 zi5
 花崗岩	hua1 gang1 yan2
+花崗岩質層	hua1 gang1 yan2 zhi2 ceng2
+花崗岩質層	hua1 gang1 yan2 zhi4 ceng2
 花崗石	hua1 gang1 shi2
 花巾着目	hua1 jin1 zhuo2 mu4
 花息	hua1 xi2
@@ -86625,6 +86754,8 @@ min_phrase_weight: 100
 菌蓋	jun4 gai4
 菌血症	jun4 xie3 zheng4
 菌褶	jun4 zhe2
+菌質	jun4 zhi2
+菌質	jun4 zhi4
 菌陳蒿	jun1 chen2 hao1
 菌類培養液	jun4 lei4 pei2 yang3 ye4
 菖鮋	chang1 you2
@@ -88756,6 +88887,8 @@ min_phrase_weight: 100
 表露	biao3 lu4
 表面上	biao3 mian4 shang5
 表面工夫	biao3 mian4 gong1 fu5
+表面質量	biao3 mian4 zhi2 liang4
+表面質量	biao3 mian4 zhi4 liang4
 衩衣	cha4 yi1
 衫子	shan1 zi5
 衯衯	fen1 fen1
@@ -89144,6 +89277,8 @@ min_phrase_weight: 100
 要褭	yao1 niao3
 要誓	yao1 shi4
 要買	yao1 mai3
+要質	yao1 zhi2
+要質	yao1 zhi4
 要離	yao1 li2
 要雨得雨	yao4 yu3 de2 yu3
 要面子	yao4 mian4 zi5
@@ -90076,6 +90211,8 @@ min_phrase_weight: 100
 調護	tiao2 hu4
 調貼	tiao2 tie1
 調資	tiao2 zi1
+調質	diao4 zhi2
+調質	diao4 zhi4
 調賽	diao4 sai4
 調赴	diao4 fu4
 調車場	diao4 che1 chang3
@@ -90398,6 +90535,8 @@ min_phrase_weight: 100
 變種	bian4 zhong3
 變聲期	bian4 sheng1 qi2
 變調	bian4 diao4
+變質處理	bian4 zhi2 chu3 li3
+變質處理	bian4 zhi4 chu3 li3
 變跡埋名	bian4 ji1 mai2 ming2
 變速傳動	bian4 su4 chuan2 dong4
 變量	bian4 liang4
@@ -90886,29 +91025,80 @@ min_phrase_weight: 100
 賦與	fu4 yu3
 賦間	fu4 jian1
 賦食行水	fu4 shi2 xing2 shui3
+質和量	zhi2 he2 liang4
+質和量	zhi4 he2 liang4
 質因數	zhi2 yin1 shu4
 質因數	zhi4 yin1 shu4
 質地	zhi2 di4
 質地	zhi4 di4
-質子	zhi2 zi3
-質子	zhi4 zi3
+質子數	zhi2 zi3 shu4
 質子數	zhi4 zi3 shu4
+質庫	zhi4 ku4
+質押	zhi4 ya1
 質數	zhi2 shu4
 質數	zhi4 shu4
-質當	zhi2 dang4
+質朴	zhi2 pu2
+質朴	zhi4 pu2
+質樸	zhi2 pu2
+質樸	zhi4 pu2
+質權	zhi4 quan2
 質當	zhi4 dang4
 質疑問難	zhi2 yi2 wen4 nan4
 質疑問難	zhi4 yi2 wen4 nan4
 質的	zhi2 di4
 質的	zhi4 di4
+質監	zhi2 jian1
+質監	zhi4 jian1
+質監局	zhi2 jian1 ju2
+質監局	zhi4 jian1 ju2
 質能不滅定律	zhi2 neng2 bu2 mie4 ding4 lv4
 質能不滅定律	zhi4 neng2 bu2 mie4 ding4 lv4
+質要	zhi4 yao1
 質量	zhi2 liang4
 質量	zhi4 liang4
+質量不滅	zhi2 liang4 bu2 mie4
+質量不滅	zhi4 liang4 bu2 mie4
+質量不滅定律	zhi2 liang4 bu2 mie4 ding4 lv4
+質量不滅定律	zhi4 liang4 bu2 mie4 ding4 lv4
+質量保證	zhi2 liang4 bao3 zheng4
+質量保證	zhi4 liang4 bao3 zheng4
 質量保障	zhi2 liang4 bao3 zhang4
 質量保障	zhi4 liang4 bao3 zhang4
+質量問題	zhi2 liang4 wen4 ti2
+質量問題	zhi4 liang4 wen4 ti2
+質量好	zhi2 liang4 hao3
+質量好	zhi4 liang4 hao3
+質量守恆	zhi2 liang4 shou3 heng2
+質量守恆	zhi4 liang4 shou3 heng2
+質量安全	zhi2 liang4 an1 quan2
+質量安全	zhi4 liang4 an1 quan2
+質量差	zhi2 liang4 cha4
+質量差	zhi4 liang4 cha4
+質量指標	zhi2 liang4 zhi3 biao1
+質量指標	zhi4 liang4 zhi3 biao1
+質量控制	zhi2 liang4 kong4 zhi4
+質量控制	zhi4 liang4 kong4 zhi4
 質量數	zhi2 liang4 shu4
 質量數	zhi4 liang4 shu4
+質量標準	zhi2 liang4 biao1 zhun3
+質量標準	zhi4 liang4 biao1 zhun3
+質量檢查	zhi2 liang4 jian3 cha2
+質量檢查	zhi4 liang4 jian3 cha2
+質量檢測	zhi2 liang4 jian3 ce4
+質量檢測	zhi4 liang4 jian3 ce4
+質量檢驗	zhi2 liang4 jian3 yan4
+質量檢驗	zhi4 liang4 jian3 yan4
+質量比	zhi2 liang4 bi3
+質量比	zhi4 liang4 bi3
+質量監督	zhi2 liang4 jian1 du1
+質量監督	zhi4 liang4 jian1 du1
+質量管理	zhi2 liang4 guan3 li3
+質量管理	zhi4 liang4 guan3 li3
+質量規範	zhi2 liang4 gui1 fan4
+質量規範	zhi4 liang4 gui1 fan4
+質量關	zhi2 liang4 guan1
+質量關	zhi4 liang4 guan1
+質鋪	zhi4 pu4
 質難	zhi2 nan4
 質難	zhi4 nan4
 賬房先生	zhang4 fang2 xian1 sheng5
@@ -92841,6 +93031,8 @@ min_phrase_weight: 100
 遺傳工程	yi2 chuan2 gong1 cheng2
 遺傳性	yi2 chuan2 xing4
 遺傳性疾病	yi2 chuan2 xing4 ji2 bing4
+遺傳物質	yi2 chuan2 wu4 zhi2
+遺傳物質	yi2 chuan2 wu4 zhi4
 遺傳病	yi2 chuan2 bing4
 遺少	yi2 shao4
 遺尿	yi2 niao4
@@ -93639,6 +93831,8 @@ min_phrase_weight: 100
 重資	zhong4 zi1
 重賞	zhong4 shang3
 重賞之下	zhong4 shang3 zhi1 xia4
+重質不重量	zhong4 zhi2 bu2 zhong4 liang4
+重質不重量	zhong4 zhi4 bu2 zhong4 liang4
 重質原油	zhong4 zhi2 yuan2 you2
 重質原油	zhong4 zhi4 yuan2 you2
 重赴鹿鳴	chong2 fu4 lu4 ming2
@@ -95010,6 +95204,8 @@ min_phrase_weight: 100
 間充	jian1 chong1
 間充質	jian1 chong1 zhi2
 間充質	jian1 chong1 zhi4
+間充質幹細胞	jian1 chong1 zhi2 gan4 xi4 bao1
+間充質幹細胞	jian1 chong1 zhi4 gan4 xi4 bao1
 間入	jian4 ru4
 間出	jian4 chu1
 間別	jian4 bie2
