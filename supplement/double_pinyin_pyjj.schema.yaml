@@ -3,13 +3,13 @@
 
 schema:
   schema_id: double_pinyin_pyjj
-  name: 拼音加加雙拼
+  name: 拼音加加双拼
   version: "0.03"
   author:
     - 佛振 <chen.sst@gmail.com>
     - Ye Zhou
   description: |
-    朙月拼音＋拼音加加雙拼方案。
+    朙月拼音＋拼音加加双拼方案。
   dependencies:
     - stroke
 
@@ -20,7 +20,8 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: simplification
-    states: [ 漢字, 汉字 ]
+    reset: 1
+    states: [ 汉字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
 
@@ -131,7 +132,7 @@ reverse_lookup:
   enable_completion: true
   prefix: "`"
   suffix: "'"
-  tips: 〔筆畫〕
+  tips: 〔笔画〕
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
   comment_format:
