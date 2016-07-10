@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2016.06.12"
+version: "2016.07.10"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -74695,7 +74695,8 @@ min_phrase_weight: 100
 沐猴冠冕	mu4 hou2 guan4 mian3
 沐猴衣冠	mu4 hou2 yi1 guan1
 沒一頓飯的工夫	mei2 yi2 dun4 fan4 de5 gong1 fu5
-沒下	mo4 xia4
+沒下	mei2 xia4
+沒下	mo4 xia4	1%
 沒不煞	mo4 bu4 sha1
 沒世	mo4 shi4
 沒世不忘	mo4 shi4 bu2 wang4
@@ -74709,7 +74710,8 @@ min_phrase_weight: 100
 沒亂殺	mo4 luan4 sha1
 沒亂煞	mo4 luan4 sha1
 沒亂裏	mo4 luan4 li3
-沒了	mo4 le5
+沒了	mei2 le5
+沒了	mo4 le5	1%
 沒了主意	mei2 le5 zhu3 yi5
 沒了期	mei2 liao3 qi2
 沒了當	mei2 liao3 dang4
@@ -74718,7 +74720,7 @@ min_phrase_weight: 100
 沒事兒	mei2 shi4 r5
 沒事哏	mei2 shi4 hen1
 沒人	mei2 ren2
-沒人	mo4 ren2
+沒人	mo4 ren2	1%
 沒人味兒	mei2 ren2 wei4 r5
 沒人當你是啞吧	mei2 ren2 dang4 ni3 shi4 ya3 ba5
 沒人處	mei2 ren2 chu4
@@ -74761,6 +74763,7 @@ min_phrase_weight: 100
 沒嚼頭	mei2 jue2 tou5
 沒圈子跳	mei2 quan1 zi5 tiao4
 沒地	mei2 de5
+沒地	mei2 di4
 沒地	mo4 di4
 沒地裏巡檢	mei2 di4 li3 xun2 jian3
 沒地里	mei2 de5 li3
@@ -74802,6 +74805,7 @@ min_phrase_weight: 100
 沒撻煞	mei2 ta4 sha4
 沒擔當	mei2 dan1 dang1
 沒擺佈處	mei2 bai3 bu4 chu4
+沒收	mei2 shou1	5%
 沒收	mo4 shou1
 沒收煞	mei2 shou1 sha4
 沒散場	mei2 san4 chang2
@@ -74827,7 +74831,8 @@ min_phrase_weight: 100
 沒正經	mei2 zheng4 jing5
 沒正經的事	mei2 zheng4 jing5 de5 shi4
 沒死以聞	mo4 si3 yi3 wen2
-沒水	mo4 shui3
+沒水	mei2 shui3
+沒水	mo4 shui3	5%
 沒沒	mo4 mo4
 沒沒無聞	mo4 mo4 wu2 wen2
 沒法子	mei2 fa2 zi5
