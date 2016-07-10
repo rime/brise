@@ -28535,8 +28535,9 @@ min_phrase_weight: 100
 阿	e1	10%
 陀	tuo2
 陁	tuo2
-陂	pi2	50%
-陂	po1	50%
+陂	bei1
+陂	pi2
+陂	po1	5%
 陃	bing3
 附	fu4
 际	ji4
@@ -54784,7 +54785,6 @@ min_phrase_weight: 100
 千鈞重負	qian1 jun1 zhong4 fu4
 千難萬險	qian1 nan2 wan4 xian3
 千難萬難	qian1 nan2 wan4 nan2
-千頃陂	qian1 qing3 pi2
 升空	sheng1 kong1
 升結腸	sheng1 jie2 chang2
 升調	sheng1 diao4
@@ -76676,7 +76676,6 @@ min_phrase_weight: 100
 澤深恩重	ze2 shen1 en1 zhong4
 澤當	ze2 dang1
 澤當鎮	ze2 dang1 zhen4
-澤陂	ze2 pi2
 澳大利亞首都特區	ao4 da4 li4 ya3 shou3 du1 te4 qu1
 澳大利亞首都特區	ao4 da4 li4 ya4 shou3 du1 te4 qu1
 澳門國際機場	ao4 men2 guo2 ji4 ji1 chang3
@@ -77007,7 +77006,6 @@ min_phrase_weight: 100
 無例不興	wu2 li4 bu4 xing1
 無倒斷	wu2 dao4 duan4
 無倽	wu2 sha2
-無偏無陂	wu2 pian1 wu2 pi2
 無做作	wu2 zuo4 zuo5
 無分軒輊	wu2 fen1 xuan1 zhi4
 無千帶數	wu2 qian1 dai4 shu4
@@ -95917,8 +95915,6 @@ min_phrase_weight: 100
 阿黨	e1 dang3
 阿鼻	a1 bi2
 阿鼻地獄	a1 bi2 di4 yu4
-陂塘	pi2 tang2
-陂池	pi2 chi2
 陂陀	po1 tuo2
 附加成分	fu4 jia1 cheng2 fen4
 附和	fu4 he4
