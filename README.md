@@ -106,7 +106,7 @@ Credits
 We are grateful to the makers of the following open source projects:
 
   - [Android Pinyin IME](https://source.android.com/) (Apache 2.0)
-  - [Chewing / 新酷音](http://chewing.im/) (GPL)
+  - [Chewing / 新酷音](http://chewing.im/) (LGPL)
   - [ibus-table](https://github.com/acevery/ibus-table) (LGPL)
   - [OpenCC / 開放中文轉換](https://github.com/BYVoid/OpenCC) (Apache 2.0)
   - [moedict / 萌典](https://www.moedict.tw) (CC0 1.0)
