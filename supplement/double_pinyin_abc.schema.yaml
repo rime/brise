@@ -2,13 +2,13 @@
 # encoding: utf-8
 
 schema:
-  schema_id: double_pinyin_abc  # 專有的方案標識
-  name: 智能ABC雙拼
+  schema_id: double_pinyin_abc  # 专有的方案标识
+  name: 智能ABC双拼
   version: "0.17"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
-    朙月拼音＋智能ABC雙拼方案。
+    朙月拼音＋智能ABC双拼方案。
   dependencies:
     - stroke
 
@@ -19,7 +19,8 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: simplification
-    states: [ 漢字, 汉字 ]
+    reset: 1
+    states: [ 汉字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
 
@@ -48,18 +49,18 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba  # 呃，倒背字母表完全是個人喜好
-  delimiter: " '"  # 隔音符號用「'」；第一位的空白用來自動插入到音節邊界處
-  algebra:  # 拼寫運算規則，這個纔是實現雙拼方案的重點。寫法有很多種，當然也可以把四百多個音節碼一條一條地列舉
-    - erase/^xx$/             # 碼表中有幾個拼音不明的字，編碼成xx了，消滅他
+  alphabet: zyxwvutsrqponmlkjihgfedcba  # 呃，倒背字母表完全是个人喜好
+  delimiter: " '"  # 隔音符号用「'」；第一位的空白用来自动插入到音节边界处
+  algebra:  # 拼写运算规则，这个才是实现双拼方案的重点。写法有很多种，当然也可以把四百多个音节码一条一条地列举
+    - erase/^xx$/             # 码表中有几个拼音不明的字，编码成xx了，消灭他
     - derive/^([jqxy])u$/$1v/
-    - xform/^zh/A/            # 替換聲母鍵，用大寫以防與原有的字母混淆
+    - xform/^zh/A/            # 替换声母键，用大写以防与原有的字母混淆
     - xform/^ch/E/
     - xform/^sh/V/
-    - xform/^([aoe].*)$/O$1/  # 添上固定的零聲母o，先標記爲大寫O
-    - xform/ei$/Q/            # 替換韻母鍵
+    - xform/^([aoe].*)$/O$1/  # 添上固定的零声母o，先标记为大写O
+    - xform/ei$/Q/            # 替换韵母键
     - xform/ian$/W/           # ※2
-    - xform/er$|iu$/R/        # 對應兩種韻母的；音節er現在變爲OR了
+    - xform/er$|iu$/R/        # 对应两种韵母的；音节er现在变为OR了
     - xform/[iu]ang$/T/       # ※1
     - xform/ing$/Y/
     - xform/uo$/O/
@@ -68,31 +69,31 @@ speller:
     - xform/[iu]a$/D/
     - xform/en$/F/
     - xform/eng$/G/
-    - xform/ang$/H/           # 檢查一下在此之前是否已轉換過了帶界音的ang；好，※1處有了
-    - xform/an$/J/            # 如果※2、※3還無有出現在上文中，應該把他們提到本行之前
-    - xform/iao$/Z/           # 對——像這樣讓iao提前出場
+    - xform/ang$/H/           # 检查一下在此之前是否已转换过了带界音的ang；好，※1处有了
+    - xform/an$/J/            # 如果※2、※3还无有出现在上文中，应该把他们提到本行之前
+    - xform/iao$/Z/           # 对——像这样让iao提前出场
     - xform/ao$/K/
-    - xform/in$|uai$/C/       # 讓uai提前出場
+    - xform/in$|uai$/C/       # 让uai提前出场
     - xform/ai$/L/
     - xform/ie$/X/
     - xform/ou$/B/
     - xform/un$/N/
     - xform/[uv]e$|ui$/M/
-    - xlit/QWERTYOPASDFGHJKLZXCVBNM/qwertyopasdfghjklzxcvbnm/  # 最後把雙拼碼全部變小寫
+    - xlit/QWERTYOPASDFGHJKLZXCVBNM/qwertyopasdfghjklzxcvbnm/  # 最后把双拼码全部变小写
 
 translator:
-  dictionary: luna_pinyin     # 與【朙月拼音】共用詞典
-  prism: double_pinyin_abc    # prism 要以本輸入方案的名稱來命名，以免把朙月拼音的拼寫映射表覆蓋掉
-  preedit_format:             # 這段代碼用來將輸入的雙拼碼反轉爲全拼顯示；待見雙拼碼的可以把這段拿掉
-    - xform/o(\w)/0$1/        # 零聲母先改爲0，以方便後面的轉換
-    - xform/(\w)q/$1ei/       # 雙拼第二碼轉換爲韻母
-    - xform/(\w)n/$1un/       # 提前轉換雙拼碼 n 和 g，因爲轉換後的拼音裏就快要出現這兩個字母了，那時將難以分辨出雙拼碼
-    - xform/(\w)g/$1eng/      # 當然也可以採取事先將雙拼碼變爲大寫的辦法來與轉換過的拼音做區分，可誰讓我是高手呢
+  dictionary: luna_pinyin     # 与【朙月拼音】共用词典
+  prism: double_pinyin_abc    # prism 要以本输入方案的名称来命名，以免把朙月拼音的拼写映射表复盖掉
+  preedit_format:             # 这段代码用来将输入的双拼码反转为全拼显示；待见双拼码的可以把这段拿掉
+    - xform/o(\w)/0$1/        # 零声母先改为0，以方便后面的转换
+    - xform/(\w)q/$1ei/       # 双拼第二码转换为韵母
+    - xform/(\w)n/$1un/       # 提前转换双拼码 n 和 g，因为转换后的拼音里就快要出现这两个字母了，那时将难以分辨出双拼码
+    - xform/(\w)g/$1eng/      # 当然也可以采取事先将双拼码变为大写的办法来与转换过的拼音做区分，可谁让我是高手呢
     - xform/(\w)w/$1ian/
-    - xform/([dtnljqx])r/$1iu/  # 對應多種韻母的雙拼碼，按搭配的聲母做區分（最好別用排除式如 [^o]r 容易出狀況）
-    - xform/0r/0er/             # 另一種情況，注意先不消除0，以防後面把e當作聲母轉換爲ch
+    - xform/([dtnljqx])r/$1iu/  # 对应多种韵母的双拼码，按搭配的声母做区分（最好别用排除式如 [^o]r 容易出状况）
+    - xform/0r/0er/             # 另一种情况，注意先不消除0，以防后面把e当作声母转换为ch
     - xform/([nljqx])t/$1iang/
-    - xform/(\w)t/$1uang/       # 上一行已經把對應到 iang 的雙拼碼 t 消滅，於是這裏不用再列舉相配的聲母
+    - xform/(\w)t/$1uang/       # 上一行已经把对应到 iang 的双拼码 t 消灭，于是这里不用再列举相配的声母
     - xform/(\w)y/$1ing/
     - xform/([dtnlgkhaevrzcs])o/$1uo/
     - xform/(\w)p/$1uan/
@@ -103,7 +104,7 @@ translator:
     - xform/(\w)f/$1en/
     - xform/(\w)h/$1ang/
     - xform/(\w)j/$1an/
-    - xform/(\w)k/$1ao/       # 默默檢查：雙拼碼 o 已經轉換過了
+    - xform/(\w)k/$1ao/       # 默默检查：双拼码 o 已经转换过了
     - xform/(\w)l/$1ai/
     - xform/(\w)z/$1iao/
     - xform/(\w)x/$1ie/
@@ -113,11 +114,11 @@ translator:
     - xform/([nl])m/$1ve/
     - xform/([jqxy])m/$1ue/
     - xform/(\w)m/$1ui/
-    - "xform/(^|[ '])a/$1zh/"  # 復原聲母，音節開始處的雙拼字母a改寫爲zh；其他位置的才真正是a
+    - "xform/(^|[ '])a/$1zh/"  # 复原声母，音节开始处的双拼字母a改写为zh；其他位置的才真正是a
     - "xform/(^|[ '])e/$1ch/"
     - "xform/(^|[ '])v/$1sh/"
-    - xform/0(\w)/$1/          # 好了，現在可以把零聲母拿掉啦
-    - xform/([nl])v/$1ü/       # 這樣纔是漢語拼音 :-)
+    - xform/0(\w)/$1/          # 好了，现在可以把零声母拿掉啦
+    - xform/([nl])v/$1ü/       # 这样才是汉语拼音 :-)
     - xform/([jqxy])v/$1u/
 
 reverse_lookup:
@@ -125,7 +126,7 @@ reverse_lookup:
   enable_completion: true
   prefix: "`"
   suffix: "'"
-  tips: 〔筆畫〕
+  tips: 〔笔画〕
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
   comment_format:
