@@ -27,7 +27,7 @@ switcher:
   option_list_separator: '／'
 
 menu:
-  page_size: 5
+  page_size: 10
 
 punctuator:
   full_shape:
@@ -152,3 +152,6 @@ ascii_composer:
     Control_R: noop
     Caps_Lock: clear
     Eisu_toggle: clear
+
+patch:
+  style/color_scheme: azure
