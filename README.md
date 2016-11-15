@@ -17,18 +17,15 @@ Please refer to their respective LICENSE files.
 
 Contents
 ===
-This software package is a collection of data files used by
-[Rime](http://rime.im) to support various Chinese input methods, including
-those based on modern dialects or historical diasystems of the Chinese language.
+This software is a collection of data packages used by [Rime](http://rime.im)
+to support various Chinese input methods, including those based on modern
+dialects or historical diasystems of the Chinese language.
 
 A **Rime input schema** defines a specific input method in Rime's DSL.
 It consists of a configuration file named `*.schema.yaml` where `*` is the
 schema ID, and an optional**Rime dictionary** file named `*.dict.yaml`.
 
-Input Schema Packages
-===
-
-Phonetic-based Input Methods
+Phonetic-based input methods
 ---
 Modern Standard Madarin
 
@@ -53,7 +50,7 @@ Middle Chinese
 
   - `middle-chinese`: 中古漢語拼音 / Middle Chinese
 
-Shape-based Input Methods
+Shape-based input methods
 ---
 
   - `stroke`: 五筆畫 / five strokes
@@ -63,15 +60,11 @@ Shape-based Input Methods
   - `array`: 行列輸入法
   - `scj`: 快速倉頡
 
-Miscelaneous
+Miscelaneous schema packages
 ---
 
-  - `emoji`: input emoji with English or Chinese Pinyin keyboards
+  - `emoji`: 繪文字 / input emoji with English or Chinese Pinyin keywords
   - `ipa_xsampa`: input IPA using [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA)
-
-Pull requests are welcome for anything notable that hasn't been included here,
-but you'll be responsible for providing data files along with an open-source
-license because licensing will be rigidly scrutinized by downstream packagers.
 
 The Prelude Package
 ---
@@ -82,7 +75,7 @@ The Prelude Package
 Essay
 ---
 
-  - `essay.txt`: a shared vocabulary and language model
+  - `essay.txt`: 八股文 / a shared vocabulary and language model
 
 Install
 ===
@@ -117,7 +110,7 @@ We are grateful to the makers of the following open source projects:
   - [moedict / 萌典](https://www.moedict.tw) (CC0 1.0)
   - [Rime 翰林院 / Rime Academy](https://github.com/rime-aca) (GPLv3)
 
-Also to the inventors of the following Chinese input methods:
+Also to the inventors of the following input methods:
 
   - Cangjie / 倉頡輸入法 by 朱邦復
   - Array input method / 行列輸入法 by 廖明德
@@ -127,11 +120,13 @@ Also to the inventors of the following Chinese input methods:
 
 Contributors
 ===
-I may have missed someone.
-See the `AUTHORS` file for a complete list of authors and their works.
+The repository is a result of collective effort. It was set up by the following
+people by contributing files, patches and pull-requests. See also the
+[contributors](https://github.com/rime/brise/graphs/contributors) page for a
+list of open-source collaborators.
 
   - [佛振](https://github.com/lotem)
-  - [瑾昀](https://github.com/kunki)
+  - [Kunki Chou](https://github.com/kunki)
   - [雪齋](https://github.com/LEOYoon-Tsaw)
   - [Patrick Tschang](https://github.com/Patricivs)
   - [Joseph J.C. Tang](https://github.com/jinntrance)
@@ -144,3 +139,10 @@ See the `AUTHORS` file for a complete list of authors and their works.
   - 四季的風
   - 上海閒話abc
   - 吳語越音
+
+Contributing
+===
+Pull requests are welcome for established, open-source input methods that
+haven't been included in the repository. Thank you!
+But you'll be responsible for providing source files along with an open-source
+license because licensing will be rigidly scrutinized by downstream packagers.
