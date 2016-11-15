@@ -40,13 +40,11 @@ all:
 	rime_deployer --build $(OUTPUT)
 
 install:
-	@echo "installing rime data into '$(DESTDIR)$(RIME_DATA_DIR)'."
+	@echo "installing rime data to '$(DESTDIR)$(RIME_DATA_DIR)'."
 	@install -d $(DESTDIR)$(RIME_DATA_DIR)
 	@install -m 644 $(OUTPUT)/*.* $(DESTDIR)$(RIME_DATA_DIR)
-	@install -d $(DESTDIR)$(RIME_DATA_DIR)/opencc
-	@install -m 644 $(OUTPUT)/opencc/*.* $(DESTDIR)$(RIME_DATA_DIR)/opencc
 
 clean:
-	rm -rf output > /dev/null 2>&1 || true
+	rm -rf $(OUTPUT) > /dev/null 2>&1 || true
 
 .PHONY: all install clean

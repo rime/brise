@@ -6,97 +6,102 @@ Rime schema repository
 
 Project home
 ---
-[rime.github.io](http://rime.github.io)
+[rime.im](http://rime.im)
 
 License
 ---
 GPLv3
 
+Individual packages in this collection can be released under different licenses.
+Please refer to their respective LICENSE files.
+
 Contents
 ===
-This software package contains a collection of configuration and data files
-used by [Rime](http://rime.github.io) to support popular Chinese input methods.
+This software package is a collection of data files used by
+[Rime](http://rime.im) to support various Chinese input methods, including
+those based on modern dialects or historical diasystems of the Chinese language.
 
-A Rime input schema, which defines a specific input method in Rime's DSL,
-consists of a schema file named `*.schema.yaml` where `*` is the schema ID,
-and optionally an affiliated Rime dictionary file `*.dict.yaml`.
-In the following lists of Rime schemata, only schema IDs are listed for brevity.
+A **Rime input schema** defines a specific input method in Rime's DSL.
+It consists of a configuration file named `*.schema.yaml` where `*` is the
+schema ID, and an optional**Rime dictionary** file named `*.dict.yaml`.
 
-General
+Input Schema Packages
+===
+
+Phonetic-based Input Methods
 ---
-  - default.yaml: Rime default settings
-  - symbols.yaml: punctuation and special characters
-  - essay.txt: a shared vocabulary and language model
+Modern Standard Madarin
 
-Preset schemata
----
+  - `luna_pinyin`: 朙月拼音 / Pinyin in Tranditional Chinese
+  - `terra_pinyin`: 地球拼音 / School-taught Pinyin, with tone marks
+  - `bopomofo`: 注音 / Zhuyin (aka. Bopomofo)
+  - `pinyin_simp`: 袖珍簡化字拼音 / Pinyin in Simplified Chinese
 
-Input methods that are fundamental, or prevalent in a region.
+Derivatives of Pinyin
 
-  - bopomofo: Zhuyin (aka. Bopomofo) standard layout
-  - cangjie5
-  - luna_pinyin: Pinyin in Tranditional Chinese
-  - stroke: five strokes represented by "hspnz"
-  - terra_pinyin: Pinyin with tones
+  - `double_pinyin`: 雙拼 / Double Pinyin (ZiRanMa, ABC, flyPY, MSPY, PYJJ variants)
+  - `combo_pinyin`: 宮保拼音 / Chord-typing Pinyin
+  - `stenotype`: 打字速記法 / a stenographic system derived from ABC Easy Shorthand
 
-Supplemental schemata
----
+Other modern varieties of Chinese
 
-Including input methods that are widely used and those who implement major
-modern dialects or historical diasystems. Less popular input methods with
-small dictionaries or without independent dictionaries are also included.
+  - `jyutping`: 粵拼 / Cantonese
+  - `wugniu`: 上海吳語 / Wu (Shanghainese)
+  - `soutzoe`: 蘇州吳語 / Wu (Suzhounese)
 
-  - combo_pinyin: Chord-typing Pinyin
-  - double_pinyin: ZiRanMa, ABC, flyPY, MSPY, PYJJ variants
-  - emoji
-  - ipa_xsampa: IPA symbols in X-SAMPA encoding
-  - jyutping: Cantonese
-  - pinyin_simp: Pinyin in Simplified Chinese
-  - quick5: Simplified Cangjie 5
-  - sampheng: Middle Chinese in 3-key shorthand
-  - wubi86
-  - wugniu: Wu (Shanghainese)
-  - zyenpheng: Middle Chinese Pinyin
+Middle Chinese
 
-Extra schemata
+  - `middle-chinese`: 中古漢語拼音 / Middle Chinese
+
+Shape-based Input Methods
 ---
 
-Established input methods used by a minority, and evolving new inventions,
-are included in the source package but are not to be installed by default.
+  - `stroke`: 五筆畫 / five strokes
+  - `cangjie`: 倉頡輸入法 / Cangjie input method
+  - `quick`: 速成 / Simplified Cangjie
+  - `wubi`: 五筆字型
+  - `array`: 行列輸入法
+  - `scj`: 快速倉頡
 
-  - array30
-  - scj6
-  - soutzoe: Wu (Suzhounese)
-  - stenotype: a stenographic system derived from ABC Easy Shorthand
+Miscelaneous
+---
+
+  - `emoji`: input emoji with English or Chinese Pinyin keyboards
+  - `ipa_xsampa`: input IPA using [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA)
 
 Pull requests are welcome for anything notable that hasn't been included here,
 but you'll be responsible for providing data files along with an open-source
 license because licensing will be rigidly scrutinized by downstream packagers.
 
-OpenCC configurations
+The Prelude Package
 ---
 
-[OpenCC](https://github.com/BYVoid/OpenCC) is used by many of the above input
-methods for conversion to Simplified/Traditional Chinese or other variant forms.
-As of OpenCC 1.0.2, some of the configurations used by brise are missing.
-We provide those configuration files under `opencc/` as a backup, until they
-become widely available via future versions of downstream OpenCC packages.
+  - `default.yaml`: Rime's default settings
+  - `symbols.yaml`: punctuation and special characters
+
+Essay
+---
+
+  - `essay.txt`: a shared vocabulary and language model
 
 Install
 ===
 
 Build dependencies
 ---
-  - librime>=1.3 (for rime_deployer)
 
-Runtime dependencies
+- librime>=1.3 (for rime_deployer)
+
+Run-time dependencies
 ---
+
   - librime>=1.3
   - opencc>=1.0.2
 
 Build and install
 ---
-```
+
+```sh
 make
 sudo make install
 ```
@@ -123,7 +128,7 @@ Also to the inventors of the following Chinese input methods:
 Contributors
 ===
 I may have missed someone.
-See the `AUTHORS` file for a more complete list of authors and their works.
+See the `AUTHORS` file for a complete list of authors and their works.
 
   - [佛振](https://github.com/lotem)
   - [瑾昀](https://github.com/kunki)
