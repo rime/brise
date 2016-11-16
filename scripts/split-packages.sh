@@ -53,17 +53,30 @@ rewrite_git_history() {
   git gc --aggressive --prune=now
 }
 
+push_package() {
+  local package="$1"
+  # sync master branch
+  git fetch . ${new_branch}:master
+  # push to GitHub
+  git remote rename origin local
+  git remote add origin https://github.com/rime/${package}.git
+  git fetch origin
+  git push -u origin master
+}
+
 excluded_dirs=':packages:scripts:'
 target_dir="$PWD/packages"
 
 main() {
   mkdir -p "${target_dir}"
+  local package
   for package in *; do
     if [[ -d "${package}" ]] && ! [[ "${excluded_dirs}" =~ ":${package}:" ]]; then
-        package_repo_path="${target_dir}/${package}"
+        local package_repo_path="${target_dir}/${package}"
         git clone "$PWD" "${package_repo_path}"
         pushd "${package_repo_path}"
         rewrite_git_history ${package}
+        push_package ${package}
         popd
     fi
   done
