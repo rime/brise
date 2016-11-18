@@ -23,7 +23,7 @@ dialects or historical diasystems of the Chinese language.
 
 A **Rime input schema** defines a specific input method in Rime's DSL.
 It consists of a configuration file named `*.schema.yaml` where `*` is the
-schema ID, and an optional**Rime dictionary** file named `*.dict.yaml`.
+schema ID, and an optional **Rime dictionary** file named `*.dict.yaml`.
 
 A package may contain one or several interrelated input schemata and their
 affiliated Rime dictionaries.
