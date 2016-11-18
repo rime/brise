@@ -60,7 +60,6 @@ push_package() {
   # push to GitHub
   git remote rename origin local
   git remote add origin https://github.com/rime/rime-${package}.git
-  git fetch origin
   git push -u origin master
 }
 
@@ -72,7 +71,7 @@ main() {
   local package
   for package in *; do
     if [[ -d "${package}" ]] && ! [[ "${excluded_dirs}" =~ ":${package}:" ]]; then
-        local package_repo_path="${target_dir}/${package}"
+        local package_repo_path="${target_dir}/rime-${package}"
         git clone "$PWD" "${package_repo_path}"
         pushd "${package_repo_path}"
         rewrite_git_history ${package}

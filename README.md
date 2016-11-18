@@ -25,19 +25,37 @@ A **Rime input schema** defines a specific input method in Rime's DSL.
 It consists of a configuration file named `*.schema.yaml` where `*` is the
 schema ID, and an optional**Rime dictionary** file named `*.dict.yaml`.
 
+Packages
+===
+
+Files used to implement different input methods are organized into packages.
+
+/* TODO: implement this */
+Basically with `rime-cli` you can
+```sh
+rime install <package-name>
+```
+to add a package to your Rime configuration.
+
+Essentials
+---
+
+  - `prelude`: the prelude package, providing Rime's default settings
+  - `essay`: 八股文 / a shared vocabulary and language model
+
 Phonetic-based input methods
 ---
 Modern Standard Madarin
 
-  - `luna_pinyin`: 朙月拼音 / Pinyin in Tranditional Chinese
-  - `terra_pinyin`: 地球拼音 / School-taught Pinyin, with tone marks
+  - `luna-pinyin`: 朙月拼音 / Pinyin in Tranditional Chinese
+  - `terra-pinyin`: 地球拼音 / School-taught Pinyin, with tone marks
   - `bopomofo`: 注音 / Zhuyin (aka. Bopomofo)
-  - `pinyin_simp`: 袖珍簡化字拼音 / Pinyin in Simplified Chinese
+  - `pinyin-simp`: 袖珍簡化字拼音 / Pinyin in Simplified Chinese
 
 Derivatives of Pinyin
 
-  - `double_pinyin`: 雙拼 / Double Pinyin (ZiRanMa, ABC, flyPY, MSPY, PYJJ variants)
-  - `combo_pinyin`: 宮保拼音 / Chord-typing Pinyin
+  - `double-pinyin`: 雙拼 / Double Pinyin (ZiRanMa, ABC, flyPY, MSPY, PYJJ variants)
+  - `combo-pinyin`: 宮保拼音 / Chord-typing Pinyin
   - `stenotype`: 打字速記法 / a stenographic system derived from ABC Easy Shorthand
 
 Other modern varieties of Chinese
@@ -48,7 +66,7 @@ Other modern varieties of Chinese
 
 Middle Chinese
 
-  - `middle-chinese`: 中古漢語拼音 / Middle Chinese
+  - `zyenpheng`: 中古漢語拼音 / Middle Chinese
 
 Shape-based input methods
 ---
@@ -60,22 +78,11 @@ Shape-based input methods
   - `array`: 行列輸入法
   - `scj`: 快速倉頡
 
-Miscelaneous schema packages
+Miscelaneous
 ---
 
   - `emoji`: 繪文字 / input emoji with English or Chinese Pinyin keywords
-  - `ipa_xsampa`: input IPA using [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA)
-
-The Prelude Package
----
-
-  - `default.yaml`: Rime's default settings
-  - `symbols.yaml`: punctuation and special characters
-
-Essay
----
-
-  - `essay.txt`: 八股文 / a shared vocabulary and language model
+  - `ipa`: 國際音標 / International Phonetic Alphabet
 
 Install
 ===
@@ -83,7 +90,7 @@ Install
 Build dependencies
 ---
 
-- librime>=1.3 (for rime_deployer)
+- librime>=1.3 (for `rime_deployer`)
 
 Run-time dependencies
 ---
