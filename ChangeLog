@@ -1,3 +1,10 @@
+2016-11-18  GONG Chen  <chen.sst@gmail.com>
+
+	* preset, supplement, extra: split into packages, per input method.
+	* default.yaml, symbols.yaml: moved to the prelude package.
+	* essay.txt: moved to a dedicated package.
+	* scripts/split-packages.sh: to split data files into packages.
+
 2014-12-14  GONG Chen  <chen.sst@gmail.com>
 
 	* preset/bopomofo: fix syllabification errors when tones are omitted.
