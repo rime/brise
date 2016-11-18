@@ -59,7 +59,7 @@ push_package() {
   git fetch . ${new_branch}:master
   # push to GitHub
   git remote rename origin local
-  git remote add origin https://github.com/rime/${package}.git
+  git remote add origin https://github.com/rime/rime-${package}.git
   git fetch origin
   git push -u origin master
 }
