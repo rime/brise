@@ -1,0 +1,11 @@
+
+TODO: the rime dictionary has been reworked by 雪齋.
+
+Derived from scim-table-zh : (GPLv2/LGPLv2)
+  jyutping.dict.yaml
+
+Gong Chen <chen.sst@gmail.com> : (LGPLv3)
+  jyutping.schema.yaml
+
+幸延 <a0726h77@gmail.com> : (LGPLv3)
+  yale.schema.yaml

@@ -6,97 +6,102 @@ Rime schema repository
 
 Project home
 ---
-[rime.github.io](http://rime.github.io)
+[rime.im](http://rime.im)
 
 License
 ---
 GPLv3
 
+Individual packages in this collection can be released under different licenses.
+Please refer to their respective LICENSE files.
+
 Contents
 ===
-This software package contains a collection of configuration and data files
-used by [Rime](http://rime.github.io) to support popular Chinese input methods.
+This software is a collection of data packages used by [Rime](http://rime.im)
+to support various Chinese input methods, including those based on modern
+dialects or historical diasystems of the Chinese language.
 
-A Rime input schema, which defines a specific input method in Rime's DSL,
-consists of a schema file named `*.schema.yaml` where `*` is the schema ID,
-and optionally an affiliated Rime dictionary file `*.dict.yaml`.
-In the following lists of Rime schemata, only schema IDs are listed for brevity.
+A **Rime input schema** defines a specific input method in Rime's DSL.
+It consists of a configuration file named `*.schema.yaml` where `*` is the
+schema ID, and an optional**Rime dictionary** file named `*.dict.yaml`.
 
-General
----
-  - default.yaml: Rime default settings
-  - symbols.yaml: punctuation and special characters
-  - essay.txt: a shared vocabulary and language model
+A package may contain one or several interrelated input schemata and their
+affiliated Rime dictionaries.
 
-Preset schemata
----
+Packages
+===
 
-Input methods that are fundamental, or prevalent in a region.
+/* TODO: implement this */ With `rime-cli` you can
+```sh
+rime install <package-name>
+```
+to add a package to your Rime configuration.
 
-  - bopomofo: Zhuyin (aka. Bopomofo) standard layout
-  - cangjie5
-  - luna_pinyin: Pinyin in Tranditional Chinese
-  - stroke: five strokes represented by "hspnz"
-  - terra_pinyin: Pinyin with tones
-
-Supplemental schemata
+Essentials
 ---
 
-Including input methods that are widely used and those who implement major
-modern dialects or historical diasystems. Less popular input methods with
-small dictionaries or without independent dictionaries are also included.
+  - `prelude`: the prelude package, providing Rime's default settings
+  - `essay`: 八股文 / a shared vocabulary and language model
 
-  - combo_pinyin: Chord-typing Pinyin
-  - double_pinyin: ZiRanMa, ABC, flyPY, MSPY, PYJJ variants
-  - emoji
-  - ipa_xsampa: IPA symbols in X-SAMPA encoding
-  - jyutping: Cantonese
-  - pinyin_simp: Pinyin in Simplified Chinese
-  - quick5: Simplified Cangjie 5
-  - sampheng: Middle Chinese in 3-key shorthand
-  - wubi86
-  - wugniu: Wu (Shanghainese)
-  - zyenpheng: Middle Chinese Pinyin
+Phonetic-based input methods
+---
+Modern Standard Madarin
 
-Extra schemata
+  - `luna-pinyin`: 朙月拼音 / Pinyin in Tranditional Chinese
+  - `terra-pinyin`: 地球拼音 / School-taught Pinyin, with tone marks
+  - `bopomofo`: 注音 / Zhuyin (aka. Bopomofo)
+  - `pinyin-simp`: 袖珍簡化字拼音 / Pinyin in Simplified Chinese
+
+Derivatives of Pinyin
+
+  - `double-pinyin`: 雙拼 / Double Pinyin (ZiRanMa, ABC, flyPY, MSPY, PYJJ variants)
+  - `combo-pinyin`: 宮保拼音 / Chord-typing Pinyin
+  - `stenotype`: 打字速記法 / a stenographic system derived from ABC Easy Shorthand
+
+Other modern varieties of Chinese
+
+  - `jyutping`: 粵拼 / Cantonese
+  - `wugniu`: 上海吳語 / Wu (Shanghainese)
+  - `soutzoe`: 蘇州吳語 / Wu (Suzhounese)
+
+Middle Chinese
+
+  - `zyenpheng`: 中古漢語拼音 / Middle Chinese
+
+Shape-based input methods
 ---
 
-Established input methods used by a minority, and evolving new inventions,
-are included in the source package but are not to be installed by default.
+  - `stroke`: 五筆畫 / five strokes
+  - `cangjie`: 倉頡輸入法 / Cangjie input method
+  - `quick`: 速成 / Simplified Cangjie
+  - `wubi`: 五筆字型
+  - `array`: 行列輸入法
+  - `scj`: 快速倉頡
 
-  - array30
-  - scj6
-  - soutzoe: Wu (Suzhounese)
-  - stenotype: a stenographic system derived from ABC Easy Shorthand
-
-Pull requests are welcome for anything notable that hasn't been included here,
-but you'll be responsible for providing data files along with an open-source
-license because licensing will be rigidly scrutinized by downstream packagers.
-
-OpenCC configurations
+Miscelaneous
 ---
 
-[OpenCC](https://github.com/BYVoid/OpenCC) is used by many of the above input
-methods for conversion to Simplified/Traditional Chinese or other variant forms.
-As of OpenCC 1.0.2, some of the configurations used by brise are missing.
-We provide those configuration files under `opencc/` as a backup, until they
-become widely available via future versions of downstream OpenCC packages.
+  - `emoji`: 繪文字 / input emoji with English or Chinese Pinyin keywords
+  - `ipa`: 國際音標 / International Phonetic Alphabet
 
 Install
 ===
 
 Build dependencies
 ---
-  - librime>=1.3 (for rime_deployer)
 
-Runtime dependencies
+- librime>=1.3 (for `rime_deployer`)
+
+Run-time dependencies
 ---
+
   - librime>=1.3
   - opencc>=1.0.2
 
 Build and install
 ---
-```
+
+```sh
 make
 sudo make install
 ```
@@ -106,13 +111,13 @@ Credits
 We are grateful to the makers of the following open source projects:
 
   - [Android Pinyin IME](https://source.android.com/) (Apache 2.0)
-  - [Chewing / 新酷音](http://chewing.im/) (GPL)
+  - [Chewing / 新酷音](http://chewing.im/) (LGPL)
   - [ibus-table](https://github.com/acevery/ibus-table) (LGPL)
   - [OpenCC / 開放中文轉換](https://github.com/BYVoid/OpenCC) (Apache 2.0)
   - [moedict / 萌典](https://www.moedict.tw) (CC0 1.0)
   - [Rime 翰林院 / Rime Academy](https://github.com/rime-aca) (GPLv3)
 
-Also to the inventors of the following Chinese input methods:
+Also to the inventors of the following input methods:
 
   - Cangjie / 倉頡輸入法 by 朱邦復
   - Array input method / 行列輸入法 by 廖明德
@@ -122,11 +127,13 @@ Also to the inventors of the following Chinese input methods:
 
 Contributors
 ===
-I may have missed someone.
-See the `AUTHORS` file for a more complete list of authors and their works.
+The repository is a result of collective effort. It was set up by the following
+people by contributing files, patches and pull-requests. See also the
+[contributors](https://github.com/rime/brise/graphs/contributors) page for a
+list of open-source collaborators.
 
   - [佛振](https://github.com/lotem)
-  - [瑾昀](https://github.com/kunki)
+  - [Kunki Chou](https://github.com/kunki)
   - [雪齋](https://github.com/LEOYoon-Tsaw)
   - [Patrick Tschang](https://github.com/Patricivs)
   - [Joseph J.C. Tang](https://github.com/jinntrance)
@@ -139,3 +146,10 @@ See the `AUTHORS` file for a more complete list of authors and their works.
   - 四季的風
   - 上海閒話abc
   - 吳語越音
+
+Contributing
+===
+Pull requests are welcome for established, open-source input methods that
+haven't been included in the repository. Thank you!
+But you'll be responsible for providing source files along with an open-source
+license because licensing will be rigidly scrutinized by downstream packagers.
