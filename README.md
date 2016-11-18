@@ -25,13 +25,13 @@ A **Rime input schema** defines a specific input method in Rime's DSL.
 It consists of a configuration file named `*.schema.yaml` where `*` is the
 schema ID, and an optional**Rime dictionary** file named `*.dict.yaml`.
 
+A package may contain one or several interrelated input schemata and their
+affiliated Rime dictionaries.
+
 Packages
 ===
 
-Files used to implement different input methods are organized into packages.
-
-/* TODO: implement this */
-Basically with `rime-cli` you can
+/* TODO: implement this */ With `rime-cli` you can
 ```sh
 rime install <package-name>
 ```
