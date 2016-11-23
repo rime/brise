@@ -15,12 +15,13 @@ set -e
 
 select_package() {
     local package="$1"
-    if ! [[ -d "${package}" ]]; then
-        "${script_dir}"/fetch-package.sh "${package}" "${package}"
+    local package_dir="${package##*/}"
+    if ! [[ -d "${package_dir}" ]]; then
+        "${script_dir}"/fetch-package.sh "${package}" "${package_dir}"
     elif [[ -n "$BRISE_UPDATE_PACKAGES" ]]; then
-        (cd "${package}"; git pull)
+        (cd "${package_dir}"; git pull)
     fi
-    local data_files=$(ls "${package}"/*.* | grep -e '\.txt$' -e '\.yaml$')
+    local data_files=$(ls "${package_dir}"/*.* | grep -e '\.txt$' -e '\.yaml$')
     if [[ -z "${data_files}" ]]; then
         exit 1
     fi
