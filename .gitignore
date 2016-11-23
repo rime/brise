@@ -1,3 +1,4 @@
 *~
-essay.kct
-output
+/output/
+/[-_[:alnum:]]*/
+!/scripts/
