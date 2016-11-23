@@ -14,6 +14,9 @@ endif
 
 all preset: clean
 	$(SRCDIR)/scripts/select-packages.sh :$@ $(OUTPUT)
+	@$(MAKE) build
+
+build:
 	rime_deployer --build $(OUTPUT)
 
 install:
@@ -24,4 +27,4 @@ install:
 clean:
 	rm -rf $(OUTPUT) > /dev/null 2>&1 || true
 
-.PHONY: all preset install clean
+.PHONY: all preset build install clean
