@@ -90,6 +90,7 @@ Install
 Build dependencies
 ---
 
+- git
 - librime>=1.3 (for `rime_deployer`)
 
 Run-time dependencies
