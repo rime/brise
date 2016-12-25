@@ -1,0 +1,155 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: tailo
+  name: 台羅
+  version: "0.1"
+  author:
+    - 幸延 <a0726h77@gmail.com>
+  description: |
+    臺灣閩南語羅馬字拼音方案
+  dependencies:
+    - luna_pinyin
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/ # 修正原表格部分字母爲大寫字元
+    - xform/(á|à|â|ā|ǎ|a̍|À)/a/
+    - xform/(é|è|ê|ē|ě|e̍|Ē)/e/
+    - xform/(í|ì|î|ī|ǐ|i̍|i̋)/i/
+    - xform/(ó|ò|ô|ō|ǒ|o̍)/o/
+    - xform/(ú|ù|û|ū|ǔ|u̍|Ū)/u/
+    - xform/(ḿ|m̂|m̄|m̍)/m/
+    - xform/(ń|ǹ|n̂|n̄|ň)/n/
+    - derive/(\<|^)p/b/                                           # 台通
+    - derive/(\<|^)ph/p/                                          # 台通
+    - derive/(\<|^)b/bh/                                          # 台通
+    - derive/(\<|^)t/d/                                           # 台通
+    - derive/(\<|^)th/t/                                          # 台通
+    - derive/(\<|^)k/g/                                           # 台通
+    - derive/(\<|^)kh/k/                                          # 台通
+    - derive/(\<|^)g/gh/                                          # 台通
+    - derive/(\<|^)tsi/zi/                                        # 台通
+    - derive/(\<|^)ts/z/                                          # 台通
+    - derive/(\<|^)tsh/c/                                         # 台通
+    - derive/(\<|^)j/r/                                           # 台通
+    - derive/o(\>|$)/or/                                          # 台通
+    - derive/ian(\>|$)/en/                                        # 台通
+    - derive/(\<|^)ts/z/                                          # 閩拼
+    - derive/(\<|^)j/z/                                           # 閩拼
+    - derive/([aeiou])([hkpt])/$1/                                # 懶音 (六 七 八 鴨 肉)
+    - derive/(\<|^)tsh/ts/                                        # 懶音 七 tshit -> tsi
+    - derive/ing(\>|$)/in/                                        # 懶音 眼 ging -> gin
+    - derive/(\<|^)i/y/                                           # 容錯 勇 iong -> yong
+    - derive/(\<|^)i/yi/                                          # 容錯 應 ìng -> ying
+    - derive/(\<|^)o/wo/                                          # 容錯 王 ong -> wong
+    - derive/(\<|^)ue(\>|$)/we/                                   # 容錯 話 ue -> we
+    - derive/(\<|^)ng/g/                                          # 容錯 五 ngoo -> go
+    - derive/(\<|^)ts/j/                                          # 容錯 這 tse -> je
+    - derive/(\<|^)ts/c/                                          # 容錯 請 tshing -> ching
+    - derive/(\<|^)ts/ch/                                         # 容錯 查 tsa -> cha
+    - derive/(\<|^)l/r/                                           # 容錯 而 li -> ri
+    - derive/(\<|^)l/n/                                           # 容錯 難 lan -> nan
+    - derive/(\<|^)b/m/                                           # 容錯 名 bing -> ming
+    - derive/(\<|^)ph/b/                                          # 容錯 並 phing -> bing
+    - derive/(\<|^)n/l/                                           # 容錯 兩 nng -> leng
+    - derive/(\<|^)h/f/                                           # 容錯 粉 hun -> fun
+    - derive/(\<|^)h/y/                                           # 容錯 魚 hi -> yi
+    - derive/(\<|^)u/w/                                           # 容錯 丸 uan -> wan 位 ui -> wi
+    - derive/(\<|^)g/y/                                           # 容錯 驗 giam -> yiam
+    - derive/(\<|^)gu/wu/                                         # 容錯 阮 gun -> wun
+    - derive/nn(\>|$)/n/                                          # 容錯 邊 pinn -> bin
+    - derive/nn(\>|$)/ng/                                         # 容錯 平 pînn -> ping
+    - derive/au(\>|$)/ou/                                         # 容錯 豆 tau -> dou
+    - derive/au(\>|$)/ao/                                         # 容錯 包 pau -> bau
+    - derive/iok(\>|$)/o/                                         # 容錯 雀 tshiok -> cho
+    - derive/iat(\>|$)/ei/                                        # 容錯 熱 liat -> lei
+    - derive/ian(\>|$)/an/                                        # 容錯 顯 hian -> han
+    - derive/iap(\>|$)/a/                                         # 容錯 業 giap -> ya
+    - derive/go(\>|$)/o/                                          # 容錯 五 goo -> go
+    - derive/ong(\>|$)/ung/                                       # 容錯 用 iong -> yung
+    - derive/e(\>|$)/ei/                                          # 容錯 地 te -> dei
+    - derive/ue(\>|$)/ui/                                         # 容錯 火 hue -> hui
+    - derive/ue(\>|$)/e/                                          # 容錯 雞 kue -> ge
+    - derive/n/en/                                                # 容錯 兩 nng -> leng 門 mng -> meng
+    - derive/g(\>|$)//                                            # 容錯 飯 png -> ben
+    - derive/o(\>|$)/ou/                                          # 容錯 導 do -> dou
+    - derive/o(\>|$)/ao/                                          # 容錯 靠 kho -> kao
+    - derive/nn(\>|$)//                                           # 容錯 天 thinn -> ti
+    - derive/(\<|^)g//                                            # 容錯 礙 gai -> ai
+    - derive/u(\>|$)/v/                                           # 容錯 女 lu -> lv
+    - derive/m(\>|$)/n/                                           # 容錯 心 sim -> sin
+    - derive/n(\>|$)/m/                                           # 容錯 鱔 sian -> siam
+    - derive/oo/o/                                                # 容錯 初 tshoo -> cho
+    - abbrev/^([ptk]h).+$/$1/                                     # 聲母簡拼
+    - abbrev/^(ng).+$/$1/                                         # 聲母簡拼
+    - abbrev/^(tsh).+$/$1/                                        # 聲母簡拼
+    - abbrev/^(ts).+$/$1/                                         # 聲母簡拼
+    - abbrev/^([a-z]).+$/$1/                                      # 首字母簡拼
+    - xform/([0-9])//
+
+translator:
+  dictionary: tailo
+  spelling_hints: 5
+  comment_format:
+    - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
+    - xform/([0-9])//
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
