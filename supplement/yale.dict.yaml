@@ -1,0 +1,26106 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Jyutping - 粵拼
+#
+#   derived from scim-table-zh Jyutping table.
+#   add phrases from open Cantonese dictionary: http://kaifangcidian.com/han/yue
+
+---
+name: yale
+version: "2013.12.07"
+sort: by_weight
+use_preset_vocabulary: true
+max_phrase_length: 7
+min_phrase_weight: 100
+...
+
+呀	a
+吖	a	10000
+啊	a
+阿	a
+亞	a
+鴉	a
+啞	a
+丫	a
+扼	a
+嗄	a
+氬	a
+婭	a
+錒	a
+錏	a
+掗	a
+厂	a
+厊	a
+唉	aai
+哎	aai
+挨	aai	1000
+隘	aai
+欸	aai
+誒	aai
+嗌	aai	1000
+餲	aai
+呃	aak	1000
+齷	aak
+軛	aak
+軶	aak
+菡	aam
+啱	aam
+晏	aan	1000
+鴳	aan
+鷃	aan
+罌	aang
+甖	aang
+甇	aang
+鴨	aap
+押	aap
+壓	aat
+押	aat
+桔	aat
+遏	aat
+揠	aat
+戛	aat
+頞	aat
+堨	aat
+齃	aat
+恝	aat
+閼	aat
+凹	aau
+拗	aau
+坳	aau
+靿	aau
+矮	ai
+翳	ai
+縊	ai
+曀	ai
+嫕	ai
+屭	ai
+豷	ai
+嗌	ai
+喔	ak
+握	ak
+呃	ak	1000
+厄	ak
+扼	ak
+渥	ak
+幄	ak
+阨	ak
+偓	ak
+餩	ak
+腛	ak
+暗	am
+掩	am
+黯	am
+闇	am
+諳	am
+庵	am
+盦	am
+唵	am
+菴	am
+鵪	am
+啽	am
+黭	am
+噷	am
+韽	am
+垵	am
+更	ang
+鶯	ang
+哽	ang	1000
+嚶	ang
+鞥	ang
+罃	ang
+洽	ap
+啽	ap
+扤	at
+區	au
+歐	au
+鷗	au
+嘔	au
+毆	au
+謳	au
+甌	au
+慪	au
+漚	au
+櫙	au
+吧	ba
+把	ba
+巴	ba
+罷	ba
+伯	ba
+爸	ba
+霸	ba
+叭	ba
+芭	ba
+疤	ba
+靶	ba
+壩	ba
+笆	ba
+葩	ba
+豝	ba
+粑	ba
+鈀	ba
+灞	ba
+弝	ba
+敗	baai
+拜	baai
+擺	baai
+憊	baai
+尸	baai
+湃	baai
+唄	baai
+稗	baai
+襬	baai
+捭	baai
+粺	baai
+北	baak
+白	baak
+百	baak
+伯	baak
+迫	baak
+柏	baak
+蔔	baak
+佰	baak
+舶	baak
+帛	baak
+匐	baak
+檗	baak
+菔	baak
+僰	baak
+踣	baak
+版	baan
+辦	baan
+板	baan
+班	baan
+闆	baan
+扮	baan
+斑	baan
+頒	baan
+阪	baan
+鈑	baan
+爿	baan
+舨	baan
+昄	baan
+魬	baan
+瘢	baan
+斒	baan
+蝂	baan
+湴	baan
+蹦	baang
+八	baat
+捌	baat
+魃	baat
+茇	baat
+包	baau
+爆	baau
+砲	baau
+胞	baau
+飽	baau
+豹	baau
+鮑	baau
+苞	baau
+孢	baau
+齙	baau
+閉	bai
+幣	bai
+敝	bai
+弊	bai
+斃	bai
+蔽	bai
+跛	bai
+贔	bai
+陛	bai
+薜	bai
+狴	bai
+箅	bai
+粺	bai
+鎞	bai
+梐	bai
+鄨	bai
+獘	bai
+北	bak
+乓	bam
+泵	bam
+品	ban
+笨	ban
+彬	ban
+奔	ban
+賓	ban
+斌	ban
+濱	ban
+檳	ban
+繽	ban
+稟	ban
+瀕	ban
+鬢	ban
+儐	ban
+殯	ban
+賁	ban
+臏	ban
+玢	ban
+鑌	ban
+豳	ban
+邠	ban
+擯	ban
+坌	ban
+蠙	ban
+坋	ban
+髕	ban
+攽	ban
+錛	ban
+崩	bang
+繃	bang
+甭	bang
+痭	bang
+鉼	bang
+弸	bang
+祊	bang
+不	bat
+畢	bat
+筆	bat
+拔	bat
+嗶	bat
+跋	bat
+弼	bat
+鈸	bat
+篳	bat
+苾	bat
+犮	bat
+蓽	bat
+蹕	bat
+飶	bat
+咇	bat
+潷	bat
+彃	bat
+鼥	bat
+冹	bat
+縪	bat
+吥	bau
+啤	be
+比	bei
+被	bei
+畀	bei	10000
+俾	bei
+備	bei
+悲	bei
+避	bei
+彼	bei
+秘	bei
+鼻	bei
+祕	bei
+臂	bei
+卑	bei
+碑	bei
+憊	bei
+泌	bei
+匕	bei
+庇	bei
+痺	bei
+屄	bei
+賁	bei
+裨	bei
+陂	bei
+痹	bei
+庳	bei
+轡	bei
+鞞	bei
+妣	bei
+羆	bei
+椑	bei
+鵯	bei
+閟	bei
+髲	bei
+秕	bei
+箅	bei
+骳	bei
+疕	bei
+邲	bei
+髀	bei
+岥	bei
+篦	bei
+柲	bei
+毖	bei
+詖	bei
+潷	bei
+奰	bei
+沘	bei
+坒	bei
+萆	bei
+蓖	bei
+鞁	bei
+笓	bei
+駜	bei
+芘	bei
+糒	bei
+病	beng
+餅	beng
+柄	beng
+碧	bik
+逼	bik
+壁	bik
+璧	bik
+辟	bik
+愎	bik
+皕	bik
+偪	bik
+綼	bik
+憵	bik
+腷	bik
+湢	bik
+變	bin
+便	bin
+邊	bin
+扁	bin
+辯	bin
+辨	bin
+鞭	bin
+貶	bin
+蝙	bin
+辮	bin
+釆	bin
+卞	bin
+匾	bin
+胼	bin
+弁	bin
+褊	bin
+碥	bin
+惼	bin
+窆	bin
+閞	bin
+砭	bin
+汴	bin
+煸	bin
+籩	bin
+忭	bin
+抃	bin
+箯	bin
+稨	bin
+犿	bin
+猵	bin
+甂	bin
+並	bing
+兵	bing
+病	bing
+冰	bing
+餅	bing
+丙	bing
+併	bing
+并	bing
+秉	bing
+炳	bing
+柄	bing
+摒	bing
+乒	bing
+迸	bing
+絣	bing
+邴	bing
+鉼	bing
+寎	bing
+別	bit
+必	bit
+秘	bit
+鱉	bit
+憋	bit
+彆	bit
+癟	bit
+鉍	bit
+珌	bit
+覕	bit
+鷩	bit
+觱	bit
+表	biu
+標	biu
+飆	biu
+錶	biu
+婊	biu
+鏢	biu
+彪	biu
+鑣	biu
+裱	biu
+滮	biu
+俵	biu
+膘	biu
+儦	biu
+穮	biu
+麃	biu
+熛	biu
+驫	biu
+猋	biu
+瀌	biu
+臕	biu
+瘭	biu
+藨	biu
+髟	biu
+波	bo
+播	bo
+噃	bo	1000
+坡	bo
+玻	bo
+跛	bo
+菠	bo
+啵	bo
+簸	bo
+陃	bo
+嶓	bo
+碆	bo
+博	bok
+薄	bok
+泊	bok
+駁	bok
+剝	bok
+縛	bok
+魄	bok
+搏	bok
+箔	bok
+舶	bok
+膊	bok
+亳	bok
+礡	bok
+雹	bok
+壆	bok
+鉑	bok
+謈	bok
+胉	bok
+髆	bok
+駮	bok
+鑮	bok
+嚗	bok
+欂	bok
+鎛	bok
+濼	bok
+嶨	bok
+餺	bok
+瓝	bok
+簙	bok
+並	bong
+幫	bong
+榜	bong
+邦	bong
+膀	bong
+綁	bong
+傍	bong
+磅	bong
+梆	bong
+鎊	bong
+蒡	bong
+牓	bong
+搒	bong
+縍	bong
+部	bou
+報	bou
+保	bou
+步	bou
+寶	bou
+補	bou
+抱	bou
+暴	bou
+布	bou
+佈	bou
+捕	bou
+怖	bou
+堡	bou
+埔	bou
+簿	bou
+埠	bou
+哺	bou
+褒	bou
+葆	bou
+圃	bou
+褓	bou
+晡	bou
+鴇	bou
+逋	bou
+鈽	bou
+煲	bou
+餔	bou
+菢	bou
+蔀	bou
+虣	bou
+篰	bou
+鯆	bou
+媬	bou
+儤	bou
+缹	bou
+背	bui
+輩	bui
+貝	bui
+杯	bui
+盃	bui
+揹	bui
+鋇	bui
+狽	bui
+悖	bui
+焙	bui
+邶	bui
+褙	bui
+浿	bui
+桮	bui
+誖	bui
+卜	buk
+僕	buk
+曝	buk
+瀑	buk
+蹼	buk
+濮	buk
+襮	buk
+鏷	buk
+纀	buk
+醭	buk
+襆	buk
+轐	buk
+本	bun
+般	bun
+半	bun
+伴	bun
+胖	bun
+搬	bun
+叛	bun
+畔	bun
+絆	bun
+拌	bun
+苯	bun
+畚	bun
+籓	bun
+搫	bun
+柈	bun
+牉	bun
+埲	bung
+菶	bung
+撥	but
+勃	but
+脖	but
+缽	but
+渤	but
+砵	but
+孛	but
+桲	but
+餑	but
+蹳	but
+荸	but
+鵓	but
+浡	but
+軷	but
+胈	but
+綍	but
+鋍	but
+襏	but
+哱	but
+鱍	but
+差	cha
+查	cha
+茶	cha
+叉	cha
+釵	cha
+岔	cha
+碴	cha
+詫	cha
+喳	cha
+奼	cha
+衩	cha
+秅	cha
+搽	cha
+碪	cha
+汊	cha
+嗏	cha
+槎	cha
+欻	cha
+艖	cha
+杈	cha
+侘	cha
+扠	cha
+垞	cha
+差	chaai
+猜	chaai
+柴	chaai
+釵	chaai
+儕	chaai
+搓	chaai
+踹	chaai
+豺	chaai
+嘬	chaai
+蜡	chaai
+瘥	chaai
+蠆	chaai
+囆	chaai
+策	chaak
+冊	chaak
+拆	chaak
+賊	chaak
+柵	chaak
+茦	chaak
+坼	chaak
+筴	chaak
+簎	chaak
+蠈	chaak
+參	chaam
+慘	chaam
+杉	chaam
+蠶	chaam
+慚	chaam
+懺	chaam
+摻	chaam
+驂	chaam
+饞	chaam
+攙	chaam
+讒	chaam
+篸	chaam
+憯	chaam
+噆	chaam
+黲	chaam
+棖	chaam
+巉	chaam
+欃	chaam
+鑱	chaam
+磛	chaam
+劖	chaam
+忏	chaam
+瀺	chaam
+嚵	chaam
+儳	chaam
+毚	chaam
+產	chaan
+餐	chaan
+殘	chaan
+鏟	chaan
+剷	chaan
+璨	chaan
+粲	chaan
+孱	chaan
+棖	chaan
+滻	chaan
+僝	chaan
+丳	chaan
+撐	chaang
+橙	chaang
+傖	chaang
+橕	chaang
+棖	chaang
+插	chaap
+臿	chaap
+鍤	chaap
+察	chaat
+刷	chaat
+擦	chaat
+剎	chaat
+獺	chaat
+唰	chaat
+嚓	chaat
+礤	chaat
+吵	chaau
+抄	chaau
+炒	chaau
+巢	chaau
+鈔	chaau
+剿	chaau
+肏	chaau
+摷	chaau
+漅	chaau
+鄛	chaau
+耖	chaau
+轈	chaau
+切	chai
+齊	chai
+妻	chai
+淒	chai
+棲	chai
+砌	chai
+悽	chai
+鮆	chai
+萋	chai
+凄	chai
+沏	chai
+栖	chai
+傺	chai
+蠐	chai
+薺	chai
+嚌	chai
+艩	chai
+郪	chai
+搋	chai
+鱭	chai
+測	chak
+惻	chak
+尋	cham
+沉	cham
+沈	cham
+寢	cham
+侵	cham
+蕁	cham
+讖	cham
+寑	cham
+蕈	cham
+鱘	cham
+駸	cham
+唚	cham
+潯	cham
+梫	cham
+磣	cham
+綅	cham
+燖	cham
+鬵	cham
+噚	cham
+踸	cham
+撏	cham
+鄩	cham
+陳	chan
+親	chan
+塵	chan
+趁	chan
+燦	chan
+診	chan
+襯	chan
+瞋	chan
+嗔	chan
+哂	chan
+櫬	chan
+殄	chan
+捵	chan
+羼	chan
+抻	chan
+矧	chan
+蔯	chan
+儭	chan
+眕	chan
+紾	chan
+袗	chan
+疢	chan
+齔	chan
+螴	chan
+紖	chan
+瀙	chan
+嚫	chan
+曾	chang
+層	chang
+鐺	chang
+鄫	chang
+嶒	chang
+輯	chap
+緝	chap
+戢	chap
+葺	chap
+咠	chap
+濈	chap
+蕺	chap
+七	chat
+漆	chat
+柒	chat
+秋	chau
+抽	chau
+籌	chau
+臭	chau
+醜	chau
+仇	chau
+湊	chau
+酬	chau
+丑	chau
+囚	chau
+糗	chau
+疇	chau
+惆	chau
+酋	chau
+躊	chau
+勦	chau
+嗅	chau
+稠	chau
+綢	chau
+鰍	chau
+鞦	chau
+儔	chau
+萩	chau
+瞅	chau
+泅	chau
+讎	chau
+鶖	chau
+溴	chau
+楸	chau
+遒	chau
+幬	chau
+搊	chau
+輳	chau
+緧	chau
+蝤	chau
+瘳	chau
+紬	chau
+煍	chau
+篘	chau
+詶	chau
+裯	chau
+腠	chau
+雔	chau
+犨	chau
+偢	chau
+揫	chau
+車	che
+且	che
+邪	che
+扯	che
+斜	che
+奢	che
+硨	che
+奲	che
+灺	che
+抯	che
+輋	che
+撦	che
+唓	che
+尺	chek
+赤	chek
+呎	chek
+請	cheng
+青	cheng
+取	cheui
+除	cheui
+推	cheui
+趣	cheui
+隨	cheui
+吹	cheui
+徐	cheui
+脆	cheui
+趨	cheui
+催	cheui
+翠	cheui
+衰	cheui
+摧	cheui
+娶	cheui
+廚	cheui
+崔	cheui
+鎚	cheui
+揣	cheui
+椎	cheui
+炊	cheui
+捶	cheui
+槌	cheui
+璀	cheui
+蜍	cheui
+錘	cheui
+隋	cheui
+搥	cheui
+覷	cheui
+啐	cheui
+淬	cheui
+綷	cheui
+漼	cheui
+磪	cheui
+倅	cheui
+箠	cheui
+毳	cheui
+諈	cheui
+焠	cheui
+厜	cheui
+篨	cheui
+菙	cheui
+竁	cheui
+縗	cheui
+膬	cheui
+陏	cheui
+趍	cheui
+榱	cheui
+棰	cheui
+趡	cheui
+桌	cheuk
+卓	cheuk
+綽	cheuk
+戳	cheuk
+鵲	cheuk
+勺	cheuk
+倬	cheuk
+焯	cheuk
+婼	cheuk
+趠	cheuk
+潟	cheuk
+逴	cheuk
+踔	cheuk
+春	cheun
+秦	cheun
+巡	cheun
+循	cheun
+蠢	cheun
+旬	cheun
+馴	cheun
+椿	cheun
+螓	cheun
+鰆	cheun
+惷	cheun
+紃	cheun
+橁	cheun
+輴	cheun
+揗	cheun
+踳	cheun
+長	cheung
+場	cheung
+唱	cheung
+詳	cheung
+窗	cheung
+昌	cheung
+翔	cheung
+槍	cheung
+搶	cheung
+祥	cheung
+牆	cheung
+暢	cheung
+腸	cheung
+償	cheung
+鏘	cheung
+倡	cheung
+悵	cheung
+薔	cheung
+嗆	cheung
+猖	cheung
+庠	cheung
+鎗	cheung
+娼	cheung
+戕	cheung
+爿	cheung
+囪	cheung
+蹌	cheung
+錩	cheung
+倀	cheung
+鯧	cheung
+熗	cheung
+菖	cheung
+瑲	cheung
+檣	cheung
+嬙	cheung
+閶	cheung
+斨	cheung
+戧	cheung
+廧	cheung
+磢	cheung
+墻	cheung
+萇	cheung
+鼚	cheung
+鬯	cheung
+韔	cheung
+蹡	cheung
+出	cheut
+齣	cheut
+焌	cheut
+此	chi
+次	chi
+持	chi
+似	chi
+始	chi
+詞	chi
+磁	chi
+癡	chi
+刺	chi
+池	chi
+慈	chi
+賜	chi
+遲	chi
+辭	chi
+恥	chi
+痴	chi
+齒	chi
+翅	chi
+廁	chi
+匙	chi
+馳	chi
+矢	chi
+疵	chi
+恃	chi
+幟	chi
+瓷	chi
+嗤	chi
+祠	chi
+恣	chi
+雌	chi
+侈	chi
+熾	chi
+柿	chi
+臍	chi
+弛	chi
+啻	chi
+姒	chi
+坻	chi
+哆	chi
+豕	chi
+哧	chi
+茨	chi
+庛	chi
+魑	chi
+汜	chi
+褫	chi
+鴟	chi
+蚩	chi
+踟	chi
+茬	chi
+笞	chi
+墀	chi
+茈	chi
+朿	chi
+莿	chi
+蚳	chi
+泚	chi
+玼	chi
+郗	chi
+篪	chi
+骴	chi
+迉	chi
+絺	chi
+儩	chi
+泜	chi
+佌	chi
+茌	chi
+鶿	chi
+佽	chi
+眵	chi
+瓻	chi
+杝	chi
+箎	chi
+饎	chi
+欼	chi
+絘	chi
+滍	chi
+懥	chi
+黐	chi
+搋	chi
+跐	chi
+螭	chi
+胵	chi
+餈	chi
+薋	chi
+箈	chi
+媸	chi
+赤	chik
+斥	chik
+戚	chik
+敕	chik
+叱	chik
+螫	chik
+槭	chik
+慼	chik
+彳	chik
+飭	chik
+鶒	chik
+鏚	chik
+嘁	chik
+摵	chik
+栻	chik
+磩	chik
+鷘	chik
+鼜	chik
+簽	chim
+潛	chim
+籤	chim
+纖	chim
+殲	chim
+塹	chim
+諂	chim
+暹	chim
+憸	chim
+僭	chim
+孅	chim
+薟	chim
+僉	chim
+鋟	chim
+瀸	chim
+灊	chim
+銛	chim
+槧	chim
+襳	chim
+前	chin
+錢	chin
+千	chin
+淺	chin
+闡	chin
+遷	chin
+纏	chin
+踐	chin
+仟	chin
+韆	chin
+芊	chin
+阡	chin
+扦	chin
+媊	chin
+儃	chin
+囅	chin
+廛	chin
+幝	chin
+蕆	chin
+瀍	chin
+驏	chin
+躔	chin
+請	ching
+情	ching
+清	ching
+程	ching
+稱	ching
+青	ching
+晴	ching
+秤	ching
+呈	ching
+澄	ching
+懲	ching
+拯	ching
+逞	ching
+騁	ching
+蜻	ching
+埕	ching
+氰	ching
+裎	ching
+掅	ching
+檉	ching
+酲	ching
+靘	ching
+鯖	ching
+蟶	ching
+圊	ching
+赬	ching
+偁	ching
+珵	ching
+澂	ching
+竀	ching
+餳	ching
+鼱	ching
+脀	ching
+妾	chip
+唼	chip
+踥	chip
+設	chit
+切	chit
+徹	chit
+撤	chit
+澈	chit
+轍	chit
+踅	chit
+掣	chit	1000
+屮	chit
+硩	chit
+超	chiu
+朝	chiu
+昭	chiu
+潮	chiu
+瞧	chiu
+悄	chiu
+肖	chiu
+樵	chiu
+俏	chiu
+憔	chiu
+釗	chiu
+鞘	chiu
+峭	chiu
+譙	chiu
+鍬	chiu
+誚	chiu
+晁	chiu
+愀	chiu
+劁	chiu
+繰	chiu
+幧	chiu
+弨	chiu
+錯	cho
+初	cho
+楚	cho
+坐	cho
+礎	cho
+挫	cho
+雛	cho
+磋	cho
+搓	cho
+蹉	cho
+芻	cho
+鋤	cho
+矬	cho
+銼	cho
+濋	cho
+剉	cho
+懆	cho
+嵯	cho
+脞	cho
+痤	cho
+耡	cho
+傞	cho
+瑳	cho
+瘥	cho
+艖	cho
+鹺	cho
+鉏	cho
+剒	cho
+喿	cho
+蓌	cho
+鶵	cho
+醝	cho
+才	choi
+賽	choi
+彩	choi
+蔡	choi
+材	choi
+採	choi
+財	choi
+菜	choi
+塞	choi
+裁	choi
+采	choi
+踩	choi
+睬	choi
+綵	choi
+纔	choi
+啋	choi
+寀	choi
+埰	choi
+茞	choi
+跴	choi
+廠	chong
+創	chong
+藏	chong
+蒼	chong
+床	chong
+滄	chong
+倉	chong
+闖	chong
+敞	chong
+昶	chong
+艙	chong
+瘡	chong
+愴	chong
+幢	chong
+傖	chong
+氅	chong
+鶬	chong
+刱	chong
+凔	chong
+惝	chong
+草	chou
+操	chou
+粗	chou
+措	chou
+曹	chou
+槽	chou
+噪	chou
+燥	chou
+醋	chou
+躁	chou
+糙	chou
+厝	chou
+艸	chou
+嘈	chou
+譟	chou
+酢	chou
+麤	chou
+漕	chou
+殂	chou
+慥	chou
+徂	chou
+螬	chou
+艚	chou
+趮	chou
+騲	chou
+鰽	chou
+觕	chou
+速	chuk
+束	chuk
+觸	chuk
+促	chuk
+蓄	chuk
+畜	chuk
+矗	chuk
+簇	chuk
+齪	chuk
+蹴	chuk
+蹙	chuk
+簌	chuk
+亍	chuk
+触	chuk
+搐	chuk
+鄐	chuk
+涑	chuk
+蔌	chuk
+餗	chuk
+觫	chuk
+歜	chuk
+蔟	chuk
+遫	chuk
+俶	chuk
+瘯	chuk
+顣	chuk
+滀	chuk
+踧	chuk
+墫	chun
+壿	chun
+重	chung
+從	chung
+充	chung
+松	chung
+衝	chung
+蟲	chung
+聰	chung
+沖	chung
+虫	chung
+匆	chung
+衷	chung
+叢	chung
+寵	chung
+蔥	chung
+憧	chung
+琮	chung
+塚	chung
+璁	chung
+銃	chung
+忡	chung
+涌	chung
+淙	chung
+囪	chung
+冢	chung
+潀	chung
+樅	chung
+罿	chung
+賨	chung
+揰	chung
+驄	chung
+蓯	chung
+藂	chung
+鏦	chung
+瑽	chung
+茺	chung
+翀	chung
+處	chyu
+除	chyu
+署	chyu
+儲	chyu
+佇	chyu
+柱	chyu
+廚	chyu
+曙	chyu
+褚	chyu
+櫥	chyu
+躇	chyu
+蜍	chyu
+杵	chyu
+貯	chyu
+苧	chyu
+楮	chyu
+躕	chyu
+杼	chyu
+幮	chyu
+宁	chyu
+羜	chyu
+紵	chyu
+滁	chyu
+砫	chyu
+全	chyun
+傳	chyun
+存	chyun
+穿	chyun
+村	chyun
+川	chyun
+串	chyun
+泉	chyun
+寸	chyun
+吋	chyun
+詮	chyun
+喘	chyun
+蹲	chyun
+竄	chyun
+揣	chyun
+銓	chyun
+痊	chyun
+攢	chyun
+荃	chyun
+釧	chyun
+忖	chyun
+筌	chyun
+醛	chyun
+惴	chyun
+鱒	chyun
+遄	chyun
+舛	chyun
+椽	chyun
+牷	chyun
+荈	chyun
+玔	chyun
+鉆	chyun
+佺	chyun
+攛	chyun
+躥	chyun
+譐	chyun
+欑	chyun
+歂	chyun
+爨	chyun
+刌	chyun
+氚	chyun
+跧	chyun
+輇	chyun
+圌	chyun
+卒	chyut
+撮	chyut
+猝	chyut
+踤	chyut
+捽	chyut
+打	da
+大	daai
+帶	daai
+呆	daai
+戴	daai
+歹	daai
+獃	daai
+蹛	daai
+傣	daai
+軑	daai
+釱	daai
+汏	daai
+擔	daam
+淡	daam
+膽	daam
+耽	daam
+氮	daam
+澹	daam
+萏	daam
+眈	daam
+啖	daam
+噉	daam	1000
+啗	daam
+酖	daam
+黕	daam
+聃	daam
+黵	daam
+儋	daam
+禫	daam
+甔	daam
+窞	daam
+紞	daam
+但	daan
+單	daan
+彈	daan
+蛋	daan
+誕	daan
+旦	daan
+丹	daan
+憚	daan
+簞	daan
+鄲	daan
+襌	daan
+殫	daan
+鉭	daan
+撣	daan
+狚	daan
+蜑	daan
+癉	daan
+匰	daan
+僤	daan
+勯	daan
+答	daap
+搭	daap
+踏	daap
+蹋	daap
+瘩	daap
+沓	daap
+褡	daap
+遝	daap
+荅	daap
+鞳	daap
+耷	daap
+傝	daap
+鎝	daap
+畣	daap
+匒	daap
+龘	daap
+嚃	daap
+錔	daap
+達	daat
+妲	daat
+鐽	daat
+噠	daat
+躂	daat
+靼	daat
+撻	daat
+怛	daat
+繨	daat
+笪	daat
+呾	daat
+薘	daat
+提	dai
+第	dai
+弟	dai
+底	dai
+低	dai
+帝	dai
+抵	dai	1000
+遞	dai
+蒂	dai
+締	dai
+逮	dai
+諦	dai
+隸	dai
+娣	dai
+砥	dai
+牴	dai
+詆	dai
+棣	dai
+悌	dai
+坻	dai
+邸	dai
+氐	dai
+胝	dai
+柢	dai
+渧	dai
+袛	dai
+杕	dai
+笫	dai
+羝	dai
+觝	dai
+磾	dai
+遰	dai
+蝃	dai
+禘	dai
+鷤	dai
+碲	dai
+弤	dai
+埭	dai
+墆	dai
+鞮	dai
+蔕	dai
+螮	dai
+得	dak
+特	dak
+德	dak
+淂	dak
+咑	dak
+犆	dak
+沊	dam
+抌	dam	1000
+髧	dam
+燉	dan
+墩	dan
+礅	dan
+躉	dan
+炖	dan
+等	dang
+登	dang
+燈	dang
+鄧	dang
+澄	dang
+凳	dang
+瞪	dang
+蹬	dang
+豋	dang
+磴	dang
+鐙	dang
+墱	dang
+戥	dang
+簦	dang
+嶗	dang
+嶝	dang
+嗒	dap
+撘	dap
+突	dat
+凸	dat
+葖	dat
+腯	dat
+鬥	dau
+豆	dau
+斗	dau
+抖	dau
+逗	dau
+兜	dau
+荳	dau
+痘	dau
+陡	dau
+竇	dau
+蚪	dau
+枓	dau
+鈄	dau
+脰	dau
+浢	dau
+唗	dau
+餖	dau
+爹	de
+嗲	de
+襶	de
+地	dei
+哋	dei
+笛	dek
+糴	dek
+頂	deng
+釘	deng
+疔	deng
+掟	deng
+撉	deu
+對	deui
+隊	deui
+堆	deui
+敦	deui
+兌	deui
+懟	deui
+碓	deui
+駾	deui
+祋	deui
+轛	deui
+憝	deui
+啄	deuk
+琢	deuk
+剁	deuk
+斲	deuk
+涿	deuk
+諑	deuk
+噣	deuk
+豖	deuk
+啅	deuk
+椓	deuk
+頓	deun
+敦	deun
+沌	deun
+鈍	deun
+蹲	deun
+噸	deun
+遁	deun
+燉	deun
+墩	deun
+囤	deun
+盹	deun
+惇	deun
+吨	deun
+遯	deun
+伅	deun
+炖	deun
+蜳	deun
+鐓	deun
+咄	deut
+柮	deut
+啲	di	10000
+的	di
+的	dik
+敵	dik
+滴	dik
+迪	dik
+狄	dik
+翟	dik
+荻	dik
+滌	dik
+嫡	dik
+嘀	dik
+玓	dik
+鸐	dik
+鏑	dik
+籊	dik
+菂	dik
+甋	dik
+覿	dik
+靮	dik
+篴	dik
+蹢	dik
+藡	dik
+點	dim
+店	dim
+惦	dim
+踮	dim
+玷	dim
+掂	dim
+坫	dim
+痁	dim
+阽	dim
+跕	dim
+敁	dim
+電	din
+典	din
+殿	din
+顛	din
+墊	din
+碘	din
+巔	din
+奠	din
+甸	din
+澱	din
+癲	din
+鈿	din
+靛	din
+滇	din
+佃	din
+淀	din
+瘨	din
+蹎	din
+癜	din
+蕇	din
+傎	din
+痶	din
+定	ding
+頂	ding
+訂	ding
+丁	ding
+叮	ding
+鼎	ding
+釘	ding
+盯	ding
+碇	ding
+玎	ding
+仃	ding
+錠	ding
+酊	ding
+耵	ding
+疔	ding
+椗	ding
+靪	ding
+飣	ding
+顁	ding
+碟	dip
+蝶	dip
+疊	dip
+諜	dip
+牒	dip
+喋	dip
+鰈	dip
+蹀	dip
+鍱	dip
+褋	dip
+堞	dip
+蜨	dip
+跌	dit
+秩	dit
+迭	dit
+詄	dit
+帙	dit
+瓞	dit
+耋	dit
+垤	dit
+昳	dit
+胅	dit
+絰	dit
+螲	dit
+袟	dit
+翐	dit
+掉	diu
+調	diu
+丟	diu
+釣	diu
+吊	diu
+雕	diu
+鵰	diu
+凋	diu
+刁	diu
+貂	diu
+屌	diu
+弔	diu
+鯛	diu
+叼	diu
+碉	diu
+彫	diu
+琱	diu
+銩	diu
+銚	diu
+窵	diu
+誂	diu
+蓧	diu
+多	do
+朵	do
+躲	do
+墮	do
+惰	do
+垛	do
+埵	do
+剁	do
+跺	do
+哆	do
+嶞	do
+鬌	do
+嚲	do
+代	doi
+待	doi
+袋	doi
+逮	doi
+黛	doi
+怠	doi
+岱	doi
+殆	doi
+迨	doi
+靆	doi
+玳	doi
+紿	doi
+偫	doi
+埭	doi
+度	dok
+鐸	dok
+踱	dok
+剫	dok
+襗	dok
+當	dong
+黨	dong
+檔	dong
+擋	dong
+盪	dong
+蕩	dong
+噹	dong
+踼	dong
+襠	dong
+宕	dong
+鐺	dong
+璗	dong
+党	dong
+璫	dong
+瑒	dong
+逿	dong
+讜	dong
+碭	dong
+欓	dong
+簹	dong
+菪	dong
+攩	dong
+钂	dong
+蟷	dong
+鼞	dong
+簜	dong
+到	dou
+都	dou
+道	dou
+度	dou
+導	dou
+倒	dou
+刀	dou
+島	dou
+盜	dou
+渡	dou
+杜	dou
+賭	dou
+睹	dou
+蹈	dou
+嘟	dou
+堵	dou
+妒	dou
+悼	dou
+稻	dou
+搗	dou
+鍍	dou
+蠹	dou
+叨	dou
+忉	dou
+纛	dou
+擣	dou
+氘	dou
+魛	dou
+幬	dou
+帾	dou
+燾	dou
+舠	dou
+壔	dou
+斁	dou
+芏	dou
+稌	dou
+喥	dou
+禂	dou
+獨	duk
+讀	duk
+毒	duk
+督	duk
+頓	duk
+篤	duk
+瀆	duk
+犢	duk
+牘	duk
+纛	duk
+黷	duk
+櫝	duk
+髑	duk
+殰	duk
+裻	duk
+韇	duk
+贕	duk
+韣	duk
+碡	duk
+襡	duk
+讟	duk
+動	dung
+東	dung
+懂	dung
+洞	dung
+冬	dung
+棟	dung
+凍	dung
+董	dung
+咚	dung
+慟	dung
+踵	dung
+恫	dung
+硐	dung
+迵	dung
+氡	dung
+胴	dung
+鶇	dung
+峒	dung
+侗	dung
+湩	dung
+鼕	dung
+畽	dung
+蝀	dung
+戙	dung
+涷	dung
+垌	dung
+段	dyun
+斷	dyun
+短	dyun
+端	dyun
+鍛	dyun
+緞	dyun
+煆	dyun
+毈	dyun
+鍜	dyun
+耑	dyun
+剬	dyun
+椴	dyun
+腶	dyun
+碫	dyun
+籪	dyun
+奪	dyut
+欸	ei
+誒	ei
+喓	eu
+化	fa
+花	fa
+擭	fa
+蘤	fa
+快	faai
+塊	faai
+筷	faai
+傀	faai
+噲	faai
+拂	faak
+沸	faak
+返	faan
+反	faan
+煩	faan
+翻	faan
+犯	faan
+範	faan
+凡	faan
+飯	faan
+番	faan
+繁	faan
+泛	faan
+販	faan
+帆	faan
+范	faan
+蕃	faan
+梵	faan
+氾	faan
+瓣	faan
+汎	faan
+藩	faan
+樊	faan
+幡	faan
+璠	faan
+蟠	faan
+旛	faan
+礬	faan
+燔	faan
+繙	faan
+畈	faan
+颿	faan
+釩	faan
+膰	faan
+蹯	faan
+笵	faan
+覂	faan
+蘩	faan
+軓	faan
+轓	faan
+蠜	faan
+墦	faan
+軬	faan
+鐇	faan
+鷭	faan
+笲	faan
+發	faat
+法	faat
+髮	faat
+琺	faat
+費	fai
+輝	fai
+揮	fai
+廢	fai
+虧	fai
+暉	fai
+肺	fai
+徽	fai
+沸	fai
+吠	fai
+煇	fai
+麾	fai
+癈	fai
+痱	fai
+怫	fai
+芾	fai
+隳	fai
+撝	fai
+褘	fai
+袚	fai
+疿	fai
+翬	fai
+鐨	fai
+楎	fai
+分	fan
+份	fan
+訓	fan
+婚	fan
+芬	fan
+奮	fan
+紛	fan
+昏	fan
+粉	fan
+瞓	fan	1000
+氛	fan
+憤	fan
+勳	fan
+薰	fan
+墳	fan
+忿	fan
+焚	fan
+糞	fan
+葷	fan
+勛	fan
+吩	fan
+燻	fan
+醺	fan
+熏	fan
+賁	fan
+棻	fan
+酚	fan
+汾	fan
+雰	fan
+曛	fan
+玢	fan
+緡	fan
+僨	fan
+翂	fan
+棼	fan
+惛	fan
+瀵	fan
+殙	fan
+焄	fan
+幩	fan
+枌	fan
+羒	fan
+閽	fan
+豶	fan
+纁	fan
+臐	fan
+痻	fan
+蕡	fan
+妢	fan
+窨	fan
+獯	fan
+蚡	fan
+棔	fan
+濆	fan
+鼢	fan
+羵	fan
+佛	fat
+忽	fat
+罰	fat
+乏	fat
+彿	fat
+伐	fat
+拂	fat
+弗	fat
+窟	fat	1000
+閥	fat
+惚	fat
+筏	fat
+氟	fat
+堀	fat
+芴	fat
+砝	fat
+咈	fat
+囫	fat
+茷	fat
+怫	fat
+芾	fat
+黻	fat
+笏	fat
+寣	fat
+刜	fat
+茀	fat
+欻	fat
+帗	fat
+紼	fat
+祓	fat
+淴	fat
+笰	fat
+紱	fat
+艴	fat
+韍	fat
+不	fau
+否	fau
+復	fau
+浮	fau
+覆	fau
+剖	fau
+埠	fau
+阜	fau
+涪	fau
+蜉	fau
+缶	fau
+罘	fau
+紑	fau
+芣	fau
+裒	fau
+罦	fau
+缹	fau
+稃	fau
+啡	fe
+非	fei
+飛	fei
+肥	fei
+菲	fei
+啡	fei
+匪	fei
+斐	fei
+妃	fei
+翡	fei
+霏	fei
+扉	fei
+誹	fei
+狒	fei
+悱	fei
+緋	fei
+腓	fei
+痱	fei
+蜚	fei
+屝	fei
+淝	fei
+剕	fei
+厞	fei
+馡	fei
+胐	fei
+陫	fei
+裶	fei
+蜰	fei
+篚	fei
+騑	fei
+榧	fei
+俷	fei
+棐	fei
+疿	fei
+覅	fiu
+科	fo
+課	fo
+火	fo
+顆	fo
+貨	fo
+伙	fo
+夥	fo
+棵	fo
+窠	fo
+蝌	fo
+稞	fo
+窾	fo
+堁	fo
+騍	fo
+髁	fo
+鈥	fo
+縛	fok
+霍	fok
+攫	fok
+藿	fok
+貜	fok
+躩	fok
+攉	fok
+蠼	fok
+矍	fok
+玃	fok
+彏	fok
+蠷	fok
+钁	fok
+方	fong
+放	fong
+況	fong
+房	fong
+防	fong
+芳	fong
+妨	fong
+訪	fong
+荒	fong
+晃	fong
+仿	fong
+彷	fong
+謊	fong
+坊	fong
+慌	fong
+恍	fong
+紡	fong
+幌	fong
+肪	fong
+枋	fong
+舫	fong
+肓	fong
+倣	fong
+昉	fong
+衁	fong
+巟	fong
+榥	fong
+怳	fong
+髣	fong
+滉	fong
+邡	fong
+絖	fong
+貺	fong
+匚	fong
+鈁	fong
+魴	fong
+乎	fu
+附	fu
+苦	fu
+負	fu
+夫	fu
+父	fu
+府	fu
+虎	fu
+付	fu
+呼	fu
+富	fu
+輔	fu
+符	fu
+副	fu
+庫	fu
+婦	fu
+賦	fu
+唬	fu
+褲	fu
+腐	fu
+膚	fu
+傅	fu
+扶	fu
+枯	fu
+撫	fu
+赴	fu
+甫	fu
+芙	fu
+敷	fu
+斧	fu
+俯	fu
+骷	fu
+孵	fu
+咐	fu
+俘	fu
+仆	fu
+箍	fu
+孚	fu
+腑	fu
+琥	fu
+釜	fu
+脯	fu
+伕	fu
+趺	fu
+戽	fu
+苻	fu
+俛	fu
+楛	fu
+尃	fu
+頫	fu
+拊	fu
+鳧	fu
+榑	fu
+衭	fu
+麩	fu
+駙	fu
+桴	fu
+祔	fu
+郛	fu
+訃	fu
+賻	fu
+莩	fu
+鮒	fu
+胕	fu
+鈇	fu
+簠	fu
+虍	fu
+刳	fu
+痡	fu
+泭	fu
+蚨	fu
+虖	fu
+跗	fu
+幠	fu
+謼	fu
+黼	fu
+枹	fu
+鄜	fu
+垺	fu
+弣	fu
+稃	fu
+偩	fu
+滹	fu
+滏	fu
+膍	fu
+歑	fu
+蝜	fu
+悔	fui
+灰	fui
+恢	fui
+賄	fui
+魁	fui
+晦	fui
+奎	fui
+喙	fui
+誨	fui
+詼	fui
+鮪	fui
+洧	fui
+虺	fui
+悝	fui
+痗	fui
+襘	fui
+禬	fui
+瘣	fui
+痏	fui
+豗	fui
+闠	fui
+服	fuk
+復	fuk
+福	fuk
+複	fuk
+覆	fuk
+幅	fuk
+伏	fuk
+腹	fuk
+輻	fuk
+袱	fuk
+蝠	fuk
+馥	fuk
+茯	fuk
+蝮	fuk
+洑	fuk
+楅	fuk
+鍑	fuk
+复	fuk
+鰒	fuk
+虙	fuk
+箙	fuk
+輹	fuk
+葍	fuk
+鵩	fuk
+歡	fun
+款	fun
+寬	fun
+喚	fun
+盥	fun
+髖	fun
+讙	fun
+驩	fun
+窾	fun
+懽	fun
+獾	fun
+嚾	fun
+臗	fun
+鳳	fung
+風	fung
+封	fung
+逢	fung
+瘋	fung
+豐	fung
+峰	fung
+鋒	fung
+奉	fung
+楓	fung
+蜂	fung
+捧	fung
+諷	fung
+縫	fung
+蓬	fung
+馮	fung
+丰	fung
+烽	fung
+俸	fung
+夆	fung
+葑	fung
+唪	fung
+酆	fung
+灃	fung
+甮	fung
+琫	fung
+渢	fung
+賵	fung
+麷	fung
+犎	fung
+闊	fut
+蛞	fut
+家	ga
+加	ga
+價	ga
+假	ga
+架	ga
+嘉	ga
+駕	ga
+咖	ga
+傢	ga
+嫁	ga
+嘎	ga
+賈	ga
+迦	ga
+伽	ga
+茄	ga
+珈	ga
+枷	ga
+葭	ga
+稼	ga
+豭	ga
+袈	ga
+跏	ga
+笳	ga
+痂	ga
+嘏	ga
+耞	ga
+檟	ga
+鎵	ga
+鴐	ga
+榎	ga
+尕	ga
+斝	ga
+椵	ga
+解	gaai
+界	gaai
+介	gaai
+佳	gaai
+皆	gaai
+街	gaai
+屆	gaai
+階	gaai
+戒	gaai
+尬	gaai
+楷	gaai
+誡	gaai
+芥	gaai
+懈	gaai
+偕	gaai
+喈	gaai
+玠	gaai
+疥	gaai
+价	gaai
+痎	gaai
+廨	gaai
+蚧	gaai
+犗	gaai
+秸	gaai
+薢	gaai
+湝	gaai
+格	gaak
+隔	gaak
+革	gaak
+咯	gaak	1000
+鎘	gaak
+骼	gaak
+嗝	gaak
+胳	gaak
+膈	gaak
+鬲	gaak
+翮	gaak
+觡	gaak
+仡	gaak
+挌	gaak
+圪	gaak
+減	gaam
+監	gaam
+鑑	gaam
+尷	gaam
+鑒	gaam
+緘	gaam
+椷	gaam
+間	gaan
+簡	gaan
+奸	gaan
+艱	gaan
+姦	gaan
+繭	gaan
+揀	gaan
+鹼	gaan
+澗	gaan
+諫	gaan
+菅	gaan
+柬	gaan
+茧	gaan
+蕑	gaan
+堿	gaan
+瞷	gaan
+挭	gaang
+浭	gaang
+甲	gaap
+革	gaap
+夾	gaap
+頰	gaap
+鉀	gaap
+胛	gaap
+莢	gaap
+鋏	gaap
+岬	gaap
+蛺	gaap
+筴	gaap
+跲	gaap
+袷	gaap
+韐	gaap
+郟	gaap
+搿	gaap
+唊	gaap
+裌	gaap
+鞈	gaap
+鵊	gaap
+軋	gaat
+戛	gaat
+恝	gaat
+釓	gaat
+鞂	gaat
+交	gaau
+教	gaau
+覺	gaau
+校	gaau
+較	gaau
+搞	gaau
+膠	gaau
+郊	gaau
+攪	gaau	1000
+餃	gaau
+跤	gaau
+狡	gaau
+酵	gaau
+絞	gaau
+佼	gaau
+皎	gaau
+蛟	gaau
+姣	gaau
+窖	gaau
+鮫	gaau
+筊	gaau
+鉸	gaau
+珓	gaau
+窌	gaau
+滘	gaau
+茭	gaau
+鵁	gaau
+骹	gaau
+轇	gaau
+計	gai
+繼	gai
+雞	gai
+偈	gai	1000
+髻	gai
+薊	gai
+蘮	gai
+罽	gai
+笄	gai
+瀱	gai
+紒	gai
+咁	gam	1000
+噉	gam	1000
+感	gam
+今	gam
+金	gam
+敢	gam
+禁	gam
+甘	gam
+錦	gam
+橄	gam
+衿	gam
+淦	gam
+柑	gam
+噤	gam
+贛	gam
+紺	gam
+灨	gam
+坅	gam
+撳	gam
+泔	gam
+疳	gam
+澉	gam
+鰔	gam
+僸	gam
+近	gan
+跟	gan
+根	gan
+緊	gan	1000
+僅	gan
+筋	gan
+謹	gan
+斤	gan
+巾	gan
+堇	gan
+瑾	gan
+觔	gan
+菫	gan
+靳	gan
+覲	gan
+艮	gan
+蓳	gan
+筧	gan
+饉	gan
+槿	gan
+巹	gan
+茛	gan
+硍	gan
+墐	gan
+釿	gan
+廑	gan
+殣	gan
+哏	gan
+更	gang
+耕	gang
+耿	gang
+庚	gang
+羹	gang
+亙	gang
+梗	gang
+哽	gang	1000
+埂	gang
+粳	gang
+鯁	gang
+賡	gang
+堩	gang
+郠	gang
+熲	gang
+綆	gang
+緪	gang
+鶊	gang
+浭	gang
+骾	gang
+急	gap
+鴿	gap
+蛤	gap
+閤	gap
+頜	gap
+芨	gap
+吉	gat
+詰	gat
+桔	gat
+疙	gat
+佶	gat
+訖	gat
+咭	gat
+虼	gat
+紇	gat
+肐	gat
+趌	gat
+姞	gat
+蛣	gat
+趷	gat
+九	gau
+究	gau
+久	gau
+夠	gau
+救	gau
+狗	gau
+舊	gau
+構	gau
+購	gau
+龜	gau
+溝	gau
+勾	gau
+糾	gau
+鉤	gau
+苟	gau
+茍	gau
+咎	gau
+垢	gau
+疚	gau
+玖	gau
+詬	gau
+鳩	gau
+灸	gau
+韭	gau
+搆	gau
+媾	gau
+枸	gau
+廄	gau
+遘	gau
+柩	gau
+赳	gau
+篝	gau
+覯	gau
+彀	gau
+傋	gau
+韝	gau
+勼	gau
+姤	gau
+袧	gau
+鬮	gau
+岣	gau
+构	gau
+芶	gau
+冓	gau
+捄	gau
+斠	gau
+簼	gau
+耇	gau
+笱	gau
+樛	gau
+雊	gau
+嘅	ge
+幾	gei
+機	gei
+己	gei
+記	gei
+基	gei
+技	gei
+紀	gei
+既	gei
+寄	gei
+丌	gei
+忌	gei
+几	gei
+姬	gei
+妓	gei
+肌	gei
+飢	gei
+譏	gei
+嘰	gei
+磯	gei
+饑	gei
+畸	gei
+羈	gei
+机	gei
+乩	gei
+杞	gei
+伎	gei
+徛	gei	1000
+箕	gei
+璣	gei
+覬	gei
+忮	gei
+畿	gei
+麂	gei
+蔇	gei
+犄	gei
+洎	gei
+錤	gei
+羇	gei
+庋	gei
+禨	gei
+惎	gei
+屺	gei
+鐖	gei
+敧	gei
+刉	gei
+剞	gei
+芑	gei
+倛	gei
+掎	gei
+穊	gei
+蟣	gei
+芰	gei
+邔	gei
+鞿	gei
+虮	gei
+稘	gei
+跽	gei
+驚	geng
+鏡	geng
+頸	geng
+麠	geng
+車	geui
+據	geui
+舉	geui
+具	geui
+句	geui
+居	geui
+巨	geui
+距	geui
+懼	geui
+矩	geui
+鋸	geui
+莒	geui
+炬	geui
+鉅	geui
+遽	geui
+踞	geui
+瞿	geui
+据	geui
+踽	geui
+柜	geui
+倨	geui
+裾	geui
+颶	geui
+枸	geui
+琚	geui
+櫸	geui
+苣	geui
+詎	geui
+屨	geui
+筥	geui
+窶	geui
+鐻	geui
+蚷	geui
+楀	geui
+澽	geui
+齲	geui
+秬	geui
+駏	geui
+萭	geui
+豦	geui
+蒟	geui
+醵	geui
+泃	geui
+犋	geui
+埧	geui
+崌	geui
+粔	geui
+虡	geui
+腳	geuk
+屩	geuk
+姜	geung
+僵	geung
+疆	geung
+薑	geung
+殭	geung
+彊	geung
+韁	geung
+羌	geung
+橿	geung
+糨	geung
+蜣	geung
+礓	geung
+擊	gik
+極	gik
+激	gik
+亟	gik
+棘	gik
+戟	gik
+殛	gik
+撽	gik
+墼	gik
+极	gik
+襋	gik
+轚	gik
+毄	gik
+劍	gim
+檢	gim
+兼	gim
+撿	gim
+蒹	gim
+儉	gim
+瞼	gim
+檐	gim
+鶼	gim
+搛	gim
+縑	gim
+鰜	gim
+見	gin
+建	gin
+件	gin
+鍵	gin
+健	gin
+堅	gin
+肩	gin
+腱	gin
+豜	gin
+毽	gin
+犍	gin
+蹇	gin
+幵	gin
+謇	gin
+寋	gin
+襺	gin
+鞬	gin
+趼	gin
+鰹	gin
+經	ging
+竟	ging
+境	ging
+警	ging
+景	ging
+敬	ging
+驚	ging
+京	ging
+競	ging
+徑	ging
+勁	ging
+逕	ging
+憬	ging
+荊	ging
+璟	ging
+矜	ging
+兢	ging
+痙	ging
+脛	ging
+儆	ging	1000
+涇	ging
+俓	ging
+墇	ging
+獍	ging
+剄	ging
+幜	ging
+璚	ging
+惊	ging
+巠	ging
+劫	gip
+狹	gip
+陜	gip
+硤	gip
+衱	gip
+結	git
+傑	git
+潔	git
+杰	git
+竭	git
+頡	git
+偈	git	1000
+擷	git
+拮	git
+桀	git
+洁	git
+袺	git
+榤	git
+絜	git
+襭	git
+鮚	git
+叫	giu
+繳	giu
+驕	giu
+嬌	giu
+轎	giu
+矯	giu
+澆	giu
+僥	giu
+撬	giu
+嶠	giu
+撟	giu
+嘂	giu
+徼	giu
+噭	giu
+譑	giu
+譥	giu
+皦	giu
+蟜	giu
+鱎	giu
+鷮	giu
+個	go
+嗰	go	10000
+各	go
+歌	go
+哥	go
+箇	go
+哿	go
+旮	go
+舸	go
+牁	go
+笴	go
+菏	go
+渮	go
+該	goi
+改	goi
+蓋	goi
+垓	goi
+賅	goi
+絯	goi
+祴	goi
+陔	goi
+荄	goi
+胲	goi
+侅	goi
+覺	gok
+各	gok
+角	gok
+閣	gok
+擱	gok
+鉻	gok
+茖	gok
+玨	gok
+捔	gok
+埆	gok
+硌	gok
+傕	gok
+袼	gok
+斠	gok
+桷	gok
+幹	gon
+趕	gon
+乾	gon
+干	gon
+桿	gon
+肝	gon
+竿	gon
+杆	gon
+稈	gon
+矸	gon
+榦	gon
+旰	gon
+赶	gon
+酐	gon
+簳	gon
+玕	gon
+骭	gon
+筸	gon
+講	gong
+剛	gong
+江	gong
+港	gong
+降	gong
+鋼	gong
+綱	gong
+缸	gong
+崗	gong
+岡	gong
+扛	gong
+肛	gong
+亢	gong
+絳	gong
+罡	gong
+釭	gong
+杠	gong
+茳	gong
+堈	gong
+肮	gong
+棡	gong
+洚	gong
+顜	gong
+豇	gong
+耩	gong
+葛	got
+割	got
+轕	got
+高	gou
+告	gou
+稿	gou
+糕	gou
+膏	gou
+羔	gou
+槁	gou
+縞	gou
+鎬	gou
+皋	gou
+篙	gou
+誥	gou
+郜	gou
+杲	gou
+鋯	gou
+鼛	gou
+睾	gou
+槔	gou
+暠	gou
+櫜	gou
+故	gu
+古	gu
+顧	gu
+孤	gu
+股	gu
+鼓	gu
+固	gu
+姑	gu
+估	gu
+辜	gu
+咕	gu
+賈	gu
+呱	gu
+雇	gu
+菇	gu
+僱	gu
+蠱	gu
+沽	gu
+牯	gu
+錮	gu
+鴣	gu
+鈷	gu
+詁	gu
+痼	gu
+嘏	gu
+瞽	gu
+罟	gu
+泒	gu
+蛄	gu
+菰	gu
+罛	gu
+酤	gu
+狜	gu
+羖	gu
+胍	gu
+觚	gu
+蛌	gu
+盬	gu
+崮	gu
+箛	gu
+臌	gu
+軱	gu
+堌	gu
+癐	gui
+劊	gui
+局	guk
+谷	guk
+菊	guk
+鞠	guk
+侷	guk
+穀	guk
+麴	guk
+掬	guk
+鵠	guk
+梏	guk
+焗	guk	1000
+榖	guk
+轂	guk
+跼	guk
+頊	guk
+牿	guk
+鞫	guk
+趜	guk
+鋦	guk
+輂	guk
+匊	guk
+踘	guk
+瀔	guk
+嚳	guk
+管	gun
+觀	gun
+館	gun
+灌	gun
+官	gun
+冠	gun
+貫	gun
+罐	gun
+棺	gun
+倌	gun
+盥	gun
+莞	gun
+斡	gun
+祼	gun
+錧	gun
+鸛	gun
+鑵	gun
+脘	gun
+琯	gun
+瓘	gun
+雚	gun
+痯	gun
+涫	gun
+爟	gun
+筦	gun
+工	gung
+公	gung
+功	gung
+共	gung
+供	gung
+紅	gung
+攻	gung
+宮	gung
+恭	gung
+貢	gung
+弓	gung
+槓	gung
+拱	gung
+躬	gung
+龔	gung
+鞏	gung
+蚣	gung
+芎	gung
+栱	gung
+廾	gung
+魟	gung
+嗊	gung
+珙	gung
+涳	gung
+塨	gung
+輁	gung
+掛	gwa
+瓜	gwa
+寡	gwa
+卦	gwa
+啩	gwa	1000
+呱	gwa
+挂	gwa
+罣	gwa
+褂	gwa
+胍	gwa
+緺	gwa
+詿	gwa
+咼	gwa
+騧	gwa
+絓	gwa
+怪	gwaai
+乖	gwaai
+拐	gwaai
+柺	gwaai
+夬	gwaai
+蒯	gwaai
+罫	gwaai
+摑	gwaak
+關	gwaan
+慣	gwaan
+串	gwaan
+鰥	gwaan
+摜	gwaan
+瘝	gwaan
+擐	gwaan
+丱	gwaan
+逛	gwaang
+刮	gwaat
+颳	gwaat
+貴	gwai
+歸	gwai
+鬼	gwai
+季	gwai
+龜	gwai
+瑰	gwai
+軌	gwai
+櫃	gwai
+桂	gwai
+詭	gwai
+悸	gwai
+圭	gwai
+饋	gwai
+跪	gwai
+癸	gwai
+皈	gwai
+簣	gwai
+閨	gwai
+匱	gwai
+鮭	gwai
+珪	gwai
+晷	gwai
+餽	gwai
+炅	gwai
+姽	gwai
+宄	gwai
+匭	gwai
+硅	gwai
+鱖	gwai
+溈	gwai
+庋	gwai
+邽	gwai
+溎	gwai
+劌	gwai
+庪	gwai
+媯	gwai
+樻	gwai
+瞶	gwai
+簋	gwai
+氿	gwai
+垝	gwai
+刲	gwai
+佹	gwai
+蘬	gwai
+蕢	gwai
+軍	gwan
+君	gwan
+均	gwan
+龜	gwan
+滾	gwan
+昆	gwan
+棍	gwan
+鈞	gwan
+綸	gwan
+筠	gwan
+琨	gwan
+郡	gwan
+矜	gwan
+焜	gwan
+鯤	gwan
+袞	gwan
+錕	gwan
+珺	gwan
+輥	gwan
+皸	gwan
+鯀	gwan
+莙	gwan
+袬	gwan
+縜	gwan
+緄	gwan
+褌	gwan
+袀	gwan
+蔉	gwan
+麇	gwan
+轟	gwang
+肱	gwang
+薨	gwang
+訇	gwang
+觥	gwang
+頵	gwang
+渹	gwang
+揈	gwang
+骨	gwat
+橘	gwat
+掘	gwat
+崛	gwat
+汨	gwat
+倔	gwat
+鶻	gwat
+汩	gwat
+蓇	gwat
+镼	gwat
+淈	gwat
+榾	gwat
+隙	gwik
+郤	gwik
+闃	gwik
+虢	gwik
+聝	gwik
+狊	gwik
+洫	gwik
+殈	gwik
+馘	gwik
+虩	gwik
+淢	gwik
+郹	gwik
+綌	gwik
+覤	gwik
+鵙	gwik
+鶪	gwik
+闅	gwik
+侐	gwik
+湨	gwik
+詗	gwing
+憬	gwing
+煚	gwing
+炯	gwing
+迥	gwing
+炅	gwing
+囧	gwing
+扃	gwing
+褧	gwing
+絅	gwing
+冏	gwing
+坰	gwing
+泂	gwing
+駉	gwing
+過	gwo
+果	gwo
+戈	gwo
+裹	gwo
+渦	gwo
+婐	gwo
+錁	gwo
+撾	gwo
+猓	gwo
+蜾	gwo
+薖	gwo
+輠	gwo
+簻	gwo
+褁	gwo
+國	gwok
+郭	gwok
+廓	gwok
+幗	gwok
+摑	gwok
+蟈	gwok
+嘓	gwok
+槨	gwok
+崞	gwok
+膕	gwok
+霩	gwok
+光	gwong
+廣	gwong
+礦	gwong
+洸	gwong
+胱	gwong
+誑	gwong
+獷	gwong
+俇	gwong
+桄	gwong
+銧	gwong
+穬	gwong
+卷	gyun
+圈	gyun
+捐	gyun
+捲	gyun
+倦	gyun
+娟	gyun
+眷	gyun
+狷	gyun
+鵑	gyun
+涓	gyun
+絹	gyun
+悁	gyun
+睊	gyun
+琄	gyun
+蠲	gyun
+鄄	gyun
+帣	gyun
+睠	gyun
+懁	gyun
+罥	gyun
+絭	gyun
+駽	gyun
+獧	gyun
+鞙	gyun
+瘚	gyut
+潏	gyut
+下	ha
+吓	ha
+哈	ha
+夏	ha
+蝦	ha
+霞	ha
+暇	ha
+瑕	ha
+廈	ha
+遐	ha
+蛤	ha
+芐	ha
+瘕	ha
+赮	ha
+騢	ha
+解	haai
+孩	haai
+械	haai
+蟹	haai
+鞋	haai
+咳	haai
+諧	haai
+邂	haai
+駭	haai
+懈	haai
+骸	haai
+揩	haai
+嗐	haai
+繲	haai
+瀣	haai
+獬	haai
+廨	haai
+澥	haai
+駴	haai
+骱	haai
+薤	haai
+齘	haai
+韰	haai
+嶰	haai
+嚡	haai
+黑	haak
+客	haak
+刻	haak
+嚇	haak
+赫	haak
+赩	haak
+函	haam
+喊	haam	1000
+陷	haam
+涵	haam
+鹹	haam
+銜	haam
+咸	haam
+檻	haam
+餡	haam
+菡	haam
+啣	haam
+諴	haam
+鬫	haam
+闞	haam
+莰	haam
+撖	haam
+嗛	haam
+限	haan
+閒	haan
+閑	haan
+嫻	haan
+癇	haan
+鷴	haan
+憪	haan
+僩	haan
+鷳	haan
+行	haang
+坑	haang
+吭	haang
+桁	haang
+阬	haang
+誙	haang
+俠	haap
+狹	haap
+峽	haap
+匣	haap
+挾	haap
+掐	haap
+呷	haap
+嗑	haap
+狎	haap
+陜	haap
+篋	haap
+柙	haap
+硤	haap
+祫	haap
+校	haau
+考	haau
+效	haau
+巧	haau
+孝	haau
+烤	haau
+拷	haau
+敲	haau
+酵	haau
+哮	haau
+姣	haau
+尻	haau
+熇	haau
+栲	haau
+攷	haau
+傚	haau
+恔	haau
+髐	haau
+虓	haau
+痚	haau
+謞	haau
+磽	haau
+嘐	haau
+猇	haau
+薧	haau
+捄	haau
+嗃	haau
+墝	haau
+骹	haau
+係	hai
+喺	hai	10000
+系	hai
+兮	hai
+嗨	hai
+繫	hai
+奚	hai
+蹊	hai
+盻	hai
+傒	hai
+嵇	hai
+檕	hai
+罊	hai
+鼷	hai
+徯	hai
+謑	hai
+妎	hai
+禊	hai
+可	hak
+黑	hak
+克	hak
+刻	hak
+剋	hak
+氪	hak
+含	ham
+砍	ham
+喊	ham	1000
+憾	ham
+堪	ham
+坎	ham
+撼	ham
+勘	ham
+憨	ham
+酣	ham
+瞰	ham
+嵌	ham
+崁	ham
+頷	ham
+唅	ham
+戡	ham
+龕	ham
+坩	ham
+顑	ham
+扻	ham
+矙	ham
+闞	ham
+嵁	ham
+磡	ham
+焓	ham
+蚶	ham
+顄	ham
+凵	ham
+轗	ham
+琀	ham
+欿	ham
+墈	ham
+埳	ham
+很	han
+恨	han
+狠	han
+痕	han
+懇	han
+墾	han
+齦	han
+慳	han	1000
+佷	han
+豤	han
+絎	han
+行	hang
+幸	hang
+肯	hang
+衡	hang
+恆	hang
+亨	hang
+哼	hang
+莖	hang
+杏	hang
+倖	hang
+啃	hang
+悻	hang
+夯	hang
+鏗	hang
+恒	hang
+荇	hang
+珩	hang
+桁	hang
+拫	hang
+蘅	hang
+硜	hang
+姮	hang
+啈	hang
+涬	hang
+脝	hang
+揯	hang
+牼	hang
+莕	hang
+婞	hang
+合	hap
+俠	hap
+洽	hap
+恰	hap
+盒	hap
+瞌	hap
+磕	hap
+闔	hap
+閤	hap
+嗑	hap
+郃	hap
+盍	hap
+搕	hap
+峇	hap
+鉿	hap
+帢	hap
+溘	hap
+匼	hap
+烚	hap
+榼	hap
+核	hat
+瞎	hat
+轄	hat
+乞	hat
+劾	hat
+閡	hat
+黠	hat
+搳	hat
+檄	hat
+覈	hat
+翮	hat
+覡	hat
+舝	hat
+犵	hat
+齕	hat
+礉	hat
+後	hau
+口	hau
+候	hau
+后	hau
+厚	hau
+侯	hau
+猴	hau
+喉	hau
+吼	hau
+逅	hau
+詬	hau
+齁	hau
+篌	hau
+堠	hau
+垕	hau
+鱟	hau
+鍭	hau
+郈	hau
+瘊	hau
+餱	hau
+蓲	hau
+鯸	hau
+鄇	hau
+缿	hau
+起	hei
+喜	hei
+氣	hei
+希	hei
+器	hei
+戲	hei
+嘿	hei
+嘻	hei
+棄	hei
+汽	hei
+豈	hei
+欺	hei
+犧	hei
+稀	hei
+熙	hei
+禧	hei
+曦	hei
+憩	hei
+嬉	hei
+羲	hei
+熹	hei
+唏	hei
+豨	hei
+晞	hei
+烯	hei
+欷	hei
+醯	hei
+娸	hei
+僖	hei
+气	hei
+蟢	hei
+浠	hei
+踦	hei
+俙	hei
+甈	hei
+呬	hei
+屺	hei
+睎	hei
+譆	hei
+爔	hei
+僛	hei
+巇	hei
+咥	hei
+諆	hei
+餼	hei
+吃	hek
+喫	hek
+輕	heng
+靴	heu
+去	heui
+許	heui
+虛	heui
+噓	heui
+迂	heui
+墟	heui
+吁	heui
+栩	heui
+詡	heui
+呴	heui
+歔	heui
+昫	heui
+訏	heui
+盱	heui
+驉	heui
+鄦	heui
+魼	heui
+姁	heui
+圩	heui
+向	heung
+響	heung
+香	heung
+享	heung
+鄉	heung
+嚮	heung
+饗	heung
+晌	heung
+餉	heung
+薌	heung
+膷	heung
+饟	heung
+曏	heung
+蠁	heung
+險	him
+歉	him
+欠	him
+謙	him
+芡	him
+玁	him
+慊	him
+傔	him
+嶮	him
+獫	him
+顯	hin
+憲	hin
+牽	hin
+獻	hin
+軒	hin
+遣	hin
+譴	hin
+掀	hin
+繾	hin
+岍	hin
+騫	hin
+愆	hin
+蜆	hin
+搴	hin
+褰	hin
+祅	hin
+韅	hin
+鶱	hin
+幰	hin
+嘕	hin
+縴	hin
+興	hing
+兄	hing
+輕	hing
+慶	hing
+馨	hing
+卿	hing
+氫	hing
+罄	hing
+脛	hing
+磬	hing
+綮	hing
+鑋	hing
+敻	hing
+謦	hing
+歉	hip
+協	hip
+脅	hip
+怯	hip
+挾	hip
+愜	hip
+勰	hip
+劦	hip
+慊	hip
+嗛	hip
+嗋	hip
+蠍	hit
+歇	hit
+蝎	hit
+曉	hiu
+囂	hiu
+竅	hiu
+蹺	hiu
+澆	hiu
+僥	hiu
+梟	hiu
+驍	hiu
+撬	hiu
+鴞	hiu
+橇	hiu
+儌	hiu
+枵	hiu
+呺	hiu
+嘵	hiu
+蹻	hiu
+獢	hiu
+歊	hiu
+鄡	hiu
+獟	hiu
+膮	hiu
+趬	hiu
+可	ho
+何	ho
+呵	ho
+河	ho
+賀	ho
+荷	ho
+苛	ho
+訶	ho
+坷	ho
+哿	ho
+岢	ho
+舸	ho
+菏	ho
+開	hoi
+海	hoi
+害	hoi
+凱	hoi
+嗨	hoi
+駭	hoi
+鎧	hoi
+亥	hoi
+愷	hoi
+骸	hoi
+氦	hoi
+闓	hoi
+傒	hoi
+剴	hoi
+頦	hoi
+塏	hoi
+醢	hoi
+儗	hoi
+胲	hoi
+學	hok
+殼	hok
+鶴	hok
+貉	hok
+鷽	hok
+翯	hok
+嗀	hok
+看	hon
+漢	hon
+刊	hon
+寒	hon
+韓	hon
+汗	hon
+翰	hon
+悍	hon
+罕	hon
+捍	hon
+瀚	hon
+焊	hon
+侃	hon
+旱	hon
+鼾	hon
+銲	hon
+頇	hon
+邯	hon
+扞	hon
+睅	hon
+犴	hon
+虷	hon
+暵	hon
+熯	hon
+旰	hon
+豻	hon
+駻	hon
+釬	hon
+閈	hon
+厂	hon
+邗	hon
+衎	hon
+馯	hon
+蔊	hon
+行	hong
+項	hong
+康	hong
+降	hong
+巷	hong
+航	hong
+汗	hong
+框	hong
+腔	hong
+匡	hong
+吭	hong
+骯	hong
+杭	hong
+眶	hong
+糠	hong
+桁	hong
+誆	hong
+沆	hong
+銗	hong
+洭	hong
+鏮	hong
+衖	hong
+迒	hong
+絎	hong
+劻	hong
+頏	hong
+喝	hot
+渴	hot
+褐	hot
+曷	hot
+鶡	hot
+暍	hot
+欱	hot
+鞨	hot
+猲	hot
+好	hou
+號	hou
+豪	hou
+毫	hou
+浩	hou
+耗	hou
+皓	hou
+嚎	hou
+昊	hou
+蠔	hou
+顥	hou
+壕	hou
+濠	hou
+灝	hou
+鎬	hou
+犒	hou
+蒿	hou
+澔	hou
+秏	hou
+嗥	hou
+呺	hou
+皜	hou
+嚆	hou
+薅	hou
+藃	hou
+蚝	hou
+滈	hou
+鄗	hou
+皞	hou
+哭	huk
+酷	huk
+鵠	huk
+斛	huk
+縠	huk
+勗	huk
+瀫	huk
+槲	huk
+勖	huk
+觳	huk
+空	hung
+雄	hung
+紅	hung
+控	hung
+恐	hung
+熊	hung
+洪	hung
+鴻	hung
+胸	hung
+孔	hung
+兇	hung
+虹	hung
+凶	hung
+哄	hung
+烘	hung
+洶	hung
+慷	hung
+匈	hung
+吽	hung
+汞	hung
+鬨	hung
+黌	hung
+訌	hung
+悾	hung
+崆	hung
+箜	hung
+倥	hung
+澒	hung
+葒	hung
+蕻	hung
+恟	hung
+灴	hung
+鞚	hung
+忷	hung
+哅	hung
+圈	hyun
+勸	hyun
+犬	hyun
+券	hyun
+喧	hyun
+萱	hyun
+絢	hyun
+烜	hyun
+綣	hyun
+暄	hyun
+諼	hyun
+煖	hyun
+壎	hyun
+翾	hyun
+嬛	hyun
+禢	hyun
+萲	hyun
+塤	hyun
+畎	hyun
+棬	hyun
+咺	hyun
+楥	hyun
+鋗	hyun
+讂	hyun
+弮	hyun
+儇	hyun
+蠉	hyun
+楦	hyun
+諠	hyun
+血	hyut
+吷	hyut
+揸	ja	1000
+抓	ja
+咱	ja
+炸	ja
+詐	ja
+渣	ja
+乍	ja
+蚱	ja
+榨	ja
+喳	ja
+咋	ja	1000
+吒	ja
+挓	ja
+搾	ja
+酢	ja
+柞	ja
+砟	ja
+楂	ja
+醡	ja
+煠	ja
+蜡	ja
+撾	ja
+奓	ja
+樝	ja
+偺	ja
+糌	ja
+檛	ja
+苲	ja
+鮓	ja
+喒	ja
+齇	ja
+蹅	ja
+髽	ja
+厏	ja
+痄	ja
+溠	ja
+皻	ja
+齋	jaai
+債	jaai
+寨	jaai
+豸	jaai
+砦	jaai
+揥	jaai
+瘵	jaai
+責	jaak
+擇	jaak
+摘	jaak
+澤	jaak
+措	jaak
+宅	jaak
+窄	jaak
+擲	jaak
+翟	jaak
+蚱	jaak
+嘖	jaak
+咋	jaak	1000
+躑	jaak
+謫	jaak
+舴	jaak
+擢	jaak
+柞	jaak
+茦	jaak
+磧	jaak
+檡	jaak
+笮	jaak
+磔	jaak
+迮	jaak
+簀	jaak
+蠌	jaak
+矺	jaak
+蹢	jaak
+站	jaam
+暫	jaam
+賺	jaam
+斬	jaam
+湛	jaam
+嶄	jaam
+簪	jaam
+蹔	jaam
+蘸	jaam
+篸	jaam
+鏨	jaam
+贊	jaan
+賺	jaan
+讚	jaan
+撰	jaan
+盞	jaan
+綻	jaan
+棧	jaan
+攢	jaan
+昝	jaan
+瓚	jaan
+饌	jaan
+攥	jaan
+譔	jaan
+琖	jaan
+囋	jaan
+灒	jaan
+輚	jaan
+欑	jaan
+篹	jaan
+轏	jaan
+醆	jaan
+寁	jaan
+趲	jaan
+爭	jaang
+掙	jaang
+箏	jaang
+睜	jaang
+錚	jaang
+諍	jaang
+猙	jaang
+瞠	jaang
+倀	jaang
+琤	jaang
+什	jaap
+集	jaap
+習	jaap
+雜	jaap
+襲	jaap
+砸	jaap
+眨	jaap
+閘	jaap
+匝	jaap
+咂	jaap
+隰	jaap
+嶍	jaap
+劄	jaap
+槢	jaap
+霫	jaap
+鰼	jaap
+唼	jaap
+鈒	jaap
+札	jaat
+扎	jaat
+紮	jaat
+軋	jaat
+鍘	jaat
+拶	jaat
+哳	jaat
+找	jaau
+抓	jaau
+驟	jaau
+罩	jaau
+嘲	jaau
+爪	jaau
+棹	jaau
+櫂	jaau
+笊	jaau
+制	jai
+際	jai
+仔	jai	1000
+製	jai
+濟	jai
+齋	jai
+擠	jai
+劑	jai
+祭	jai
+滯	jai
+抴	jai
+囝	jai
+跩	jai
+寨	jai
+拽	jai
+躋	jai
+霽	jai
+掣	jai	1000
+廌	jai
+晢	jai
+虀	jai
+穧	jai
+泲	jai
+猘	jai
+嚌	jai
+齎	jai
+狾	jai
+穄	jai
+癠	jai
+齏	jai
+漈	jai
+隮	jai
+瘈	jai
+則	jak
+側	jak
+仄	jak
+昃	jak
+賾	jak
+怎	jam
+針	jam
+枕	jam
+浸	jam
+斟	jam
+朕	jam
+箴	jam
+砧	jam
+鴆	jam
+酖	jam
+鍼	jam
+眹	jam
+椹	jam
+寖	jam
+鱵	jam
+祲	jam
+絼	jam
+譖	jam
+真	jan
+陣	jan
+振	jan
+珍	jan
+震	jan
+鎮	jan
+甄	jan
+圳	jan
+疹	jan
+稹	jan
+賑	jan
+縝	jan
+軫	jan
+禛	jan
+瑱	jan
+胗	jan
+娠	jan
+畛	jan
+鬒	jan
+甽	jan
+薽	jan
+籈	jan
+黰	jan
+蜄	jan
+曾	jang
+爭	jang
+增	jang
+丁	jang
+贈	jang
+僧	jang
+掙	jang
+箏	jang
+睜	jang
+錚	jang
+憎	jang
+崢	jang
+諍	jang
+猙	jang
+噌	jang
+琤	jang
+繒	jang
+甑	jang
+罾	jang
+橧	jang
+鬠	jang
+矰	jang
+執	jap
+汁	jap
+縶	jap
+馽	jap
+埶	jap
+蓻	jap
+質	jat
+疾	jat
+蟄	jat
+嫉	jat
+窒	jat
+姪	jat
+蛭	jat
+桎	jat
+侄	jat
+郅	jat
+枳	jat
+蒺	jat
+銍	jat
+挃	jat
+礩	jat
+騭	jat
+庢	jat
+紩	jat
+槉	jat
+櫍	jat
+膣	jat
+鑕	jat
+咥	jat
+厔	jat
+就	jau
+走	jau
+週	jau
+周	jau
+酒	jau
+奏	jau
+洲	jau
+州	jau
+宙	jau
+舟	jau
+驟	jau
+咒	jau
+袖	jau
+皺	jau
+糗	jau
+鄒	jau
+晝	jau
+岫	jau
+揍	jau
+啾	jau
+肘	jau
+揪	jau
+謅	jau
+鷲	jau
+紂	jau
+帚	jau
+冑	jau
+啁	jau
+縐	jau
+胄	jau
+僦	jau
+賙	jau
+陬	jau
+籀	jau
+酎	jau
+鄹	jau
+菆	jau
+侜	jau
+騶	jau
+僽	jau
+褎	jau
+諏	jau
+輖	jau
+盩	jau
+掫	jau
+湫	jau
+媰	jau
+甃	jau
+噣	jau
+鵃	jau
+婤	jau
+緅	jau
+譸	jau
+輈	jau
+鯫	jau
+娵	jau
+郰	jau
+咮	jau
+鯞	jau
+這	je
+者	je
+謝	je
+啫	je	1000
+姐	je
+借	je
+藉	je
+遮	je
+蔗	je
+嗟	je
+榭	je
+鷓	je
+柘	je
+鍺	je
+罝	je
+赭	je
+唶	je
+隻	jek
+炙	jek
+蓆	jek
+摭	jek
+跖	jek
+啫	jek
+鄭	jeng
+井	jeng
+淨	jeng
+凈	jeng
+丼	jeng
+最	jeui
+追	jeui
+罪	jeui
+序	jeui
+聚	jeui
+嘴	jeui
+醉	jeui
+敘	jeui
+嶼	jeui
+沮	jeui
+錐	jeui
+椎	jeui
+贅	jeui
+綴	jeui
+狙	jeui
+咀	jeui
+隹	jeui
+蛆	jeui
+雎	jeui
+墬	jeui
+懟	jeui
+惴	jeui
+齟	jeui
+蕞	jeui
+騅	jeui
+罝	jeui
+葅	jeui
+疽	jeui
+晬	jeui
+趄	jeui
+芧	jeui
+鵻	jeui
+縋	jeui
+脽	jeui
+觜	jeui
+膇	jeui
+檇	jeui
+跙	jeui
+苴	jeui
+漵	jeui
+菹	jeui
+甀	jeui
+硾	jeui
+鱮	jeui
+藇	jeui
+著	jeuk
+桌	jeuk
+爵	jeuk
+雀	jeuk
+酌	jeuk
+嚼	jeuk
+灼	jeuk
+勺	jeuk
+芍	jeuk
+焯	jeuk
+妁	jeuk
+斫	jeuk
+汋	jeuk
+碏	jeuk
+爝	jeuk
+禚	jeuk
+皭	jeuk
+皵	jeuk
+穛	jeuk
+進	jeun
+準	jeun
+盡	jeun
+俊	jeun
+純	jeun
+尊	jeun
+准	jeun
+儘	jeun
+津	jeun
+遵	jeun
+晉	jeun
+駿	jeun
+峻	jeun
+屯	jeun
+樽	jeun	1000
+燼	jeun
+雋	jeun
+臻	jeun
+竣	jeun
+隼	jeun
+蓁	jeun
+諄	jeun
+浚	jeun
+榛	jeun
+濬	jeun
+縉	jeun
+畯	jeun
+吨	jeun
+啍	jeun
+搢	jeun
+溱	jeun
+肫	jeun
+焌	jeun
+寯	jeun
+迍	jeun
+鵔	jeun
+藎	jeun
+鵻	jeun
+埻	jeun
+濜	jeun
+獉	jeun
+葰	jeun
+餕	jeun
+窀	jeun
+踆	jeun
+脧	jeun
+贐	jeun
+賮	jeun
+章	jeung
+像	jeung
+長	jeung
+將	jeung
+張	jeung
+且	jeung
+象	jeung
+獎	jeung
+帳	jeung
+掌	jeung
+障	jeung
+彰	jeung
+蔣	jeung
+丈	jeung
+漲	jeung
+仗	jeung
+蟑	jeung
+醬	jeung
+璋	jeung
+漿	jeung
+脹	jeung
+杖	jeung
+匠	jeung
+橡	jeung
+樟	jeung
+槳	jeung
+瘴	jeung
+賬	jeung
+漳	jeung
+嶂	jeung
+獐	jeung
+鱆	jeung
+嫜	jeung
+慞	jeung
+螿	jeung
+鄣	jeung
+幛	jeung
+傽	jeung
+仉	jeung
+粻	jeung
+鞝	jeung
+襐	jeung
+卒	jeut
+怵	jeut
+絀	jeut
+黜	jeut
+倅	jeut
+捽	jeut
+資	ji
+之	ji
+自	ji
+子	ji
+只	ji
+知	ji
+至	ji
+字	ji
+指	ji
+支	ji
+治	ji
+志	ji
+智	ji
+徵	ji
+止	ji
+致	ji
+仔	ji	1000
+置	ji
+紙	ji
+誌	ji
+址	ji
+紫	ji
+姊	ji
+氏	ji
+姿	ji
+枝	ji
+滋	ji
+茲	ji
+旨	ji
+寺	ji
+肢	ji
+芝	ji
+緻	ji
+稚	ji
+伺	ji
+摯	ji
+諮	ji
+胏	ji
+祇	ji
+飼	ji
+芷	ji
+脂	ji
+蜘	ji
+咫	ji
+梓	ji
+祉	ji
+巳	ji
+趾	ji
+吱	ji
+恣	ji
+俟	ji
+痔	ji
+咨	ji
+籽	ji
+漬	ji
+孜	ji
+嗣	ji
+痣	ji
+雉	ji
+祀	ji
+酯	ji
+玆	ji
+涘	ji
+沚	ji
+衹	ji
+貲	ji
+胝	ji
+祗	ji
+輊	ji
+扺	ji
+廌	ji
+阯	ji
+孳	ji
+厎	ji
+輜	ji
+摰	ji
+錙	ji
+梔	ji
+忮	ji
+呲	ji
+豸	ji
+彘	ji
+枳	ji
+眥	ji
+齜	ji
+笥	ji
+滓	ji
+黹	ji
+訾	ji
+緇	ji
+躓	ji
+菑	ji
+淄	ji
+鄑	ji
+卮	ji
+庤	ji
+髭	ji
+鯔	ji
+泲	ji
+僿	ji
+歭	ji
+牸	ji
+畤	ji
+蛓	ji
+誃	ji
+鋕	ji
+疐	ji
+兕	ji
+甾	ji
+鎡	ji
+椥	ji
+搘	ji
+觜	ji
+恉	ji
+秖	ji
+粢	ji
+鳷	ji
+秭	ji
+趑	ji
+跱	ji
+榰	ji
+鼒	ji
+嵫	ji
+胔	ji
+滍	ji
+懥	ji
+鷙	ji
+耜	ji
+坁	ji
+胾	ji
+軹	ji
+觶	ji
+贄	ji
+耔	ji
+騺	ji
+訿	ji
+直	jik
+即	jik
+值	jik
+職	jik
+績	jik
+積	jik
+籍	jik
+席	jik
+織	jik
+寂	jik
+植	jik
+蹟	jik
+夕	jik
+跡	jik
+殖	jik
+脊	jik
+汐	jik
+矽	jik
+鯽	jik
+嘖	jik
+炙	jik
+唧	jik
+稷	jik
+瘠	jik
+稙	jik
+鶺	jik
+陟	jik
+勣	jik
+湜	jik
+幘	jik
+埴	jik
+踖	jik
+磧	jik
+蟙	jik
+褯	jik
+蹐	jik
+穸	jik
+耤	jik
+蹠	jik
+癪	jik
+堲	jik
+樴	jik
+畟	jik
+蝍	jik
+漸	jim
+佔	jim
+尖	jim
+占	jim
+詹	jim
+黏	jim
+沾	jim
+瞻	jim
+粘	jim
+霑	jim
+僭	jim
+魙	jim
+譫	jim
+覘	jim
+臢	jim
+櫼	jim
+颭	jim
+襜	jim
+僣	jim
+薝	jim
+幨	jim
+熸	jim
+戰	jin
+展	jin
+薦	jin
+闡	jin
+剪	jin
+箭	jin
+賤	jin
+纏	jin
+煎	jin
+顫	jin
+輾	jin
+荐	jin
+箋	jin
+濺	jin
+餞	jin
+氈	jin
+翦	jin
+揃	jin
+旃	jin
+膻	jin
+搌	jin
+戔	jin
+羶	jin
+牮	jin
+俴	jin
+邅	jin
+戩	jin
+繟	jin
+鸇	jin
+帴	jin
+鱣	jin
+蕆	jin
+韉	jin
+湔	jin
+樿	jin
+燀	jin
+皽	jin
+劗	jin
+籛	jin
+洊	jin
+牋	jin
+諓	jin
+賧	jin
+躽	jin
+鬋	jin
+譾	jin
+饘	jin
+正	jing
+政	jing
+整	jing
+精	jing
+剩	jing
+證	jing
+徵	jing
+靜	jing
+鄭	jing
+井	jing
+淨	jing
+睛	jing
+証	jing
+晶	jing
+症	jing
+靖	jing
+征	jing
+偵	jing
+貞	jing
+菁	jing
+蒸	jing
+禎	jing
+阱	jing
+怔	jing
+癥	jing
+靚	jing	1000
+鉦	jing
+楨	jing
+旌	jing
+凊	jing
+凈	jing
+陘	jing
+幀	jing
+竫	jing
+箐	jing
+丼	jing
+湞	jing
+烝	jing
+鶄	jing
+接	jip
+輒	jip
+摺	jip
+懾	jip
+褟	jip
+囁	jip
+浹	jip
+褶	jip
+倢	jip
+楫	jip
+霅	jip
+讋	jip
+耴	jip
+詀	jip
+讘	jip
+鮿	jip
+節	jit
+哲	jit
+折	jit
+截	jit
+捷	jit
+浙	jit
+睫	jit
+蜇	jit
+櫛	jit
+婕	jit
+癤	jit
+疌	jit
+淛	jit
+瀄	jit
+箑	jit
+照	jiu
+趙	jiu
+招	jiu
+朝	jiu
+召	jiu
+焦	jiu
+兆	jiu
+蕉	jiu
+椒	jiu
+礁	jiu
+沼	jiu
+詔	jiu
+勦	jiu
+剿	jiu
+炤	jiu
+醮	jiu
+鷦	jiu
+曌	jiu
+燋	jiu
+摷	jiu
+旐	jiu
+膲	jiu
+鐎	jiu
+湫	jiu
+僬	jiu
+皭	jiu
+釂	jiu
+嶕	jiu
+趭	jiu
+垗	jiu
+咗	jo
+座	jo
+助	jo
+左	jo
+坐	jo
+阻	jo
+佐	jo
+詛	jo
+俎	jo
+砠	jo
+唑	jo
+謯	jo
+岨	jo
+莝	jo
+在	joi
+再	joi
+載	joi
+哉	joi
+災	joi
+宰	joi
+栽	joi
+囝	joi
+崽	joi
+甾	joi
+縩	joi
+縡	joi
+作	jok
+昨	jok
+乍	jok
+鑿	jok
+濯	jok
+擢	jok
+酢	jok
+柞	jok
+怍	jok
+砟	jok
+鷟	jok
+笮	jok
+筰	jok
+裝	jong
+狀	jong
+藏	jong
+莊	jong
+撞	jong
+壯	jong
+髒	jong
+臟	jong
+葬	jong
+妝	jong
+庄	jong
+樁	jong
+贓	jong
+臧	jong
+戇	jong	1000
+奘	jong
+牂	jong
+粧	jong
+駔	jong
+做	jou
+組	jou
+造	jou
+早	jou
+遭	jou
+租	jou
+祖	jou
+糟	jou
+澡	jou
+蚤	jou
+皂	jou
+藻	jou
+棗	jou
+灶	jou
+蹧	jou
+葄	jou
+祚	jou
+慥	jou
+皁	jou
+胙	jou
+璅	jou
+葃	jou
+蒩	jou
+阼	jou
+璪	jou
+簉	jou
+墜	jui
+竹	juk
+續	juk
+足	juk
+屬	juk
+族	juk
+祝	juk
+觸	juk
+俗	juk
+逐	juk
+築	juk
+捉	juk
+軸	juk
+濁	juk
+燭	juk
+粥	juk
+筑	juk
+竺	juk
+囑	juk
+矚	juk
+躅	juk
+蠋	juk
+鐲	juk
+柷	juk
+慉	juk
+鏃	juk
+嗾	juk
+妯	juk
+瘃	juk
+舳	juk
+哫	juk
+臅	juk
+娖	juk
+灂	juk
+藚	juk
+欘	juk
+浞	juk
+中	jung
+種	jung
+重	jung
+總	jung
+終	jung
+眾	jung
+宗	jung
+鐘	jung
+忠	jung
+縱	jung
+鍾	jung
+仲	jung
+綜	jung
+蹤	jung
+衷	jung
+粽	jung
+頌	jung
+腫	jung
+誦	jung
+訟	jung
+棕	jung
+踵	jung
+傯	jung
+忪	jung
+僮	jung
+盅	jung
+鬃	jung
+种	jung
+摠	jung
+舂	jung
+螽	jung
+翪	jung
+伀	jung
+倧	jung
+繌	jung
+狆	jung
+鍐	jung
+騣	jung
+偅	jung
+悰	jung
+妐	jung
+瘲	jung
+尰	jung
+豵	jung
+鬷	jung
+住	jyu
+主	jyu
+著	jyu
+注	jyu
+諸	jyu
+註	jyu
+豬	jyu
+朱	jyu
+珠	jyu
+駐	jyu
+煮	jyu
+株	jyu
+蛛	jyu
+侏	jyu
+鑄	jyu
+誅	jyu
+茱	jyu
+蛀	jyu
+渚	jyu
+姝	jyu
+拄	jyu
+銖	jyu
+硃	jyu
+箸	jyu
+櫫	jyu
+炷	jyu
+洙	jyu
+翥	jyu
+邾	jyu
+馵	jyu
+瀦	jyu
+祩	jyu
+麈	jyu
+疰	jyu
+鉒	jyu
+噣	jyu
+陼	jyu
+櫧	jyu
+砫	jyu
+咮	jyu
+轉	jyun
+專	jyun
+尊	jyun
+鑽	jyun
+遵	jyun
+磚	jyun
+纂	jyun
+鱒	jyun
+囀	jyun
+鐫	jyun
+躦	jyun
+縳	jyun
+酇	jyun
+鱄	jyun
+撙	jyun
+顓	jyun
+噂	jyun
+鐏	jyun
+耑	jyun
+纘	jyun
+剸	jyun
+塼	jyun
+嫥	jyun
+儹	jyun
+鄟	jyun
+絕	jyut
+拙	jyut
+茁	jyut
+綴	jyut
+啜	jyut	1000
+輟	jyut
+惙	jyut
+掇	jyut
+崒	jyut
+嘬	jyut
+畷	jyut
+梲	jyut
+裰	jyut
+醊	jyut
+蕝	jyut
+錣	jyut
+餟	jyut
+敪	jyut
+剟	jyut
+歠	jyut
+卡	ka
+咖	ka
+鉲	ka
+佧	ka
+髂	ka
+襾	ka
+楷	kaai
+鍇	kaai
+緙	kaak
+闟	kaap
+咭	kaat
+靠	kaau
+銬	kaau
+啟	kai
+溪	kai
+契	kai
+稽	kai
+谿	kai
+綮	kai
+栔	kai
+嵇	kai
+瘛	kai
+鸂	kai
+棨	kai
+蟿	kai
+喀	kak
+琴	kam
+襟	kam
+禽	kam
+擒	kam
+衿	kam
+芩	kam
+衾	kam
+妗	kam
+噙	kam
+紟	kam
+檎	kam
+勤	kan
+芹	kan
+懃	kan
+瘽	kan
+掯	kang
+裉	kang
+及	kap
+給	kap
+級	kap
+吸	kap
+汲	kap
+笈	kap
+岌	kap
+歙	kap
+扱	kap
+伋	kap
+咳	kat
+咭	kat
+擖	kat
+欬	kat
+球	kau
+求	kau
+扣	kau
+仇	kau
+寇	kau
+舅	kau
+叩	kau
+裘	kau
+摳	kau
+鳩	kau
+臼	kau
+逑	kau
+蔻	kau
+釦	kau
+搆	kau
+毬	kau
+訄	kau
+虯	kau
+璆	kau
+俅	kau
+絿	kau
+犰	kau
+佝	kau
+梂	kau
+彄	kau
+巰	kau
+觩	kau
+筘	kau
+艽	kau
+鷇	kau
+賕	kau
+緱	kau
+銶	kau
+厹	kau
+觓	kau
+滱	kau
+耩	kau
+簆	kau
+騎	ke
+伽	ke
+茄	ke
+瘸	ke
+其	kei
+期	kei
+奇	kei
+騎	kei
+企	kei
+棋	kei
+旗	kei
+琪	kei
+祈	kei
+歧	kei
+崎	kei
+琦	kei
+暨	kei
+祇	kei
+祺	kei
+亟	kei
+麒	kei
+淇	kei
+冀	kei
+畸	kei
+岐	kei
+祁	kei
+騏	kei
+俟	kei
+驥	kei
+鰭	kei
+耆	kei
+頎	kei
+圻	kei
+碁	kei
+旂	kei
+萁	kei
+蘄	kei
+亓	kei
+蜞	kei
+欹	kei
+綦	kei
+攲	kei
+鮨	kei
+塈	kei
+碕	kei
+跂	kei
+懻	kei
+魌	kei
+蚑	kei
+軝	kei
+肵	kei
+疧	kei
+榿	kei
+鬐	kei
+觭	kei
+劇	kek
+屐	kek
+噱	kek
+胠	keu
+佢	keui
+區	keui
+距	keui
+拒	keui
+驅	keui
+俱	keui
+拘	keui
+軀	keui
+駒	keui
+渠	keui
+嶇	keui
+鴝	keui
+璩	keui
+袪	keui
+衢	keui
+磲	keui
+祛	keui
+佉	keui
+胊	keui
+絇	keui
+劬	keui
+蕖	keui
+痀	keui
+敺	keui
+鼩	keui
+岣	keui
+籧	keui
+泃	keui
+竘	keui
+蟝	keui
+蘧	keui
+呿	keui
+腒	keui
+阹	keui
+氍	keui
+臞	keui
+軥	keui
+卻	keuk
+醵	keuk
+噳	keuk
+臄	keuk
+強	keung
+彊	keung
+襁	keung
+羥	keung
+弶	keung
+膙	keung
+繈	keung
+鏹	keung
+鉗	kim
+箝	kim
+黔	kim
+鈐	kim
+鉆	kim
+拑	kim
+黚	kim
+乾	kin
+虔	kin
+掮	kin
+楗	kin
+擎	king
+傾	king
+凝	king
+瓊	king
+頃	king
+鯨	king
+煢	king
+嬛	king
+墘	king
+廎	king
+黥	king
+檠	king
+勍	king
+瞏	king
+顈	king
+惸	king
+契	kit
+羯	kit
+揭	kit
+頡	kit
+詰	kit
+擷	kit
+訐	kit
+孑	kit
+黠	kit
+咭	kit
+鍥	kit
+挈	kit
+碣	kit
+劼	kit
+朅	kit
+纈	kit
+楬	kit
+緳	kit
+橋	kiu
+僑	kiu
+喬	kiu
+翹	kiu
+竅	kiu
+蕎	kiu
+嶠	kiu
+荍	kiu
+礄	kiu
+嘺	kiu
+繑	kiu
+趫	kiu
+概	koi
+蓋	koi
+慨	koi
+丐	koi
+溉	koi
+鈣	koi
+愾	koi
+戤	koi
+確	kok
+郝	kok
+榷	kok
+壑	kok
+恪	kok
+涸	kok
+搉	kok
+愨	kok
+矐	kok
+塙	kok
+碻	kok
+礐	kok
+臛	kok
+确	kok
+抗	kong
+擴	kong
+扛	kong
+慷	kong
+亢	kong
+炕	kong
+伉	kong
+閌	kong
+匟	kong
+犺	kong
+鈧	kong
+箍	ku
+繪	kui
+賄	kui
+潰	kui
+劊	kui
+檜	kui
+薈	kui
+膾	kui
+獪	kui
+儈	kui
+憒	kui
+澮	kui
+聵	kui
+鄶	kui
+鱠	kui
+繢	kui
+瞶	kui
+曲	kuk
+麴	kuk
+蛐	kuk
+穹	kung
+窮	kung
+跫	kung
+蛩	kung
+藭	kung
+銎	kung
+匑	kung
+矼	kung
+笻	kung
+邛	kung
+筇	kung
+括	kut
+豁	kut
+聒	kut
+佸	kut
+适	kut
+栝	kut
+蛞	kut
+髺	kut
+鴰	kut
+筈	kut
+鬠	kut
+誇	kwa
+跨	kwa
+垮	kwa
+夸	kwa
+胯	kwa
+挎	kwa
+荂	kwa
+骻	kwa
+侉	kwa
+姱	kwa
+銙	kwa
+逛	kwaang
+框	kwaang
+眶	kwaang
+筐	kwaang
+夼	kwaang
+規	kwai
+虧	kwai
+愧	kwai
+攜	kwai
+窺	kwai
+葵	kwai
+盔	kwai
+睽	kwai
+揆	kwai
+逵	kwai
+畦	kwai
+馗	kwai
+夔	kwai
+眭	kwai
+暌	kwai
+槻	kwai
+蹞	kwai
+騤	kwai
+闚	kwai
+媿	kwai
+槼	kwai
+雟	kwai
+巋	kwai
+跬	kwai
+巂	kwai
+酅	kwai
+觿	kwai
+頍	kwai
+頯	kwai
+蠵	kwai
+鑴	kwai
+嶲	kwai
+群	kwan
+困	kwan
+滾	kwan
+坤	kwan
+裙	kwan
+菌	kwan
+崑	kwan
+睏	kwan
+窘	kwan
+捆	kwan
+綑	kwan
+壼	kwan
+髡	kwan
+箘	kwan
+悃	kwan
+閫	kwan
+宭	kwan
+稛	kwan
+囷	kwan
+捃	kwan
+麇	kwan
+鶤	kwan
+擴	kwok
+廓	kwok
+漷	kwok
+鞹	kwok
+狂	kwong
+擴	kwong
+礦	kwong
+曠	kwong
+鄺	kwong
+壙	kwong
+纊	kwong
+夼	kwong
+絖	kwong
+廥	kwui
+毌	kwun
+權	kyun
+拳	kyun
+蜷	kyun
+顴	kyun
+鬈	kyun
+惓	kyun
+踡	kyun
+蠸	kyun
+決	kyut
+缺	kyut
+訣	kyut
+抉	kyut
+闕	kyut
+厥	kyut
+譎	kyut
+闋	kyut
+獗	kyut
+蹶	kyut
+蕨	kyut
+孓	kyut
+噘	kyut
+撅	kyut
+鴃	kyut
+鐍	kyut
+橛	kyut
+炔	kyut
+趹	kyut
+劂	kyut
+觼	kyut
+玦	kyut
+駃	kyut
+觖	kyut
+嶡	kyut
+蟨	kyut
+啦	la
+喇	la	1000
+拉	la
+罅	la	1000
+鞡	la
+拉	laai
+賴	laai
+瀨	laai	1000
+酹	laai
+籟	laai
+癩	laai
+藾	laai
+孻	laai
+嘞	laak	1000
+肋	laak
+藍	laam
+籃	laam
+艦	laam
+嵐	laam
+覽	laam
+濫	laam
+欖	laam
+攬	laam
+纜	laam
+檻	laam
+婪	laam
+襤	laam
+灠	laam
+爁	laam
+惏	laam
+轞	laam
+箖	laam
+嚂	laam
+爛	laan
+蘭	laan
+懶	laan
+欄	laan
+攔	laan
+闌	laan
+瀾	laan
+斕	laan
+躝	laan	1000
+籣	laan
+鑭	laan
+嬾	laan
+糷	laan
+襴	laan
+讕	laan
+冷	laang
+立	laap
+垃	laap
+蠟	laap
+臘	laap
+邋	laap
+腊	laap
+擸	laap
+妠	laap
+砬	laap
+辣	laat
+剌	laat
+瘌	laat
+鬎	laat
+撈	laau
+嚟	lai	10000
+例	lai
+麗	lai
+禮	lai
+厲	lai
+勵	lai
+黎	lai
+隸	lai
+蠣	lai
+儷	lai
+礪	lai
+犁	lai
+荔	lai
+豊	lai
+黧	lai
+鱧	lai
+澧	lai
+蠡	lai
+醴	lai
+癘	lai
+藜	lai
+砅	lai
+濿	lai
+欐	lai
+蔾	lai
+糲	lai
+樏	lai
+勒	lak
+肋	lak
+叻	lak	1000
+鰳	lak
+阞	lak
+仂	lak
+泐	lak
+砳	lak
+竻	lak
+諗	lam	1000
+林	lam
+臨	lam
+霖	lam
+琳	lam
+淋	lam
+凜	lam
+懍	lam
+痳	lam
+廩	lam
+菻	lam
+罧	lam
+壈	lam
+檁	lam
+秝	lang
+舋	lang
+鬅	lang
+粒	lap
+笠	lap
+鑞	lap
+苙	lap
+鷑	lap
+辣	lat
+甩	lat
+流	lau
+留	lau
+樓	lau
+劉	lau
+露	lau
+漏	lau
+柳	lau
+溜	lau
+陋	lau
+嘍	lau
+琉	lau
+瀏	lau
+硫	lau
+瘤	lau
+摟	lau
+榴	lau
+髏	lau
+餾	lau
+婁	lau
+鏤	lau
+簍	lau
+蹓	lau
+螻	lau
+荖	lau
+遛	lau
+鶹	lau
+騮	lau
+僂	lau
+廔	lau
+蔞	lau
+鷚	lau
+窶	lau
+塿	lau
+鎏	lau
+綹	lau
+瞜	lau
+瘺	lau
+霤	lau
+嶁	lau
+艛	lau
+鎦	lau
+蒟	lau
+耬	lau
+旒	lau
+飀	lau
+漊	lau
+鞻	lau
+罶	lau
+謱	lau
+鏐	lau
+咧	le
+哩	le
+褦	le
+你	lei
+嚟	lei	10000
+理	lei
+利	lei
+李	lei
+離	lei
+里	lei
+哩	lei
+莉	lei
+璃	lei
+履	lei
+梨	lei
+狸	lei
+俐	lei
+蒞	lei
+釐	lei
+鯉	lei
+籬	lei
+吏	lei
+漓	lei
+罹	lei
+貍	lei
+鸝	lei
+厘	lei
+浬	lei
+犛	lei
+鋰	lei
+痢	lei
+獼	lei
+俚	lei
+驪	lei
+娌	lei
+灕	lei
+邐	lei
+詈	lei
+蘺	lei
+猁	lei
+离	lei
+鱺	lei
+剺	lei
+褵	lei
+唎	lei
+篱	lei
+喱	lei
+蜊	lei
+梩	lei
+劙	lei
+嫠	lei
+摛	lei
+醨	lei
+漦	lei
+縭	lei
+樆	lei
+鬁	lei
+謧	lei
+孋	lei
+脷	lei
+叻	lek
+靚	leng	1000
+領	leng
+嶺	leng
+裡	leui
+類	leui
+壘	leui
+慮	leui
+雷	leui
+累	leui
+淚	leui
+旅	leui
+呂	leui
+侶	leui
+濾	leui
+驢	leui
+蕾	leui
+履	leui
+屢	leui
+鋁	leui
+磊	leui
+裏	leui
+儡	leui
+縷	leui
+擂	leui
+戾	leui
+閭	leui
+褸	leui
+唳	leui
+纇	leui
+鐳	leui
+羸	leui
+纍	leui
+櫚	leui
+膂	leui
+罍	leui
+穭	leui
+嫘	leui
+畾	leui
+礨	leui
+耒	leui
+盭	leui
+虆	leui
+櫐	leui
+沴	leui
+櫑	leui
+勴	leui
+絫	leui
+蔂	leui
+儢	leui
+癗	leui
+縲	leui
+藘	leui
+欙	leui
+礧	leui
+郘	leui
+檑	leui
+灅	leui
+礌	leui
+儽	leui
+鑢	leui
+藟	leui
+寠	leui
+略	leuk
+掠	leuk
+論	leun
+輪	leun
+倫	leun
+吝	leun
+鄰	leun
+麟	leun
+淪	leun
+卵	leun
+綸	leun
+崙	leun
+鱗	leun
+侖	leun
+藺	leun
+磷	leun
+遴	leun
+躪	leun
+嶙	leun
+粼	leun
+掄	leun
+璘	leun
+燐	leun
+圇	leun
+轔	leun
+甐	leun
+橉	leun
+瞵	leun
+閵	leun
+兩	leung
+量	leung
+良	leung
+亮	leung
+諒	leung
+輛	leung
+涼	leung
+梁	leung
+倆	leung
+樑	leung
+糧	leung
+魎	leung
+粱	leung
+踉	leung
+喨	leung
+蜋	leung
+俍	leung
+緉	leung
+莨	leung
+裲	leung
+輬	leung
+啢	leung
+倞	leung
+率	leut
+律	leut
+栗	leut
+慄	leut
+聿	leut
+嵂	leut
+膟	leut
+繘	leut
+繂	leut
+篥	leut
+葎	leut
+哩	li
+力	lik
+歷	lik
+壢	lik
+靂	lik
+曆	lik
+瀝	lik
+礫	lik
+秝	lik
+櫪	lik
+叻	lik	1000
+櫟	lik
+鬲	lik
+酈	lik
+嚦	lik
+厤	lik
+轢	lik
+藶	lik
+躒	lik
+芀	lik
+磿	lik
+令	lim
+臉	lim
+廉	lim
+斂	lim
+簾	lim
+濂	lim
+歛	lim
+鐮	lim
+帘	lim
+殮	lim
+瀲	lim
+鎌	lim
+薟	lim
+蘞	lim
+蠊	lim
+奩	lim
+襜	lim
+溓	lim
+鬑	lim
+磏	lim
+襝	lim
+連	lin
+練	lin
+憐	lin
+蓮	lin
+鍊	lin
+煉	lin
+鰱	lin
+鏈	lin
+漣	lin
+輦	lin
+璉	lin
+槤	lin
+攆	lin
+楝	lin
+怜	lin
+湅	lin
+僆	lin
+嗹	lin
+摙	lin
+褳	lin
+另	ling
+令	ling
+靈	ling
+領	ling
+零	ling
+齡	ling
+玲	ling
+鈴	ling
+凌	ling
+嶺	ling
+陵	ling
+聆	ling
+伶	ling
+菱	ling
+稜	ling
+苓	ling
+愣	ling
+楞	ling
+泠	ling
+綾	ling
+羚	ling
+翎	ling
+崚	ling
+拎	ling
+淩	ling
+秝	ling
+鴒	ling
+堎	ling
+棱	ling
+囹	ling
+櫺	ling
+蛉	ling
+舲	ling
+夌	ling
+蘦	ling
+薐	ling
+醽	ling
+岭	ling
+笭	ling
+睖	ling
+稑	ling
+瓴	ling
+詅	ling
+欞	ling
+瓬	ling
+輘	ling
+鳹	ling
+鯪	ling
+狑	ling
+軨	ling
+酃	ling
+霝	ling
+獵	lip
+擸	lip
+鬣	lip
+躐	lip
+列	lit
+烈	lit
+裂	lit
+冽	lit
+捩	lit
+洌	lit
+迾	lit
+趔	lit
+纈	lit
+鴷	lit
+茢	lit
+了	liu
+料	liu
+聊	liu
+瞭	liu
+廖	liu
+療	liu
+溜	liu
+寮	liu
+遼	liu
+僚	liu
+寥	liu
+撩	liu
+潦	liu
+獠	liu
+膫	liu
+繚	liu
+嘹	liu
+蓼	liu
+燎	liu
+鐐	liu
+膋	liu
+翏	liu
+尥	liu
+嫽	liu
+屪	liu
+鄝	liu
+橑	liu
+簝	liu
+鷯	liu
+釕	liu
+憀	liu
+飂	liu
+豂	liu
+攞	lo	1000
+羅	lo
+囉	lo	1000
+邏	lo
+螺	lo
+鑼	lo
+蘿	lo
+裸	lo
+儸	lo
+咯	lo	1000
+籮	lo
+騾	lo
+玀	lo
+砢	lo
+摞	lo
+旯	lo
+蔂	lo
+蠃	lo
+臝	lo
+腡	lo
+瘰	lo
+欏	lo
+蓏	lo
+覶	lo
+囖	lo
+來	loi
+萊	loi
+睞	loi
+徠	loi
+崍	loi
+錸	loi
+騋	loi
+耒	loi
+淶	loi
+誄	loi
+鯠	loi
+郲	loi
+賚	loi
+樂	lok
+落	lok
+絡	lok
+洛	lok
+駱	lok
+烙	lok
+酪	lok
+咯	lok	1000
+珞	lok
+犖	lok
+漯	lok
+雒	lok
+硌	lok
+濼	lok
+躒	lok
+浪	long
+郎	long
+狼	long
+朗	long
+螂	long
+廊	long
+榔	long
+琅	long
+晾	long
+瑯	long
+桹	long
+鋃	long
+鎯	long
+蜋	long
+閬	long
+蒗	long
+崀	long
+筤	long
+莨	long
+埌	long
+稂	long
+烺	long
+塱	long
+路	lou
+老	lou
+露	lou
+勞	lou
+魯	lou
+爐	lou
+牢	lou
+盧	lou
+佬	lou	1000
+驢	lou
+撈	lou
+嚕	lou
+蘆	lou
+滷	lou
+廬	lou
+鷺	lou
+虜	lou
+姥	lou
+顱	lou
+擄	lou
+潞	lou
+賂	lou
+潦	lou
+嘮	lou
+鹵	lou
+鱸	lou
+璐	lou
+櫓	lou
+轤	lou
+癆	lou
+澇	lou
+栳	lou
+臚	lou
+輅	lou
+蟧	lou
+鐒	lou
+壚	lou
+鑪	lou
+艣	lou
+瀘	lou
+僗	lou
+艫	lou
+玈	lou
+嫪	lou
+銠	lou
+鐪	lou
+狫	lou
+醪	lou
+轑	lou
+籚	lou
+氌	lou
+鸕	lou
+纑	lou
+櫨	lou
+罏	lou
+磠	lou
+六	luk
+錄	luk
+陸	luk
+綠	luk
+鹿	luk
+碌	luk
+祿	luk
+戮	luk
+氯	luk
+麓	luk
+轆	luk
+蓼	luk
+漉	luk
+騄	luk
+籙	luk
+錴	luk
+摝	luk
+甪	luk
+醁	luk
+淥	luk
+菉	luk
+睩	luk
+簏	luk
+坴	luk
+僇	luk
+琭	luk
+逯	luk
+磟	luk
+熝	luk
+穋	luk
+盝	luk
+龍	lung
+弄	lung
+隆	lung
+籠	lung
+攏	lung
+壟	lung
+瓏	lung
+嚨	lung
+朧	lung
+聾	lung
+隴	lung
+窿	lung	1000
+瀧	lung
+矓	lung
+礱	lung
+蘢	lung
+衖	lung
+櫳	lung
+蠪	lung
+哢	lung
+篢	lung
+癃	lung
+巃	lung
+曨	lung
+儱	lung
+襱	lung
+聯	lyun
+亂	lyun
+戀	lyun
+巒	lyun
+欒	lyun
+鑾	lyun
+鸞	lyun
+攣	lyun
+臠	lyun
+孿	lyun
+孌	lyun
+灤	lyun
+薍	lyun
+圞	lyun
+劣	lyut
+酹	lyut
+捋	lyut
+鋝	lyut
+哷	lyut
+埒	lyut
+唔	m
+嘸	m
+呣	m
+五	m
+嗎	ma
+馬	ma
+嘛	ma
+碼	ma
+罵	ma
+麻	ma
+媽	ma
+瑪	ma
+螞	ma
+痲	ma
+蟆	ma
+嬤	ma
+痳	ma
+孖	ma
+嚜	ma
+禡	ma
+鎷	ma
+買	maai
+賣	maai
+邁	maai
+埋	maai
+霾	maai
+勱	maai
+薶	maai
+擘	maak
+萬	maan
+晚	maan
+慢	maan
+蠻	maan
+漫	maan
+曼	maan
+饅	maan
+蔓	maan
+鰻	maan
+謾	maan
+万	maan
+卍	maan
+矕	maan
+幔	maan
+鬘	maan
+嫚	maan
+縵	maan
+墁	maan
+僈	maan
+熳	maan
+鄤	maan
+鏝	maan
+姏	maan
+孟	maang
+猛	maang
+盲	maang
+蜢	maang
+繃	maang
+艋	maang
+錳	maang
+掤	maang
+盳	maang
+莔	maang
+抹	maat
+抶	maat
+貓	maau
+貌	maau
+矛	maau
+牡	maau
+茅	maau
+卯	maau
+錨	maau
+昴	maau
+茆	maau
+鉚	maau
+蟊	maau
+蝥	maau
+泖	maau
+咪	mai	1000
+迷	mai
+米	mai
+謎	mai
+袂	mai
+瞇	mai
+弭	mai
+醚	mai
+銤	mai
+眯	mai
+蛑	mai
+咡	mai
+渳	mai
+默	mak
+冒	mak
+麥	mak
+墨	mak
+脈	mak
+陌	mak
+驀	mak
+万	mak
+貘	mak
+嘜	mak
+貊	mak
+眽	mak
+嚜	mak
+霢	mak
+袙	mak
+纆	mak
+覛	mak
+袹	mak
+文	man
+問	man
+民	man
+聞	man
+敏	man
+雯	man
+吻	man
+紋	man
+閩	man
+蚊	man
+氓	man
+憫	man
+閔	man
+旻	man
+紊	man
+玟	man
+汶	man
+泯	man
+愍	man
+刎	man
+岷	man
+黽	man
+苠	man
+抿	man
+暋	man
+絻	man
+呅	man
+澠	man
+緡	man
+湣	man
+炆	man
+璺	man
+抆	man
+呡	man
+魰	man
+僶	man
+閿	man
+芠	man
+敃	man
+甿	man
+笢	man
+盟	mang
+萌	mang
+掤	mang
+甍	mang
+乜	mat	10000
+物	mat
+密	mat
+勿	mat
+蜜	mat
+襪	mat
+謐	mat
+宓	mat
+沕	mat
+某	mau
+謀	mau
+茂	mau
+牡	mau
+貿	mau
+謬	mau
+眸	mau
+懋	mau
+牟	mau
+繆	mau
+哞	mau
+畝	mau
+楙	mau
+袤	mau
+侔	mau
+雺	mau
+髳	mau
+鍪	mau
+瞀	mau
+麰	mau
+鄮	mau
+睯	mau
+鞪	mau
+踎	mau
+咩	me	1000
+乜	me	10000
+歪	me
+羋	me
+美	mei
+未	mei
+味	mei
+微	mei
+尾	mei
+眉	mei
+彌	mei
+魅	mei
+媚	mei
+薇	mei
+楣	mei
+靡	mei
+寐	mei
+湄	mei
+娓	mei
+鎂	mei
+糜	mei
+黴	mei
+弭	mei
+嵋	mei
+獼	mei
+麋	mei
+媺	mei
+渼	mei
+縻	mei
+敉	mei
+眯	mei
+蘼	mei
+屘	mei
+亹	mei
+鮇	mei
+冞	mei
+郿	mei
+沕	mei
+醾	mei
+溦	mei
+蝞	mei
+名	meng
+命	meng
+乜	mi
+覓	mik
+糸	mik
+冪	mik
+幭	mik
+羃	mik
+幦	mik
+鼏	mik
+塓	mik
+幎	mik
+面	min
+免	min
+眠	min
+麵	min
+勉	min
+綿	min
+棉	min
+冕	min
+緬	min
+娩	min
+俛	min
+眄	min
+湎	min
+愐	min
+沔	min
+丏	min
+鮸	min
+偭	min
+櫋	min
+名	ming
+明	ming
+命	ming
+銘	ming
+鳴	ming
+冥	ming
+茗	ming
+瞑	ming
+暝	ming
+皿	ming
+螟	ming
+酩	ming
+溟	ming
+嫇	ming
+洺	ming
+榠	ming
+蓂	ming
+鄍	ming
+滅	mit
+蔑	mit
+篾	mit
+衊	mit
+搣	mit
+蠛	mit
+喵	miu
+妙	miu
+描	miu
+秒	miu
+苗	miu
+廟	miu
+渺	miu
+瞄	miu
+藐	miu
+淼	miu
+繆	miu
+杳	miu
+緲	miu
+邈	miu
+杪	miu
+眇	miu
+宎	miu
+苖	miu
+皛	miu
+玅	miu
+麼	mo
+魔	mo
+摩	mo
+摸	mo
+么	mo
+磨	mo
+蘑	mo
+饃	mo
+塺	mo
+劘	mo
+氂	moi
+幕	mok
+莫	mok
+摸	mok
+寞	mok
+漠	mok
+膜	mok
+剝	mok
+鏌	mok
+瘼	mok
+瞙	mok
+幙	mok
+鄚	mok
+嗼	mok
+網	mong
+望	mong
+忘	mong
+忙	mong
+亡	mong
+茫	mong
+芒	mong
+妄	mong
+氓	mong
+惘	mong
+莽	mong
+罔	mong
+蟒	mong
+魍	mong
+网	mong
+漭	mong
+硭	mong
+汒	mong
+鋩	mong
+虻	mong
+輞	mong
+蘉	mong
+尨	mong
+邙	mong
+牻	mong
+鞔	mong
+駹	mong
+哤	mong
+鄳	mong
+冇	mou	1000
+無	mou
+務	mou
+武	mou
+舞	mou
+模	mou
+母	mou
+毛	mou
+亡	mou
+冒	mou
+帽	mou
+慕	mou
+巫	mou
+姆	mou
+霧	mou
+暮	mou
+墓	mou
+毋	mou
+募	mou
+侮	mou
+戊	mou
+鵡	mou
+糢	mou
+蕪	mou
+姥	mou
+誣	mou
+拇	mou
+摹	mou
+旄	mou
+髦	mou
+謨	mou
+騖	mou
+嫵	mou
+鶩	mou
+芼	mou
+耄	mou
+瑁	mou
+憮	mou
+婺	mou
+潕	mou
+媢	mou
+毷	mou
+廡	mou
+膴	mou
+碔	mou
+鉧	mou
+眊	mou
+嫫	mou
+酕	mou
+甒	mou
+每	mui
+妹	mui
+梅	mui
+媒	mui
+玫	mui
+昧	mui
+霉	mui
+枚	mui
+煤	mui
+莓	mui
+眛	mui
+脢	mui
+浼	mui
+苺	mui
+堳	mui
+痗	mui
+鋂	mui
+燘	mui
+腜	mui
+禖	mui
+目	muk
+木	muk
+牧	muk
+穆	muk
+沐	muk
+睦	muk
+苜	muk
+霂	muk
+鉬	muk
+坶	muk
+毣	muk
+楘	muk
+們	mun
+門	mun
+滿	mun
+悶	mun
+瞞	mun
+捫	mun
+蹣	mun
+顢	mun
+璊	mun
+燜	mun
+懣	mun
+穈	mun
+亹	mun
+樠	mun
+鞔	mun
+鍆	mun
+虋	mun
+夢	mung
+蒙	mung
+朦	mung
+檬	mung
+矇	mung
+濛	mung
+懵	mung
+蠓	mung
+鄸	mung
+礞	mung
+瞢	mung
+曚	mung
+幪	mung
+尨	mung
+艨	mung
+儚	mung
+霥	mung
+饛	mung
+沒	mut
+末	mut
+抹	mut
+沫	mut
+茉	mut
+沬	mut
+歿	mut
+妺	mut
+秣	mut
+靺	mut
+瀎	mut
+歾	mut
+抶	mut
+那	na
+哪	na
+拿	na
+拏	na
+嗱	na
+妳	naai
+乃	naai
+奶	naai
+迺	naai
+鼐	naai
+氖	naai
+嬭	naai
+褦	naai
+艿	naai
+釢	naai
+男	naam
+南	naam
+喃	naam
+楠	naam
+囡	naam
+腩	naam
+諵	naam
+蝻	naam
+柟	naam
+揇	naam
+難	naan
+赧	naan
+戁	naan
+納	naap
+吶	naap
+衲	naap
+鈉	naap
+魶	naap
+軜	naap
+捺	naat
+鬧	naau
+撓	naau
+錨	naau
+淖	naau
+鐃	naau
+橈	naau
+孬	naau
+呶	naau
+怓	naau
+峱	naau
+猱	naau
+譊	naau
+嶩	naau
+泥	nai
+坭	nai
+苨	nai
+抳	nai
+臡	nai
+諗	nam	1000
+稔	nam
+淰	nam
+腍	nam
+煁	nam
+撚	nan
+能	nang
+褦	nang
+粒	nap
+凹	nap
+湆	nap
+訥	nat
+肭	nat
+扭	nau
+紐	nau
+鈕	nau
+妞	nau
+朽	nau
+耨	nau
+忸	nau
+嬲	nau
+糅	nau
+狃	nau
+鎒	nau
+獳	nau
+呢	ne
+乜	ne
+你	nei
+呢	nei
+您	nei
+妳	nei
+尼	nei
+妮	nei
+彌	nei
+膩	nei
+瀰	nei
+餌	nei
+旎	nei
+怩	nei
+禰	nei
+珥	nei
+濔	nei
+婗	nei
+鈮	nei
+麛	nei
+檷	nei
+女	neui
+餒	neui
+釹	neui
+娘	neung
+孃	neung
+吶	neut
+訥	neut
+五	ng
+嗯	ng
+誤	ng
+吳	ng
+午	ng
+伍	ng
+吾	ng
+悟	ng
+唔	ng
+梧	ng
+蜈	ng
+晤	ng
+浯	ng
+寤	ng
+忤	ng
+鋘	ng
+啎	ng
+鼯	ng
+仵	ng
+迕	ng
+牾	ng
+遻	ng
+痦	ng
+峿	ng
+郚	ng
+焐	ng
+亞	nga
+雅	nga
+牙	nga
+瓦	nga
+訝	nga
+芽	nga
+椏	nga
+衙	nga
+蚜	nga
+枒	nga
+伢	nga
+迓	nga
+犽	nga
+砑	nga
+岈	nga
+佤	nga
+艾	ngaai
+涯	ngaai
+崖	ngaai
+捱	ngaai
+堐	ngaai
+刈	ngaai
+睚	ngaai
+乂	ngaai
+啀	ngaai
+呃	ngaak	1000
+額	ngaak
+逆	ngaak
+軛	ngaak
+詻	ngaak
+啱	ngaam	1000
+岩	ngaam
+癌	ngaam
+巖	ngaam
+喦	ngaam
+嵒	ngaam
+碞	ngaam
+眼	ngaan
+顏	ngaan
+雁	ngaan
+揅	ngaan
+鴈	ngaan
+硬	ngaang
+鴨	ngaap
+壓	ngaat
+囓	ngaat
+扤	ngaat
+咬	ngaau
+淆	ngaau
+爻	ngaau
+餚	ngaau
+肴	ngaau
+洨	ngaau
+挍	ngaau
+崤	ngaau
+殽	ngaau
+詏	ngaau
+藝	ngai
+危	ngai
+毅	ngai
+蟻	ngai
+魏	ngai
+偽	ngai
+矮	ngai
+倪	ngai
+巍	ngai
+霓	ngai
+詣	ngai
+羿	ngai
+囈	ngai
+睨	ngai
+顗	ngai
+螘	ngai
+檥	ngai
+嵬	ngai
+鮠	ngai
+麑	ngai
+堄	ngai
+隗	ngai
+蓺	ngai
+艤	ngai
+襼	ngai
+齯	ngai
+郳	ngai
+蜺	ngai
+猊	ngai
+輗	ngai
+藙	ngai
+鯢	ngai
+寱	ngai
+頠	ngai
+阨	ngak
+呃	ngak
+暗	ngam
+唅	ngam
+扲	ngam
+銀	ngan
+垠	ngan
+齦	ngan
+唅	ngan
+圻	ngan
+贗	ngan
+狺	ngan
+鄞	ngan
+誾	ngan
+奀	ngan
+肕	ngan
+嚚	ngan
+齗	ngan
+吸	ngap
+啽	ngap
+砐	ngap
+迄	ngat
+兀	ngat
+屹	ngat
+訖	ngat
+汔	ngat
+嚙	ngat
+矻	ngat
+杌	ngat
+扤	ngat
+阢	ngat
+卼	ngat
+仡	ngat
+屼	ngat
+牛	ngau
+偶	ngau
+歐	ngau
+勾	ngau
+鉤	ngau
+吽	ngau
+藕	ngau
+耦	ngau
+怐	ngau
+蕅	ngau
+腢	ngau
+齧	ngit
+我	ngo
+哦	ngo
+臥	ngo
+鵝	ngo
+俄	ngo
+餓	ngo
+峨	ngo
+娥	ngo
+訛	ngo
+蛾	ngo
+莪	ngo
+鋨	ngo
+囮	ngo
+涐	ngo
+睋	ngo
+硪	ngo
+吪	ngo
+愛	ngoi
+外	ngoi
+呆	ngoi
+礙	ngoi
+獃	ngoi
+皚	ngoi
+騃	ngoi
+樂	ngok
+惡	ngok
+岳	ngok
+嶽	ngok
+鱷	ngok
+噩	ngok
+愕	ngok
+萼	ngok
+顎	ngok
+鄂	ngok
+鶚	ngok
+諤	ngok
+鍔	ngok
+蘁	ngok
+齶	ngok
+咢	ngok
+堮	ngok
+崿	ngok
+鸑	ngok
+安	ngon
+案	ngon
+岸	ngon
+犴	ngon
+豻	ngon
+喭	ngon
+昂	ngong
+卬	ngong
+戇	ngong
+傲	ngou
+熬	ngou
+遨	ngou
+翱	ngou
+敖	ngou
+嗷	ngou
+鰲	ngou
+螯	ngou
+鼇	ngou
+獒	ngou
+聱	ngou
+滶	ngou
+奡	ngou
+廒	ngou
+驁	ngou
+謷	ngou
+爊	ngou
+摮	ngou
+鏊	ngou
+璈	ngou
+屋	nguk
+呢	ni
+匿	nik
+暱	nik
+溺	nik
+昵	nik
+慝	nik
+衵	nik
+搦	nik
+惄	nik
+念	nim
+唸	nim
+黏	nim
+廿	nim	1000
+粘	nim
+拈	nim
+鯰	nim
+捻	nim
+棯	nim
+年	nin
+碾	nin
+捵	nin
+撚	nin
+蹍	nin
+涊	nin
+跈	nin
+寧	ning
+檸	ning
+嚀	ning
+獰	ning
+甯	ning
+佞	ning
+濘	ning
+擰	ning
+寍	ning
+聹	ning
+泞	ning
+鸋	ning
+攝	nip
+捏	nip
+涅	nip
+聶	nip
+鎳	nip
+捻	nip
+躡	nip
+隉	nip
+顳	nip
+鑷	nip
+踂	nip
+苶	nip
+臲	nit
+鳥	niu
+尿	niu
+溺	niu
+裊	niu
+嬲	niu
+嬝	niu
+嫋	niu
+褭	niu
+蔦	niu
+娜	no
+挪	no
+懦	no
+糯	no
+儺	no
+捼	no
+挼	no
+內	noi
+耐	noi
+奈	noi
+餒	noi
+柰	noi
+氝	noi
+錼	noi
+倷	noi
+餧	noi
+佴	noi
+諾	nok
+囊	nong
+曩	nong
+囔	nong
+擃	nong
+瓤	nong
+攮	nong
+腦	nou
+努	nou
+怒	nou
+惱	nou
+奴	nou
+弩	nou
+帑	nou
+瑙	nou
+駑	nou
+孥	nou
+笯	nou
+獶	nou
+砮	nou
+忸	nuk
+衄	nuk
+恧	nuk
+農	nung
+濃	nung
+儂	nung
+膿	nung
+噥	nung
+穠	nung
+齉	nung
+醲	nung
+襛	nung
+暖	nyun
+嫩	nyun
+濡	nyun
+煖	nyun
+餪	nyun
+渜	nyun
+喔	o
+阿	o
+哦	o
+柯	o
+噢	o
+珂	o
+婀	o
+軻	o
+痾	o
+屙	o
+嚄	o
+鈳	o
+牁	o
+愛	oi
+外	oi
+唉	oi
+哀	oi
+埃	oi
+曖	oi
+藹	oi
+噯	oi
+靄	oi
+欸	oi
+璦	oi
+誒	oi
+靉	oi
+嬡	oi
+鑀	oi
+僾	oi
+娭	oi
+壒	oi
+薆	oi
+惡	ok
+噁	ok
+堊	ok
+媕	om
+安	on
+案	on
+按	on
+胺	on
+鞍	on
+氨	on
+銨	on
+摁	on
+桉	on
+盎	ong
+甕	ong
+罋	ong
+奧	ou
+澳	ou
+懊	ou
+鏖	ou
+襖	ou
+媼	ou
+擙	ou
+鏕	ou
+墺	ou
+嶴	ou
+怕	pa
+爬	pa
+趴	pa
+琶	pa
+扒	pa
+耙	pa
+葩	pa
+杷	pa
+掱	pa
+鈀	pa
+帊	pa
+跁	pa
+排	paai
+牌	paai
+派	paai
+湃	paai
+俳	paai
+棑	paai
+鞄	paai
+箄	paai
+蒎	paai
+簰	paai
+拍	paak
+啪	paak
+柏	paak
+帕	paak
+魄	paak
+珀	paak
+盼	paan
+攀	paan
+扳	paan
+袢	paan
+眅	paan
+襻	paan
+棒	paang
+棚	paang
+澎	paang
+鵬	paang
+膨	paang
+烹	paang
+硼	paang
+漰	paang
+甏	paang
+堋	paang
+塴	paang
+蟛	paang
+倗	paang
+淜	paang
+跑	paau
+泡	paau
+砲	paau
+炮	paau
+拋	paau
+豹	paau
+咆	paau
+庖	paau
+刨	paau
+皰	paau
+匏	paau
+鉋	paau
+炰	paau
+瓟	paau
+颮	paau
+鑤	paau
+趵	paau
+脬	paau
+奅	paau
+批	pai
+睥	pai
+笓	pai
+頻	pan
+噴	pan
+蘋	pan
+貧	pan
+瀕	pan
+顰	pan
+牝	pan
+歕	pan
+嬪	pan
+呠	pan
+矉	pan
+嚬	pan
+濆	pan
+朋	pang
+憑	pang
+彭	pang
+馮	pang
+硼	pang
+鬅	pang
+匹	pat
+疋	pat
+鴄	pat
+剖	pau
+吥	pau
+婄	pau
+抔	pau
+瓿	pau
+裒	pau
+掊	pau
+皮	pei
+屁	pei
+披	pei
+疲	pei
+譬	pei
+痞	pei
+脾	pei
+鄙	pei
+琵	pei
+呸	pei
+丕	pei
+媲	pei
+毗	pei
+毘	pei
+埤	pei
+婢	pei
+紕	pei
+裨	pei
+砒	pei
+枇	pei
+陂	pei
+苤	pei
+仳	pei
+圮	pei
+陴	pei
+鈹	pei
+鼙	pei
+蜱	pei
+嚭	pei
+狉	pei
+伾	pei
+岥	pei
+邳	pei
+郫	pei
+庀	pei
+秠	pei
+鈚	pei
+蚍	pei
+嬖	pei
+阰	pei
+帔	pei
+貔	pei
+淠	pei
+駓	pei
+濞	pei
+膍	pei
+劈	pek
+平	peng
+呯	peng
+霹	pik
+闢	pik
+劈	pik
+僻	pik
+癖	pik
+辟	pik
+躄	pik
+擗	pik
+鷿	pik
+澼	pik
+堛	pik
+釽	pik
+襞	pik
+甓	pik
+便	pin
+片	pin
+篇	pin
+編	pin
+扁	pin
+偏	pin
+騙	pin
+遍	pin
+翩	pin
+駢	pin
+萹	pin
+楄	pin
+緶	pin
+蹁	pin
+諞	pin
+媥	pin
+跰	pin
+楩	pin
+平	ping
+評	ping
+瓶	ping
+拼	ping
+坪	ping
+屏	ping
+萍	ping
+蘋	ping
+聘	ping
+拚	ping
+抨	ping
+砰	ping
+乒	ping
+娉	ping
+怦	ping
+枰	ping
+苹	ping
+姘	ping
+骿	ping
+郱	ping
+甹	ping
+荓	ping
+頩	ping
+俜	ping
+洴	ping
+閛	ping
+泙	ping
+匉	ping
+帡	ping
+缾	ping
+軿	ping
+伻	ping
+撇	pit
+瞥	pit
+蹩	pit
+潎	pit
+氕	pit
+票	piu
+漂	piu
+飄	piu
+嫖	piu
+瓢	piu
+朴	piu
+剽	piu
+縹	piu
+摽	piu
+驃	piu
+瞟	piu
+鰾	piu
+莩	piu
+嘌	piu
+薸	piu
+皫	piu
+殍	piu
+僄	piu
+螵	piu
+破	po
+婆	po
+頗	po
+坡	po
+棵	po
+陂	po
+叵	po
+樖	po
+鄱	po
+蒱	po
+皤	po
+岥	po
+袌	po
+媻	po
+笸	po
+撲	pok
+樸	pok
+璞	pok
+噗	pok
+扑	pok
+朴	pok
+粕	pok
+墣	pok
+釙	pok
+醭	pok
+旁	pong
+彷	pong
+膀	pong
+龐	pong
+傍	pong
+螃	pong
+謗	pong
+徬	pong
+雱	pong
+滂	pong
+逄	pong
+嗙	pong
+蚌	pong
+乓	pong
+庬	pong
+耪	pong
+尨	pong
+厖	pong
+抱	pou
+普	pou
+泡	pou
+譜	pou
+菩	pou
+袍	pou
+鋪	pou
+葡	pou
+浦	pou
+蒲	pou
+舖	pou
+脯	pou
+溥	pou
+匍	pou
+莆	pou
+氆	pou
+鐠	pou
+酺	pou
+配	pui
+倍	pui
+佩	pui
+陪	pui
+培	pui
+賠	pui
+珮	pui
+沛	pui
+徘	pui
+蓓	pui
+霈	pui
+胚	pui
+裴	pui
+坏	pui
+琲	pui
+坯	pui
+旆	pui
+茷	pui
+醅	pui
+碚	pui
+仆	puk
+判	pun
+盤	pun
+伴	pun
+番	pun
+潘	pun
+盆	pun
+槃	pun
+拚	pun
+拌	pun
+磐	pun
+蟠	pun
+泮	pun
+沜	pun
+湓	pun
+鞶	pun
+縏	pun
+磻	pun
+頖	pun
+碰	pung
+捧	pung
+蓬	pung
+篷	pung
+踫	pung
+芃	pung
+琫	pung
+掽	pung
+髼	pung
+潑	put
+醱	put
+鏺	put
+啥	sa
+沙	sa
+砂	sa
+耍	sa
+莎	sa
+灑	sa
+卅	sa
+紗	sa
+鯊	sa
+痧	sa
+嗄	sa
+裟	sa
+唦	sa
+魦	sa
+猀	sa
+嗮	saai	10000
+曬	saai
+璽	saai
+晒	saai
+徙	saai
+哂	saai
+屣	saai
+舐	saai
+纚	saai
+蓰	saai
+縰	saai
+葸	saai
+膗	saai
+諰	saai
+枲	saai
+蹝	saai
+漇	saai
+嘥	saai
+索	saak
+三	saam
+杉	saam
+衫	saam
+仨	saam
+縿	saam
+芟	saam
+鏒	saam
+糝	saam
+籸	saam
+釤	saam
+毿	saam
+蔪	saam
+穇	saam
+山	saan
+散	saan
+刪	saan
+珊	saan
+傘	saan
+柵	saan
+訕	saan
+潺	saan
+篡	saan
+栓	saan
+姍	saan
+跚	saan
+拴	saan
+疝	saan
+潸	saan
+閂	saan
+汕	saan
+舢	saan
+涮	saan
+孱	saan
+氥	saan
+氙	saan
+僝	saan
+繖	saan
+生	saang
+省	saang
+牲	saang
+笙	saang
+甥	saang
+琤	saang
+眚	saang
+磢	saang
+圾	saap
+颯	saap
+喢	saap
+靸	saap
+啑	saap
+歃	saap
+鉔	saap
+唼	saap
+烚	saap
+萐	saap
+翣	saap
+翜	saap
+殺	saat
+薩	saat
+煞	saat
+撒	saat
+剎	saat
+鎩	saat
+閷	saat
+樧	saat
+稍	saau
+哨	saau
+梢	saau
+鞘	saau
+捎	saau
+艄	saau
+筲	saau
+蛸	saau
+睄	saau
+髾	saau
+莦	saau
+弰	saau
+使	sai
+西	sai
+世	sai
+細	sai
+勢	sai
+洗	sai
+逝	sai
+誓	sai
+駛	sai
+犀	sai
+嘶	sai
+篩	sai
+洒	sai
+噬	sai
+婿	sai
+樨	sai
+迣	sai
+筮	sai
+硒	sai
+恓	sai
+簭	sai
+貰	sai
+粞	sai
+枲	sai
+澨	sai
+塞	sak
+心	sam
+什	sam
+參	sam
+深	sam
+甚	sam
+森	sam
+沈	sam
+審	sam
+衫	sam
+滲	sam
+忱	sam
+芯	sam
+沁	sam
+岑	sam
+琛	sam
+嬸	sam
+葚	sam
+涔	sam
+諶	sam
+瀋	sam
+諗	sam	1000
+伈	sam
+郴	sam
+賝	sam
+槮	sam
+讅	sam
+邥	sam
+煁	sam
+葠	sam
+瞫	sam
+新	san
+身	san
+神	san
+申	san
+辛	san
+伸	san
+晨	san
+薪	san
+臣	san
+慎	san
+辰	san
+呻	san
+腎	san
+紳	san
+莘	san
+蜃	san
+宸	san
+燊	san
+砷	san
+甡	san
+鋅	san
+珅	san
+娠	san
+脤	san
+駪	san
+祳	san
+詵	san
+侁	san
+氠	san
+生	sang
+僧	sang
+甥	sang
+擤	sang
+蹭	sang
+鼪	sang
+十	sap
+什	sap
+拾	sap
+濕	sap
+澀	sap
+溼	sap
+霎	sap
+譅	sap
+濇	sap
+箑	sap
+實	sat
+室	sat
+失	sat
+瑟	sat
+膝	sat
+虱	sat
+蝨	sat
+璱	sat
+寔	sat
+手	sau
+受	sau
+修	sau
+收	sau
+首	sau
+守	sau
+授	sau
+售	sau
+秀	sau
+愁	sau
+獸	sau
+壽	sau
+仇	sau
+羞	sau
+搜	sau
+瘦	sau
+艘	sau
+繡	sau
+蒐	sau
+鏽	sau
+嗽	sau
+擻	sau
+琇	sau
+漱	sau
+餿	sau
+嗖	sau
+狩	sau
+叟	sau
+藪	sau
+脩	sau
+颼	sau
+綬	sau
+廋	sau
+嗾	sau
+鉎	sau
+饈	sau
+瞍	sau
+潲	sau
+糔	sau
+謏	sau
+鄋	sau
+鎪	sau
+騪	sau
+溲	sau
+獀	sau
+滫	sau
+銹	sau
+蓨	sau
+些	se
+社	se
+寫	se
+舍	se
+射	se
+捨	se
+蛇	se
+卸	se
+奢	se
+赦	se
+瀉	se
+畬	se
+佘	se
+賒	se
+卌	se
+闍	se
+麝	se
+猞	se
+奓	se
+檨	se
+厙	se
+揳	se
+四	sei
+死	sei
+肆	sei
+肂	sei
+殔	sei
+石	sek
+碩	sek
+錫	sek
+鼫	sek
+成	seng
+聲	seng
+腥	seng
+水	seui
+誰	seui
+需	seui
+雖	seui
+須	seui
+歲	seui
+睡	seui
+瑞	seui
+帥	seui
+緒	seui
+稅	seui
+碎	seui
+摔	seui
+垂	seui
+粹	seui
+衰	seui
+尿	seui
+穗	seui
+遂	seui
+髓	seui
+隧	seui
+絮	seui
+萃	seui
+彗	seui
+祟	seui
+墅	seui
+蛻	seui
+悴	seui
+胥	seui
+邃	seui
+綏	seui
+陲	seui
+瘁	seui
+淬	seui
+睢	seui
+燧	seui
+裞	seui
+涗	seui
+誶	seui
+荽	seui
+璲	seui
+蔧	seui
+繸	seui
+槥	seui
+焠	seui
+襚	seui
+繐	seui
+鑐	seui
+帨	seui
+稰	seui
+脺	seui
+睟	seui
+膵	seui
+瀡	seui
+湑	seui
+濉	seui
+篲	seui
+繻	seui
+倕	seui
+嬃	seui
+醑	seui
+穟	seui
+巂	seui
+鐩	seui
+諝	seui
+鐆	seui
+糈	seui
+嶲	seui
+檖	seui
+削	seuk
+爍	seuk
+鑠	seuk
+杓	seuk
+汋	seuk
+信	seun
+訊	seun
+順	seun
+純	seun
+詢	seun
+遜	seun
+迅	seun
+瞬	seun
+唇	seun
+醇	seun
+舜	seun
+淳	seun
+馴	seun
+筍	seun
+殉	seun
+荀	seun
+峋	seun
+珣	seun
+洵	seun
+巽	seun
+脣	seun
+榫	seun
+汛	seun
+皴	seun
+鶉	seun
+徇	seun
+郇	seun
+眴	seun
+錞	seun
+侚	seun
+蕣	seun
+恂	seun
+噀	seun
+逡	seun
+漘	seun
+迿	seun
+囟	seun
+潠	seun
+胂	seun
+犉	seun
+瞚	seun
+栒	seun
+膞	seun
+簨	seun
+蓴	seun
+上	seung
+想	seung
+相	seung
+常	seung
+傷	seung
+商	seung
+雙	seung
+尚	seung
+賞	seung
+箱	seung
+嘗	seung
+償	seung
+霜	seung
+倘	seung
+廂	seung
+湘	seung
+嚐	seung
+襄	seung
+裳	seung
+徜	seung
+觴	seung
+鑲	seung
+殤	seung
+驤	seung
+嫦	seung
+熵	seung
+鯗	seung
+瓖	seung
+纕	seung
+勷	seung
+欀	seung
+礵	seung
+墑	seung
+緗	seung
+謪	seung
+艭	seung
+鱨	seung
+驦	seung
+術	seut
+率	seut
+述	seut
+摔	seut
+朮	seut
+恤	seut
+戌	seut
+蟀	seut
+卹	seut
+窣	seut
+訹	seut
+沭	seut
+鉥	seut
+秫	seut
+是	si
+時	si
+事	si
+使	si
+師	si
+試	si
+士	si
+市	si
+思	si
+視	si
+示	si
+斯	si
+司	si
+史	si
+施	si
+詩	si
+獅	si
+私	si
+絲	si
+氏	si
+屍	si
+匙	si
+撕	si
+肆	si
+屎	si
+侍	si
+仕	si
+嗜	si
+恃	si
+峙	si
+廝	si
+鷥	si
+巿	si
+駟	si
+鰣	si
+鍶	si
+弒	si
+泗	si
+諡	si
+蒔	si
+俬	si
+偲	si
+罳	si
+蓍	si
+虒	si
+翨	si
+諟	si
+豉	si
+謚	si
+褷	si
+蜤	si
+鉰	si
+颸	si
+揌	si
+鈰	si
+鳲	si
+邿	si
+剚	si
+絁	si
+螄	si
+釃	si
+塒	si
+禠	si
+緦	si
+溮	si
+葹	si
+澌	si
+凘	si
+褆	si
+咶	si
+襹	si
+識	sik
+式	sik
+色	sik
+息	sik
+適	sik
+惜	sik
+釋	sik
+食	sik
+析	sik
+悉	sik
+飾	sik
+昔	sik
+錫	sik
+熄	sik
+拭	sik
+晰	sik
+蝕	sik
+媳	sik
+蜥	sik
+蟋	sik
+骰	sik
+軾	sik
+螫	sik
+嗇	sik
+淅	sik
+皙	sik
+腊	sik
+奭	sik
+适	sik
+螅	sik
+穡	sik
+銫	sik
+鄎	sik
+窸	sik
+鎴	sik
+潟	sik
+祏	sik
+舄	sik
+緆	sik
+襫	sik
+僁	sik
+轖	sik
+衋	sik
+閃	sim
+禪	sim
+蟬	sim
+蟾	sim
+嬋	sim
+簷	sim
+陝	sim
+掞	sim
+贍	sim
+睒	sim
+苫	sim
+剡	sim
+先	sin
+線	sin
+善	sin
+仙	sin
+鮮	sin
+扇	sin
+禪	sin
+羨	sin
+擅	sin
+倩	sin
+蟬	sin
+煽	sin
+膳	sin
+茜	sin
+繕	sin
+腺	sin
+嬋	sin
+洒	sin
+搧	sin
+蒨	sin
+羡	sin
+癬	sin
+鱔	sin
+綪	sin
+銑	sin
+燹	sin
+霰	sin
+冼	sin
+蘚	sin
+嬗	sin
+撣	sin
+僊	sin
+墠	sin
+褼	sin
+獮	sin
+躚	sin
+輤	sin
+蟺	sin
+澶	sin
+氥	sin
+尟	sin
+廯	sin
+氙	sin
+筅	sin
+謆	sin
+騸	sin
+秈	sin
+姺	sin
+毨	sin
+跣	sin
+鏾	sin
+墡	sin
+鄯	sin
+成	sing
+城	sing
+性	sing
+星	sing
+聲	sing
+勝	sing
+省	sing
+聖	sing
+誠	sing
+承	sing
+升	sing
+姓	sing
+醒	sing
+剩	sing
+昇	sing
+乘	sing
+盛	sing
+猩	sing
+繩	sing
+腥	sing
+丞	sing
+惺	sing
+陞	sing
+晟	sing
+賸	sing
+旌	sing
+騬	sing
+澠	sing
+胜	sing
+宬	sing
+騂	sing
+嵊	sing
+郕	sing
+圣	sing
+鋮	sing
+塍	sing
+狌	sing
+攝	sip
+涉	sip
+懾	sip
+歙	sip
+躞	sip
+揲	sip
+韘	sip
+灄	sip
+洩	sit
+舌	sit
+屑	sit
+竊	sit
+薛	sit
+泄	sit
+褻	sit
+楔	sit
+紲	sit
+燮	sit
+偰	sit
+离	sit
+躞	sit
+枻	sit
+媟	sit
+躠	sit
+渫	sit
+屧	sit
+絏	sit
+小	siu
+少	siu
+笑	siu
+消	siu
+紹	siu
+燒	siu
+蕭	siu
+銷	siu
+召	siu
+宵	siu
+兆	siu
+瀟	siu
+肇	siu
+逍	siu
+嘯	siu
+篠	siu
+邵	siu
+筱	siu
+霄	siu
+簫	siu
+韶	siu
+硝	siu
+劭	siu
+卲	siu
+綃	siu
+痟	siu
+魈	siu
+潚	siu
+蠨	siu
+蛸	siu
+翛	siu
+箾	siu
+鮹	siu
+袑	siu
+所	so
+傻	so
+鎖	so
+疏	so
+莎	so
+梭	so
+梳	so
+唆	so
+瑣	so
+娑	so
+蔬	so
+嗦	so
+嗩	so
+簑	so
+蓑	so
+趖	so
+桫	so
+羧	so
+莏	so
+氉	so
+腮	soi
+鰓	soi
+索	sok
+朔	sok
+樕	sok
+欶	sok
+槊	sok
+搠	sok
+嗍	sok
+蒴	sok
+溹	sok
+鎙	sok
+爽	song
+桑	song
+喪	song
+嗓	song
+塽	song
+顙	song
+搡	song
+鷞	song
+磉	song
+數	sou
+訴	sou
+素	sou
+蘇	sou
+掃	sou
+穌	sou
+騷	sou
+塑	sou
+溯	sou
+酥	sou
+甦	sou
+嫂	sou
+搔	sou
+鬚	sou
+漱	sou
+愫	sou
+臊	sou
+嗉	sou
+泝	sou
+囌	sou
+膆	sou
+繅	sou
+埽	sou
+愬	sou
+繰	sou
+籔	sou
+傃	sou
+屬	suk
+宿	suk
+熟	suk
+縮	suk
+淑	suk
+叔	suk
+肅	suk
+贖	suk
+孰	suk
+蜀	suk
+塾	suk
+夙	suk
+粟	suk
+倏	suk
+焂	suk
+謖	suk
+菽	suk
+蓿	suk
+儵	suk
+諔	suk
+鸀	suk
+僳	suk
+蹜	suk
+鷫	suk
+俶	suk
+橚	suk
+鱐	suk
+钃	suk
+驌	suk
+送	sung
+餸	sung	1000
+鬆	sung
+崇	sung
+宋	sung
+聳	sung
+嵩	sung
+慫	sung
+悚	sung
+崧	sung
+忪	sung
+淞	sung
+菘	sung
+孀	sung
+竦	sung
+娀	sung
+駷	sung
+書	syu
+處	syu
+輸	syu
+樹	syu
+樞	syu
+暑	syu
+鼠	syu
+殊	syu
+舒	syu
+恕	syu
+薯	syu
+抒	syu
+豎	syu
+曙	syu
+庶	syu
+紓	syu
+姝	syu
+澍	syu
+戍	syu
+藷	syu
+黍	syu
+殳	syu
+腧	syu
+攄	syu
+癙	syu
+尌	syu
+裋	syu
+樗	syu
+趎	syu
+摴	syu
+壴	syu
+鄃	syu
+緰	syu
+選	syun
+算	syun
+宣	syun
+船	syun
+孫	syun
+損	syun
+旋	syun
+酸	syun
+璿	syun
+瑄	syun
+璇	syun
+雋	syun
+蒜	syun
+渲	syun
+漩	syun
+痠	syun
+吮	syun
+篆	syun
+蓀	syun
+琁	syun
+猻	syun
+飧	syun
+僎	syun
+筭	syun
+鏇	syun
+悛	syun
+狻	syun
+匴	syun
+腞	syun
+篹	syun
+晅	syun
+瑑	syun
+舡	syun
+搎	syun
+揎	syun
+說	syut
+雪	syut
+鱈	syut
+欼	syut
+他	ta
+她	ta
+它	ta
+牠	ta
+祂	ta
+佗	ta
+怹	ta
+鉈	ta
+太	taai
+態	taai
+泰	taai
+汰	taai
+貸	taai
+鈦	taai
+呔	taai	1000
+殢	taai
+艜	taai
+談	taam
+淡	taam
+探	taam
+貪	taam
+潭	taam
+譚	taam
+毯	taam
+曇	taam
+澹	taam
+痰	taam
+罈	taam
+覃	taam
+錟	taam
+醰	taam
+郯	taam
+嗿	taam
+醓	taam
+蟫	taam
+菼	taam
+贉	taam
+驔	taam
+榃	taam
+餤	taam
+嚪	taam
+黮	taam
+鐔	taam
+倓	taam
+燂	taam
+彈	taan
+坦	taan
+嘆	taan
+壇	taan
+攤	taan
+碳	taan
+灘	taan
+歎	taan
+炭	taan
+癱	taan
+袒	taan
+檀	taan
+坍	taan
+忐	taan
+疸	taan
+鴠	taan
+襢	taan
+儃	taan
+癉	taan
+亶	taan
+嘽	taan
+塔	taap
+拓	taap
+塌	taap
+榻	taap
+遢	taap	1000
+漯	taap
+鎉	taap
+搨	taap
+毾	taap
+誻	taap
+闒	taap
+鰨	taap
+闟	taap
+韃	taat
+躂	taat
+撻	taat
+闥	taat
+趿	taat
+鰨	taat
+睇	tai	10000
+提	tai
+題	tai
+體	tai
+替	tai
+梯	tai
+体	tai
+剃	tai
+堤	tai
+涕	tai
+啼	tai
+蹄	tai
+屜	tai
+娣	tai
+緹	tai
+嚏	tai
+媞	tai
+醍	tai
+薙	tai
+隄	tai
+鵜	tai
+銻	tai
+荑	tai
+稊	tai
+綈	tai
+禔	tai
+偍	tai
+騠	tai
+鯷	tai
+睼	tai
+洟	tai
+踶	tai
+鬄	tai
+吞	tan
+褪	tan
+暾	tan
+飩	tan
+汆	tan
+揗	tan
+藤	tang
+疼	tang
+騰	tang
+籐	tang
+滕	tang
+謄	tang
+螣	tang
+縢	tang
+邆	tang
+佮	tap
+嗒	tap
+頭	tau
+投	tau
+偷	tau
+透	tau
+骰	tau
+敨	tau
+媮	tau
+黈	tau
+妵	tau
+唞	tau
+踢	tek
+聽	teng
+廳	teng
+艇	teng
+听	teng
+唾	teu
+推	teui
+退	teui
+腿	teui
+頹	teui
+蛻	teui
+蓷	teui
+隤	teui
+魋	teui
+穨	teui
+譈	teui
+盾	teun
+湍	teun
+啍	teun
+彖	teun
+貒	teun
+楯	teun
+焞	teun
+褖	teun
+躍	tik
+惕	tik
+剔	tik
+逖	tik
+忑	tik
+倜	tik
+忒	tik
+慝	tik
+裼	tik
+鋱	tik
+趯	tik
+貣	tik
+甜	tim
+添	tim
+恬	tim
+舔	tim
+忝	tim
+菾	tim
+簟	tim
+湉	tim
+餂	tim
+蚕	tim
+掭	tim
+天	tin
+田	tin
+填	tin
+鈿	tin
+靦	tin
+腆	tin
+滇	tin
+佃	tin
+殄	tin
+盷	tin
+瑱	tin
+闐	tin
+畋	tin
+磌	tin
+淟	tin
+聽	ting
+停	ting
+庭	ting
+廷	ting
+挺	ting
+亭	ting
+婷	ting
+艇	ting
+汀	ting
+霆	ting
+蜓	ting
+町	ting
+听	ting
+渟	ting
+珽	ting
+耵	ting
+鋌	ting
+烴	ting
+梃	ting
+葶	ting
+桯	ting
+鼮	ting
+頲	ting
+莛	ting
+脡	ting
+楟	ting
+侹	ting
+貼	tip
+帖	tip
+呫	tip
+怗	tip
+鐵	tit
+餮	tit
+銕	tit
+驖	tit
+調	tiu
+條	tiu
+跳	tiu
+挑	tiu
+窕	tiu
+眺	tiu
+迢	tiu
+佻	tiu
+趒	tiu
+恌	tiu
+鰷	tiu
+苕	tiu
+脁	tiu
+覜	tiu
+笤	tiu
+祧	tiu
+鞗	tiu
+髫	tiu
+嬥	tiu
+艞	tiu
+糶	tiu
+岧	tiu
+繰	tiu
+齠	tiu
+蜩	tiu
+拖	to
+陀	to
+妥	to
+駝	to
+唾	to
+舵	to
+跎	to
+沱	to
+鴕	to
+橢	to
+馱	to
+鮀	to
+坨	to
+驒	to
+砣	to
+酡	to
+堶	to
+鉈	to
+檮	to
+詑	to
+柁	to
+阤	to
+毻	to
+鼉	to
+紽	to
+台	toi
+臺	toi
+胎	toi
+抬	toi
+颱	toi
+怠	toi
+檯	toi
+苔	toi
+跆	toi
+殆	toi
+邰	toi
+籉	toi
+炱	toi
+儓	toi
+鈶	toi
+駘	toi
+薹	toi
+鮐	toi
+託	tok
+托	tok
+拓	tok
+魄	tok
+庹	tok
+柝	tok
+橐	tok
+蘀	tok
+籜	tok
+飥	tok
+跅	tok
+堂	tong
+唐	tong
+湯	tong
+糖	tong
+躺	tong
+趟	tong
+倘	tong
+燙	tong
+棠	tong
+淌	tong
+塘	tong
+搪	tong
+膛	tong
+幢	tong
+螳	tong
+捅	tong
+帑	tong
+儻	tong
+熨	tong
+醣	tong
+鏜	tong
+矘	tong
+溏	tong
+瑭	tong
+蹚	tong
+鄘	tong
+螗	tong
+赯	tong
+樘	tong
+惝	tong
+鼞	tong
+鐋	tong
+討	tou
+圖	tou
+土	tou
+套	tou
+徒	tou
+途	tou
+濤	tou
+逃	tou
+桃	tou
+吐	tou
+屠	tou
+肚	tou
+兔	tou
+塗	tou
+陶	tou
+淘	tou
+涂	tou
+禱	tou
+萄	tou
+唾	tou
+掏	tou
+滔	tou
+韜	tou
+荼	tou
+釷	tou
+叨	tou
+饕	tou
+忉	tou
+啕	tou
+洮	tou
+菟	tou
+絛	tou
+酴	tou
+搯	tou
+縚	tou
+幬	tou
+燾	tou
+匋	tou
+咷	tou
+醄	tou
+騊	tou
+鼖	tou
+慆	tou
+翿	tou
+弢	tou
+綯	tou
+鞀	tou
+鵌	tou
+堍	tou
+跿	tou
+駣	tou
+駼	tou
+瘏	tou
+禿	tuk
+鵚	tuk
+同	tung
+通	tung
+統	tung
+痛	tung
+童	tung
+筒	tung
+桶	tung
+銅	tung
+憧	tung
+瞳	tung
+桐	tung
+彤	tung
+仝	tung
+僮	tung
+酮	tung
+茼	tung
+潼	tung
+烔	tung
+峒	tung
+獞	tung
+艟	tung
+侗	tung
+埇	tung
+痌	tung
+穜	tung
+佟	tung
+橦	tung
+曈	tung
+挏	tung
+膧	tung
+鮦	tung
+衕	tung
+筩	tung
+蓪	tung
+熥	tung
+垌	tung
+團	tyun
+斷	tyun
+屯	tyun
+豚	tyun
+臀	tyun
+糰	tyun
+囤	tyun
+摶	tyun
+魨	tyun
+漙	tyun
+坉	tyun
+芚	tyun
+軘	tyun
+庉	tyun
+脫	tyut
+侻	tyut
+屋	uk
+剭	uk
+甕	ung
+蕹	ung
+瓮	ung
+罋	ung
+齆	ung
+話	wa
+華	wa
+畫	wa
+哇	wa
+娃	wa
+蛙	wa
+划	wa
+樺	wa
+蝸	wa
+凹	wa
+嘩	wa
+踝	wa
+譁	wa
+窪	wa
+驊	wa
+剮	wa
+喎	wa	1000
+洼	wa
+崋	wa
+窊	wa
+漥	wa
+鏵	wa
+槬	wa
+罫	wa
+壞	waai
+懷	waai
+歪	waai
+淮	waai
+褱	waai
+怀	waai
+櫰	waai
+或	waak
+畫	waak
+劃	waak
+惑	waak
+砉	waak
+謋	waak
+繣	waak
+嫿	waak
+騞	waak
+還	waan
+玩	waan
+灣	waan
+環	waan
+幻	waan
+彎	waan
+患	waan
+寰	waan
+宦	waan
+鍰	waan
+圜	waan
+鬟	waan
+輓	waan
+綰	waan
+鐶	waan
+豢	waan
+澴	waan
+繯	waan
+鯇	waan
+漶	waan
+轘	waan
+豩	waan
+綄	waan
+闤	waan
+婠	waan
+橫	waang
+滑	waat
+挖	waat
+猾	waat
+穵	waat
+螖	waat
+姡	waat
+為	wai
+位	wai
+謂	wai
+維	wai
+威	wai
+委	wai
+衛	wai
+偉	wai
+慧	wai
+唯	wai
+圍	wai
+遺	wai
+惠	wai
+違	wai
+毀	wai
+喂	wai
+慰	wai
+虫	wai
+惟	wai
+瑋	wai
+胃	wai
+畏	wai
+韋	wai
+餵	wai
+緯	wai
+尉	wai
+彙	wai
+蔚	wai
+葦	wai
+蕙	wai
+彗	wai
+萎	wai
+穢	wai
+諱	wai
+煒	wai
+葳	wai
+卉	wai
+猥	wai
+帷	wai
+槐	wai
+薈	wai
+蝟	wai
+喟	wai
+熨	wai
+諉	wai
+燬	wai
+恚	wai
+渭	wai
+崴	wai
+幃	wai
+桅	wai
+韙	wai
+闈	wai
+痿	wai
+囗	wai
+逶	wai
+憓	wai
+濰	wai
+譭	wai
+翽	wai
+褽	wai
+韡	wai
+虺	wai
+壝	wai
+罻	wai
+湋	wai
+譓	wai
+霨	wai
+隗	wai
+鏸	wai
+蜼	wai
+濊	wai
+餧	wai
+癐	wai
+媦	wai
+骫	wai
+蝛	wai
+篲	wai
+薳	wai
+讆	wai
+沇	wai
+鄬	wai
+顪	wai
+圩	wai
+潿	wai
+蟪	wai
+躗	wai
+嘒	wai
+搵	wan	10000
+運	wan
+雲	wan
+溫	wan
+混	wan
+穩	wan
+魂	wan
+云	wan
+韻	wan
+頑	wan
+允	wan
+渾	wan
+瘟	wan
+尹	wan
+挽	wan
+暈	wan
+蘊	wan
+筠	wan
+芸	wan
+勻	wan
+耘	wan
+昀	wan
+隕	wan
+紜	wan
+醞	wan
+慍	wan
+熨	wan
+餛	wan
+殞	wan
+琿	wan
+諢	wan
+蕓	wan
+氳	wan
+鄖	wan
+妘	wan
+韞	wan
+鋆	wan
+縕	wan
+狁	wan
+澐	wan
+溷	wan
+贇	wan
+畇	wan
+薀	wan
+媼	wan
+沄	wan
+鄆	wan
+熅	wan
+豱	wan
+圂	wan
+溳	wan
+韗	wan
+惲	wan
+轀	wan
+倱	wan
+涒	wan
+霣	wan
+鼲	wan
+餫	wan
+慁	wan
+篔	wan
+宏	wang
+弘	wang
+泓	wang
+竑	wang
+紘	wang
+閎	wang
+鋐	wang
+翃	wang
+谹	wang
+耾	wang
+鞃	wang
+吰	wang
+核	wat
+鬱	wat
+屈	wat
+尉	wat
+蔚	wat
+聿	wat
+鷸	wat
+熨	wat
+詘	wat
+斡	wat
+鶻	wat
+搰	wat
+遹	wat
+矞	wat
+爩	wat
+劀	wat
+膃	wat
+黦	wat
+嗢	wat
+燏	wat
+獝	wat
+驈	wat
+鴥	wat
+噊	wat
+頄	wau
+域	wik
+閾	wik
+蜮	wik
+魊	wik
+罭	wik
+緎	wik
+窢	wik
+棫	wik
+永	wing
+榮	wing
+泳	wing
+詠	wing
+穎	wing
+扔	wing
+嶸	wing
+潁	wing
+蠑	wing
+醟	wing
+禜	wing
+熲	wing
+喎	wo	1000
+和	wo
+窩	wo
+禍	wo
+鍋	wo
+蝸	wo
+渦	wo
+禾	wo
+倭	wo
+媧	wo
+萵	wo
+堝	wo
+毈	wo
+龢	wo
+盉	wo
+婑	wo
+涴	wo
+猧	wo
+踒	wo
+獲	wok
+穫	wok
+鑊	wok
+濩	wok
+檴	wok
+矱	wok
+雘	wok
+蠖	wok
+凰	wong
+王	wong
+黃	wong
+往	wong
+皇	wong
+汪	wong
+旺	wong
+煌	wong
+枉	wong
+惶	wong
+迋	wong
+簧	wong
+徨	wong
+遑	wong
+尪	wong
+隍	wong
+璜	wong
+潢	wong
+蝗	wong
+磺	wong
+篁	wong
+鍠	wong
+尢	wong
+堭	wong
+湟	wong
+喤	wong
+獚	wong
+艎	wong
+餭	wong
+偟	wong
+蟥	wong
+瀇	wong
+鰉	wong
+嗚	wu
+護	wu
+惡	wu
+湖	wu
+互	wu
+胡	wu
+戶	wu
+烏	wu
+糊	wu
+污	wu
+狐	wu
+蝴	wu
+壺	wu
+芋	wu
+汙	wu
+鬍	wu
+弧	wu
+塢	wu
+瑚	wu
+葫	wu
+滸	wu
+滬	wu
+摀	wu
+鎢	wu
+鄔	wu
+扈	wu
+捂	wu
+瓠	wu
+怙	wu
+餬	wu
+圬	wu
+冱	wu
+祜	wu
+楛	wu
+猢	wu
+醐	wu
+杇	wu
+頀	wu
+沍	wu
+魱	wu
+婟	wu
+釫	wu
+濩	wu
+鶘	wu
+鄠	wu
+衚	wu
+洿	wu
+岵	wu
+韄	wu
+嫮	wu
+靰	wu
+枑	wu
+會	wui
+回	wui
+迴	wui
+匯	wui
+彙	wui
+徊	wui
+偎	wui
+洄	wui
+薈	wui
+燴	wui
+蛔	wui
+痐	wui
+椳	wui
+佪	wui
+茴	wui
+煨	wui
+渨	wui
+碨	wui
+蚘	wui
+隈	wui
+磑	wui
+玩	wun
+換	wun
+援	wun
+緩	wun
+碗	wun
+喚	wun
+煥	wun
+腕	wun
+惋	wun
+桓	wun
+瘓	wun
+洹	wun
+垣	wun
+浣	wun
+莞	wun
+爰	wun
+渙	wun
+奐	wun
+皖	wun
+豌	wun
+剜	wun
+澣	wun
+湲	wun
+荁	wun
+萑	wun
+翫	wun
+瓛	wun
+逭	wun
+睆	wun
+貆	wun
+輐	wun
+活	wut
+也	ya
+廿	ya
+曳	yai
+音	yam
+任	yam
+陰	yam
+飲	yam
+吟	yam
+欽	yam
+淫	yam
+鑫	yam
+蔭	yam
+恁	yam
+瘖	yam
+飪	yam
+壬	yam
+荏	yam
+賃	yam
+愔	yam
+婬	yam
+喑	yam
+霪	yam
+廕	yam
+嶔	yam
+歆	yam
+妊	yam
+崟	yam
+衽	yam
+鵀	yam
+紝	yam
+霠	yam
+冘	yam
+廞	yam
+窨	yam
+霒	yam
+人	yan
+因	yan
+引	yan
+印	yan
+仁	yan
+欣	yan
+忍	yan
+隱	yan
+恩	yan
+孕	yan
+姻	yan
+殷	yan
+甄	yan
+癮	yan
+茵	yan
+釁	yan
+刃	yan
+韌	yan
+訢	yan
+昕	yan
+寅	yan
+蚓	yan
+胤	yan
+仞	yan
+湮	yan
+炘	yan
+軔	yan
+夤	yan
+忻	yan
+慇	yan
+听	yan
+紉	yan
+氤	yan
+舋	yan
+憖	yan
+堙	yan
+裀	yan
+洇	yan
+銦	yan
+儿	yan
+諲	yan
+闉	yan
+肕	yan
+焮	yan
+猌	yan
+禋	yan
+殥	yan
+盺	yan
+訒	yan
+靷	yan
+杴	yan
+紖	yan
+絪	yan
+酳	yan
+駰	yan
+檃	yan
+牣	yan
+螾	yan
+讔	yan
+垽	yan
+垔	yan
+入	yap
+泣	yap
+揖	yap
+邑	yap
+挹	yap
+熠	yap
+翕	yap
+悒	yap
+浥	yap
+潝	yap
+湇	yap
+裛	yap
+唈	yap
+熤	yap
+一	yat
+日	yat
+逸	yat
+壹	yat
+溢	yat
+軼	yat
+腋	yat
+佚	yat
+鎰	yat
+佾	yat
+衵	yat
+劮	yat
+泆	yat
+猰	yat
+馹	yat
+艗	yat
+肸	yat
+鈤	yat
+有	yau
+又	yau
+友	yau
+由	yau
+遊	yau
+油	yau
+右	yau
+優	yau
+尤	yau
+游	yau
+柔	yau
+休	yau
+郵	yau
+憂	yau
+幽	yau
+邱	yau
+猶	yau
+幼	yau
+悠	yau
+呦	yau
+佑	yau
+誘	yau
+丘	yau
+祐	yau
+朽	yau
+攸	yau
+揉	yau
+柚	yau
+酋	yau
+咻	yau
+蚯	yau
+蹂	yau
+酉	yau
+魷	yau
+黝	yau
+鈾	yau
+猷	yau
+宥	yau
+莠	yau
+坵	yau
+鼬	yau
+蝣	yau
+囿	yau
+釉	yau
+侑	yau
+泅	yau
+优	yau
+鵂	yau
+訧	yau
+繇	yau
+庥	yau
+嚘	yau
+煣	yau
+牖	yau
+髹	yau
+疣	yau
+泑	yau
+烋	yau
+蚰	yau
+貅	yau
+蝤	yau
+鯈	yau
+斿	yau
+蚴	yau
+蕕	yau
+鞣	yau
+庮	yau
+麀	yau
+耰	yau
+禸	yau
+囮	yau
+槱	yau
+鄾	yau
+葇	yau
+糅	yau
+輮	yau
+銪	yau
+輶	yau
+羑	yau
+楢	yau
+卣	yau
+狖	yau
+嘢	ye	1000
+耶	ye
+夜	ye
+野	ye
+椰	ye
+爺	ye
+惹	ye
+廿	ye	1000
+冶	ye
+偌	ye
+揶	ye
+喏	ye
+琊	ye
+渃	ye
+埜	ye
+玡	ye
+贏	yeng
+銳	yeui
+叡	yeui
+蕊	yeui
+睿	yeui
+裔	yeui
+佯	yeui
+芮	yeui
+蕤	yeui
+蚋	yeui
+枘	yeui
+桵	yeui
+繠	yeui
+汭	yeui
+橤	yeui
+緌	yeui
+若	yeuk
+約	yeuk
+藥	yeuk
+弱	yeuk
+躍	yeuk
+曰	yeuk
+鑰	yeuk
+虐	yeuk
+謔	yeuk
+葯	yeuk
+瘧	yeuk
+箬	yeuk
+禴	yeuk
+籥	yeuk
+篛	yeuk
+蒻	yeuk
+爚	yeuk
+龠	yeuk
+蘥	yeuk
+鈅	yeuk
+瀹	yeuk
+礿	yeuk
+鄀	yeuk
+潤	yeun
+閏	yeun
+樣	yeung
+讓	yeung
+央	yeung
+陽	yeung
+楊	yeung
+養	yeung
+洋	yeung
+揚	yeung
+羊	yeung
+仰	yeung
+癢	yeung
+氧	yeung
+釀	yeung
+鴦	yeung
+壤	yeung
+嚷	yeung
+殃	yeung
+颺	yeung
+徉	yeung
+漾	yeung
+攘	yeung
+恙	yeung
+泱	yeung
+瘍	yeung
+秧	yeung
+烊	yeung
+鍚	yeung
+暘	yeung
+鞅	yeung
+怏	yeung
+痒	yeung
+蛘	yeung
+煬	yeung
+瀼	yeung
+禳	yeung
+坱	yeung
+蘘	yeung
+蠰	yeung
+垟	yeung
+埌	yeung
+獽	yeung
+穰	yeung
+羕	yeung
+瀁	yeung
+姎	yeung
+抰	yeung
+儴	yeung
+禓	yeung
+佒	yeung
+以	yi
+而	yi
+意	yi
+二	yi
+已	yi
+義	yi
+議	yi
+兒	yi
+易	yi
+依	yi
+疑	yi
+醫	yi
+宜	yi
+爾	yi
+異	yi
+衣	yi
+移	yi
+誼	yi
+伊	yi
+倚	yi
+耳	yi
+擬	yi
+儀	yi
+怡	yi
+咦	yi
+椅	yi
+矣	yi
+蛇	yi
+懿	yi
+貳	yi
+夷	yi
+綺	yi
+姨	yi
+噫	yi
+頤	yi
+漪	yi
+咿	yi
+沂	yi
+貽	yi
+邇	yi
+肄	yi
+薏	yi
+詒	yi
+錡	yi
+飴	yi
+洱	yi
+翳	yi
+迤	yi
+皚	yi
+痍	yi
+彝	yi
+栘	yi
+苡	yi
+胰	yi
+亄	yi
+鐿	yi
+圯	yi
+蛜	yi
+珥	yi
+迆	yi
+禕	yi
+洏	yi
+扆	yi
+狋	yi
+荑	yi
+衈	yi
+栭	yi
+欹	yi
+醷	yi
+猗	yi
+銥	yi
+偯	yi
+眙	yi
+嫛	yi
+繄	yi
+酏	yi
+踦	yi
+郼	yi
+异	yi
+沶	yi
+螔	yi
+簃	yi
+饐	yi
+輀	yi
+黟	yi
+劓	yi
+佁	yi
+胹	yi
+駬	yi
+勩	yi
+鉺	yi
+殪	yi
+鴯	yi
+鷾	yi
+尒	yi
+佴	yi
+宧	yi
+瘞	yi
+儗	yi
+毉	yi
+匜	yi
+侇	yi
+洟	yi
+胣	yi
+眱	yi
+聏	yi
+箷	yi
+唲	yi
+樲	yi
+鸃	yi
+訑	yi
+刵	yi
+耏	yi
+袘	yi
+椸	yi
+鷖	yi
+迻	yi
+鉯	yi
+嶷	yi
+謻	yi
+貤	yi
+鮞	yi
+薿	yi
+轙	yi
+觺	yi
+亦	yik
+易	yik
+憶	yik
+益	yik
+譯	yik
+役	yik
+億	yik
+翼	yik
+逆	yik
+液	yik
+抑	yik
+壹	yik
+疫	yik
+奕	yik
+臆	yik
+蜴	yik
+驛	yik
+埸	yik
+弋	yik
+翊	yik
+繹	yik
+鬩	yik
+翌	yik
+睪	yik
+懌	yik
+弈	yik
+掖	yik
+膱	yik
+鷁	yik
+澺	yik
+膉	yik
+斁	yik
+鷊	yik
+嗌	yik	1000
+嶧	yik
+肊	yik
+繶	yik
+襗	yik
+帟	yik
+檍	yik
+杙	yik
+圛	yik
+燚	yik
+垼	yik
+蝪	yik
+醳	yik
+鶂	yik
+驗	yim
+嚴	yim
+厭	yim
+染	yim
+嫌	yim
+炎	yim
+掩	yim
+淹	yim
+鹽	yim
+豔	yim
+俺	yim
+燄	yim
+閻	yim
+艷	yim
+焰	yim
+儼	yim
+奄	yim
+冉	yim
+閹	yim
+簷	yim
+魘	yim
+醃	yim
+髯	yim
+懨	yim
+苒	yim
+饜	yim
+琰	yim
+灩	yim
+焱	yim
+腌	yim
+蚺	yim
+酓	yim
+閆	yim
+揜	yim
+剡	yim
+崦	yim
+龑	yim
+扊	yim
+釅	yim
+蛅	yim
+髧	yim
+爓	yim
+厴	yim
+黶	yim
+弇	yim
+噞	yim
+呥	yim
+垵	yim
+罨	yim
+壛	yim
+姌	yim
+猒	yim
+隒	yim
+淊	yim
+蚎	yim
+渰	yim
+然	yin
+現	yin
+言	yin
+研	yin
+演	yin
+賢	yin
+煙	yin
+延	yin
+弦	yin
+彥	yin
+燃	yin
+燕	yin
+殷	yin
+焉	yin
+絃	yin
+衍	yin
+宴	yin
+菸	yin
+咽	yin
+嫣	yin
+諺	yin
+嚥	yin
+蔫	yin
+妍	yin
+偃	yin
+鼴	yin
+嬿	yin
+胭	yin
+涎	yin
+蜒	yin
+筵	yin
+硯	yin
+鄢	yin
+舷	yin
+兗	yin
+毽	yin
+堰	yin
+讌	yin
+唁	yin
+揅	yin
+郾	yin
+埏	yin
+峴	yin
+莧	yin
+鶠	yin
+讞	yin
+匽	yin
+筳	yin
+趼	yin
+喭	yin
+睍	yin
+鷰	yin
+蚿	yin
+綖	yin
+蝘	yin
+臙	yin
+鰋	yin
+醼	yin
+沇	yin
+俔	yin
+晛	yin
+鋋	yin
+甗	yin
+巘	yin
+涀	yin
+郔	yin
+鋧	yin
+閼	yin
+應	ying
+認	ying
+影	ying
+形	ying
+英	ying
+型	ying
+仍	ying
+迎	ying
+營	ying
+螢	ying
+鷹	ying
+贏	ying
+映	ying
+凝	ying
+盈	ying
+刑	ying
+櫻	ying
+瑩	ying
+嬰	ying
+蠅	ying
+瑛	ying
+扔	ying
+鸚	ying
+膺	ying
+縈	ying
+瀛	ying
+嬴	ying
+賏	ying
+瀅	ying
+邢	ying
+楹	ying
+纓	ying
+郢	ying
+熒	ying
+嚶	ying
+瓔	ying
+偀	ying
+塋	ying
+嫈	ying
+霙	ying
+礽	ying
+滎	ying
+謍	ying
+瀠	ying
+攖	ying
+娙	ying
+韺	ying
+侀	ying
+鉶	ying
+癭	ying
+籯	ying
+媵	ying
+鎣	ying
+硎	ying
+陾	ying
+蘡	ying
+業	yip
+葉	yip
+頁	yip
+靨	yip
+曄	yip
+燁	yip
+鄴	yip
+偞	yip
+闑	yip
+饁	yip
+熱	yit
+孽	yit
+噎	yit
+咽	yit
+嚥	yit
+腋	yit
+謁	yit
+臬	yit
+囓	yit
+嚙	yit
+蘗	yit
+糱	yit
+黓	yit
+臲	yit
+櫱	yit
+蠮	yit
+槷	yit
+钀	yit
+蠥	yit
+要	yiu
+搖	yiu
+擾	yiu
+耀	yiu
+遙	yiu
+邀	yiu
+繞	yiu
+腰	yiu
+謠	yiu
+陶	yiu
+妖	yiu
+堯	yiu
+饒	yiu
+姚	yiu
+窈	yiu
+瑤	yiu
+夭	yiu
+曜	yiu
+窯	yiu
+燿	yiu
+垚	yiu
+傜	yiu
+吆	yiu
+舀	yiu
+蕘	yiu
+遶	yiu
+嬈	yiu
+鷂	yiu
+橈	yiu
+祆	yiu
+繇	yiu
+蟯	yiu
+徼	yiu
+窅	yiu
+榣	yiu
+葽	yiu
+騕	yiu
+颻	yiu
+扰	yiu
+珧	yiu
+徭	yiu
+偠	yiu
+軺	yiu
+筄	yiu
+鰩	yiu
+鷕	yiu
+喓	yiu
+愮	yiu
+殀	yiu
+穾	yiu
+嶢	yiu
+襓	yiu
+猺	yiu
+窔	yiu
+唷	yo
+喲	yo
+如	yu
+於	yu
+與	yu
+語	yu
+魚	yu
+預	yu
+遇	yu
+雨	yu
+以	yu
+餘	yu
+愈	yu
+宇	yu
+予	yu
+于	yu
+裕	yu
+羽	yu
+愉	yu
+儒	yu
+瑜	yu
+譽	yu
+愚	yu
+余	yu
+汝	yu
+喻	yu
+禦	yu
+乳	yu
+郁	yu
+豫	yu
+漁	yu
+籲	yu
+娛	yu
+嶼	yu
+寓	yu
+御	yu
+噢	yu
+逾	yu
+癒	yu
+渝	yu
+茹	yu
+虞	yu
+輿	yu
+隅	yu
+禹	yu
+俞	yu
+淤	yu
+煦	yu
+諭	yu
+迂	yu
+瘀	yu	1000
+孺	yu
+酗	yu
+竽	yu
+榆	yu
+馭	yu
+雩	yu
+濡	yu
+妤	yu
+諛	yu
+臾	yu
+蠕	yu
+覦	yu
+揄	yu
+瘐	yu
+庾	yu
+腴	yu
+瑀	yu
+畬	yu
+踰	yu
+瘉	yu
+齬	yu
+盂	yu
+萸	yu
+歟	yu
+窳	yu
+嵎	yu
+禺	yu
+圄	yu
+鴽	yu
+嚅	yu
+襦	yu
+飫	yu
+傴	yu
+紆	yu
+楰	yu
+礜	yu
+褕	yu
+牏	yu
+峪	yu
+嫗	yu
+隃	yu
+玗	yu
+洳	yu
+与	yu
+袽	yu
+蝡	yu
+蝓	yu
+歈	yu
+狳	yu
+窬	yu
+鸒	yu
+舁	yu
+銣	yu
+麌	yu
+醹	yu
+圉	yu
+澦	yu
+帤	yu
+偊	yu
+湡	yu
+鄅	yu
+臑	yu
+俁	yu
+邘	yu
+艅	yu
+鋙	yu
+蕠	yu
+薷	yu
+籹	yu
+毹	yu
+蕷	yu
+貙	yu
+圩	yu
+敔	yu
+釪	yu
+蒘	yu
+饇	yu
+轝	yu
+羭	yu
+貐	yu
+璵	yu
+襣	yu
+育	yuk
+欲	yuk
+肉	yuk
+玉	yuk
+獄	yuk
+旭	yuk
+辱	yuk
+慾	yuk
+浴	yuk
+昱	yuk
+郁	yuk
+噢	yuk
+毓	yuk
+鈺	yuk
+煜	yuk
+堉	yuk
+沃	yuk
+彧	yuk
+褥	yuk
+鵒	yuk
+淯	yuk
+燠	yuk
+勗	yuk
+鬻	yuk
+峪	yuk
+溽	yuk
+鄏	yuk
+儥	yuk
+頊	yuk
+縟	yuk
+勖	yuk
+媷	yuk
+隩	yuk
+蓐	yuk
+鋊	yuk
+錥	yuk
+鋈	yuk
+薁	yuk
+喐	yuk
+原	yun
+完	yun
+員	yun
+元	yun
+遠	yun
+願	yun
+院	yun
+軟	yun
+園	yun
+源	yun
+緣	yun
+援	yun
+縣	yun
+圓	yun
+怨	yun
+丸	yun
+玄	yun
+沿	yun
+阮	yun
+淵	yun
+袁	yun
+苑	yun
+婉	yun
+懸	yun
+冤	yun
+鉛	yun
+宛	yun
+炫	yun
+鴛	yun
+愿	yun
+轅	yun
+猿	yun
+媛	yun
+眩	yun
+惋	yun
+洹	yun
+葾	yun
+烷	yun
+琬	yun
+蜿	yun
+爰	yun
+沅	yun
+菀	yun
+鳶	yun
+圜	yun
+鉉	yun
+紈	yun
+瑗	yun
+畹	yun
+芫	yun
+螈	yun
+嫄	yun
+泫	yun
+黿	yun
+刓	yun
+蚖	yun
+眴	yun
+邧	yun
+眢	yun
+湲	yun
+岏	yun
+蜎	yun
+騵	yun
+耎	yun
+鶢	yun
+堧	yun
+鈆	yun
+夗	yun
+邍	yun
+肙	yun
+蝝	yun
+汍	yun
+垸	yun
+鵷	yun
+芄	yun
+裷	yun
+褑	yun
+薳	yun
+掾	yun
+蝯	yun
+羱	yun
+縓	yun
+輲	yun
+豲	yun
+櫞	yun
+衒	yun
+蒝	yun
+踠	yun
+壖	yun
+瓀	yun
+用	yung
+容	yung
+勇	yung
+擁	yung
+庸	yung
+翁	yung
+融	yung
+蓉	yung
+踴	yung
+溶	yung
+湧	yung
+榕	yung
+冗	yung
+嗡	yung
+絨	yung
+傭	yung
+熔	yung
+慵	yung
+墉	yung
+雍	yung
+蓊	yung
+鎔	yung
+俑	yung
+蛹	yung
+鏞	yung
+佣	yung
+戎	yung
+恿	yung
+茸	yung
+甬	yung
+壅	yung
+臃	yung
+瑢	yung
+踊	yung
+癰	yung
+邕	yung
+羢	yung
+滃	yung
+喁	yung
+顒	yung
+蕹	yung
+鶲	yung
+茙	yung
+噰	yung
+饔	yung
+狨	yung
+滽	yung
+氄	yung
+毧	yung
+雝	yung
+灉	yung
+肜	yung
+螉	yung
+塕	yung
+廱	yung
+月	yut
+越	yut
+乙	yut
+閱	yut
+曰	yut
+悅	yut
+穴	yut
+粵	yut
+玥	yut
+鉞	yut
+刖	yut
+爇	yut
+軏	yut
+釔	yut
+戉	yut
+鳦	yut
+狘	yut
+魆	yut
+噦	yut
+樾	yut
+out	au
+book	buk
+check	cek
+cheap	cip
+鬥細佬哥	dau
+foul	fau
+friend	fen
+feel	fiu
+gag	gek
+high	haai
+cut	kat
+claim	kem
+click	kik
+keep	kip
+cute	kiu
+call	ko
+cool	ku
+short	sot
+talk	tok
+van	wen
+可汗
+什麼
+# 粵語用詞
+亞爸
+亞保亞勝
+亞燦
+亞斗官
+亞福
+亞甲亞乙
+亞錦賽
+亞狗亞貓
+亞姑
+亞公
+亞爺
+亞姨
+亞媽
+亞嬤
+亞茂
+亞茂整餅
+亞妹
+吖嗱
+亞奶
+亞女
+亞奀
+亞婆
+亞生
+亞細
+亞嬸
+亞誰
+亞傻
+亞sir
+亞嫂
+亞叔
+亞頭
+亞駝
+亞仔
+亞吱亞咗
+亞豬亞狗
+唉唉聲
+壓力表
+哎吔
+IP
+暗於察己
+歐裔
+把幾火
+把鬼
+疤痕組織
+罷啦
+巴黎帽
+霸靚位
+霸掗
+把炮
+把屁
+把屁咩
+巴士佬
+把舦
+霸位
+巴揸
+罷就
+擺檔
+擺檔口
+敗家仔
+敗家精
+擺甫士
+拜山
+拜托
+拜袓先
+白灼
+白灼蝦
+百花爭艷
+白粉檔
+白霍
+白霍友
+白油
+伯爺
+伯爺公
+伯爺婆
+百厭
+百厭仔
+百煉成鋼
+白蒙蒙
+白嘥
+白蝕
+白雪雪
+白撞雨
+扮得意
+扮代表
+扮嘢
+扮英雄
+班戟
+扮靚
+扮嗮嘢
+扮聽唔到
+扮煮飯仔
+扮豬食老虎
+八個字
+八卦妹
+八卦婆
+八妹
+爆煲
+爆坼
+飽擦一輪
+爆粗口
+爆火
+爆穀
+飽死
+飽死我啦
+爆肽
+爆樽
+包租公
+包租婆
+包粽
+弊傢伙
+跛腳佬
+弊喇
+閉翳
+跛手
+北便
+北芪
+泵把
+泵車
+泵氣
+泵水
+賓佬
+賓妹
+賓婆
+賓仔
+笨豬跳
+崩口
+崩口人忌崩口碗
+崩口碗
+崩牙
+崩仔
+崩裝
+不辯菽麥
+抔飯
+不分皂白
+不覊
+不以語人
+不以爲苦
+不以爲然
+畢業相
+不如下次先啦
+抔垃圾
+不溜
+不嬲
+不嬲都覺得有問題噶啦
+筆刨
+抔水
+筆塔
+抔湯
+筆嘴
+不知幾
+不長一智
+不足爲訓
+不足爲奇
+不足爲外人道
+不足爲憑
+啤梨
+啤令
+畀差人拉
+畀錢
+畀錢我
+痺到死
+畀翻
+畀翻錢
+畀非士
+比堅尼
+鼻哥
+鼻哥窿
+畀過
+畀考起
+畀人唱衰
+畀人foul出局
+畀人棍咗
+畀人蝦
+畀人恰
+畀人箍頸
+畀人鬧
+畀人呃
+畀人拼沉
+畀人識穿
+畀人玩死
+祕笈
+畀佢睇
+祕訣
+畀利是
+祕撈
+避唔切
+比唔上
+畀問起
+祕密
+畀面
+畀面色佢睇
+畀鬧到一戙都冇
+畀鬧到一面屁
+畀鬧到一隻屐
+畀鬧到死死吓
+比你吹Q脹
+畀你睇
+畀銀紙
+畀我睇
+畀心機
+畀心機做
+畀錫壞咗
+畀水沉死
+畀水濁親
+祕書
+畀雪藏
+鼻涕蟲
+畀貼士
+病到聲沙
+病君
+餅印
+餅咭
+餅仔
+病咗
+啤啤
+啤啤車
+BB機
+啤啤女
+啤啤仔
+逼巴士
+逼到鬼噉
+逼到埋身
+逼過嚟
+逼冚嗮
+逼入去
+逼嚟逼去
+辨別
+辯方
+邊個噶
+邊個嘅
+邊日
+邊一年
+邊有咁大隻蛤乸隨街跳
+邊處
+邊處係呢
+辮仔
+邊種
+乒乓波
+咇出嚟
+標青
+標簽
+標汗
+錶肉
+錶面
+標參
+波板
+波缽
+波場
+波飛
+波褲
+波鞋
+波罅
+玻璃樽
+菠蘿包
+菠蘿蓋
+菠蘿油
+波路
+波帽
+波衫
+波恤
+波士
+波子
+波子棋
+波珠
+犦犦齋
+薄罉
+犦親
+搏出位
+搏彩
+搏大膽
+搏到盡
+駁腳
+駁骨
+搏吓彩
+博學多能
+搏一鋪
+撲嘢
+犦落去
+犦落嚟
+搏老命
+搏亂
+搏命噉走
+搏懵
+博鰲論壇
+搏嗮老命
+搏嗮老命噉
+搏嗮命
+犦溼
+博施濟衆
+駁線
+搏傻
+膊頭
+駁嘴
+搏盡
+傍家
+綁架犯
+綁個纈
+綁鞋帶
+綁纈
+幫唔到
+幫唔到手
+幫我check吓呢班機仲有冇位
+磅水
+寶貝仔
+煲茶
+保持中立
+布甸
+煲電話粥
+煲咖啡
+补家用
+哺雞仔
+報警
+佈告欄
+布褂
+晡禮
+布冧
+煲涼茶
+褓姆車
+煲冇米粥
+保你大
+暴瀉
+煲水
+煲呔
+埗頭
+補鑊
+簿仔
+煲仔飯
+報紙檔
+報紙佬
+煲粥
+杯薦
+book機票
+伏兒人
+book唔到位
+伏匿匿
+book位
+book酒店
+半親疏
+本地薑唔辣
+搬翻
+半肥瘦
+半公私
+半鹹淡
+搬入
+本來
+本銀
+搬屋
+半生熟
+半世人
+半新舊
+半天吊
+半條人命
+半唐番
+半途而癈
+半桶水
+半截裙
+缽仔糕
+茶甌
+茶煲
+差啲
+差啲領當喇
+茶瓜
+茶瓜餸飯
+差唔多
+差皮
+差少少
+差天共地
+扠堝
+茶壺耳
+踩單車
+踩低
+踩低人哋
+差館
+踹一腳
+差佬
+踹門
+差婆
+踩雪屐
+賊竇
+賊公
+賊佬
+拆棚架
+拆棚做過
+賊仔
+蠶春
+参加
+參考室
+剷青
+剷光頭
+燦妹
+鏟土
+燦仔
+餐薦
+瞠大隻眼
+棖雞
+棖雞婆
+瞠唔開眼
+撐艇仔
+撐枱腳
+插水
+插蘇
+插蘇頭
+插贓
+擦親
+擦飯
+擦膠
+擦嘢
+擦嗮
+擦損
+擦字膠
+擦紙膠
+抄櫃桶
+炒魷
+吵耳
+炒老細魷魚
+抄唔切
+巢孟孟
+巢咪孟
+炒燶咗
+巢皮
+巢皮咪孟
+巢嗮皮
+鈔胥
+炒齋河
+凄慘
+凄惻
+凄涼
+齊頭數
+砌圖
+譖氣
+尋日
+讖言
+譖醉
+沉滓
+譖趙
+親戚到
+親戚巾
+趁風使艃
+趁高興
+趁墟打市
+趁熱鬧
+趁熱食
+趁佢病
+陳皮嘢
+親自下廚
+七個字
+七國咁亂
+漆油
+臭烹烹
+湊大
+丑化
+醜頸
+醜吓佢
+臭亨亨
+抽油
+湊蹺
+丑陋
+臭饠
+湊埋
+湊啱
+湊細蚊仔
+醜死鬼
+丑態
+湊仔
+綢仔
+扯鼻鼾
+扯火
+扯艃
+斜喱眼
+車厘子
+車轆
+車埋去
+車尾箱
+扯嗮火
+車衫
+車死
+車匙
+車肽
+車天車地
+車仔
+check吓
+check吓啲貨
+請飲
+請人飲茶
+請人飲餐茶
+吹爆
+吹波膠
+脆卜卜
+除低
+除低眼鏡
+隨得
+除褲
+隨街
+吹雞
+吹雞完場
+趣怪
+除鞋
+取悅
+吹佢唔脹
+吹Q脹
+焠鍊
+吹唔脹
+啐唾沫
+除嗮衫
+除衫
+除衫褲
+催生嗮
+娶心抱
+除恤衫
+吹鬚睩眼
+趣致
+除咗
+除咗之外
+吹脹
+春秋時期
+蠢頓
+春袋
+蠢到加零一
+蠢過隻豬
+春子
+春孳
+出便
+出冊
+出千
+出啖氣
+出得廳堂
+出碟
+出翻嚟
+出街
+出街買嘢
+出街食
+出更
+出計
+出蠱惑
+出公數
+出軌行爲
+出柙
+出去行吓
+出去蒲
+出煙
+出嚟
+出嚟行
+出貓
+出膿
+出世紙
+出水紙
+出術
+出閘口
+出盡八寶
+次被告
+似層層
+哧哧
+黐黐哋
+遲啲見
+遲啲
+似到極
+持笏
+黐筋
+匙羹
+遲吓
+似樣
+黐立立
+黐脷根
+恃老賣老
+黐孖筋
+黐埋一笪
+似模似樣
+黐牙
+黐線佬
+慈善活動
+雌性動物
+似足
+撍出嚟
+僭建
+簽牙
+簽注
+撍豬毛
+前便
+前車之覆
+前仆后繼
+前嗰輪
+前嗰排
+前后
+千祈
+千祈唔好
+錢罌
+前世唔修
+前成員
+前台
+蟶埕
+掅起
+掅起身
+情人眼裏出西施
+青年仔
+稱爲
+掅住
+掅住一袋嘢
+cheap嘢
+切麪
+切奶
+切餸
+超筍價
+潮州粥
+初不初
+初初
+鋤大弟
+坐低
+坐定定
+錯蕩
+初哥
+坐櫃面
+坐喺地下
+坐起身
+初一流流
+坐月
+坐企身
+初嚟甫到
+坐唔定
+坐食山崩
+鋤書
+長春藤
+暢錢
+搶翻
+長氣
+長氣袋
+長吁短歎
+唱K
+暢唔開
+窗幔
+暢散紙
+唱衰
+唱衰佢
+長歎
+長歎一聲
+裁减
+啋過你
+啋過你把口
+啋過你把衰口
+菜薳
+睬佢都傻
+睬你都傻
+菜牌
+菜脯
+彩數
+剒樣
+牀單
+牀墊
+牀下底
+牀薦
+儲錢
+粗重嘢
+嘈得滯
+嘈到死
+躁火
+草秸
+嘈交
+嘈起上嚟
+嘈喧巴閉
+儲郵票
+儲埋
+草蜢
+草披
+嘈生嗮
+嘈醒
+速遞車
+速遞員
+速食麪
+沖菜
+充充電
+匆匆離去
+充大頭鬼
+充闊佬
+沖個靚涼
+冲滾水
+沖滾水
+重起爐竈
+沖涼房
+衝埋去
+蔥茂
+重案組
+重皮
+重新啓動
+沖淡水
+蟲仔
+柱躉
+穿煲
+串女
+穿梭機
+全體大譁
+傳爲佳話
+串仔
+存摺簿
+穿咗窿
+穿着
+踅身離去
+打靶鬼
+打靶佬
+打崩頭
+打鼻鼾
+打邊爐
+打波
+打搏成
+打煲呔
+打出腳骨
+打千秋
+打錯電話
+打大翻
+打大交
+打低
+打突
+打突兀
+打掂
+打掂瞓
+打掂放
+打掂寫
+打倒掟
+打倒掟放
+打翻電話
+打風
+打格仔
+打攪嗮
+打機室
+打個響指
+打工廠工
+打功夫
+打關斗
+打喊路
+打乞嗤
+打荷包
+打預
+打完齋唔要和尚
+打茄輪
+打爛砂盆問到篤
+打冷震
+打擂台
+打纈
+打唔通
+打牙鉸
+打昂
+打昂瞓
+打披
+打嗮纈
+打散工
+打生打死
+打手板
+打手指模
+打死纈
+打死唔信
+打屎窟
+打思噎
+打算點啫
+打呔
+打鐵佬
+打颱風
+打橫寫
+打橫放
+打橫瞓
+打橫嚟
+打橫睇
+打掣
+打震
+打真軍
+打自己工
+打指模
+打櫼
+打政府工
+打咗個突
+打着
+大笨象
+大髀
+大步擸過
+大前日
+大清早流流
+大大啖
+大得滯
+大番薯
+大家都噉話
+大家噉話
+大覺瞓
+大吉利事
+大吉利事講句
+大戟
+大件事
+大個女
+大個仔
+大個仔囉
+大後日
+大鄉里
+大飲大食
+大人大姐
+大人公
+大嘢
+大耳窿
+大熱症
+大葵扇
+大菌食細菌
+大褸
+大律師
+大力透氣
+大老倌
+大陸仔
+大唔透
+帶埋
+大懵
+大粒嘢
+大粒佬
+戴眼鏡
+帶眼識人
+大銀
+大牌檔
+大炮友
+大婆
+大嗮
+大嘥
+大使大食
+大細佬
+帶手信
+大卸八块
+大食懶
+大少
+大少少
+大騷
+大頭蝦
+大肚腩
+大肚婆
+大鑊
+大鑊飯
+大劑
+帶遮
+大姐仔
+大隻講
+大隻騾騾
+大隻佬
+大蕉
+大咗肚
+大狀
+大衆傳播
+擔保信
+擔鋤頭
+擔大旗
+擔凳仔
+淡定啲
+擔竿
+覘高個頭
+擔唔喐
+眈天望地
+擔挑
+擔枱擔凳
+擔遮
+擔住
+擔住口煙
+撢塵
+單車泵
+單車徑
+單車鎖匙
+單車掣
+彈牀
+撣撣
+單對單
+疍家
+蛋捲
+但係
+單係
+撢去灰塵
+撢人
+單嘢
+撢衣服
+撣衣服
+彈葯
+撢甩子
+單眼簷
+撢瓶
+蛋饊
+單身寡佬
+單身寡仔
+撢土
+彈簧牀
+撢帚
+蛋治
+撣桌子
+搭霸王車
+搭錯車
+搭錯線
+嗒嗒聲
+搭的士
+搭句說話
+答唔切
+踏破鐵鞋無覓處
+沓水
+搭食
+搭上搭
+搭van仔
+嗒真
+嗒真啲
+嗒真吓
+沓正
+踏正
+沓正點
+搭住膊
+搭住膊噉行
+笪餐死
+笪親
+笪低
+笪落牀
+笪落地
+笪落嚟
+笪生魚
+笪死
+笪傷
+遞畀
+低B
+低波
+低波行駛
+抵埗
+第次
+抵錢
+抵打
+低低哋
+抵得頸
+抵得痛
+第度
+抵到飛起
+抵到爛
+抵頸唔住
+第個
+第個人
+第個月
+第個禮拜
+抵港
+帝國主義份子
+第日
+第二度
+抵冷
+抵力
+抵買
+第晚
+第屘
+抵鬧
+低能兒童
+抵你死
+底衫
+第世
+抵手
+第時
+抵食
+第處
+抵肚餓
+低威
+得把口
+得把聲
+特別
+得戚
+得敕
+得敕喇你
+得啖笑
+得啖笑啫
+特登
+得噶啦
+得個吉
+得個講字
+得閒call我
+得閒call我吖
+得人驚
+得人怕
+德裔
+得意趣致
+特權份子
+得喇
+得來全不費工夫
+得唔得
+得米
+得滯
+得啫
+抌低
+抌印
+抌遠啲
+抌落街
+抌心口
+揼時間
+抌咗
+抌咗都冇人執
+躉低
+扽扽吓
+躉貨
+扽監
+扽氣
+躉落地
+扽手踭
+等錢使
+等到頸都長
+等吓
+戥興
+等唔切
+等埋
+戥你難過
+等我嚟
+等我睇吓
+燈暈
+凳仔
+等陣
+等陣先
+等咗好耐
+耷低頭
+揜骨
+揜骨場
+揜骨妹
+揜一拳
+耷唔切
+耷溼
+耷頭耷腦
+揜鐵
+鬥大力
+鬥快
+豆腐煲
+豆腐花
+鬥負氣
+豆腐膶
+豆腐泡
+豆膶
+豆利是
+鬥靚
+斗零
+鬥龍船
+兜踎
+鬥木
+鬥木佬
+豆泥
+豆泥嘢
+豆泡
+豆沙喉
+鬥蟀
+豆住
+嗲哋
+嗲哋媽咪
+地埗
+地牢商場
+地踎
+地頭蟲
+地拖
+地氊
+地主份子
+趯更
+糴糧食
+趯唔切
+掟煲
+釘翻粒紐
+埞方
+掟球
+釘紐
+掟彎
+釘仔
+釘咗
+對胸衫
+懟冧
+對唔住
+對埋
+對我嚟講
+對鐘
+啲人
+啲朋友
+的起嚟
+的起心肝
+的而且確
+的士佬
+的士司機
+的式
+掂筆甩
+點都好
+點都要
+點解
+點攪噶
+點講
+點鬼樣
+掂過條蔗
+點係
+點可以
+點好呢
+點呢
+點賣
+點豉油
+點先算
+點少得
+點算好
+點睇
+點話點好
+點會
+點止
+點知
+點做
+電親
+電燈杉
+電燈膽
+電燈總掣
+癲癲廢廢
+電髮
+癲狗
+電器舖
+電油
+癲佬
+電腦主機
+電芯
+電視台
+電船
+電台
+電燙斗
+電話講緊
+電話咭
+電話冇人聽
+頂得住
+定啲
+定啲嚟
+頂檔
+頂夾
+丁咁多
+頂頸
+頂吓肚
+定係
+頂唔順
+頂唔住
+定嗮形
+頂心杉
+頂肚
+頂肚餓
+跌崩頭
+跌親
+跌低
+跌落地都要楋翻揸沙
+啲啲咁多
+啲咁多
+跌爛
+跌落地
+跌落地下
+跌落去
+跌落嚟
+跌失
+跌咗
+吊吊揈
+丟架
+吊靴鬼
+刁僑扭擰
+丟那媽
+丟三拉四
+貂禪
+多啲
+多句嘴
+惰角
+惰角地方
+多過頭
+多一事長一智
+剁肉
+多羅羅
+惰落
+惰落嚟
+多士爐
+多少少
+多謝嗮
+啄親
+度錯
+度橋
+度身
+度水
+當更
+當日更
+當夜更
+當佢冇到
+當老師
+蕩失路
+當衰
+當堂甩鬚
+當造
+當住
+當住佢講
+到埗
+倒出嚟
+都似
+賭檔
+度度
+到飛起
+都假啦
+都幾難
+到嗰陣
+道高一尺
+道高一丈
+到鬼噉
+都係
+都一樣
+到其時
+倒垃圾
+倒冧
+都唔得
+倒米
+倒米壽星
+倒米壽星公
+都未知
+倒瀉籮蟹
+到死
+到時睇吓點先
+稻菽
+刀仔
+督背脊
+督親
+督穿
+督穿個窿
+篤底
+獨係
+讀萬卷書
+獨睡
+獨市生意
+獨食
+東便
+凍冰冰
+凍親
+冬大過年
+動蕩不安
+凍到死
+凍到揗揗震
+戙篤
+戙篤企
+戙篤笑
+戙篤笑騷
+凍啡
+冬瓜豆腐
+凍滾水
+戙起隻腳
+凍鴛鴦
+戙企
+戙起牀版
+凍檸茶
+凍水
+凍水散瘀
+短法包
+斷估
+短褸
+鍛煉
+鍛練
+AA制
+花費不貲
+花弗
+化腐朽爲神奇
+花款
+花冧
+花哩花碌
+花哩碌
+花哩胡碌
+花無百日紅
+化濃妝
+花臣
+花生肉
+花士令
+化算
+化爲泡影
+花樽
+化妝台
+快脆
+快啲行喇
+快啲啦
+快啲
+快快脆脆
+快勞
+塊面紅紅哋
+快手啲
+飯煲
+飯缽
+飯鏟
+飯鏟頭
+翻抄
+范疇
+翻草
+煩到死
+翻風
+番梘
+番梘泡
+飯腳
+飯蓋
+翻工
+翻公司
+番鬼佬
+番鬼佬涼茶
+番鬼妹
+番鬼婆
+番鬼仔
+反骨無情
+反骨仔
+凡係
+翻去
+翻鄉下
+翻學
+飯殼
+反應過渡
+翻企
+范例
+翻嚟
+翻唔切
+反面唔認人
+翻屋企
+翻嗮面
+翻生
+番薯糖
+翻頭嫁
+飯枱
+飯湯
+飯焦
+犯衆憎
+翻轉頭
+法包
+發表偉論
+發花癲
+發雞盲
+法國鬼
+發吓姣氣
+發姣
+發焮
+發開口夢
+發羊吊
+發睏
+發爛渣
+發啷厲
+發木獨
+發夢
+發夢都未見過
+發嬲
+發喑話
+發噏風
+發吽哣
+發泡膠盒
+發洩
+發瘟
+發瘟雞
+發酒癲
+發咗一個夢
+揮春
+快啲call白車
+費鬼事睬你
+費事理
+費事話
+廢話少講
+粉筆擦
+分別
+分岔路
+粉擦
+瞓低
+瞓得好
+瞓得好淰
+瞓得唔淰
+粉竇
+瞓地下
+粉檔
+瞓到淰嗮
+分分鐘
+瞓街
+婚媾
+瞓個靚覺
+份稿check咗幾次仲有錯
+瞓過籠
+份人
+粉友
+瞓厲頸
+瞓唔到
+瞓唔着
+瞓唔着覺
+瞓晏覺
+婚紗舖
+瞓衫
+分身家
+瞓醒
+瞓醒覺
+粉仔
+瞓着
+瞓着覺
+瞓着咗
+佛要金裝
+foul出局
+埠仔
+啡啡聲
+啡水
+啡色
+飛邊
+肥嘟嘟
+飛髮
+飛髮佬
+飛髮舖
+肥肥白白
+飛機恤
+飛機師
+飛機仔
+非裔
+飛翼
+飛翼船
+非禮罪
+肥佬
+飛尾
+肥妹
+飛雁
+肥婆
+非士
+飛士
+肥屍大隻
+非常之
+非常之重要
+飛數
+肥揗揗
+肥田料
+肥肚腩
+肥仔
+飛仔
+肥仔米
+肥仔嘜
+肥咗
+飛咗
+fax
+揈頭
+揈頭丸
+弗到漏油
+灰士
+伙記
+火機
+火頸
+貨櫃碼頭
+火滾
+火起
+火氣唔係幾好
+火饠
+火饠瀡
+火尾
+火牛
+火水
+火水燈
+火水爐
+火太猛
+貨van
+火燭車
+火燭喇
+放膽去
+放膽做
+放蕩不覊
+放監
+放喺
+放喺地下
+放入櫃桶
+放煙花
+放唔低
+放馬過嚟
+慌怕
+放怶
+慌失失
+放數
+放葫蘆
+放紙鷂
+房中房
+放諸四海而皆準
+負屭
+褲帶
+苦刁刁
+符弗
+苦過弟弟
+苦口苦面
+褲浪
+富農份子
+撫恤金
+孵小雞
+富太
+褲頭帶
+晦氣星
+灰佬
+灰水
+覆電話
+蝠鼠
+福頭
+蜂蠆
+風槍
+風腸
+風褸
+鳳樓
+風栗
+鋒鋩
+風赧
+風生水起
+風水佬
+風水生
+風筒
+奉爲圭臬
+豐韻
+奉旨唔
+闊佬懶理
+加把口
+假膊
+架步
+駕步
+架罉
+架車死咗火
+咖啡漬
+假飛
+噶啦
+噶佬
+噶妹
+家婆
+家山有眼
+傢俬舖
+加餸
+噶頭
+家頭細務
+噶話
+尕娃
+噶仔
+家陣
+鎅板
+鎅崩手
+鎅親
+鎅刀
+鎅花
+解雇
+介繫詞
+街喉
+芥辣
+解纈
+戒唔甩
+戒奶
+街市佬
+街市仔
+戒甜
+街井
+鎅紙
+鎅紙刀
+街知巷聞
+芥醬
+階磚
+階磚仔
+格價
+隔夜茶唔飲得
+隔夜仇
+隔夜餸
+胳肋底
+胳肋底毛
+隔籬
+隔籬飯香
+隔籬鄰舍
+隔籬屋
+革命知識份子
+隔渣
+格仔
+格仔餅
+格仔裙
+格仔恤
+格仔紙
+隔咗咁耐
+監倉
+尷尬
+監熱食
+監生食
+間尺
+梘粉
+橺房
+揀個爛燈盞
+梘盒
+揀飲擇食
+橺一間房
+梘液
+梘片
+簡直係
+耕田佬
+合錢
+合錢送禮
+合檔
+合份
+合份送禮
+夾計
+夾口供
+合埋
+合埋一齊去
+合埋有幾多
+夾萬
+夾衲
+夾硬
+夾硬要佢去
+夾硬迫入去
+合手合脚
+挾餸
+曱甴
+曱甴屎
+攪邊科呀
+膠杯
+膠叉
+膠擦
+攪錯
+攪得掂
+膠凳
+攪掂
+膠碟
+膠袋
+攪到
+膠刀
+攪到咁大鑊
+攪到咁大劑
+攪到一身潺
+攪到滿天神佛
+攪到烏喱單刀
+膠花
+攪花臣
+攪風攪雨
+交更
+攪攪震
+覺覺豬
+攪gag
+膠公仔
+膠盒
+膠喉
+交行貨啫
+攪瘀
+膠箍
+攪爛gag
+攪唔掂
+較味
+膠眼鏡
+攪衰
+茭筍
+攪事
+膠絲
+攪屎棍
+攪成噉
+攪笑
+膠拖
+膠枱布
+膠套
+膠桶
+膠通
+攪堝
+交換
+膠樽
+攪作
+較早前
+較早時
+較鐘
+雞包
+雞髀
+雞春
+雞春孳
+計清楚
+雞腸
+計帶
+雞蛋裏挑骨頭
+計掂
+雞啄唔斷
+計翻條數
+雞噉腳
+雞頸
+雞公
+雞關
+計吓
+計吓條數
+雞項
+雞紅
+偈油
+雞翼
+計落
+計唔清
+計唔掂
+計埋
+雞盲
+雞毛掃
+雞乸
+雞乸咁大隻字
+計你話
+計我話
+雞泡魚
+計嗮
+雞腎
+雞手鴨腳
+計數機
+計條數
+計仔
+雞仔
+雞胗
+計正
+咁遲先嚟
+撳錢
+咁串
+撳釘
+咁多年
+咁多位
+噉都得
+噉都得嘅
+噉都好
+噉都唔得
+噉都唔得咩
+今屆
+噉解
+咁嘅嘢
+撳機
+今個月
+今個月尾
+金腳帶
+咁高咁大
+咁鬼死
+感荷
+今日好凍
+噉又得
+噉又點
+噉又點呀
+噉又係
+噉又唔係
+噉又唔係噃
+噉又唔同
+噉樣
+噉唔係
+今晚黑
+咁盟塞
+撳門鐘
+金鈪
+咁啱
+咁啱嘅
+咁晏
+今鋪
+金舖
+甘醇
+今時唔同往日
+咁上下
+噉頭
+今勻
+咁盞
+咁滯
+撳掣
+噉就弊
+噉就啱
+咁做
+撳鐘
+噉仲得掂
+金豬
+緊要事
+跟尾狗
+近排
+近住
+跟住落嚟
+亘古以來
+梗係
+梗係啦
+更正錯誤
+急到氹氹轉
+急急腳
+急急腳去
+蛤拐
+蛤乸
+急症室
+䀹住
+䀹住佢
+趷跛跛
+拮親
+拮親手
+吉車
+拮出血
+趷腳
+吃口吃舌
+趷起
+趷起身
+趷起手指公
+趷起條尾
+拮肉
+趷路
+吉屋招租
+吉身
+吉手
+舊底
+救翻
+九個字
+夠薑
+狗公
+夠有突
+夠quali
+九曲十三彎
+九唔搭八
+狗乸
+狗牙
+狗牙邊
+夠時候咯
+夠運
+救援人員
+舊陣時
+夠咗有突
+夠鐘數
+嘅樣
+嘅時
+嘅時候
+嘅話
+嘅習慣
+幾廿年
+幾襯你喎
+幾錢
+幾大都
+幾大都要
+幾大就幾大喇
+記得起
+幾得人驚
+幾多錢
+幾快
+飢荒
+幾咁
+飢饉
+犄角旮旯
+幾過份
+芰荷映水
+幾好吖嘛
+幾遠
+幾難
+忌廉
+忌廉餅乾
+忌廉梳打
+忌廉威化餅
+基佬
+幾難先至
+基女
+幾耐
+幾平
+寄平信
+機舖
+機室
+驚青
+驚到唔出得聲
+驚到面青
+驚到揗揗震
+驚凍
+頸巾
+頸渴
+頸鏈
+驚死
+驚死考唔到
+儆錫
+驚住
+巨奸
+據講
+苣蕒菜
+巨細靡遺
+巨債
+據知
+詎知
+嘰趷
+嘰嘰趷趷
+激親
+激到死死吓
+亟亟奔走
+激氣
+激焮
+激嬲
+激奀
+激死
+激死人
+激死我
+極之
+搛菜
+兼隊
+兼夾
+見不着
+見工
+見過鬼都怕黑
+見過鬼怕黑
+見過鬼就怕黑
+見義勇爲
+見連丸
+見唔到
+見牙唔見眼
+見使
+見食
+見周公
+勁抽
+經已
+驚艷
+經唔起考驗
+勁悶
+競選
+驚爲天人
+挾親
+劫機犯
+挾腳
+喼帽
+杰凸凸
+結恭
+結他
+結爲
+結爲夫妻
+結爲一體
+結扎
+結咗婚
+杰粥
+叫白車
+撬墻腳
+嬌嗲
+撟汗
+嬌艷
+撟眼泪
+叫唆
+叫餸
+叫餸食飯
+撬走
+嗰便
+個噃
+嗰次
+嗰單畸士
+嗰啲
+嗰啲嘢
+嗰度
+哥記
+嗰個
+嗰個係
+哥哥仔
+嗰日
+嗰一晚
+個樣好得戚
+個囉
+嗰晚
+嗰排
+個心好翳
+個心十五十六
+嗰時
+嗰處
+嗰條友
+嗰條友仔
+個肚有啲唔妥
+個喎
+嗰陣
+嗰陣時
+嗰隻衰嘢
+嗰種
+腳板底
+腳板堂
+腳底按摩
+腳瓜
+腳瓜眈
+腳瓜瓤
+腳骨
+腳骨力
+腳鈪
+腳眼
+腳坳
+腳肚
+腳肚瓤
+腳踭
+腳枕
+腳趾公
+脚趾罅
+腳趾屘
+該煨
+改轉
+各花入各眼
+各行各路
+各有巧妙不同
+角落頭
+角仔
+閣仔
+趕得切
+乾鯁
+乾鯁鯁
+趕唔切
+趕唔得切
+乾嗮塘
+乾溼褸
+乾嗽
+趕時候
+趕住去投胎咩
+講畀
+講畀佢聽
+講波
+講波佬
+港產片
+講出嚟
+講錯嘢
+工廠妹
+講粗口
+講粗口鬧人
+講大話
+講得口響
+講得啱
+講到尾
+講到實牙實齒
+講到天花龍鳳
+講到話
+講翻轉頭
+講假
+講咁易咩
+講故
+講故仔
+講吓笑啫
+講口齒
+講起又講
+講起上嚟
+講開又講
+講好說話
+講人事
+講一套做一套
+講嘢
+講嘢鬼食泥咁
+講嘢好乸型
+講耶穌
+講爛口
+講漏嘴
+講嚟聽吓
+鋼梁
+講落去
+港漫
+講咩
+剛啱
+絳紗
+講三講四
+講生嗮
+講心嗰句
+講實
+講是非
+講笑
+講笑搵第樣
+講數
+講數口
+講話好似雞啄唔斷噉
+講真
+港紙
+割禾
+高速煲
+高竇
+告到佢甩褲
+告到你甩褲
+高度自治
+高峯期
+高高大大
+高佬
+告票
+高踭鞋
+估錯
+古董舖
+估估吓
+孤寒鐸
+孤寒到死
+孤寒鬼
+孤寒佬
+孤寒種
+孤兒仔
+古月粉
+鼓其如簧之舌
+咕哩
+估唔到
+姑勿論
+估啱
+姑娘仔
+姑太
+蠱惑仔
+古玩舖
+姑仔
+故仔
+姑姐
+顧住
+癐到死死吓
+癐拉拉
+癐嗮
+焗茶
+焗親
+焗飯
+谷古
+掬氣
+焗熱
+焗爐
+焗悶
+穀牛
+焗宿氣
+焗薯
+莞草
+觀音兵
+官式
+官式訪問
+供參考
+供出同伙
+供讀者參考
+工具架
+貢吓貢吓
+供人
+供欣賞
+貢入
+共一份
+公契
+供樓
+公厘
+貢嚟貢去
+供旅客休息
+共勉之
+公平待遇
+公事喼
+供鮮花
+公數
+公仔麪
+公仔書
+公治
+工作台
+供祖宗
+公衆場所
+豁豁聲
+瓜椗
+寡佬
+瓜老襯
+掛麪
+寡母婆
+瓜褦藤
+寡婆
+瓜籽
+瓜咗
+怪裏怪氣
+怪唔得
+怪唔之得
+怪之得
+摑一巴掌
+躀低
+躀跤
+慣咗
+躀咗一跤
+慣咗喇
+詭祕
+鬼打鬼
+龜蛋
+跪低
+貴到飛起
+鬼咁
+鬼叫你
+鬼鬼哋
+鬼鬼鼠鼠
+鬼影都冇隻
+貴利
+鬼唔似鬼
+鬼唔知咩
+鬼馬
+櫃面
+鬼妹
+鬼五馬六
+鬼殺咁嘈
+鬼死
+鬼死咁
+鬼食泥
+鬼銷
+鬼上身
+鬼鼠
+櫃枱
+櫃桶
+鬼仔
+鬼知
+跪薦
+滾錢
+滾攪
+滾攪嗮
+滾紅滾綠
+滾友
+滾熱辣
+滾瀉
+君真
+君之
+君子好逑
+滾軸溜冰
+滾軸溜冰鞋
+骨痺
+倔情
+倔篤
+骨幹份子
+骨女
+骨瘦如材
+骨壇
+倔頭
+倔頭巷
+倔頭路
+骨緻
+過底紙
+過檔
+過埠
+過幾日
+過骨
+過意得去
+過嚟
+過籠
+過時補水
+過樹榕
+果占
+果占麪包
+過咗火
+過咗身
+過造
+國民生產
+國無二主
+膕窩
+國際舞台
+廣播台
+光瞠瞠
+光管
+光頭佬
+光脫脫
+捐山窿
+蝦霸
+下便
+下半世
+蝦春
+下低
+下底
+蝦得就蝦
+下個禮拜
+蝦公
+吓吓
+蝦人
+蝦瘌
+蝦碌
+下扒
+下扒輕輕
+鞋抽
+蟹春
+嚡嚡聲
+鞋舖
+嚡熠熠
+鞋踭
+鞋薦
+嚇親
+嚇一驚
+客路
+嚇我一驚
+嚇暈
+客仔
+嚇窒
+喊包
+鹹蟲
+喊打喊殺
+喊苦喊忽
+喊噉口
+鹹蝦
+鹹鹹哋
+喊喊口
+喊口
+喊路
+鹹龍
+喊唔出
+鹹片
+鹹溼伯父
+鹹溼電影
+鹹溼鬼
+鹹溼佬
+鹹溼片
+鹹書
+銜頭
+閒情逸緻
+慳得過就慳
+慳地方
+慳啲使
+慳電
+慳電膽
+慳翻
+慳翻啖氣
+慳雞
+慳慳地喇
+慳油
+慳皮
+慳溼
+慳水慳力
+慳時間
+慳位
+行咇
+行步路打倒褪
+行出行入
+行出去
+行出嚟
+行得起
+行得埋
+行得正
+夯地
+行地方
+行東行西
+行花街
+行花市
+行翻去
+行街
+行蠱惑
+行公司
+行過嚟
+行過籠
+行吓
+行吓公司
+行行企企
+行後門
+行開啲啦
+行開咗
+行人路
+行入去
+行入嚟
+行一步睇一步
+行近路
+坑渠
+行雷
+行路唔帶眼
+行唔開
+行唔喐
+行唔埋
+行埋嚟
+行萬里路
+行山
+行山徑
+行衰運
+行梯
+行勻
+行勻全國
+呷醋
+掐着指頭
+姣氣
+考醫生牌
+考唔到
+考唔合格
+考柯佬
+考牌
+姣婆
+姣婆藍
+係吖
+係呀
+係衙
+喺邊度
+喺邊度
+喺度
+喺度
+係噉噶啦
+係人都
+係人都唔
+係人都知
+喺企
+係囉
+係路
+係唔係
+係咪
+係咪真嘅
+係咩
+係你先至好講呀
+喺屋企
+喺屋企
+喺嗮
+喺處
+喺處
+黑超
+黑鯛
+黑啡
+黑古勒特
+黑工
+黑過墨斗
+黑口黑面
+黑孖孖
+黑擝擝
+黑麪包
+黑仔
+冚唪唥
+扻崩頭
+扻親
+冚家
+冚家鏟
+冚家富貴
+扻爛
+扻頭埋牆
+莖部
+悻悻離去
+啃咬
+啃噬
+行爲
+行爲科學
+行爲主義
+闔府安康
+合而爲一
+闔埋雙眼
+瞌眼瞓
+合皮
+磕破
+合桃
+合桃酥
+盒仔飯
+乞嗤
+乞人憎
+乞兒公
+核驗
+核糖酶
+後車之鑑
+吼斗
+口多多
+口花花
+吼機會
+口嚡脷素
+口輕輕
+鱟魚
+喉欖
+口立溼
+後嚟
+喉轆
+口唔對心
+口碼
+口擘擘
+後尾枕
+後無來者
+口噏噏
+口水多過茶
+口水花
+口水佬
+口水溦
+口水痰
+口甜舌滑
+後台
+喉核
+後枕
+口震
+口震震
+口窒窒
+吼住
+迆吓
+汽車喇叭
+起菜
+餼雞
+起雞皮
+起骨
+戲肉
+起嚟
+起屋
+起上嚟
+囍帖
+戲台
+起鑊
+起枕
+氣薦
+起腱
+氣象台
+吃菜
+吃裏扒外
+墟巴嘈閉
+去廁所
+墟場
+去街
+去街買餸
+墟冚
+墟墟冚冚
+墟日
+去馬
+去賣鹹鴨蛋
+去蒲
+去就去啦
+去咗
+去咗見周公
+去咗飲
+去咗賣鹹鴨蛋
+獻世
+焮親
+興趣盎然
+焮乾
+焮烚烚
+焮起嚟
+焮熱
+興味無窮
+荷包倒吊
+荷包糠
+荷包糠糠哋
+荷包友
+荷包亂揈
+荷包仔
+河壆
+河涌
+賀咭
+荷蘭薯
+何樂而不爲
+可唔可以
+賀年咭
+向前行
+向度
+香梘
+香港地
+香閨
+鄉下妹
+鄉下婆
+鄉下仔
+香口膠
+喺入面
+香艷
+香煙盒
+香煙頭
+晌禮
+鄉里鬼鬼
+香料粉
+香咗
+海不可斗量
+開便
+開到通頂
+開公數
+開浪褲
+開O.T.
+海皮
+開辟
+開心到飛起
+開身
+開聲
+開信刀
+開天辟地
+開枱食飯
+開胃咯
+開鑊
+開鍘
+學似
+學嘢
+鶴立雞羣
+學生哥
+刊登廣告
+韓裔
+汗宿
+巷篤
+項鏈
+糠米
+渴市
+好吖
+好逼人
+好波
+好斜
+好似
+好似係
+好彩數
+薅草
+好大數
+好抵
+好地地
+好啲
+好多潺
+好翻
+好瞓
+好friend
+好計仔
+好勁
+皓潔
+好癐
+好焗
+好鬼死
+好鬼死難頂
+好high
+好閒
+好閒噶啫
+好行
+好口碼
+好好味
+好好睇睇
+好喫
+好陰功
+好人有限
+蠔油菜薳
+好嘢
+好夜
+好意頭
+好易話爲
+好叻
+好靚
+好唔掂
+好唔好
+好味
+好冇心機
+好啱key
+好眼
+好耐
+好耐好耐之前
+好耐冇見
+好曬
+好細聲
+好心你
+好心着雷劈
+好聲
+好衰噶
+好衰唔衰
+蠔豉
+好食
+好食懶飛
+好少少
+好相與
+好嗍氣
+好睇過睇戲
+好頭好尾
+皓天
+好肚餓
+好話爲
+好盞
+好做得
+紅蔔蔔
+凶殘
+烘底
+恐惧
+洶涌
+洶湧
+洶涌澎湃
+洶湧澎湃
+熊貓噉嘅眼
+兇神惡
+兇神惡殺
+空手掉空臂
+熊仔
+壎篪相和
+勸交
+喧嘩
+X光
+廿八歲
+跴單車
+曳到死
+曳貨
+曳嘢
+飲茶錢
+飲大咗
+飲大咗兩杯
+飲啖茶
+飲啖水
+飲翻杯喇
+任揀唔嬲
+衽金革
+飲管
+陰功鬼
+飲飲食食
+陰溝裏翻船
+音樂團體
+陰聲細氣
+陰司紙
+飲食失調
+飲勝
+飲勝佢
+飲傻仔水
+飲筒
+陰騭事
+飲醉
+飲醉酒
+飲醉咗
+人辦
+人哋
+人軋人
+人客
+人有我有
+隱形人
+人若犯我
+引用文
+人唔似人
+忍唔到
+堙沒
+人怕噅
+人細鬼大
+人生舞台
+人衰行路打倒褪
+人頭涌涌
+人頭湧湧
+人頭豬腦
+人爲財死
+人爲萬物之靈
+人仔
+紉針
+仁者见仁
+人之將死
+因住
+因住電親
+因住凍親
+入便
+入錢
+入得廚房
+入伙
+入貨
+入去
+熠熠閃爍
+入嚟
+入嚟啦
+入面
+翕眼
+入數
+入土爲安
+入閘口
+入蟄
+一便
+一般嘅
+一般嚟講
+一揪一掕
+一次過
+一場兄弟
+一觸即發
+一啲都唔
+一啲都唔知
+一督就穿
+一戙都冇
+日更
+一拮就穿
+日久見人心
+一頸血
+一句講嗮
+一句話都唔聲
+一個崩
+一個餅印
+一個啫
+一個字
+一個做醜
+一個做好
+一腳踢
+一吓
+一係
+一學就識
+一日到黑
+一言以蔽
+一言爲定
+一於
+一於噉話啦
+一於係噉
+一於係噉啦
+一於唔
+一於唔畀佢去
+一於唔制
+一路都有
+一路以爲
+一面屁
+一目了然
+一額汗
+一生人
+一世人
+一身蟻
+一身鬆
+一實
+日頭青青
+一條氣
+一肚屎計
+一鑊泡
+一鑊熟
+一齋兩雜
+一齋三雜
+一陣間
+一隻屐
+一枝公
+一直行
+一直去
+一箭雙雕
+一竹篙打嗮一船人
+一竹篙揇咗一船人
+有把炮
+右便
+有寶
+遊車河
+由奢入儉難
+有轍
+由得
+有得飲
+由得佢喇
+由得你
+有得你睇
+有突
+有埞
+有埞坐
+有啲
+有啲時
+有啲燒
+有啲震
+有啲阻滯
+有碟話碟
+遊盪
+遊埠
+油灰水
+髹灰水
+有風駛盡艃
+有計
+有咁啱得咁蹺
+有金執咩
+有幾度散手
+遊擊戰
+由儉入奢易
+有故講咯
+又係
+有口齒
+油器
+有嘢到
+有嘢講
+有爺生無乸教
+有嘢食
+有嘢話你知
+有異曲同工之妙
+有型
+有型有款
+由佢喇
+右傾份子
+幼冷
+有理走遍天下
+有料
+有料到
+有兩度
+有兩度散手
+有兩手
+有落
+有路數
+有慢
+有米
+有問題
+有乜冬瓜豆腐
+有乜咁巴閉
+有乜咁出奇
+有乜好傾
+有乜用
+有乜噏乜
+有乜事幹
+有冇
+有冇攪錯
+有冇聲氣
+有挐褦
+油淰淰
+有銀
+有銀搵
+有我喺度
+揉捏
+有耐心
+有排
+有排等
+又平又靚
+油舖
+幼沙
+幼細
+由細到大
+右手便
+有些少
+有聲氣喇
+游水池
+有信心
+有事慢慢講
+又盛
+有少少
+遊船河
+右軚車
+有睇頭
+有頭冇尾
+有頭威冇尾陣
+油桐油
+幼滑
+有碗話碗
+油炸鬼
+有揸拿
+有站慢
+友仔
+有之
+佑助
+有咗
+有着數
+疣豬
+惹畀
+夜啲啦
+夜更
+夜冷
+夜冷貨
+夜麻麻
+嘢埋
+惹埋
+嘢埋我
+夜晚黑
+惹屎上身
+椰樹
+惹痰
+野仔
+惹爭議
+惹咗
+倚憑
+宜得
+依啲
+依度
+易到極
+意粉
+而家
+二甲醚
+依個
+以攻爲守
+以寡敵衆
+易過食豆腐
+易過借火
+而係
+伊挹
+咿挹
+衣衣哎哎
+宜咿哦哦
+耳璩
+伊撈七
+耳窿
+姨媽到
+意味住
+已歿
+旖旎風情
+二五仔
+以心爲心
+醫生紙
+二十蚊
+二少
+二攤
+二攤貨
+劓殄
+醫肚
+耳筒
+易話爲
+以爲
+夷爲平地
+以和爲貴
+耳仔
+二仔底
+耳仔窿
+椅薦
+衣着
+衣着打扮
+易做
+彝族
+耳珠
+亦都
+亦都係
+鬩神星
+艷情
+艷情小說
+嫌費事
+艷福
+艷歌
+儼若
+艷陽
+艷陽高照
+艷遇
+艷麗
+艷舞
+鹽蛇
+艷史
+艷羨
+醃尖
+煙鏟
+煙塵滾滾
+煙灰盅
+嚥口水
+躽起個大肚腩
+躽胸
+躽胸凸肚
+煙友
+演嘢
+煙韌
+現銀
+現銀交易
+現銀生意
+偃卧
+煙士
+燕梳
+煙頭
+煙通
+現暫
+煙仔
+煙仔檔
+言者無心
+言者諄諄
+然之後
+認親認戚
+影低
+認低威
+型到痺
+應邀參加
+認掯
+認叻
+影唔到
+認唔到
+型男索女
+認衰仔
+認屎認屁
+影相
+影相機
+影相佬
+影相舖
+認數
+認爲
+型仔
+蠅蛆
+影張相
+認住
+拽不動
+熱到飛起
+熱到流嗮汗
+熱到死
+熱痱
+熱熱哋
+熱檸茶
+熱頭
+妖艷
+鰩魚
+要唔係
+要唔要
+搖身搖勢
+腰酸
+腰酸背痛
+藥材舖
+若然之
+養畜牲
+羊公
+羊乸
+仰卧
+樣衰
+陽台
+喐不得其正
+喐親
+喐親就
+肉赤
+喐啲
+喐啲就
+肉檔
+喐動
+肉緊
+喐喐貢
+肉粒
+玉鈪
+喐身
+喐身喐勢
+喐手
+喐手打人
+喐手喐腳
+肉酸
+涌出
+湧出
+絨褲
+涌起
+湧起
+涌入
+湧入
+涌現
+湧現
+踊躍
+踴躍
+鱅魚
+絨褸
+用嚟
+用力一搡
+容乜易
+絨衫
+涌上
+湧上
+魚春
+遇刺身亡
+雨粉
+雨粉粉
+娛記
+瘀黑
+與及
+雨褸
+預埋
+預埋我
+雨溦
+雨溦仔
+雨毛
+瘀嗮
+魚生粥
+濡溼
+雨水天
+魚塘壆
+雨霽
+如箭在弦
+瘀咗
+預咗
+預早
+与众不同
+冤崩爛臭
+鉛筆刨
+玄祕
+完場
+怨唱
+軟笪笪
+淵到死
+軟荏荏
+鴛鴦筷
+鴛鴦鞋
+鴛鴦襪
+鴛鴦門
+懸梁自盡
+元明清
+芫茜
+婉惜
+淵痛
+丸仔
+閱兵台
+越裔
+粵語殘片
+越嚟越
+越諗越火滾
+越食越開胃
+月台
+月台票
+卡罅
+卡士
+溪錢
+契家佬
+契家婆
+契哥
+契爺
+契媽
+契妹
+契乸
+契娘
+溪水潺潺
+契仔
+擒青
+禁等
+搇斗
+搇檔
+搇賭
+禁攪
+搇蓋
+擒高擒低
+琴日
+搇一巴掌
+禁熱
+擒擒青
+擒擒青青
+擒騎
+搇旗
+蠄蟝
+搇佢一巴掌
+禁冷
+蠄蟧
+蠄蟧絲網
+琴晚
+琴晚黑
+禁磨
+禁諗
+搇你一巴掌
+搇被
+妗婆
+禽獸行爲
+禁死
+禁色
+擒上
+擒上去
+擒上樹
+擒樹
+禁睇
+禁聽
+琴朝
+禁着
+襟章
+禁做
+鯁親
+鯁頸
+鯁骨
+鯁唔落
+鯁死
+扱得好冚
+扱印
+扱實隻蓋
+cut短啲頭髮
+咭數
+cut咗呢個鏡頭
+求求其其
+求其
+溝女
+求先
+溝通技巧
+溝仔
+舅仔
+扣針
+摳着手掌
+騎膊馬
+奇離
+茄喱啡
+騎牛搵馬
+cash
+茄汁
+企出來
+企得正
+企定
+企到腳軟
+企櫃面
+企起身
+其言也善
+企領
+企唔穩
+企唔住腳
+企埋嚟
+企歪啲
+蜞乸
+畸士
+企堂
+劇情片
+claim保險
+claim稅
+cancer
+cancer有啲都有得醫嘅
+佢哋
+佢哋嘅
+佢哋自己
+佢哋自己嘅
+佢份人
+佢嘅
+佢個人
+佢隻嘢
+佢自己
+佢自己嘅
+畸卡
+畸卡咁笑
+畸畸卡卡
+click入去
+傾得
+傾得埋
+傾電話
+傾偈
+傾公事
+傾吓
+傾吓傾吓
+傾閒偈
+傾傾吓
+傾唔落去
+傾唔埋
+傾密偈
+傾生意
+傾世界
+擎天大柱
+傾听
+傾陣
+喼弗
+橋凳
+繑火牛
+橋桁
+繑口
+繑起對手
+繑冷
+繑脷
+蕎麪餄餎
+蕎麪飴餎
+蹺妙
+繑住手
+call白車
+call機
+quali
+強姦案
+搉頭殼
+箍煲
+箍頸
+箍頸黨
+箍臣
+垮台
+葵瓜子
+裙擺
+纊親
+纊掕
+纊埋
+纊住
+擴音喇叭
+揦翻拃沙
+啦啦林
+啦啦亂
+啦啦聲
+啦啦聲去啦
+揦脷
+揦西
+揦手
+拉士
+揦鮓
+揦住
+拉柴
+拉尺
+拉大纜
+賴低
+拉鏈
+賴貓
+賴貓君
+孻屘
+拉麪
+孻女
+賴尿
+賴尿蝦
+癩皮
+拉臣
+賴死
+瀨屎窟
+孻仔
+瀨嘴脣
+攬belt
+攬到實
+攬到實嗮
+攬頸巾
+攬生意
+攬身攬勢
+攬實
+攬住
+爛湴
+爛打
+讕大方
+讕得敕
+爛賭
+爛賭二
+爛瞓
+爛瞓豬
+讕闊佬
+讕架勢
+爛gag
+欄桿
+爛鬼
+爛鬼嘢
+爛滾
+讕客氣
+爛喊
+爛喊貓
+爛口
+攔河
+躝開
+爛癮
+讕殷勤
+讕有寶
+讕有嘢
+懶理
+讕叻
+懶佬
+爛佬
+懶佬鞋
+爛尾
+爛泥扶唔上壁
+爛女
+爛牙
+讕惡爺
+爛平爛賤
+爛蒲
+爛衫
+讕使
+爛身爛勢
+爛巿
+躝屍
+爛市貨
+躝屍趷路
+爛食
+讕醒
+讕熟落
+爛船都有三斤釘
+爛船都仲有三斤釘
+爛船仲有三斤釘
+爛銅爛鐵
+爛玩
+讕盞
+爛仔
+爛酒
+爛酒佬
+爛賤
+讕正經
+爛咗
+讕在行
+冷親
+冷到硬咗
+冷飯菜汁
+冷衫
+冷手襪
+冷手執個熱煎堆
+蠟青
+蠟青馬路
+擸光嗮
+擸一眼
+擸嘢
+擸擸炩
+立立雜雜
+擸炩
+擸埋
+擸網頂
+擸平嘢
+擸嗮網頂
+垃圾篸
+垃圾佬
+立雜
+蠟燭台
+辣魚多
+辣辣哋
+撈佬
+撈妹
+撈鬆
+撈仔
+厲埋片面
+藜麥
+例牌
+利是錢
+利是封
+例湯
+荔枝造
+厲轉身
+冧巴
+冧巴溫
+冧檔
+淋花
+臨急抱佛腳
+臨記
+冧歌
+淋紅油
+冧友
+凜厲
+冧屘
+林沈
+林沈嘢
+淋屎
+冧酒
+冧咗
+笠高帽
+立立亂
+立亂
+笠細路仔
+笠遮
+甩底
+甩褲
+甩鉸
+甩鞋帶
+甩牙
+甩皮甩骨
+甩身
+甩身唔到
+甩色
+甩鬚
+甩頭髮
+甩拖
+甩咗
+留低
+留翻
+嘍口
+漏口佬
+留喺屋企湊仔
+流嘢
+樓契
+褸裙
+流落嚟
+流嗮口水
+摟席
+褸席
+咧啡
+咧氣
+咧嗮氣
+label
+嚟遲
+嚟遲咗
+嚟得切
+嚟得啱
+嚟緊
+利口唔利腹
+離遠
+嚟唔得切
+嚟呢度
+嚟神
+脷苔
+嚟自
+叻唔切
+叻女
+叻仔
+舐嘴
+領當
+靚歌
+靚嘢
+領嘢
+靚嘢唔平
+僆琼
+僆模
+僆妹
+僆女
+靚衫
+領呔
+僆仔
+靚仔有型
+裏便
+裏底
+旅遊巴士
+旅遊巴士司機
+旅遊團隊
+驢駒
+裏面
+女首富
+驢仔
+輪更
+噒欖核
+粼粼碧波
+吝嗇
+噒諄
+論盡
+輪住嚟
+輪住值班
+律師行
+律師樓
+律師紙
+叻幣
+叻埠
+叻架
+力行雞
+廉記
+練波
+連隨
+靈灰
+炩擸擸
+玲瓏浮突
+零舍
+靈水
+靈醒
+列爲
+撩鼻屎
+嫽到
+了哥
+撩耳
+撩耳屎
+撩耳仔
+瞭望台
+嫽女仔
+囉噃
+攞籌
+攞車
+擺出嚟
+攞出來
+攞錢
+攞彩
+攞到
+攞翻
+攞翻公道
+攞翻去
+攞苦嚟辛
+攞景
+攞個籌掛號
+攞過嚟
+囉氣
+攞起
+羅漢齋
+囉柚
+攞佢命
+攞嚟
+攞嚟攪嘅
+攞嚟講
+攞嚟講嘅啫
+攞嚟衰
+攞嚟睇睇
+攞嚟賤
+囉囉攣
+攞落嚟
+囉攣
+攞唔定主意
+攞命
+攞便宜
+攞嗮彩
+攞嗮翻去
+螺絲批
+攞走
+攞獎
+漯飯
+漯飯應
+漯蔗渣
+掠水
+涼茶舖
+兩度散手
+兩兄妹
+兩母女
+兩眼溼溼
+兩仔爺
+兩仔乸
+來路嘢
+落班
+落本
+落斜
+落車
+落大雨
+落定
+落袋
+落毒
+落藥
+落肥
+落飛機
+落街
+落更
+落機
+落客
+落口供
+落雨溦
+落雨溼溼
+落雨絲溼
+落樓
+落嚟
+落力
+落蚊帳
+落臉
+落面
+落手落腳
+落石級
+落剩
+落船
+落雪水
+落雪珠
+落台
+落堂
+落畫
+落妝
+落注
+啷口
+啷口盅
+狼命
+狼忙
+晾衫架
+狼胎
+老襯
+老抽
+嘮嘈
+老豆老母
+老點
+老定
+老頂
+老到巢皮咪孟
+撈到風生水起
+勞動生產
+擄奪
+撈飯
+老番
+老番冬
+老番涼茶
+老番睇榜第一
+老虎公
+老虎乸
+老虎仔
+撈家
+老公仔
+勞氣
+老行專
+老人癡呆
+老嘢
+老而不
+勞力者治於人
+撈亂咗
+鹵味
+撈麪
+撈拿
+老泥
+撈女
+老編
+老婆仔
+老細
+撈世界
+勞心者治人
+老實講句
+露相非真人
+老鼠貨
+老鼠拉龜
+老鼠窿
+露台
+路還路
+老積
+老積仔
+撈靜水
+老宗
+淥親
+淥親手指
+碌大眼
+綠豆水
+碌地
+碌地沙
+碌架牀
+淥個麪
+六個字
+碌柚
+淥魚片
+轆咭
+碌碌半生
+碌士
+淥熟
+淥熟嗮
+轆咗落嚟
+龍鳳鈪
+窿路
+窿仔
+龍精虎猛
+亂扠
+亂車
+亂車廿四
+亂趯
+亂揈
+亂揈錢
+亂咁舂
+亂講嘢
+亂估
+攣捐
+聯系
+攣曲
+亂立立
+亂嚟
+亂龍
+聯袂飾演
+攣毛
+亂諗
+亂諗嘢
+亂噏
+亂噏廿四
+亂噏嘢
+亂爬
+亂嗮大龍
+亂嗮坑
+聯衫
+亂食嘢
+戀糖
+唔出聲
+唔似
+唔似樣
+唔清楚
+唔切
+唔錯
+唔睬佢
+唔打得都睇得
+唔單止
+唔單止噉
+唔搭界
+唔抵
+唔抵幫
+唔得
+唔得切
+唔得掂
+唔得閒
+唔等使
+唔對路
+唔掂
+唔掂諗到掂爲止
+唔定
+唔多
+唔道德
+唔到你
+唔到你唔
+唔化
+唔化算
+唔發市
+唔忿氣
+唔方便
+唔合
+唔計帶
+唔敢
+唔緊要
+唔夠
+唔夠埞方
+唔夠瞓
+唔夠佢打
+唔夠佢鬥
+唔夠佢嚟
+唔夠佢爭
+唔夠quali
+唔夠力
+唔夠攝牙罅
+唔記得
+唔記得咗
+唔見得光
+唔見得人
+唔見咗
+唔經唔覺
+唔該
+唔該嗮
+唔該借歪
+唔覺意
+唔覺眼
+唔高興
+唔公平
+唔怪乎
+唔怪之得
+唔關佢事
+唔關你事
+唔關我事
+唔關事
+唔鹹唔淡
+唔行得開
+唔行得埋
+唔係呀嘛
+唔係呀話
+唔喺度
+唔喺度
+唔係噉話
+唔係嘅話
+唔係幾
+唔係幾似
+唔係啩
+唔係好合
+唔係路
+唔喺屋企
+唔合法
+唔合理
+唔合適
+唔興
+唔可以
+唔可能
+唔開心
+唔開胃
+唔好飲
+唔好意思
+唔好意頭
+唔好食
+唔好聽
+唔一定
+唔憂
+唔憂食
+唔憂着
+唔易做
+唔認得
+唔應該
+唔認數
+唔要
+唔要得
+唔喐得
+唔容易
+唔禁
+唔禁等
+唔禁着
+唔近
+唔理
+唔論
+唔落得手
+唔撈
+唔明
+唔挐耕
+唔難
+唔能
+唔啱
+唔啱傾
+唔啱數
+唔啱咀形
+唔安樂
+唔耐
+唔耐煩
+唔安全
+唔怕
+唔怕醜
+唔嗮
+唔生性
+唔使
+唔使慌
+唔使咁火滾
+唔使咁謙噃
+唔使驚
+唔使講
+唔使客氣
+唔使一陣
+唔使憂
+唔使唔該
+唔使問阿貴
+唔使送呀
+唔使指擬
+唔使做
+唔實際
+唔受得
+唔捨得
+唔聲
+唔衰得
+唔需要
+唔衰攞嚟衰
+唔信
+唔識
+唔識佢
+唔識唱歌
+唔食力
+唔識路
+唔識死
+唔識衰
+唔識睇
+唔識聽
+唔食雜
+唔識字
+唔識轉彎
+唔少
+唔少得
+唔小心
+唔想
+唔相信
+唔舒服
+唔同
+唔通
+唔通氣
+唔同意
+唔話得
+唔爲得過
+唔會
+唔會嘅
+唔會啩
+唔盞
+唔習慣
+唔制
+唔制得過
+唔走得
+唔准
+唔止
+唔知醜
+唔知道
+唔知好醜
+唔至於
+唔知死
+唔志在
+唔值得
+唔正常
+唔在講
+唔做
+唔鍾意
+唔重要
+唔中用
+馬轡
+孖辮
+麻煩嗮
+麻鬼煩
+蔴油
+麻鷹
+麻甩
+麻甩佬
+麻甩仔
+馬騮
+馬騮仔
+馬騮精
+麻叻
+馬螂狂
+嘛嘛
+嘛嘛哋
+媽媽聲
+嘛嘛啫
+孖女
+馬軛
+孖鋪
+孖生
+馬蹄粉
+孖仔
+馬仔
+媽姐
+孖展
+賣白粉
+埋便
+埋堆
+賣花讚花香
+賣埠
+賣貨員
+賣告白
+賣鹹鴨蛋
+賣口乖
+埋去
+買嘢
+買燕梳
+買樓
+埋嚟
+買唔到飛
+埋尾
+埋岸
+買屋
+賣嗮
+買衫
+埋身
+埋手
+埋數
+埋位
+埋閘
+買紮花
+埋席
+擘髀
+擘大
+擘大個口
+擘大個口得個窿
+擘大口
+擘大口得個窿
+擘大喉嚨嗌
+擘大眼
+擘大眼講大話
+擘開個口
+擘開兩隻腳
+擘開兩隻手指
+擘一字
+擘梯
+萬般皆下品
+摱雞
+萬幾蚊
+慢下手
+晚晚
+慢慢行
+慢慢食
+萬惡淫爲首
+萬字夾
+慢住
+盲公
+盲公竹
+盲佬
+盲毛
+盲妹
+盲眼
+盲婆
+抹窗口
+抹地
+抹乾淨
+抹乾淨個面
+抹一額汗
+抹身
+抹手
+抹枱
+抹枱布
+抹咗一額汗
+貓竇
+貓公
+貓樣
+貓乸
+貓仔
+咪嘈
+咪家
+咪高峯
+咪係
+咪去住
+咪喐
+迷迷懵
+眯眼
+米怕篩
+米水
+咪書
+咪話
+咪走呀
+咪就係
+咪指擬
+咪住
+墨水筆
+問吊
+蚊雞
+抆屎
+文壇巨擘
+聞者足戒
+蚊螆
+盟鼻
+擝出
+擝槍
+擝草
+盟籠
+盟嗮
+盟塞
+擝實
+擝繩
+孟曾
+乜都
+乜都得
+乜都唔理
+乜都唔會
+乜東東
+乜鬼
+乜因由
+乜嘢時間
+物以稀爲貴
+乜誰
+密絲
+乜時候
+密斟
+密質質
+踎大牌檔
+踎低
+踎低身
+踎墩
+某啲
+茂尼
+踎塔
+孭重飛
+孭帶
+孭袋
+咩都唔驚
+孭飛
+孭起
+咩嘢
+咩嘢環境
+咩意思
+歪哩歪斜
+歪身歪勢
+咩事呀
+孭上身
+孭數
+孭臊蝦仔
+孭書包
+咩話
+咩環境
+孭鑊
+孭債
+孭仔
+孭住藥煲
+尾班車
+尾車
+尾場
+未得
+未得切
+未得住
+未掂
+未瞓醒
+未夠
+未夠班
+未見到
+未有耐
+屘二
+美容業
+美容中心
+昧落水
+尾龍骨
+未生埋腦筍
+昧水
+未識死
+尾指
+未知死
+命水
+命水唔好
+咪錶
+miss
+冪數
+面青
+面青青
+棉緊身
+面口
+面口差
+面口熟
+面紅面綠
+綿羊仔
+勉強餬口
+棉褸
+面懵心精
+棉衲
+面凹
+免稅
+麪豉
+麪食
+面色一沉
+棉胎
+免至
+棉氊
+面珠
+面珠墩
+明擺着
+名不正則言不順
+明火白粥
+明艷
+明艷照人
+明於觀人
+名列前矛
+明唔明
+名牌店
+名牌嘢
+滅火喉
+搣爛
+瞄一眼
+喵喵嘴
+苗芽
+喵嘴
+廟祝公
+摩打
+魔高一尺
+摸門釘
+嚤佗
+剝光衫褲
+剝光豬
+剝殼
+剝衫
+忙到死
+盲音
+望一眼
+望佢一眼
+忙裏偷閒
+網編
+望住
+冇辦法
+冇品
+冇表情
+冇本心
+唔好出聲
+冇出息
+冇錢使
+無情白事
+冇錯
+唔好嘈
+冇穿冇爛
+冇大冇細
+冇膽
+冇啖好食
+唔好擔心
+冇得頂
+冇得瞓
+冇得揀
+冇得傾
+冇得傾呀
+冇得彈
+冇得走趲
+冇得做
+冇埞放
+冇埞企
+冇埞埋手
+冇埞踎
+冇埞匿
+冇埞泊車
+冇埞使
+冇埞走
+冇啲挐褦
+冇到
+無端白事
+模范
+冇法啦
+冇法子
+冇家教
+冇解
+冇計
+唔好計帶
+冇偈傾
+冇咁大個頭唔好戴咁大頂帽
+冇咁好氣
+冇咁易
+毛巾褸
+冇幾耐
+冇記性
+冇嗰樣整嗰樣
+冇個啱
+唔好講
+毛管
+毛管戙
+冇公德心
+毛公仔
+冇關係
+冇鬼用
+唔好客氣
+唔好喊
+冇口齒
+冇興趣
+冇陰功
+冇人
+冇癮
+冇人幫襯
+冇人敢聲
+冇人吼
+冇人錫
+冇嘢
+冇嘢呀嘛
+冇嘢到
+冇嘢講
+冇耳性
+冇研究
+帽纓
+冇腰骨
+唔好喐
+冇用
+唔好預我
+無拘
+唔好啦
+無理寸步難行
+冇釐搭霎
+冇料
+冇料到
+冇路數
+冇路走
+冇紋冇路
+冇問題
+冇乜
+冇乜把炮
+冇乜點
+冇乜揸拿
+冇面
+無無端端
+冇挐耕
+冇挐冇褦
+無拏拏
+冇挐褦
+冇你咁好氣
+冇眼睇
+冇銀
+冇銀喺手
+冇奈何
+冇譜
+冇嗮符
+冇嗮符弗
+冇嗮姣氣
+冇嗮聲氣
+冇散紙續
+冇心
+唔好心急
+冇心機
+冇心肝
+冇修
+冇手尾
+冇水
+冇事
+冇時間
+冇事幹
+無線電視台
+無線電台
+冇醒起
+冇所謂
+冇王管
+冇走趲
+冇再講啦
+冇做過
+妹釘
+梅花錶
+妹仔
+木獨
+木方
+木嚿
+木口木面
+木糠
+木吶
+木碎
+木枱
+木嘴
+悶到死
+門鉸
+門罅
+滿瀉
+滿天神佛
+門鐘
+懵閉閉
+矇查查
+懵到上心口
+懵吓懵吓
+懵佬
+懵盛盛
+懵上心口
+梦幻
+懵仔
+茉莉茶
+乸型
+那裏
+挐挐褦褦
+挐褦
+拿破侖
+奶啡
+奶樽
+南便
+男人老狗
+南乳花生
+南乳肉
+南無佬
+蝻蛇
+男仔
+難抵
+難頂
+難攪
+難以啓齒
+難以爲繼
+難鯁
+難食
+難相與
+難睇
+難睇到死
+難聽到死
+難搵
+焫親
+焫雞
+焫傷
+焫咗
+鬧交
+鬧人
+孬脾氣
+鬧鍾
+泥湴
+泥塵
+泥肉
+泥山
+泥氹
+腍啤啤
+諗清諗楚
+諗翻
+諗法
+諗計
+諗計仔
+諗吓
+諗唔掂
+諗唔到
+諗唔明
+諗唔通
+諗諗吓
+諗頭
+諗通
+諗真啲
+諗住
+粒聲都唔出
+粒聲唔出
+凹咗
+嬲爆爆
+嬲到死
+嬲到震
+扭計
+扭計星
+耨喉
+嬲好定笑好
+扭喐
+扭扭擰擰
+扭擰
+嬲死
+耨市
+扭屎窟
+你哋
+你哋嘅
+你哋自己
+你哋自己嘅
+你都short嘅
+你嘅
+你個人
+你講嘢呀
+你講咩嘢話
+你估
+你貴姓
+你過獎喇
+匿去邊度
+你好有心
+匿入房
+你要click兩下至得
+匿埋
+你諗你
+你話點就點
+你自己嘅
+你知唔知
+女包
+女爲悅己者容
+女仔
+女仔流流
+女仔之家
+五十蚊
+五金舖
+五個字
+五行欠打
+五行欠水
+五行缺水
+誤以爲
+牙呀仔
+瓦煲
+瓦背
+瓦背頂
+瓦罉
+牙擦
+牙擦擦
+牙齒當金使
+掗埞
+牙鉸
+瓦坑
+掗開
+掗開對腳
+牙煙
+牙肉
+牙罅
+啞佬
+牙屎
+瓦通紙
+瓦通紙盒
+掗位
+掗拃
+瓦渣
+牙斬斬
+瓦仔
+牙尖嘴利
+捱白飯
+挨憑
+捱得苦
+捱更抵夜
+嗌交
+嗌救命
+捱飢抵冷
+嗌嘢
+捱夜
+嗌嘢食
+崖鷹
+捱騾仔
+挨晚
+嗌名
+捱眼瞓
+挨拼
+挨拼椅
+捱生捱死
+捱世界
+捱肚餓
+嗌痛
+嗌通街
+捱齋
+呃錢
+呃鬼
+呃鬼食豆腐
+呃飲呃食
+呃人
+呃食
+啱feel
+啱偈
+啱key
+啱蹺
+啱唔啱
+啱啱
+巖巖巉巉
+啱啱要
+啱心水
+啱先
+啱聽
+啱咀形
+眼白白
+眼不見
+眼不見爲淨
+眼瞠唔開
+眼赤
+眼超超
+眼定定
+眼定定噉望
+眼都大埋
+眼花花
+眼火爆
+眼火標
+眼闊頭窄
+晏覺
+眼鏡舖
+眼公仔
+眼光光
+眼翕毛
+眼冤
+眼利
+眼裏
+眼眉毛
+眼毛
+眼矇矇
+眼溼溼
+眼核
+眼斬斬
+眼仔碌碌
+晏晝
+晏晝飯
+硬打硬
+硬頸
+硬角角
+硬係
+眼淚水
+硬嗮舦
+鴨春
+押高褲腳
+押高衫袖
+押後
+押後處理
+押屎片
+鴨咀帽
+餲堪堪
+拗頸
+拗撬
+肴痕
+咬口
+咬口脣
+拗氣
+咬一啖
+拗腰
+咬佢唔入
+咬唔入
+肴嗮頭
+拗手瓜
+拗胡
+拗胡婆
+矮躉
+矮凳仔
+矮凸凸
+蟻竇
+翳焗
+矮瓜
+翳氣
+噅人
+翳熱
+噅求
+蟻躝噉
+噅噅篩篩
+翳滯
+僞造
+僞造品
+吟沉
+扲袋
+吟嚟吟去
+暗啞抵
+吟吟沉沉
+扲雀仔竇
+揞住
+揞住嘴笑
+銀包
+銀雞
+奀妹
+奀細
+奀瘦
+奀仔
+銀仔
+銀紙縮水
+噏得出就噏
+噏啲乜呀
+噏三噏四
+岌頭
+罨汁
+扤失
+扤實
+迄止
+牛蒡子
+吽哣
+牛高馬大
+牛牯
+牛公
+牛河
+牛一
+牛肉炒河
+牛肉湯麪
+勾佬
+牛乸
+牛軛
+牛扒
+牛王
+牛王妹
+牛王頭
+吽仔
+牛治
+牛精
+嚙齒類
+我不犯人
+我不嬲都係噉噶啦
+佢不嬲都唔食辣嘅
+我不嬲喺
+我不嬲喺
+佢不嬲有信翻嚟
+我必犯人
+餓親
+我check過嗮喇
+鵝春形
+鵝春石
+鵝蛋形
+我哋
+我哋嘅
+我哋自己
+我哋自己嘅
+我嘅
+我個人
+餓鬼投胎
+餓過飢
+我開O.T.
+屙爛屎
+屙尿
+屙屁
+卧室
+屙屎
+屙殊殊
+屙肚
+餓肚
+我自己嘅
+外便
+外底
+呆鈍
+外父咁外
+外嫁女
+外江佬
+外來妹
+外母乸
+外省佬
+愛錫
+外洩
+外太公
+外太婆
+惡頂
+捳高頭
+惡亨亨
+惡爺
+惡爺頭
+鱷魚頭
+惡鯁
+惡死
+惡死能登
+捳頭
+惡作
+安樂茶飯
+戇居
+戇居居
+戇佬
+戇戇哋
+戇喪
+擙落嚟
+擙唔到
+屋契
+屋企人
+屋租
+屋主婆
+壅肥
+甕缸
+搈人
+搈落
+搈門
+壅泥
+呢便
+呢駁
+呢啲
+呢啲嘢
+呢度
+呢幾年嚟
+呢個係
+呢個嘢
+呢個月
+呢嘢
+呢輪
+呢槓嘢
+呢味嘢
+呢排
+呢排好唔掂
+呢鋪
+呢處
+呢勻
+呢陣
+呢陣時
+呢種
+搦過嚟
+搦唔喐
+搦住
+唸口黃
+年初一流流
+年紀細
+捻頸
+捻乾
+年輕有爲
+姩罅
+捻爛咗
+年尾花紅
+年卅晚
+捻死
+檸茶
+拎出
+拎出去
+拎出嚟
+拎翻去
+拎翻屋企
+擰過身嚟
+擰螺絲
+擰嗮頭
+擰頭
+拎住
+擰轉
+擰轉身
+擰轉頭
+顳葉
+涅盤
+鳥爲食亡
+挼好長髮
+耐不耐
+內容
+奈佢唔何
+奈唔何
+耐唔耐
+耐唔中
+內幕
+耐耐
+耐中
+囊篋羞澀
+怒氣衝天
+腦筍
+腦筍未生埋
+暖笠笠
+暖暖哋
+柯打
+OK
+柯佬
+愛靚唔愛命
+愛滋病人
+安營扎寨
+O記
+O.T.
+怕醜
+怕醜草
+扒錢
+怕凍
+扒龍船
+怕你呀
+趴時
+passport
+扒堤
+扒艇仔
+怕擮
+派報紙
+派籌
+排長龍
+排隊排孻屘
+派飛
+排孻屘
+派利是
+派信
+排闥而入
+派帖
+派台歌
+派台歌曲
+泊車咪錶
+拍手無塵
+拍手掌
+拍手掌歡迎
+part-time
+拍乸
+party
+抛浪頭
+泡麪
+炮仗頸
+剕菠蘿皮
+剕鉛筆
+剕皮
+剕蘋果
+頻頻撲撲
+頻撲
+披牌
+巴仙
+蜱蟲
+被竇
+皮喼
+皮光肉滑
+貔貅仔
+被冚
+皮褸
+paper
+皮袍
+被鋪
+劈友
+劈酒
+拼沉
+骿骨
+平嘢
+平嘢唔靚
+平靚正
+pizza
+PC
+PTU
+片糖
+平底鑊
+姘婦
+蘋果批
+評核
+平台
+破柴
+破財擋災
+破口大鬧
+破開兩邊
+婆媽
+婆乸
+撲飛
+撲過來
+撲嚟撲去
+撲料
+撲心撲命
+蒲點
+普飛
+抱男孫
+浮薸
+甫士
+甫士咭
+菩提酒
+舖頭
+蒲頭
+葡萄苷
+舖仔
+佩衽
+仆親
+仆低
+仆喺張枱度
+仆住瞓
+仆轉
+判感化
+判死刑
+拚咗佢
+撥大葵扇
+撥爐
+撥扇
+砂煲
+砂煲罌罉
+沙塵白霍
+沙膽
+沙甸魚
+沙葛
+沙蟬
+沙蟬殼
+沙田柚
+沙井蓋
+沙紙
+紗紙
+沙展
+嘥地方
+嘥到一錢不值
+嘥鬼氣
+嘥氣
+曬熱頭
+嘥心機
+嘥心機捱眼瞓
+嘥聲壞氣
+嗮士
+嘥時間
+曬相
+嘥撻
+三步擸埋兩步走
+衫刷
+衫架
+三九唔識七
+衫腳
+三國誌
+三日香
+三日新
+三弦琴
+三弦樂器
+衫裙
+衫爛咗
+衫裏
+三唔識七
+三文治
+衫鈕
+三鳥
+三鳥成羣
+三衰六旺
+三少
+三仔
+散春
+山草藥
+山草藥舖
+散傳單
+散檔
+散毒
+山高嶺削
+散瘀
+山卡罅
+山卡罅嘅地方
+山蜞
+山裏紅
+山窿
+散賣
+散銀
+閂舖
+散散收收
+散使
+散收收
+疝痛
+散仔
+散紙
+散咗
+山豬竇
+生暗瘡
+生啤啤
+生暴
+生暴人
+生蟲
+生得醜
+生得幾靚
+生得好睇
+生得靚
+生得靚仔
+生雞
+省鏡
+生穀牛
+生鬼
+生果
+生果檔
+生果金
+生果舖
+生蝦
+生蝦噉跳
+生人霸死地
+生人唔生膽
+生人勿近
+生日咭
+生意佬
+生熱痱
+生cancer
+生瘌痢
+生埋腦筍
+省牛王
+生安白造
+生壅
+生嗮
+生嗮草
+生嗮鍟
+生蝨乸
+生鍟
+省城話
+生劏
+省黃魚
+生活散漫
+生仔
+生仔育女
+生積
+生積仔
+霎氣
+霎戇
+颯颯聲
+煞科
+煞唔切掣
+煞尾科
+剎制
+煞掣
+睄佢一眼
+細髀
+西餅
+西便
+西斜
+西斜熱
+細膽
+西多
+西多士
+世界錦標賽
+世界新聞
+使頸
+細個
+細個嗰陣
+細個嗰陣時
+細個仔
+細個仔嗰陣
+誓願當食生菜
+駛艃
+細佬
+細佬哥
+細路女
+細路仔
+使唔嗮
+使唔使
+細蚊仔
+使乜
+使乜道歉
+使乜咁客氣
+使乜驚呀
+使乜講
+洗面手巾
+使嗮
+洗衫
+洗衫板
+洗衫梘
+洗身
+洗溼咗個頭
+細聲啲
+洗頭水
+細仔
+細隻
+西紙
+塞嗮車
+心不念
+參茶
+心大心細
+心肝椗
+糝古月粉
+審核權
+心口針
+心好翳
+心仪
+心裏
+滲蚊仔
+心抱
+心抱仔
+梣樹
+心淡
+心頭高
+甚爲
+甚爲不解
+甚至乎
+糝芝麻
+神祕
+神祕化
+神祕主義
+身材好弗
+新登場
+新記
+身紀
+有身紀
+身嬌肉貴
+身焮
+新嘢
+神樓
+新郎哥
+新聞台
+新年流流
+神神化化
+身水身汗
+新屎坑
+新鮮熱辣
+新仔
+神志不清
+身壯力健
+晨早
+晨早流流
+生不帶來
+生如夏花
+溼柴
+十點幾
+溼到淰嗮
+十分之
+十個字
+十一個字
+十問九唔應
+溼淰淰
+溼凹凹
+十五十六
+十扑
+溼溼碎
+溼溼碎碎
+溼碎
+溼星嘢
+十畫都未有一撇
+十畫未有一撇
+十足十
+失打
+實得噶喇
+實地勘查
+實係
+失禮嗮
+實嚟
+實唔係
+失物招領處
+蝨乸
+蝨乸春
+實牙實齒
+膝頭哥
+實穩
+實穩去
+實穩冇錯
+實會
+實淨
+失咗
+失踪
+手板眼見工夫
+手板心
+手板堂
+首被告
+手抽
+手多多
+收檔
+瘦到得棚骨
+瘦到飛起
+瘦到成條柴噉
+收翻
+收費咪錶
+羞家
+收更
+手甲
+手巾仔
+手瓜
+手瓜起腱
+手瓜硬
+瘦骨如柴煲碌竹
+瘦骨賴柴
+瘦骨仙
+收喺邊度
+受黑錢
+手痕
+仇口
+漱口盂
+受虐狂
+受軟唔受硬
+修橋整路
+手鐐
+受落
+收買人命
+收買佬
+瘦擘擘
+瘦蜢蜢
+手襪
+手尾
+收屘
+手鈪
+收銀處
+收銀台
+收舖
+修水圳
+手信
+收線
+壽星公
+壽星公吊頸
+壽星公都有License
+收數
+手揗腳震
+收听
+手拖手
+手踭
+壽仔
+手枕
+手震震
+手袖
+收遮
+手指公
+手指纈
+手指屘
+手指模
+手指拗出
+手指拗出唔拗入
+瘦咗
+收租婆
+卸膊
+寫大字
+蛇都死喇
+寫個服字
+蛇吓先
+蛇喱眼
+寫落嚟
+寫唔切
+寫字枱
+蛇咗去隔籬
+死呀
+四十蚊
+死不帶去
+死畀佢睇
+四便
+四邊四便
+死蠢
+四千蚊度
+死得其所
+死得眼閉
+死都唔眼閉
+死都話
+死火
+死雞撐飯蓋
+死雞撐硬腳
+死咁
+死咁咪
+死咁做
+死跟
+死估估
+死慳死抵
+死氣喉
+四海爲家
+死橋
+死啦
+死裏逃生
+死纈
+死唔去
+死唔眼閉
+四平八正
+死嗮
+死死吓
+死死氣
+四圍撲
+四仔
+四仔台
+死就死
+四正
+死咗火
+死咗又翻生
+石壆
+石春
+錫一啖
+錫嗮
+錫嗮你
+錫身
+錫士
+錫壞
+成地都係
+醒瞓
+成個禮拜
+成個買
+聲喉
+聲喉坼
+聲喉沙
+醒嚟
+聲沙
+成世
+成身
+成頭汗
+成隻病貓噉
+成朝
+成朝早
+誰不知
+衰俾人睇
+水豆腐
+衰到唔使恨
+衰公
+衰鬼
+衰鬼豆
+水鞋
+水喉
+水喉鐵
+水喉通
+衰起上嚟有頭有路
+衰人
+水嘢
+衰嘢
+水溝油
+碎料
+衰佬
+衰女
+衰女包
+水皮
+衰婆
+衰嗮
+睡衫
+衰神
+衰收尾
+水蛇春咁長
+水氹
+衰仔
+水浸
+水浸眼眉
+水圳
+水樽
+水螆
+睡着
+馴品
+筍貨
+順風駛艃
+筍價
+徇一餐
+筍嘢
+信以爲真
+信肉
+信用咭
+恤金
+CIB
+士啤
+士啤肽
+士缽恤
+是次
+事情多羅羅
+蓍草
+士擔
+是但
+是但呀
+是但你揀
+士的
+士多
+士多啤梨
+士多房
+絲髮戲服
+屎窟
+屎窟窿
+是非多羅羅
+私家醫生
+屎計
+試過有一次
+試吓
+屎坑
+思考方式
+時候唔夠
+詩興大發
+私人祕書
+私隱權
+是日例湯
+豉油
+豉油碟
+豉油樽
+思疑
+侍應
+屎橋
+士叻
+司令台
+蒔羅
+士碌架
+時嘜
+試味
+試味道
+師奶
+屎眼
+屎片
+試衫房
+試身
+是是但但
+思思縮縮
+思縮
+屎塔
+倒屎塔
+屎塔蓋
+士撻膽
+事頭婆
+蒔田
+視閾
+侍仔
+蓍占
+時裝騷
+食霸王飯
+食飽
+食飽未
+食不充饑
+識辨
+食餐便飯
+食餐冇餸飯
+食七咁食
+食翅
+食錯藥
+識穿
+食得鹹魚抵得渴
+食得鹹魚就要抵得渴
+食得落
+食得唔好嘥
+識啲啲扮老師
+識啲唔識啲
+食到嗒嗒聲
+食飯
+食翻餐勁嘅
+食飯枱
+熄機
+識講
+識講嘢
+食穀種
+食閒口
+息口
+食口立溼
+識飲識食
+識人要帶眼
+識游水
+食嘢
+食鹽仲多過你食米
+食煙
+食煙仔
+食藥
+食欲
+淅瀝瀝
+識撈
+識路
+食唔飽
+食唔切
+食唔落
+食唔安瞓唔落
+食唔嗮
+食埋
+食晚飯
+食貓麪
+食懵咗
+識諗
+食晏
+食晏仔
+食姩
+食檸檬
+食腦
+識朋友
+食嗮
+食西北風
+食塞米
+食死貓
+色水
+食水太深
+熄匙
+食肆
+色士風
+識時務者爲俊傑
+識食
+識識哋
+識性
+食消夜
+識少少扮代表
+食餸
+識歎
+識彈唔識唱
+識睇
+識聽
+食皇家飯
+食碗面反碗底
+食齋
+食雜
+食滯
+食滯咗
+食咗
+食早餐
+食粥
+閃閃吓
+閃閃炩
+閃閃縮縮
+閃縮
+線步
+跣親
+跣跤
+騸雞
+先嗰排
+跣腳
+線桄
+先一排
+鮮艷
+線絡
+跣落
+跣落去
+先晚
+羡慕
+線衫
+鮮甜
+先至
+先至唔會
+跣咗一跤
+跣咗一腳
+性別
+聖誕咭
+醒定
+醒定啲
+性感尤物
+勝瓜
+星君仔
+性行爲
+成羣結隊
+承聞
+醒目啲
+醒目仔
+醒神
+乘數表
+升華
+成爲
+醒胃
+成爲泡影
+成爲事實
+攝青鬼
+攝高
+攝入去
+攝入嚟
+攝錄機
+攝蚊帳
+攝牙罅
+攝石
+攝鐵
+蝕本貨
+蝕本生意
+蝕本貸
+蝕錢
+蝕底
+蝕嗮大本
+竊听
+少不免
+燒親
+笑稱
+燒槍
+燒腸
+紹菜
+笑大人個口
+笑到見牙唔見眼
+笑到畸畸聲
+笑到肚刺
+消防喉
+消防喉轆
+小家器
+小家種
+少件得件
+小學雞
+小人蛇
+燒嘢食
+燒乳豬
+小囡
+燒鴨
+燒鵝
+燒燶咗
+燒炮仗
+銷士
+笑笑口
+笑笑口噉講
+笑笑口話
+少少咋
+燒咗灰士
+梳打
+梳打粉
+梳化
+梳化椅
+梳乎厘
+傻更
+傻更更
+sorry
+sorry囉
+傻佬
+傻妹
+傻女
+傻傻哋
+傻傻更更
+疏堂
+疏堂兄弟
+疏堂姐妹
+傻仔
+傻仔水
+鎖咗
+削笪笪
+削髮爲僧
+削梨
+削坺坺
+上便
+上斜
+相底
+相對溼度
+雙格牀
+上個禮拜
+相依爲命
+上契
+上鏈
+雙妹嘜
+上昇
+相睇
+想話
+嗍鼻
+嗍啖煙
+塑膠桶
+嗍氣
+索油
+索女
+嗍嗮氣
+嗍水
+爽手
+喪仔
+數白欖
+臊臭
+鬚髮皓然
+臊蝦
+show吓quali喎
+臊蝦女
+臊蝦仔
+騷擾嗮
+騷quali
+數唔切
+掃埋嚟
+鬚刨
+素食麪
+數還數
+蘇州過後冇艇搭
+蘇州屎
+宿包
+熟檔
+縮骨遮
+熟客仔
+宿哼哼
+熟口熟面
+熟行
+熟鹽
+縮唔切
+縮埋一嚿
+粟米粉
+熟面口
+縮沙
+熟性
+鷫鸘
+送畀
+餸菜
+餸飯
+鬆人
+送院
+送院治理
+餸籃
+餸頭餸尾
+鼠嘢
+薯蕷
+鼠摸
+輸嗮
+薯頭
+薯頭嘜
+薯頭薯腦
+書枱
+薯仔
+算罷啦
+算鬼數
+蒜蓉
+酸微微
+算你夠運
+算死草
+算數喇
+酸宿
+酸宿爛臭
+船頭尺
+孫仔
+雪葩
+雪藏汽水
+雪藏肉
+雪藏西瓜
+雪糕車
+雪糕廠
+雪糕批
+雪糕筒
+雪耳
+雪耳糖水
+雪屐
+雪褸
+雪裏紅
+雪帽
+雪批
+雪珠
+雪豬
+他他條條
+他條
+太凍
+太空褸
+太冇解喇
+太平鋪
+軚盤
+title
+太子女
+貪得意
+探熱
+探熱針
+貪靚
+探盤
+貪自在
+貪着數
+歎報紙
+歎茶
+歎咖啡
+彈結他
+歎冷氣
+歎世界
+坦誠
+撻錢
+撻定
+撻嘢
+撻脷
+撻沙魚
+撻數
+撻頭
+撻住對鞋
+睇霸王戲
+睇病
+睇波
+銻煲
+睇清楚
+睇錯
+睇穿
+睇大戲
+睇低
+睇得出
+睇得化
+睇得起
+睇得明
+睇電視
+睇定
+睇檔
+睇到
+睇化
+睇法
+睇風水
+睇更
+睇見
+睇過點
+睇吓
+睇吓點
+睇吓咧
+睇吓先
+睇戲
+睇起
+睇起嚟
+睇起上嚟
+睇開
+睇開啲
+睇好
+睇夜
+睇醫生
+睇樣
+體育衫
+睇佢幾好
+睇嚟
+睇嚟湊
+睇落
+睇老婆
+睇唔出嚟
+睇唔清
+睇唔切
+睇唔到
+睇唔見
+睇唔過眼
+睇唔起
+睇唔開
+睇唔入眼
+睇唔明
+睇唔真
+睇脈
+剃面
+提名人
+睇啱
+剃眼眉
+睇牛
+睇舖
+銻盆
+睇山
+睇實
+睇死
+睇水
+睇衰
+睇水色
+睇小
+睇相
+睇上眼
+睇數
+睇餸食飯
+睇書
+提堂
+睇勻
+睇鐘數
+睇住佢頭
+睇住嚟
+嗿人
+嗿人歡喜
+嗿細蚊仔
+氹氹轉
+褪步
+揗雞
+褪幾步
+褪過去
+褪後
+褪後啲
+揗嚟揗去
+吞唔落
+吞樸
+揗嗮雞
+褪舦
+揗揗震
+藤喼
+藤喼耳
+藤褦瓜
+TupTup撼
+偷車案
+頭赤
+透大氣
+唞啖氣
+透啖氣
+偷得浮生
+頭耷耷眼溼溼
+頭髮腳
+頭揈揈
+偷雞
+偷雞不着蝕把米
+唞工
+唞吓
+唞氣
+頭蠟
+唞涼
+透爐
+偷龍轉鳳
+透唔到氣
+頭泥
+頭擰擰
+唞身
+偷睇
+頭頭碰着黑
+踢波
+踢嗮腳
+聽清楚
+聽得明
+聽電話
+聽教
+聽講話
+聽過隔籬
+聽唔到
+聽唔入耳
+聽唔明
+聽聞講
+退焮
+推託之詞
+推爲
+腿治
+T恤
+tissue
+甜得滯
+甜椰椰
+甜甜哋
+天花龍鳳
+天機不可洩露
+天口
+天口焮
+天口熱
+天蝎
+天文台
+天收
+天收佢
+天時旱
+天時熱
+天時冷
+天時唔好
+天時暑熱
+天誅地滅
+停低
+停低腳
+停定
+聽暇
+停口
+聽日
+聽殃
+聽晚
+聽鬧
+聽捱打
+聽尼士
+聽死
+聽衰
+亭台
+亭台樓閣
+聽者有意
+聽者藐藐
+聽朝
+聽朝早
+聽早
+貼堂
+鐵閘
+鐵勺
+條氣唔順
+跳起身
+條人龍
+跳落去
+跳落嚟
+眺望台
+跳皮
+跳蝨
+跳蝨市場
+砣錶
+佗人
+拖友
+佗累
+拖手
+佗手褦腳
+佗衰
+佗衰家
+佗衰人
+佗仔
+佗住細路
+台幣
+枱布
+台階
+枱腳
+擡高自己
+枱枱凳凳
+台灣人
+枱薦
+托水龍
+塘壆
+唐餐
+劏車
+糖黐豆
+劏房
+劏雞
+塘基
+劏光豬
+劏開
+劏魚
+湯丸
+塘尾
+湯麪
+劏西瓜
+塘蝨
+劏死牛
+蹚水
+糖水舖
+唐字
+唐裝衫
+劏豬
+劏豬噉嗌
+肚赤
+土墩
+土佬
+肚腩
+肚屙
+肚餓
+土鼠
+逃脱
+通頂
+通掂
+痛到死
+痛到死死吓
+桶篤
+通街
+痛腳
+桐油灰
+通譯者
+同屋共主
+同屋主
+捅破
+同生死
+痛錫
+通勝
+痛閾
+通知唔切
+團年飯
+脫韁野馬
+話畀你聽
+話畀你知
+話畀我聽
+話畀我知
+話低
+話得埋
+話定
+話都冇咁快
+搲花
+話咁快
+話咁易
+搲痕
+話口未完
+話佢知
+搲爛
+話落
+話唔定
+話唔埋
+話你知
+話我知
+話嗮
+話聲
+話事
+話事偈
+話事人
+話時話
+搲損
+話頭醒尾
+話齋
+話知佢
+話中
+歪打正着
+壞份子
+壞咗
+畫地爲牢
+劃上等號
+綰起頭髮
+玩嘢
+頑劣份子
+玩馬騮
+玩死
+挽水
+橫掂
+橫風橫雨
+橫街窄巷
+橫亘
+滑捋捋
+滑雪屐
+滑咗雞
+爲得過
+惟獨是
+爲虎作倀
+桅桿
+威吔
+唯有讀書高
+違例泊車
+偉論
+爲乜
+爲乜事幹
+喂奶
+爲什麼
+威水
+喂食
+爲食
+爲食鬼
+爲食貓
+爲善最樂
+威攝
+喟歎
+爲威喂
+爲咗
+搵笨
+搵邊個
+勻巡
+搵出
+搵出嚟
+搵錢
+搵丁
+搵到
+温度
+搵刀切
+搵翻
+搵飯食
+混吉
+搵機會
+搵工
+韞黑房
+搵人
+搵人幫手
+搵人出氣
+韞入黑房
+混入去
+搵嘢做
+雲耳
+搵鹽醃
+雲煙氤氳
+暈影
+搵嚟攪嘅
+搵嚟辛苦
+暈浪
+搵老襯
+搵唔到
+搵唔翻
+搵乜嘢
+搵銀
+搵我出氣
+搵我做醜人
+搵山草藥
+搵世界
+搵水洗
+搵繩綁
+暈頭暈腦
+暈舵舵
+芸薹
+搵位
+搵位坐
+勻勻
+搵勻
+穩陣
+搵周公
+搵着數
+宏謨
+屈餐懵
+屈親
+屈親條腰
+屈親隻腳
+屈親隻手
+屈得就屈
+屈喺屋企
+屈氣
+屈去後便
+屈佢食隻死貓
+屈尾十
+屈悶
+屈蛇
+屈水
+屈鐵線
+屈斷咗
+屈質
+搲料
+搲銀
+搲水
+搲着數
+van仔
+永世都記得
+永志不忘
+禾稈草
+禾鐮
+禾塘
+禾造
+鑊鏟
+黃花筒
+黃花筒鹹魚
+黃蜂巢
+黃蜂竇
+皇家飯店
+黃猄
+黃瓜酸
+黃瓜造
+皇氣
+黃犬
+黃蜞
+旺區
+黃梁一夢
+黃綠醫生
+黃色架步
+皇皇巨著
+枉做
+枉做人
+護壆層
+烏蠅
+狐裘
+烏喱單刀
+烏喱馬扠
+護理職業
+烏龍事
+烏龍王
+污糟
+污糟錢
+污糟邋遢
+污糟貓
+污糟衫
+煨番薯
+會唔會
+回南
+回南天
+會彈唔會唱
+會會哋
+碗篤
+莞爾一笑
+換衫
+換屎片
+揸車
+揸錢
+揸槍
+揸大葵扇
+詐諦
+鮓斗
+揸的士
+詐癲扮傻
+揸電單車
+詐癲賣戇
+揸筷子
+詐瞓
+揸fit
+揸fit人
+詐假意
+詐奸
+揸緊時間
+詐嬌
+詐嬌弄嗲
+揸開
+詐耳聾
+揸二攤
+詐型
+詐聾扮啞
+詐唔知
+詐媽嬌
+炸麪
+詐懵
+揸拿
+揸奶
+詐呆詐吽
+詐戇
+鮓皮
+揸手
+揸手掣
+詐傻
+詐傻扮懵
+炸粟米
+揸拖拉機
+詐詐諦諦
+揸掣
+揸住
+揸主意
+揸住時機
+揸住支咪
+齋菜
+齋啡
+齋鹵味
+債台高築
+齋talk
+齋湯
+窄搣搣
+擇使
+責實啲
+責死
+責住
+斬吓眼
+斬吓眼就
+斬傷
+斬樹
+斬頭
+斬頭鬼
+站台
+賺得個
+賺攪
+盞鬼
+盞嘢
+賺唔到錢
+贊美
+賺嘥氣
+賺衰
+賺做
+爭錢
+爭啲
+爭啲唔記得咗
+爭佢兩蚊
+爭兩個人
+掙滿嗮
+爭住
+爭住食
+雜菜
+雜貨舖
+什錦炒麪
+什錦麪
+鈒骨
+習以爲常
+雜嘜
+閘住
+閘住把口
+扎馬
+扎孖辮
+扎破
+扎醒
+扎扎跳
+棹忌
+抓實
+找數
+找換
+找換外幣
+找贖
+擠逼
+仔大仔世界
+制得過
+擠喺
+擠喺枱面
+滯口
+擠擁
+制唔過
+制唔制
+仔乸
+仔女
+擠塞
+制水
+擠住
+掣住架車
+側便
+側側膊
+斟茶
+斟出
+斟出嚟
+枕長
+斟吓
+枕肉
+斟唔掂
+斟盤
+斟瀉
+沉死
+斟水
+斟豉油
+枕頭包
+枕頭袋
+枕頭肉
+枕住
+真吹Q脹
+真抵
+真火滾
+陣間
+陣間先講
+陣間會講
+真係
+真係吹Q脹
+真系火滾
+真係有心
+真係甩鬚
+真係唔似樣
+真係衰嘅啫
+真係盞
+真人不露相
+真有心
+真蹺
+真冇修
+真僞莫辨
+軫宿
+真相露
+真嗍氣
+珍珠都冇咁真
+贈慶
+憎死
+執包袱
+執茶
+執齊
+執齊啲嘢
+執齊行李
+執牀
+執定
+執碟
+執到
+汁都撈埋
+執翻條命
+執吓張牀
+執行李
+執起
+執起嚟
+執人口水溦
+執贏
+執二攤
+執藥
+執笠
+執漏
+執屋
+執平嘢
+執山草藥
+執生
+執拾
+執拾乾淨
+執拾好行李
+執手尾
+執死雞
+執死雞仔
+執屍
+執私
+執輸
+執輸過人
+執枱
+執仔
+執滯
+執仔婆
+執字粒
+窒腳
+窒口窒舌
+窒人
+枳入
+姪心抱
+窒手
+姪仔
+窒住
+走寶
+走出嚟
+酒埕
+週詳
+走蛋
+走得幾快吖
+走趯
+週到
+走都走唔切
+走法律罅
+走粉
+走埠
+就假
+就假嘅
+周街
+周街係人
+周街走
+走雞
+就噉啦
+就腳
+走過嚟
+就吓佢
+就係
+就係講
+走入去
+走入嚟
+就有鬼
+就有鬼囉
+週遊世界
+週而復始
+走肉
+周期表
+走甩
+走甩咗
+就嚟
+週率
+酒簾
+走唔切
+走唔起
+走唔甩
+走埋嚟
+走難
+酒凹
+周年慶
+酒牌
+周身刀冇張利
+週身冇力
+周身蟻
+週身酸痛
+周時
+周時無日
+走先
+走堂
+走糖
+走趲
+借畀
+遮柄
+借啲意
+遮骨
+借一借
+這裏
+借力打力
+蔗纈
+借問一聲
+借問聲
+借歪
+借歪啲
+蔗水
+借借
+隻抽
+隻抽隻
+jacket
+隻眼開隻眼閉
+精出骨
+正斗
+正斗貨
+正斗嘢
+正嘢
+精叻
+精埋一便
+正嗮
+精仔
+聚腳
+聚腳地
+嘴角喵起
+咀一啖
+醉貓
+最屘
+嘴喵喵
+追女仔
+最細
+聚酰亞胺
+追數
+醉酒佬
+樽頸
+進行清盤
+進行攻擊
+榛樹
+樽枳
+樽裝
+樽裝啤酒
+樽裝水
+捽腳
+捽老泥
+捽唔甩
+卒之
+之不過
+自不然
+知醜
+治邪
+齜出牙
+輜重團中尉
+至得
+至多唔係
+知到
+指甲鉗
+自己友
+自己攞嚟衰
+自己話事
+自由散漫
+自以爲是
+至奇
+知其不可爲而爲之
+字裏行間
+知唔知
+之嘛
+之外
+紙皮
+紙皮盒
+紙皮石
+紙皮箱
+自殺式襲擊
+自細
+知死
+知衰
+自歎不如
+自歎弗如
+至憎
+智者見智
+支支整整
+姿整
+指住
+直筆甩
+積錢
+值情
+值情唔記得咗
+值得嘅
+即管
+即係
+即係話
+積陰功
+即映即有
+織冷衫
+直流發電
+織籮
+積埋啲錢
+即食麪
+直頭
+積滯
+織蟀
+尖筆甩
+櫼隊
+煎堆
+賤格
+戰機機師
+薦高
+戰國時期
+薦起
+薦褥
+煎pan
+薦枱腳
+整親
+整出嚟
+剩低
+整定
+剩翻
+整翻
+整翻幾味
+整翻好
+正貨
+靜雞雞
+整古
+整古弄怪
+整古做怪
+整鬼
+整鬼整怪
+整鬼整馬
+淨係
+靜英英
+整爛
+整爛咗
+靜落嚟
+整亂
+整唔切
+靜宓
+整乜嘢鬼
+淨麪
+精辟
+精神爽利
+精神爲之一振
+整衰
+精邃
+整衰嗮
+整成
+整傷
+整餸
+整損
+精選
+整損手
+偵聽台
+整痛
+整污糟
+正则表达式
+正则化
+整資料
+靜靜雞
+整整吓
+接待處
+接受唔到
+截的士
+折墮
+擮胳肋底
+噍吹波膠
+招呼唔到
+照X光
+摷一輪
+蕉皮
+照殺
+照彈
+照頭一棍
+照頭淋
+朝頭早
+招積
+朝早
+左便
+阻埞
+左揀右揀
+坐喺
+左吆
+助人爲樂
+阻唔到
+阻你一陣
+左手便
+阻手阻腳
+左軚車
+阻頭阻勢
+阻住
+阻住地球轉
+着筆
+嚼不爛
+着燈
+雀竇
+着地
+着地點
+着火
+着火點
+着慌
+着緊
+着急
+着好
+着意
+着鴛鴦襪
+着褸
+着力
+着力點
+着涼
+着落
+着陸
+着迷
+着名牌
+着魔
+着眼
+着眼點
+着衫
+着手
+着手於
+着手成春
+着色
+着想
+着數
+雀仔
+雀仔竇
+着重
+象拔
+橡筋
+槳櫓
+掌上壓
+再加上
+載人宇宙飛船
+再嚟
+再嚟過
+作大
+作個故仔
+作殊死戰
+作狀
+撞板
+撞彩
+裝飯
+撞鬼
+撞棍
+髒稀稀
+裝香
+撞蹺
+裝唔落
+撞啱
+裝修佬
+裝住嘢
+做把戲
+做錯嘢
+做大戲
+做低
+早啲翻嚟
+做電燈膽
+做到金睛火眼
+做到嘢
+做到死死吓
+做冬
+早瞓
+做飛數
+做雞
+做極都唔掂
+做龜公
+做戲做全套
+早一排
+做嘢
+造謠惑衆
+做落去
+做唔切
+做唔到
+做唔嗮
+做媽咪
+做埋老襯
+做乜
+做咩
+做鴨
+早排
+做part-time
+做散使
+做手信
+做先生
+做數
+做騷
+早唞
+做廳長
+遭襲
+早走早着
+竹箆
+捉波子棋
+濁親
+贖錢
+竹笪
+俗到死
+捉緊
+竹篙
+捉兒人
+俗語話
+捉棋
+捉棋比賽
+竹纈
+竹紗
+竹紗衫褲
+竹升
+竹升妹
+竹升仔
+捉痛腳
+竹枝
+捉字蝨
+竹戰
+鐘點女傭
+中更
+仲兼
+舂吓舂吓
+仲係
+中學雞
+總好過
+衆議員
+總言之
+衆擎易舉
+中褸
+舂落去
+舂落嚟
+仲唔落雨就弊咯
+鍾唔鍾意
+中文堂
+仲未
+仲未到
+仲冇咁嬲
+衆目昭彰
+仲生
+衆生
+衆生相
+衆星拱月
+中小企
+衆數
+鐘數
+衆說不一
+衆說紛紜
+盅頭飯
+仲話
+縱壞
+舂瘟雞
+種禾
+總掣
+衆志成城
+中咗邪
+主僕關係
+註冊
+主從關係
+豬竇
+煮到埋嚟先食
+煮飯仔
+煮咖啡
+豬膏
+朱古力新地
+朱古力雪糕
+住喺
+住喺
+豬紅
+主流社會
+豬脷
+煮燶飯
+豬籠入水
+豬嘜
+豬乸
+豬扒
+豬扒包
+豬扒飯
+豬手
+註射
+煮餸
+豬踭
+豬踭肉
+駐扎
+主席台
+專登
+轉吓眼
+轉右
+轉軚
+轉頭見
+轉頭嚟過
+專同
+轉左
+絕對溼度
+short
+㗎喇
+一啖
+一喺
+一張
+一揇
+一沓
+一遝
+上晝
+下晝
+下爬
+不嘍
+中意
+乜名
+乜嘢
+事關
+亞伯
+交關
+人工
+仆街
+仔仔
+仙士
+仲想
+仲愛
+仲要
+仲食
+企理
+企起
+伙計
+但凡
+作嘔
+你喺
+你好
+你高
+佢叫
+佢喺
+佮份
+係呢
+係啊
+係喎
+係噉
+係格
+係羅
+保齡
+信瓜
+俾咗
+俾我
+停手
+偷笑
+傢俬
+元肉
+先生
+光燦
+光猛
+光鮮
+免治
+兩位
+八卦
+冇呀
+冇啊
+冇錢
+冚被
+出糧
+凼凼
+利爾
+劈炮
+劫匪
+勤力
+包輸
+化學
+北姑
+南無
+南特
+卡拉
+卡片
+厴門
+去做
+又試
+反斗
+叱頭
+司機
+同埋
+吖嘛
+吹水
+呢位
+咁啊
+咁好
+咁樣
+咁衰
+咁難
+咁靚
+咖啡
+咩啊
+咪走
+咪頭
+哎呀
+哽係
+唔係
+唔好
+唔知
+唥鍾
+唥鐘
+唸計
+啪拿
+啫喱
+啱曬
+喫飯
+單車
+喼汁
+嗒糖
+嗜正
+嗮錢
+嗰位
+嘎啦
+嘔血
+嘞噃
+嘥錢
+噖日
+噱頭
+嚟呀
+嚟架
+囉嗦
+埋口
+埋單
+基老
+士點
+多士
+多謝
+夜啦
+大佬
+大嚿
+大牙
+大肶
+天橋
+失禮
+失魂
+奄尖
+奇士
+奈斯
+奉旨
+契弟
+女女
+奶式
+好冧
+好喇
+好嗎
+好嘛
+好嚤
+好在
+好夾
+好攰
+好易
+好瘀
+好腍
+好譖
+好餲
+好齋
+妗母
+威也
+威士
+威特
+媽咪
+嫖妓
+嫲嫲
+孤寒
+安士
+安排
+宵夜
+家下
+家姐
+小厴
+小姐
+小心
+就手
+尼龍
+屋企
+山楂
+岩巉
+差池
+巴士
+巴閉
+帶子
+幾多
+底褲
+廁紙
+廢柴
+引擎
+得嘞
+得閒
+心口
+心息
+心悒
+心水
+心甘
+心罨
+快佬
+快活
+快趣
+恤衫
+悔氣
+您呢
+悶極
+情願
+惜你
+惜身
+慘囉
+慳錢
+憂心
+懵居
+懵懂
+戌門
+我喺
+戥襯
+戽水
+戽被
+手扼
+手搊
+手板
+手機
+扐住
+打交
+打噎
+打底
+打橫
+打芡
+扲嘢
+扼手
+抑或
+抓車
+抦你
+抦佢
+抵死
+抽掅
+拍拖
+拗斷
+拗痕
+拜拜
+拷貝
+挨夜
+捋起
+捋高
+捻住
+掃把
+掛住
+推冧
+提子
+揩油
+揵起
+搏命
+搞彎
+搞掂
+搭嘴
+搵食
+摁釘
+摞錢
+摣車
+摩托
+摩登
+摳亂
+摺疊
+摺紙
+撚住
+撞冧
+撞聾
+擗咗
+擦鞋
+擰住
+攋低
+攪惦
+收工
+收爹
+收皮
+文具
+新哋
+新淨
+早抖
+早晨
+是必
+時髦
+晏蒂
+晾衫
+曬士
+曲奇
+有咩
+朗斯
+李生
+杯葛
+松人
+架世
+架勢
+查實
+柯傅
+柯路
+栗米
+桌球
+桑拿
+棹艇
+椰菜
+楊桃
+橫惦
+檳榔
+歐曬
+歡喜
+正話
+水餃
+水魚
+氹氹
+沖涼
+沙塵
+沙律
+沙津
+河粉
+注埋
+洋燭
+洗面
+派司
+派士
+派對
+派拿
+浪口
+浮頭
+涼爽
+涼瓜
+淒涼
+淥嚇
+淨喺
+淨系
+淹尖
+游水
+渺嘴
+湯河
+滋油
+滾水
+漏氣
+漚氣
+漚肥
+瀄起
+炒河
+烏龍
+無恥
+煎䭔
+煙盅
+熄燈
+熟手
+熱狗
+燒酒
+燜焗
+燥火
+燶飯
+爹哋
+牛仔
+牛輾
+猴擒
+生保
+生埗
+生性
+生癪
+用曬
+甩毛
+甩皮
+田雞
+甴曱
+畀你
+番瓜
+番茄
+番薯
+疏離
+病貓
+癡線
+癡纏
+白粥
+白谷
+百足
+的士
+皮篋
+直情
+盵嘢
+相差
+看更
+真戇
+真掯
+真流
+真瘀
+真衰
+眼眉
+眼瞓
+睇曬
+瞓先
+瞓覺
+矮細
+研碎
+碌葛
+碧鹹
+科文
+稍爲
+穀氣
+空姐
+窿罅
+竹篾
+笠衫
+笨叱
+筲箕
+算咯
+粉腸
+精神
+糴米
+約莫
+紅燈
+紊盡
+紙鷂
+索察
+索氣
+細路
+終歸
+終須
+罌告
+罨住
+羅柚
+羅漢
+老千
+老坑
+老婆
+老竇
+老豆
+耳屎
+聯針
+聽講
+肉絲
+背脊
+背脢
+腐乳
+至系
+舅父
+色司
+色當
+芝士
+芭蕾
+花令
+花假
+花灑
+芽菜
+英寸
+茂裏
+茄薯
+荷包
+菠蘿
+菲士
+菲林
+蒜頭
+蒲吧
+蕹菜
+蚊赧
+蜜瓜
+蝦毛
+蟹弶
+蠱惑
+行啦
+行開
+裝蒜
+訂到
+註埋
+詐弟
+請問
+諗巴
+警察
+豆仔
+豆皮
+豆粉
+豆角
+豆豉
+豬仔
+豬潤
+豬潲
+豬膶
+費事
+貼士
+走人
+走啦
+起身
+趁墟
+趌路
+路上
+踩屐
+蹺腳
+身子
+身慶
+車呔
+軟熟
+轉性
+近嚟
+返工
+通菜
+逢喺
+逢系
+連氣
+過頭
+遝水
+邊位
+邊個
+邊度
+邋遢
+郇嘢
+醒目
+醫生
+里昂
+重有
+鉸剪
+銀紙
+銷魂
+錫你
+鐳射
+鑊黸
+門飛
+閂門
+開個
+開會
+開片
+闊落
+阿公
+阿叔
+阿哥
+阿婆
+阿媽
+阿嫂
+阿嫲
+阿燦
+阿爸
+阿爺
+降到
+陰功
+陰濕
+陰騭
+雨遮
+雪條
+雪櫃
+雪種
+雪糕
+雪茄
+雲吞
+雷恩
+電心
+電掣
+電發
+電腦
+霄夜
+青椒
+青瓜
+靚仔
+靚女
+靠托
+靠粘
+靸鞋
+韌皮
+韞住
+頂櫳
+領太
+頭殼
+頭皮
+颯氣
+飛發
+飛鼠
+飯盒
+馬賽
+馬蹄
+騎咧
+高斗
+鬼佬
+鬼要
+魚滑
+魚腩
+魚蛋
+鯇魚
+鴨乸
+鷯哥
+鹹濕
+麥芽
+黐線
+點呀
+點樣
+點行
+龍眼
+一便睇
+一便聽
+一味做
+一大橛
+一把火
+一撳佢
+一擔擔
+一樖樹
+一淠屎
+一碌木
+一陣講
+三個字
+三幾蚊
+不特止
+丫角髻
+中中地
+乒乓球
+乜咁噶
+乜嘢話
+九大簋
+交際舞
+人老啦
+仲唔行
+仲有呢
+仲諗住
+任你揀
+企埋啲
+住點呀
+何裏活
+你做到
+你出去
+你咪理
+你唔要
+你嘅藥
+你噉做
+你夠膽
+你大個
+你想喺
+你慢行
+你拒載
+你攞先
+你有冇
+你睇你
+你睇吓
+你瞓先
+你行開
+你話呢
+你諗吓
+你走吖
+你走啦
+你醒吓
+你驚乜
+你點睇
+佢咁叻
+佢咁精
+佢唔制
+佢嚟咗
+佢嚟喇
+佢嚟過
+佢太矮
+佢好慳
+佢癲咗
+佢發燒
+佢真癐
+佢行頭
+例牌嘅
+係咁意
+係咪先
+係咪噶
+係喇喎
+俗話講
+假細心
+做乜呀
+做乜嘢
+做生意
+傳呼機
+傻庚庚
+光燦燦
+兩睇啦
+兩頭唧
+公仔面
+共佢講
+冇事做
+冇咁旺
+冇咩嘢
+冇幾何
+冇幾遠
+冇張利
+冇樣叻
+冇用噶
+冇留意
+冇相干
+冚棒唥
+凡士林
+分開咗
+刨吓啦
+到最尾
+到未呀
+包咬頸
+卜卜脆
+卜蔔脆
+即死梗
+即碰壁
+去啦嘛
+去還去
+去邊呀
+又係嘅
+又揀擇
+受你氣
+口痕呀
+叻到滿
+同我鬥
+吼住佢
+呢份工
+呢啲事
+周日清
+周身刀
+周身癮
+咁勤力
+咁啱吖
+咁多人
+咁夜嘞
+咁懶喎
+咁有心
+咁爛口
+咁神心
+咁翹呀
+咁話佢
+咁論盡
+咁貴噶
+咪亂講
+咪噉講
+咪客氣
+咪拗嘞
+咪淌瀉
+咪行住
+咪講住
+咪賴貓
+咪逼佢
+哥爾夫
+唔使走
+唔係佢
+唔係呀
+唔值錢
+唔去嘞
+唔單只
+唔單隻
+唔好嬲
+唔想喐
+唔戥頭
+唔扽得
+唔知呀
+唔知噃
+唔算好
+唔精神
+唔結冰
+唔見曬
+唔該將
+唔該曬
+唔飽咩
+唞唞氣
+啜一啖
+啡士機
+啤啤佢
+啱啱熟
+啲串女
+啲啲多
+啲檔案
+喺唔喺
+嗌佢去
+嗍一啖
+嗰個人
+嗲嗲渧
+嘈乜鬼
+嘥人哋
+嘥氣啦
+嘥氣喇
+噉唔得
+噉幸會
+噉樣呀
+噉樣啦
+噉衰㗎
+噍完松
+嚇嚇你
+嚇死我
+嚟唔嚟
+因住呀
+固之然
+固然之
+地好溼
+坐吓先
+埋嚟吖
+士啤呔
+士域祇
+士巴拿
+多籮籮
+多謝曬
+夠鐘嘞
+大出血
+大嶼山
+大得快
+大方啲
+大葛樓
+天一凍
+太嚡喇
+太子爺
+太掗拃
+太貴啦
+失魂魚
+好勻巡
+好厲害
+好可惜
+好叻咩
+好啲啦
+好嘢呀
+好多蚊
+好好飲
+好惦呀
+好抵死
+好熱氣
+好犀利
+好痛呀
+好笑呀
+好耐啦
+好聲擡
+好聲攞
+好聲行
+好論盡
+好難呢
+好靚呀
+姍翠斯
+威化餅
+威士忌
+威士鹹
+威水史
+嫌命長
+嬲咩嘢
+實質質
+小心啲
+少少啦
+就係囉
+就噉嘅
+山旮旯
+山棯幹
+岌岌貢
+岳高頭
+嶽高頭
+年幾囉
+幾似呀
+幾十蚊
+幾好吖
+幾銀斤
+廣東話
+後底乸
+後生仔
+後生女
+得個囉
+得未呀
+德律風
+心口翳
+心喐喐
+心多多
+心好慌
+心思思
+心掛掛
+心鬱郁
+心鬱鬱
+快啲做
+快啲吖
+快啲呀
+忽必裂
+怕乜啫
+怕瘀呀
+急得滯
+想人死
+想作嘔
+想買衫
+慢啲食
+慢慢嚟
+懷奧蓮
+戇勼勼
+戇叱鳩
+戇居仔
+戇居啦
+成日喊
+成身汗
+我冇呀
+我唔信
+我唔明
+我唔知
+我唔要
+我啲書
+我啲錢
+我噉講
+我嚇親
+我就到
+我探佢
+我撑你
+我攞到
+我本書
+我知衰
+我肚餓
+我識佢
+我走先
+我跌親
+我遲咗
+我都係
+我頭先
+或者係
+戥穿石
+戶口簿
+打赤腳
+打風咯
+托大腳
+扚起佢
+扯貓尾
+拋浪頭
+拎畀我
+拔蘭地
+拖肥糖
+拮個窿
+拼沉佢
+掹衫尾
+揸住呀
+搊後腳
+搏乜呀
+搏懵呀
+摩納哥
+撈邊行
+撚手菜
+撳電掣
+擤鼻涕
+收聲啦
+放飛機
+散修修
+散咗嘞
+於是乎
+明未呀
+是但啦
+晾蚊帳
+暈酡酡
+最開胃
+有冇呀
+有咩事
+有啲人
+有啲劫
+有啲澀
+有嘢睇
+有嘢豆
+有寶咩
+有排執
+有條路
+有牌受
+有皇氣
+有聲氣
+朗拿度
+望咩啫
+朱古力
+枳入去
+柯非時
+條脷嚡
+模特兒
+歐塞爾
+死人喇
+死火喇
+比如話
+水滾嘞
+水鬥水
+沊一聲
+沙士堅
+沙河粉
+沙灣何
+波爾多
+泥水佬
+洗完頭
+派司砵
+流定堅
+淨係話
+溼水雞
+溼納納
+滑潺潺
+滾攪曬
+滾水呀
+滿得滯
+潛烏龜
+濕水雞
+濕濕碎
+濕納納
+火麒麟
+炒魷魚
+炕麪包
+烏卒卒
+烏啄啄
+烏殊殊
+無嗱嗱
+無得彈
+無揸拿
+無星稱
+無晒符
+無火氣
+無眼睼
+無米粥
+無聲氣
+無鉤稱
+煙灰缸
+燂一下
+爛溶溶
+爽夾甜
+特魯瓦
+璺到䐁
+甜到尾
+甜到耨
+生勾勾
+生蘿蔔
+甫士卡
+畀埋我
+畀我知
+癐到死
+癐得滯
+發神經
+發老姣
+白曬曬
+白濛濛
+白蘭地
+的確良
+相當之
+眞係曳
+真乾淨
+真作嘔
+真係噶
+真係慘
+真係掯
+真係爽
+真係衰
+真冇癮
+真大嘥
+真好彩
+真得意
+真抵手
+真攞命
+真激氣
+真羞家
+真老襯
+真肉緊
+真論盡
+真開胃
+真難睇
+真霎戇
+真霎氣
+真霸王
+眯埋眼
+眼凸凸
+眼坦坦
+眼好劫
+眼好澀
+眼崛崛
+眼濛濛
+眼甘甘
+眼睩睩
+眼瞏瞏
+眼轆轆
+睇你吖
+睇個天
+睇到嗎
+睇實佢
+睇數吖
+睇見未
+睩大眼
+睺住佢
+睺實佢
+瞄咗吓
+瞌一陣
+瞓唔夠
+神神地
+禁等咯
+禮義廉
+禽搣筍
+禾黃咯
+笑騎騎
+等埋我
+算係吖
+算撚數
+篤背脊
+精神翻
+糴佢走
+紅噹噹
+紅當當
+紅當蕩
+紅蘿蔔
+累鬥累
+綠油油
+縮開啲
+罪酒佬
+羽絨褸
+老人家
+老友記
+老姑婆
+老媽子
+老實講
+老襯喇
+聽日見
+肉好實
+肥老張
+自己嘅
+茄哩啡
+菠蘿雞
+菢雞仔
+華爾滋
+菸灰缸
+萬壽果
+落力啲
+落曬形
+蒸生瓜
+蘇蝦仔
+蘿底橙
+蝕嗮喇
+血壓高
+行啦你
+行開啦
+行開啲
+補鑊佬
+褪十步
+褪過啲
+要一斤
+要菊普
+覘高頭
+託大腳
+試吓啦
+認眞啲
+認真啲
+請等陣
+諗巴溫
+講定先
+講掂嗮
+講起佢
+谷住來
+豁一聲
+豆啲嚟
+買咁貴
+費事啦
+賣剩蔗
+賣咗佢
+賣豬仔
+賣魚佬
+賺衰啦
+走先吖
+起花心
+趌跛跛
+跌眼鏡
+跩呀你
+路好滑
+踢曬腳
+踹單車
+身份證
+車大奅
+車大炮
+軍人證
+軒芝斯
+辦公室
+迆吓先
+連埋我
+連日嚟
+過一排
+都唔明
+都好喎
+鄧穿石
+釣魚臺
+錄像機
+鎅玻璃
+鐘點工
+長拉拉
+門口狗
+開唔到
+阿仙奴
+除咗你
+陪襯嘅
+陰功咯
+隔夜茶
+隨得你
+雞尾酒
+雨溦溦
+電單車
+霎氣囉
+青悲悲
+青碧碧
+靜一靜
+靠唔住
+面白白
+面紅紅
+面黃黃
+韌黐黐
+頭岳嶽
+頭嶽嶽
+頭耷耷
+食咗喇
+食多啲
+食完飯
+食得啦
+飯宿咗
+香港腳
+馬路便
+馬蹄湯
+騎樓底
+驚咩喎
+高爭鞋
+魚片粥
+麻麻哋
+黃禽禽
+黃黚黚
+黑沉沉
+黑麻麻
+黑黢黢
+點捉呀
+點樣呀
+點算呀
+齊緝緝
+一僕一碌
+一公一乸
+一到天冷
+一味靠嚇
+一唪臭味
+一坐就爛
+一坺牛屎
+一定有鬼
+一張一蚊
+一搊鎖匙
+一杯薄酒
+一滾就熟
+一眼睇晒
+一見差佬
+一身鬆啦
+丈二和尚
+丈八和尚
+三口六面
+三姑六婆
+上晝九點
+下晝五點
+下晝好焮
+下晝西斜
+不同凡響
+不知幾盞
+乜你噉噶
+乜咁木噶
+乜妳有咩
+乜都噅人
+亞爸病咗
+亞聾送殯
+人人有份
+人人都知
+人哋開會
+人都唔齊
+今年過年
+今日下晝
+今日咁焗
+今日好焗
+今日得閒
+今日打風
+今日散檔
+今日有個
+以後嘅事
+仲咁拘執
+仲唔快啲
+仲唔生性
+仲好木獨
+仲好瘦削
+仲想點呀
+仲有排呀
+仲未夠鐘
+仲未玩夠
+仲等乜嘢
+仲講乜吖
+仲超額添
+件衫拮肉
+企後尾啦
+似乜樣呢
+似唔似呀
+佔咁多位
+你乜誰呀
+你仲唔走
+你仲想點
+你仲激佢
+你仲賴貓
+你住邊度
+你係老細
+你係邊個
+你個衰仔
+你借我錢
+你借錢我
+你傻咗呀
+你冇路走
+你出去先
+你剒吓佢
+你即刻走
+你又唔信
+你同我鬥
+你呃我嘅
+你咁百厭
+你咩料呀
+你咪行住
+你唔使問
+你唔使驚
+你唔出聲
+你唔去衙
+你唔好理
+你唔翻去
+你唔驚啊
+你啞咗呀
+你喺度嗎
+你嗌乜呀
+你嘅意見
+你噉冇膽
+你噉樣做
+你噉話佢
+你坐入便
+你坐埋便
+你坐就坐
+你好老襯
+你好賤格
+你就嚟咗
+你幾好嗎
+你想點呀
+你懷疑佢
+你揀個樣
+你擒咁高
+你攪咩呀
+你放心啦
+你教佢呀
+你有心喇
+你混吉嘅
+你照吓鏡
+你爬咁高
+你真係廢
+你睇住嚟
+你睇實佢
+你笑咩嘢
+你聽我講
+你要小心
+你話點頂
+你諗多咗
+你講呢個
+你講咩嘢
+你講咩話
+你走得啦
+你身體好
+你間房細
+你霎戇啦
+你食飯先
+你驚凍呀
+你點知噶
+佢仔女多
+佢仲在生
+佢仲未到
+佢仲行到
+佢份人點
+佢似老母
+佢係唔好
+佢冇乜料
+佢冇嘢噶
+佢冇錯吖
+佢出咗街
+佢呢種人
+佢咁刁蠻
+佢咁好人
+佢咁畀面
+佢咁老積
+佢咁靚女
+佢咩料呀
+佢哋好精
+佢哋拍拖
+佢唔制嘅
+佢唔應承
+佢唔眼瞓
+佢唔道歉
+佢唔食雜
+佢喉嚨痛
+佢喺裏便
+佢大過我
+佢失咗蹤
+佢好傾得
+佢好厲害
+佢好孤寒
+佢好打得
+佢好爛食
+佢好犀利
+佢好眼利
+佢好硬頸
+佢好粗魯
+佢好老實
+佢好認叻
+佢好醒瞓
+佢好靚仔
+佢好高噶
+佢好鮓噶
+佢實應承
+佢就手痕
+佢就當衰
+佢屋企嘅
+佢幾鍾意
+佢想喊咯
+佢想幫人
+佢想轉工
+佢手瓜硬
+佢扮嘢啫
+佢真客氣
+佢瞓唔夠
+佢行開咗
+佢都唔去
+佢食齋嘅
+使乜緊張
+使人嚟買
+來日方長
+供款越多
+便宜咪貪
+係乜嚟架
+係咁之嘛
+係咪傻咗
+係咪噉噶
+係咪真噶
+係唔係呀
+係唔係噶
+係我講嘅
+係白撞雨
+係點就點
+個天回南
+個女發燒
+個盆咁細
+個蓋好實
+倒掛臘鴨
+倔佢一眼
+值得聽吓
+做乜影我
+做到嗍氣
+做到索氣
+做呢件事
+做咗一日
+做咗咩事
+做咗成日
+做咩事呀
+做咩咁慢
+做埋佢啦
+做得呢行
+做錯咗事
+偷呃拐騙
+傻傻庚庚
+傾兩句偈
+光光滑滑
+光光猛猛
+光脫脫噉
+全神貫注
+八點開身
+公路唔平
+冇乜好睇
+冇乜鼠摸
+冇人冇盛
+冇人騷佢
+冇你咁叻
+冇兩盆花
+冇咩印象
+冇咩特別
+冇嘢揸手
+冇嘢落剩
+冇嘢食啦
+冇尾飛鉈
+冇得走盞
+冇所謂啦
+冇整親呀
+冇時間啦
+冇理由啩
+冇理由噶
+冇相干呀
+冇譜啲啩
+冇辦法瞓
+冬錢臘鴨
+冷巷堦磚
+凍冰冰噉
+凍啲先飲
+凹凹凸凸
+出便落雨
+出去旅遊
+出咁多汗
+出日頭喇
+分期越長
+刮佢出嚟
+剩翻兩個
+勒哈費爾
+勸吓佢呀
+十年咁耐
+十月芥菜
+十月蔗頭
+即刻就嚟
+即管試吓
+去第度睇
+去過兩勻
+去邊度吖
+去邊度呀
+厾穿個窿
+又幾盞喎
+又打爛咗
+又捱得苦
+又臭又硬
+又鯁頸喇
+古靈精怪
+叫佢埋嚟
+可口可樂
+可唔可行
+叻唔切噉
+各位早晨
+各有各游
+同佢搏過
+同我閘住
+吞金滅餸
+吸引死人
+呃神騙鬼
+呢個人呀
+呢個好靚
+呢啲信息
+呢度咁背
+呢度嘢平
+呢度近街
+呢排好熱
+呢排好瘀
+呢排點呀
+呢煲杰嘢
+呢種女仔
+呢間中學
+呢間舖頭
+咁咪算咯
+咁多人呀
+咁多人嘅
+咁多嘢做
+咁多行李
+咁大嘥噶
+咁大雨咩
+咁少少嘢
+咁撚死樣
+咁爛個喎
+咁耐冇見
+咁講說話
+咁貴都買
+和尚擔遮
+咪再提咯
+咪同佢行
+咪咁喪啦
+咪咁得敕
+咪咁擒青
+咪咁驚青
+咪嚟混吉
+咪坐喺度
+咪就係囉
+咪惹佢喇
+咪扮嘢嘞
+咪搏到盡
+咪玩嘢喎
+咪翳氣咯
+咪詐戇噶
+咪講住啦
+咪講呢啲
+咪講爛口
+咪買咁多
+咪走雞呀
+員工會議
+唔使急嘅
+唔使理佢
+唔使稱喇
+唔使面青
+唔使預我
+唔係佢衙
+唔係假噶
+唔係吖嘛
+唔係咁嘎
+唔係幾快
+唔係幾明
+唔係路喎
+唔做外賣
+唔准落客
+唔出得去
+唔同你講
+唔嚟罷就
+唔夠佢快
+唔好上喇
+唔好亂掉
+唔好亂龍
+唔好企住
+唔好勞氣
+唔好咁曳
+唔好咁躁
+唔好喊喇
+唔好嗌交
+唔好嘈啦
+唔好嘈喇
+唔好惹佢
+唔好打尖
+唔好打爛
+唔好提呀
+唔好提啦
+唔好攪我
+唔好櫼隊
+唔好爭吖
+唔好蝦佢
+唔好詐諦
+唔好買啦
+唔好走呀
+唔好逼佢
+唔寫得字
+唔想食飯
+唔敢認同
+唔會益人
+唔熟唔食
+唔理咁多
+唔知做乜
+唔知斤兩
+唔知有冇
+唔知邊個
+唔知點解
+唔見咁截
+唔記得嚹
+唔該你喇
+唔該嗮你
+唔該話聲
+唔講得噶
+唔識規矩
+唔買住啦
+唔通係你
+唔鬼理你
+問你死未
+啦啦聲啦
+啱瞓醒覺
+啲咁多嘢
+啲嘢咁貴
+啲好女仔
+啲專家話
+啲水好滾
+啲湯咁熱
+啲湯太辣
+啲租太貴
+喐啲都知
+喫乜嘢呀
+單單打打
+單料銅煲
+喺停車前
+喺會議室
+喺邊度呀
+嗌一場交
+嗌佢過嚟
+嗌嘢食呀
+嗰個爛仔
+嗰個老嘢
+嗲聲嗲氣
+嘈住人哋
+嘉年華會
+嘰嘰咕咕
+嘴脣流血
+嘻嘻哈哈
+噉又係噃
+噉咪啱囉
+噉咪得囉
+噉唔得格
+噉實冇錯
+噉就好嘞
+噉都唔識
+噉都得呀
+噉都忍到
+噉點得呀
+噏得就噏
+四號起首
+因住冷親
+因住跌跤
+因住躀低
+因住車吖
+因住辣親
+因住鯁親
+地下鐵路
+地都溼嗮
+地鐵咁貴
+坎頭埋牆
+坐多陣吖
+坐車咁迫
+埋便有位
+執到本書
+執吓佢喇
+執頭執尾
+壅兩次肥
+外便好焮
+多年冇見
+夜晚好靜
+夜晚翻學
+夠慳皮咯
+夠曬鐘嘞
+夠鐘數喇
+夠頻撲喇
+大嘥大使
+大家咁熟
+大家坐低
+大家起筷
+大家都去
+大破慳囊
+大聲啲喇
+天堂尿壺
+天時咁熱
+天氣乾燥
+天氣咁熱
+天氣潮溼
+天熱賣扇
+天黑咁滯
+太低威喇
+太掗拃喇
+太揀擇喇
+太耷溼喇
+太論盡喇
+失咗倚憑
+失禮死人
+夾埋今次
+夾手夾腳
+夾硬抵冷
+好人好姐
+好似係噉
+好似發燒
+好做唔做
+好吧斃咩
+好咗好多
+好唔好呀
+好唔好啫
+好型仔呀
+好多嘢做
+好夜至瞓
+好得意呀
+好心你啦
+好慳皮嘅
+好抵死呀
+好揀擇噶
+好易搵噶
+好核突呀
+好涼氣噶
+好犀利呀
+好生鬼噶
+好痛噶嘛
+好眼瞓吖
+好耐冇嚟
+好聲行呀
+好聲行啊
+好肉痛噶
+好肚餓呀
+好腥行呀
+好難估喎
+好難整理
+如果有事
+嬌嬌滴滴
+嬲到佢死
+孖埋佢去
+孱弱書生
+學曉未呀
+定過擡油
+容乜易呀
+寫咗成晚
+將佢分開
+對唔住呀
+就係呢個
+就係懶啲
+就噉散咗
+就噉算咯
+就快冇喇
+就快就快
+就會成功
+尿都忍得
+屋企地址
+屎坑三姑
+屎坑磚頭
+屎坑關刀
+岩岩巉巉
+左轉就達
+巴斯蒂亞
+市橋蠟燭
+幡桿燈籠
+平平坦坦
+平平滑滑
+年晚煎堆
+幾他條噃
+幾啱身噶
+幾多錢呀
+幾得意喎
+幾時放假
+幾複雜吓
+幾錢飛呀
+廚房階磚
+廣告有話
+張檯唔平
+往入便行
+後便有人
+得個睼字
+得唔得呀
+得閒再嚟
+得閒睇吓
+得鬼閒咩
+心中有數
+心知肚明
+心都實晒
+快啲入嚟
+快啲嚟啦
+快啲散水
+快啲煞掣
+快啲講啦
+快啲走呀
+快啲起身
+快啲趷開
+快脆講啦
+怕咩醜呀
+急急腳噉
+恭喜嗮喎
+想呃邊個
+想死呀你
+愈叫愈走
+慌慌忙忙
+慢慢食呀
+成七斤重
+成個病君
+成身老泥
+我不溜喺
+我份人呢
+我係請佢
+我做唔到
+我做緊嘢
+我冇做過
+我冇帶遮
+我冇所謂
+我冇眼睇
+我冇銀噶
+我去搵佢
+我去過格
+我叫你走
+我哋公司
+我哋得到
+我哋走喇
+我唔制呀
+我唔吼斗
+我唔撈呀
+我唔覺眼
+我唔識你
+我唔識佢
+我唔鍾意
+我唔飲酒
+我唔驚佢
+我嚟遲咗
+我坐出便
+我坐開便
+我夠有咯
+我好夜瞓
+我好想嘔
+我好鍾意
+我對筷子
+我就埋數
+我就慳翻
+我幾好呀
+我想買褸
+我應承你
+我打死你
+我早到啫
+我有嘢做
+我有路數
+我服咗佢
+我未食飽
+我未驚過
+我梗去格
+我條腰呀
+我求吓你
+我爭佢錢
+我睇錯你
+我知點做
+我翻去先
+我翻差館
+我要扯嘞
+我要瞓嘞
+我記得喇
+我趕時間
+我遲到喇
+我都係呀
+我都冇計
+我都唔明
+我頂唔住
+我食咗嘞
+我馬馬啫
+或者係啦
+戙起條棍
+打佢一椎
+打大赤肋
+打爛沙盆
+打鑼噉聲
+扣好啲紐
+扭傷隻手
+扭親隻腳
+扯咗噶嘞
+扯起支旗
+扽吓個樽
+把心唔定
+抵到爛啦
+拾下拾下
+挽住手袋
+掖高褲腳
+措措埋埋
+揈乾隻手
+提醒你呀
+揩油索油
+揸篼乞食
+搇冚個蓋
+搏一搏啦
+搓吓波先
+搭車罷啦
+搲損個面
+搲花塊面
+搲開件衫
+搵佢幫手
+搵日去咯
+搶掠一空
+搽脂蕩粉
+摑佢一巴
+摟多件褸
+摣篼乞食
+撒路溪錢
+撞晒大板
+撥吓個爐
+撩是鬥非
+撻翻嚟嘅
+擏住擏住
+擔張椅嚟
+擰杯茶我
+擸擸亂亂
+擸擸埋埋
+攝高張枱
+攞個鏡嚟
+攞嚟睇吓
+攞對鞋我
+攞快勞嚟
+攣埋身瞓
+攣攣蜎蜎
+攪唔惦咩
+攪嚟攪去
+支持嚇你
+收尾點呀
+收檔罷啦
+收鋪之後
+放喺呢度
+整傷隻腳
+整色整水
+文又唔得
+新張期內
+斷柄鋤頭
+日頭做嘢
+日頭翻工
+早啲瞓吖
+易話爲嘅
+易請難送
+暈暈沌沌
+暗啞抵啦
+暗暗沉沉
+最爛賤喇
+會有困難
+有乜出息
+有乜嘢事
+有乜好睇
+有人暈咗
+有冇人知
+有冇嘢食
+有冇多士
+有冇新嘢
+有冇火呀
+有冇興趣
+有啲唔妥
+有啲掗拃
+有啲耷溼
+有噉嘅事
+有幾何吖
+有排你等
+有甜品送
+有紋有路
+有鬼用咩
+望乜嘢呀
+未有着落
+未詳細睇
+枕頭木虱
+林林森森
+枝竹坼咗
+枳入櫃桶
+架車咁逼
+梗係得啦
+梗係識喇
+梗翳滯啦
+條脷好嚡
+條褲爛咗
+條路好掂
+條路好滑
+歎世界囉
+正經啲做
+武又唔得
+歸去邊度
+死蛇爛鱔
+死都唔掂
+比過至知
+水瓜打狗
+水靜河飛
+氹你開心
+沓正七點
+油嘴滑舌
+泥塵好大
+洗咗啲衫
+浪口洗面
+海底石斑
+淥親隻手
+混混沌沌
+減噉兩成
+游離浪蕩
+溼水棉花
+溼水欖核
+溼溼碎啦
+潮州二胡
+潮州音樂
+激奀咗佢
+激起公憤
+激起民憤
+瀉咗啲咯
+火燒豬頭
+烏燈黑火
+焗死人啦
+焗焗縮縮
+無掩雞籠
+無法無天
+無耳藤喼
+焮乾件衫
+焮熱煲水
+煮乜鬼飯
+煮麪宵夜
+熠熟狗頭
+燈光咁黑
+燈着咗啦
+營業時間
+爬到咁高
+牀底破柴
+牛皮燈籠
+狗上瓦桁
+猛噉嗍氣
+猴猴急急
+獻醜嘅啫
+玩到喪嗮
+玩夠未呀
+珠寶首飾
+現場直播
+琴日之嘛
+琴日晚黑
+瑟瑟縮縮
+瑣瑣碎碎
+瓦檐獅子
+生仔姑娘
+生蟲拐杖
+田雞過河
+畀三盒飯
+畀人睇見
+畀佢入嚟
+畀嗮你啦
+畀嗮你喇
+畀本書我
+畀蚊啄親
+當畀面我
+當衰係啦
+痛死我啦
+瘡埋口喇
+瘦蜢蜢噉
+癐到乜噉
+發神經咩
+發雞盲呀
+皮膚好嚡
+相喺邊度
+真係冇修
+真係冇譜
+真係叻噃
+真係咧氣
+真係唔化
+真係唔錯
+真係嗍氣
+真係夠煩
+真係好正
+真係好食
+真係巴閉
+真係廢嘅
+真係戇居
+真係正呀
+真係淒涼
+真係激氣
+真係犀利
+真係當衰
+真係索氣
+真係老土
+真冇耳性
+真可憐呀
+真唔似樣
+真夠花臣
+真定假呀
+真定假嘎
+真對唔住
+真無聊賴
+真該煨咯
+真陰功咯
+眼光光噉
+眼闊肚窄
+睄佢幾眼
+睇佢個樣
+睇佢嘅面
+睇化嗮咯
+睇吓戲啦
+睇嚟湊啦
+睇親就識
+睇過一仗
+睇過點先
+睇錢份上
+睇開啲啦
+瞄咗一眼
+碌埋便呀
+碰到困難
+神仙放屁
+神台貓屎
+神憎鬼厭
+神神經經
+秀才手巾
+穩穩陣陣
+究竟咩事
+突然窒住
+窒咗一下
+竈君上天
+竈頭抹布
+笑口吟吟
+笑口噬噬
+等住入場
+等到嗰陣
+等我一陣
+等我去呀
+等我着衫
+等緊你呀
+紅粉緋緋
+紙扎下巴
+細佬細個
+細力啲吖
+結他無線
+綁得咁鬆
+經常上落
+緊唔緊要
+線步好密
+縮頭烏龜
+缸瓦咋啩
+翻五日工
+老公撥扇
+老婆擔遮
+老鼠噉眼
+聽亞媽話
+聽佢噉講
+聽暇嚟啦
+聽話啲啦
+聽過未呀
+肯去啦嘛
+腳法唔錯
+自作自受
+自出自入
+自身難保
+苦瓜噉面
+茶瓜送飯
+茶芥全免
+落力啲吖
+落雨溦啫
+落雨賣遮
+落雨都似
+葾崩爛臭
+蒙古大汗
+蒙比利埃
+蓋世太保
+行人天橋
+行到咁癐
+行嚟行去
+行得路多
+行快啲啦
+行快啲喇
+行快步啦
+行街罷喇
+行貨啫噃
+行車天橋
+衰到貼地
+裏便有位
+要儆錫啲
+要再跑過
+要吼住佢
+要慳儉啲
+要用拖板
+要睺住佢
+要講團結
+要講道理
+要走先了
+要走先啦
+要顧身體
+認得我嗎
+認眞百厭
+請你執生
+請你數吓
+請埋席喇
+講你唔惦
+講到讀書
+講定噶喇
+講少句吖
+講笑噶嘛
+豆住個袋
+豆高張枱
+豉油撈飯
+貓兒洗面
+貢入被竇
+貨賣嗮啦
+貪玩之嘛
+貴係貴啲
+買到未呀
+買到靚嘢
+買多啲嘢
+費事理佢
+費事睬你
+費事話佢
+賣鯇魚尾
+賺嘥氣呀
+賺嘥氣啫
+走夾唔唞
+起呢間屋
+趁熱食啦
+越做越大
+趕唔切喇
+趕唔切囉
+趕貨嗰排
+趷起隻腳
+躝嚟躝去
+車速太快
+車過嚟啦
+迆吓先啦
+返唔到學
+送枝筆佢
+通氣啲啦
+遊離浪蕩
+過得點呀
+避無可避
+邊個咁衰
+邊個敢嚟
+邊個話事
+邊個話嘅
+邊個都信
+邊個都制
+邊度係吖
+邊間公司
+都係全靠
+都唔化嘅
+都嘥氣啦
+都要種啲
+都走嗮呀
+都開波啦
+酸酸宿宿
+醜唔醜噶
+重重沓沓
+重重遝遝
+錢好見使
+錫佢一啖
+錯就承認
+鐵達尼號
+開三位茶
+開三日會
+開口有話
+開咗兩圍
+開嗮啲窗
+阻住你添
+阿些斯奧
+阿崩叫狗
+阿崩吹簫
+阿崩養貓
+阿超着褲
+阿駝行路
+陰陰沉沉
+陰陰溼溼
+陰陰濕濕
+隔年通勝
+難我唔到
+雪住佢先
+零零丁丁
+電梯壞咗
+電話號碼
+非洲和尚
+韻律體操
+頂你個肺
+預埋我份
+頭髮真爽
+飛機打交
+飛機爆炸
+飛機着火
+食咗飯未
+食完先講
+食懵咗你
+食西瓜先
+飲杯茶先
+驚咩嘢喎
+鬧咗一輪
+鬼中意佢
+魚骨鯁頸
+鹹蛋滾湯
+麻煩到你
+麻麻哋啦
+點會噉噶
+點極唔明
+點樣收費
+點算好呢
+點解會噉
+點討論呢
+鼎湖上素
+齟開棚牙
+一人讀一勻
+一個講日文
+一個鏰都冇
+一共五個人
+一刀拮入去
+一去無回頭
+一吓唔記得
+一味大覺瞓
+一味掛得玩
+一味顧住食
+一啲啲小事
+一場波踢完
+一天都光曬
+一定會落雨
+一定有內鬼
+一手拎菜籃
+一手拖住仔
+一捶打過去
+一搵就搵到
+一於扤佢要
+一於犦溼佢
+一日食三餐
+一眼睄過去
+一陣間上堂
+一陣間落堂
+三元宮土地
+下午開會衙
+不如你去喇
+不過人工靚
+不過話時話
+中咗獎嘅話
+乜你咁茂噶
+乜咁多人噶
+乜咁差皮噶
+乜咁得閒呀
+乜咁早晨呀
+乜咁污糟噶
+乜咁烏龍噶
+乜嘢都唔做
+乜都睇唔見
+乜都要豆吓
+九點鐘開舖
+乾溼褸點樣
+乾隆王契仔
+亞爸唔喺度
+亞生有乜事
+亞蘭嫁亞瑞
+亦都唔可能
+人哋實話你
+人哋會安排
+今日好好天
+今日好悶呀
+今日我做東
+今日我睇數
+今日真係凍
+今日真係慘
+今日遲咗喎
+今晚唔得閒
+今次又衰咗
+今次實死啦
+今次衰咗嘞
+他行得好快
+仲係半桶水
+仲係有問題
+仲保證新鮮
+仲去把鬼呀
+仲咁唔生性
+仲唔食多啲
+仲搵佢做嘢
+仲有賽狗添
+仲未諗定呀
+仲標準過我
+仲油淰淰噉
+仲玩埋呢啲
+仲覺覺豬吖
+仲講乜鬼吖
+仲講咁大聲
+件事係噉嘅
+件衫咁老土
+件衫巢孟孟
+件衫幾靚喎
+任你點都得
+份內事嚟噶
+估估吓嘅啫
+但又瞓唔着
+何必咁囉氣
+你乜都會做
+你亂講就真
+你今日遲到
+你今次好彩
+你仲咁後生
+你仲唔起牀
+你仲懵閉閉
+你係屋主嗎
+你係度扮嘢
+你係邊位呀
+你個人好迆
+你個僆琼吖
+你個衰仔吖
+你做咗乜嘢
+你做咩呀你
+你做咩咁迆
+你入去先啦
+你冇事吖嘛
+你冇聽見咩
+你冷靜啲呀
+你即刻扯吖
+你去咗邊度
+你去唔去先
+你去唔去呀
+你又唔識做
+你又講嗰樣
+你叫咩名呀
+你吊住佢尾
+你同我收聲
+你吹佢唔脹
+你吼住啲穀
+你呢個徒弟
+你咁鍾意佢
+你咪咁串呀
+你咪虾我呀
+你咪賣口乖
+你咬唔入嘅
+你哋成日嘈
+你哋走先啦
+你唔使狡辯
+你唔使窒呀
+你唔使詐諦
+你唔使閉翳
+你唔好多口
+你唔好嬲啦
+你唔好屈人
+你唔好扯住
+你唔好玩嘢
+你唔好玷佢
+你唔聽之嘛
+你喺度泊車
+你噉樣做法
+你夠膽死咩
+你大個咗呀
+你大隻騾騾
+你好肚餓咩
+你如果玩嘢
+你嫽佢做乜
+你安樂嗮喇
+你實搵唔到
+你小心啲呀
+你就亂插嘴
+你就開胃咯
+你就開胃嘞
+你幫我睇水
+你幾好吖嗎
+你幾時扯呀
+你幾時放假
+你張爛鬼椅
+你後嚟點呀
+你想搏傻咩
+你想要嗮呀
+你想講咩嘢
+你想點樣呀
+你憂佢唔會
+你成日鬧我
+你抵得痛嗎
+你抵得頸嗎
+你挐哥哥瞓
+你搭錯車啦
+你搵我做咩
+你搵我有事
+你搵邊個呀
+你擔高個頭
+你攞嗮彩啦
+你攞嗮翻去
+你攪邊科啊
+你明唔明呀
+你明就係啦
+你有乜好怕
+你有冇物業
+你有錢嘅話
+你望緊乜嘢
+你由得我呀
+你當我傻噶
+你發惡夢啫
+你發雞盲呀
+你真係咪家
+你真係好好
+你真陰功咯
+你睇住嚟啦
+你睇定至買
+你睬吓我呀
+你知唔知道
+你累死我噶
+你緊佢唔緊
+你翻到嚟啦
+你翻去先吖
+你而家至嚟
+你聽埋先呀
+你聽我講先
+你表錯情啦
+你要唔要吖
+你要嗒真吓
+你要生性啲
+你話吓佢啦
+你話唔買好
+你話畀佢知
+你話點好呢
+你話點算呢
+你諗緊乜嘢
+你講乜鬼呀
+你講大聲啲
+你講完未啫
+你買咁多飛
+你都唔化嘅
+你都大仔喇
+你都幾識撈
+你都未出世
+你都未死過
+你鋪癮真大
+你靚女咗呀
+你高大咗呀
+你黐咗線呀
+你點稱呼吖
+佢乜都唔理
+佢乜都唔識
+佢以爲得米
+佢仲係唔聽
+佢仲咁細個
+佢份人唔錯
+佢份人好癲
+佢份人幾好
+佢企喺出便
+佢似足老竇
+佢係你個女
+佢係我大佬
+佢係我細佬
+佢係攪屎棍
+佢係病君嚟
+佢係邊個呀
+佢係都要去
+佢係香港人
+佢做咗豬仔
+佢入過嚟咩
+佢冇計帶嘅
+佢去咗灣仔
+佢去咗邊呀
+佢咁懶個喎
+佢哋錯嗮啦
+佢唔敢開聲
+佢唔算醃尖
+佢唔識日文
+佢唔黐家嘅
+佢啱啱病好
+佢啱啱行過
+佢嗌亞黃去
+佢噉嘅行爲
+佢噉都做得
+佢嚇親你呀
+佢坐喺入便
+佢坐喺埋便
+佢好冇手尾
+佢好好相與
+佢好密實噶
+佢好得意呀
+佢好相與嘅
+佢好通氣嘅
+佢好醃尖噶
+佢嬲到出面
+佢害咁多人
+佢就係唔聽
+佢就巴閉囉
+佢後尾點呀
+佢惡到鬼噉
+佢成日瘀我
+佢扭親隻腳
+佢扻親個頭
+佢把聲好熟
+佢拎咗三件
+佢捱咗一世
+佢排行第屘
+佢撈到霉嗮
+佢最興放電
+佢有兩個女
+佢有兩個妹
+佢有鋪牛力
+佢有錢過我
+佢熱到懵咗
+佢生得咁靚
+佢畀人睇見
+佢瘦蜢蜢噉
+佢真有把炮
+佢眼光光噉
+佢睇化咗咯
+佢硬係要去
+佢究竟想點
+佢笑咗好耐
+佢翻嚟一下
+佢聲線幾好
+佢行開嗰陣
+佢要噉成半
+佢話口未完
+佢話唔去喎
+佢諗咗一陣
+佢講得冇錯
+佢跌崩個頭
+佢踢親嚿石
+佢躀咗一跤
+佢都好激氣
+佢都想喊咯
+佢都明噶喇
+佢都算大命
+佢難服侍啲
+佢頭又未梳
+佢額頭好焮
+佢鬆咗人咯
+佢鬼咁譖氣
+使乜估估吓
+使乜咁塵啫
+使乜咁肉緊
+使你咁多錢
+例牌係噉嘅
+係人都焮啦
+係你大嗮呀
+係佢唔啱嘅
+係佢攞走咗
+係佢陰我呀
+係咁就慘喇
+係咪呢一個
+係咪好癲呀
+係咪癡線噶
+係噉又點呀
+係我哋唔啱
+係我表姐噶
+保證冇問題
+個啤啤好靚
+個天咁翳焗
+個窗閂唔密
+個院幾寡噃
+個額頭咁焮
+倒瀉籮蟹噉
+做乜都唔得
+做乜都唔成
+做咗十幾年
+做咩仲未講
+做嘢咪咁耨
+做嘢好掗拃
+做嘢緊要呀
+做埋呢啲事
+做完啲功課
+做得乜嘢吖
+做得咁辛苦
+做成點樣呀
+傳個波畀你
+傾吓呢筆先
+儲埋好多錢
+儲錢買單車
+先頭佢嚟過
+光棍佬教仔
+入便有埞坐
+入唔到決賽
+全部係公司
+全部翻嗮嚟
+兩隻腳好淵
+其實冇嘢到
+冇乜好拗嘅
+冇乜幾何啫
+冇人共佢做
+冇人同你講
+冇人噉做嘅
+冇人敢恰佢
+冇你個名喎
+冇你咁風流
+冇呢個必要
+冇咁多定擺
+冇咁好心機
+冇嚟成年喇
+冇心機做嘢
+冇時間休息
+冇法子摱囉
+冇相干嗰喎
+冇話你知咩
+冇話落乜嘢
+冇辦法寫字
+再加兩味藥
+再食碗粥添
+冚唪唥錯嗮
+冷靜少少先
+凍咗至飲呀
+出去做乜吖
+出外便搵錢
+出櫃面畀錢
+出街要帶遮
+分明掠水啫
+到處攪攪震
+前面好難行
+剛啱你話乜
+加啲冰落去
+加啲唱歌啦
+十幾年冇見
+十點又唔定
+千祈唔好講
+千祈要小心
+千祈要記住
+半個鐘攪掂
+卒之打贏咗
+印三份就得
+即管同我講
+原來係真噶
+原來就係噉
+去嚟把鬼咩
+去埋聽日喇
+去外國旅行
+去戥吓興啦
+去求佢幫手
+去沖滾水啦
+去睇咪知呀
+去行吓街啦
+去覺覺豬喇
+去邊度嚟呀
+去邊度宵夜
+去邊度玩吖
+去醫院睇脈
+又冇乜識認
+又幾叻嗰喎
+又斟茶又盛
+又話翻大陸
+口多多做乜
+另位係侄女
+叫人點拎呢
+叫你大佬嚟
+叫親佢都嚟
+叫都叫唔醒
+史特拉斯堡
+同女友散咗
+同平時一樣
+同我打招呼
+同敵人搏命
+同邊個去呀
+君之唔要咯
+呢件放埋便
+呢件衫唔錯
+呢件衫靚啲
+呢份係你嘅
+呢個世界呢
+呢個乜誰嚟
+呢個大聲公
+呢個字點寫
+呢個幾多錢
+呢個窗向西
+呢兩日回南
+呢只豬爛食
+呢啲係乜嘢
+呢啲蔗唔甜
+呢啲餅好實
+呢度乜都好
+呢度係禁區
+呢度係邊度
+呢度冇埞坐
+呢度咁焮呀
+呢度嘅溫泉
+呢度好嘈呀
+呢度好多人
+呢度賣咩呀
+呢張枱咁大
+呢排咁好天
+呢排有啲躁
+呢排真係黑
+呢條棍攣嘅
+呢條繩好幼
+呢條街好旺
+呢樣嘢係乜
+呢次又堝嗮
+呢次大鑊咯
+呢次放過你
+呢段路好斜
+呢班人打交
+呢球波好靚
+呢種梨好爽
+呢笪地真實
+呢笪定乾淨
+呢筆數好大
+呢間屋好光
+呢隊嘅隊員
+呢隻料好靚
+呢餐開公數
+呢駁冇落雨
+周時會打風
+周時都喺度
+周身唔得閒
+咁唔通氣噶
+咁多人排隊
+咁多就夠嘞
+咁大個仔啦
+咁大個仔喇
+咁大個仲喊
+咁大個女啦
+咁大筆生意
+咁揦鮓嘅嘢
+咁耐冇玩波
+咁耐冇落雨
+咁肥屍大隻
+咁譖氣做乜
+咁讕叻做乜
+咁高跌落嚟
+咩人都唔驚
+咪下扒輕輕
+咪亂咁噏啦
+咪做電燈膽
+咪冇嚟到囉
+咪咁惡死啦
+咪咁爛喊啦
+咪喺埋一齊
+咪喺度戇啦
+咪嚟悶我啦
+咪成日認叻
+咪扻爛個缸
+咪換過枝囉
+咪擒擒青喇
+咪玩殘佢囉
+咪畀佢走甩
+咪聽佢亂噏
+咪聽佢亂車
+咪聽過隔籬
+咪話係你啦
+咪講畀佢聽
+咬都咬唔入
+唔了解情況
+唔似七歲仔
+唔使你憂心
+唔使你擔心
+唔使吊威也
+唔使咁低威
+唔使咁勞氣
+唔使咁謙嘅
+唔使咁驚青
+唔使怕醜噶
+唔使諗咁多
+唔使講都知
+唔使送噶啦
+唔係乜都假
+唔係佢陰我
+唔係咁簡單
+唔係就喊喇
+唔係幾順利
+唔係攞嚟衰
+唔係有心噶
+唔係請你呀
+唔信得過噶
+唔准亂講嘢
+唔到你唔信
+唔到你話事
+唔制就罷就
+唔制得過呀
+唔夠銀找數
+唔好上佢當
+唔好企咁埋
+唔好凍親呀
+唔好勞氣住
+唔好勞氣啦
+唔好吉手去
+唔好同佢嘈
+唔好咁咧氣
+唔好咁孤寒
+唔好咁思縮
+唔好咁揦西
+唔好咁激動
+唔好咁賴貓
+唔好咁長氣
+唔好咁闊佬
+唔好嘥時間
+唔好夾硬呀
+唔好怨我呀
+唔好意思呀
+唔好打倒褪
+唔好打櫼呀
+唔好扮嘢呀
+唔好擒咁高
+唔好放過佢
+唔好整古人
+唔好死咪書
+唔好激嬲佢
+唔好焗佢瞓
+唔好玩我啦
+唔好玷我呀
+唔好畀人蝦
+唔好畀佢走
+唔好瞓咁夜
+唔好翳氣啦
+唔好行咁快
+唔好行過嚟
+唔好走雞呀
+唔好過你吖
+唔好開槍住
+唔好阻住我
+唔得詐奸噶
+唔怕人骨痺
+唔戴翻頂帽
+唔搏點得呀
+唔曬得被咯
+唔會唔見啦
+唔死一身潺
+唔爆唔安落
+唔睇就走人
+唔知佢噏乜
+唔知做咩噶
+唔知噏乜鬼
+唔知幾好食
+唔知攪乜嘢
+唔知有乜事
+唔知流定堅
+唔知諗乜嘢
+唔知頭共尾
+唔知頭定尾
+唔知點算好
+唔要就罷就
+唔見咗鎖匙
+唔記得帶筆
+唔記得帶錢
+唔記得都似
+唔該嗮你呀
+唔該大聲啲
+唔該幫吓眼
+唔識咪學囉
+唔通佢唔係
+唔通係你噶
+唔阻你做嘢
+唯有撻定囉
+唱得好一般
+啦啦聲做嘢
+啱走冇幾耐
+啲中文好水
+啲合桃咁實
+啲桃花好靚
+啲橙真係靚
+啲相喺邊到
+啲石級好高
+啲粥滾熱辣
+啲綫繑住咗
+啲肉都宿嗮
+啲花有啲巢
+啲蚊鬼咁多
+啲衫好平噶
+啲衫好邋遢
+啲豬肉咁肥
+喊到咁淒涼
+單車喺嗰度
+喺今日下晝
+喺公司搭食
+喺地下破柴
+喺度蝦細佬
+喺度蝦細路
+喺翻屋企嘅
+嗰件放出邊
+嗰個嘢好爛
+嗰個杯好焫
+嗰個正衰人
+嗰度好山噶
+嗰度惰角啲
+嗰度有個氹
+嗰條街好旺
+嗰次講錯嘢
+嗰蔸友真衰
+嗰間屋仲大
+嗰陣未識佢
+嘈醒咗你添
+噅佢做乜呀
+噉你哋講先
+噉做例牌啦
+噉做最化算
+噉咪好有米
+噉唔係得囉
+噉就似樣啲
+噉我行先啦
+噉我走先嘞
+噉樣講就得
+噉樣都幾好
+噉樣點得呢
+噉講心嗰句
+噉都死唔去
+嚇到佢失魂
+嚇到我揗嗮
+嚇吓人就得
+嚟唔切煞掣
+嚟遲咗一步
+四便一樣長
+四便都有人
+四便都有樹
+因住仆親啊
+因住停牌呀
+因住我打你
+因住打爛咗
+因住打爛嚟
+因住條腰呀
+因住跌落去
+因住跌落地
+因住食唔曬
+因住食波餅
+地下有煙頭
+坐低慢慢傾
+坑渠塞咗啦
+執到一支筆
+執到支鋼筆
+塊面都巢嗮
+多唔多嘢做
+夜晚要趕工
+夜晚食青瓜
+夠數咁滯喇
+夠鍾死心喇
+夠鐘開工吖
+夠鐘開工喇
+夠鐘食藥啦
+大家唔好嘈
+大家啦啦聲
+大家埋位吖
+大家守秩序
+大家撐你噶
+大家落力啲
+大家都歡喜
+大早仲喺度
+大概有問題
+大汗耷細汗
+大石磧死蟹
+天時有啲凍
+天氣鬼咁熱
+太倔情喇啩
+太公分豬肉
+太冇骨氣喇
+太唔通氣喇
+太耐冇打波
+夾硬擝我嚟
+契咗佢做仔
+好似唔喺度
+好似好醒噉
+好似發瘟噉
+好似見過喎
+好似雪咁白
+好危險個噃
+好咗好多啦
+好唔滿意呀
+好大嘅面子
+好好笑依句
+好嬲吖宜家
+好彩冇打爛
+好彩冇遲到
+好彩死唔去
+好心你化啦
+好收檔咯噃
+好翻學囉噃
+好耐冇打牌
+好耐冇見嘞
+好靚嘅生油
+好靚嘅風景
+如果佢有事
+存咗好多錢
+學乜嘢車呀
+學咗冇幾耐
+家姐住嗰間
+家眷喺韶關
+家陣我好忙
+寄畀陳經理
+實唔成功嘞
+實行係噉啦
+將人哋踩低
+將啲衫洗咗
+將啲錢畀佢
+專登嚟探我
+對佢好心淡
+對梳化咁大
+小張係精仔
+小心凍親呀
+就係咁簡單
+就係噉個囉
+就係噉噶啦
+就嚟做嗮喇
+就嚟夠鐘喇
+就快拉柴啦
+就快收檔咯
+就快考試啦
+就放怶嗮嘞
+就斷咗客路
+就畀人叫去
+就要搏出位
+就講得噉好
+就遲到噶喇
+屈斷支牙簽
+屈斷隻筷子
+屋企人點呀
+屋入便冇人
+屎忽窿生瘡
+崩咗兩隻牙
+工作做唔完
+工作咁緊張
+工作好就手
+差啲都唔成
+巴閉咗兩年
+巴黎聖日門
+幫我吼住佢
+幫我燙吓喇
+幫我睇住佢
+幫補吓家用
+年初一食齋
+幾大就幾大
+幾時得嚟吖
+廣州唔落雪
+廣東嘅小食
+張枱油過未
+張梳化太大
+張紙嚡熠熠
+得一日時間
+得咁滯未呀
+得翻少學位
+得閒上嚟坐
+得閒飲茶吖
+快啲回水吖
+快啲執翻啦
+快啲得唔得
+快啲換咗佢
+快啲擗咗佢
+快啲畀我睇
+快啲翻嚟呀
+快掛翻正佢
+想收告票呀
+想要啲咩嘢
+愛唔愛得嗮
+愛嚟做乜嘢
+感覺真係爽
+慢慢冧吓佢
+慢慢等機會
+成世冇老婆
+成世唔出門
+成個廥拉拉
+成個病君樣
+成家一齊食
+成日去睇戲
+成日噉刨書
+成日打唔通
+成日整古人
+成日畀人鬧
+成晚囉囉攣
+成晚眼光光
+成晚瞓唔着
+成街都係人
+成身都宿嗮
+我亦想孖份
+我今餐開胃
+我仲有嘢做
+我估佢實嚟
+我住呢間房
+我係北京嚟
+我係廣州仔
+我借五蚊你
+我借你五蚊
+我冇留意喎
+我出去一陣
+我出年退休
+我初嚟甫到
+我包你冇事
+我同你搏命
+我周圍搵你
+我命水唔好
+我咬親條脷
+我哋仲未得
+我哋係唔係
+我哋係鄉里
+我哋兩份噶
+我哋到嗮啦
+我哋嘅價錢
+我哋翻嚟啦
+我哋自己去
+我哋點解要
+我唔係盲噶
+我唔做嘢噶
+我唔怕講噶
+我唔想死住
+我唔愛咁多
+我唔抵得頸
+我唔知點好
+我唔識佢囉
+我唔識化學
+我唔識游水
+我唔食煙噶
+我啲人咁多
+我噉樣話佢
+我嚇親你呀
+我嚟救你噶
+我好掛住你
+我好熟性嘅
+我嫁咗畀佢
+我學咗半年
+我實報仇噶
+我寫緊噶啦
+我就嚟死啦
+我就畀現金
+我影咗幅相
+我得十蚊咋
+我想講嘅係
+我成日話佢
+我挐你攪掂
+我掂唔掂呀
+我搵緊嘢做
+我撞親道門
+我教佢唔好
+我日日都買
+我最近燥火
+我未出門口
+我橫惦得閒
+我歡喜唱歌
+我畀你裝飯
+我真係冇事
+我真係唔明
+我租呢間屋
+我約咗兩點
+我細個嗰陣
+我翻去再睇
+我聽日扯咯
+我聽日放假
+我聽電話先
+我要去蛇口
+我要大個嘅
+我要翻工呀
+我要諗吓先
+我話佢唔錯
+我話過你知
+我請你食飯
+我走先噶啦
+我走得啦嗎
+我都冇佢修
+我都唔志在
+我都想試吓
+我都話噶啦
+我都食唔落
+我隻腳屈親
+我需要加薪
+我點同你吖
+我點行得開
+所以成身汗
+手就有啲糠
+手續攪惦啦
+打爛咗隻碗
+打預你唔嚟
+打預去北京
+扮靚仔啲吖
+投石落屎坑
+抵到你唔信
+拍咗三年拖
+拎佢做典型
+拎個杯畀我
+挼乾淨件衫
+挽住個手抽
+挾瘀隻手指
+捻得我咁痛
+掃地灑啲水
+掉咗佢仲好
+排演咗一輪
+接咗咁多貨
+揸唔到主意
+搏同情之嘛
+搵人幫幫手
+搵佢傾下啦
+摸不着頭腦
+撬死都唔開
+撳機咪得囉
+擔張凳出嚟
+擡棺材甩褲
+擦損咗浸皮
+擰杯茶畀我
+擰轉頭就走
+擸住一疊書
+擺得好四正
+攞枝筆畀我
+攤喺草地上
+攪到佢冇修
+攪到立立亂
+支筆跌落地
+收齊啲工具
+放喺枱嗰處
+放好個銀包
+整乜嘢鬼呀
+整到佢冇修
+整幾味小菜
+斬一斤燒肉
+早啲翻咯噃
+早就鬆咗咯
+早知冇乞丐
+星期日迆吓
+是但枳喺度
+是但買一件
+時間好逼噶
+暢十蚊散紙
+書擠喺邊度
+最近好手緊
+最近等錢使
+會深入研究
+有乜出奇呀
+有乜好睇吖
+有乜順嘢吖
+有事講出嚟
+有些少缺點
+有人蝦你呀
+有冇攪錯吖
+有冇淥親呀
+有冇碎紙呀
+有句俗語話
+有咩打算呀
+有啲唔開胃
+有啲噉嘅事
+有啲饠味喎
+有幾種花臣
+有理講唔清
+有病冇錢醫
+有着數噶喎
+有風駛盡利
+朋友失戀咗
+未有耐開場
+李生等緊你
+村口有條涌
+枉費心機啦
+枝鉛筆好倔
+枱面好多塵
+架巴士咁逼
+查清呢件事
+梗係可以啦
+梗係唔係啦
+梗係有病嘞
+梗係流嘢呀
+梗係鍾意啦
+條命凍過水
+條路好塞車
+條魚周身潺
+條魚滑捋捋
+棺材鋪拜神
+楋手唔成勢
+樣樣都使得
+正一係好人
+正一係廢柴
+正茂尼一條
+正話講你嚟
+水仙不開花
+水塘冇嗮水
+水就咇出嚟
+沙蟬跌落地
+法老王個妹
+泥菩薩過江
+洗乾淨件衫
+洗極都假啦
+洗淨件衫佢
+海軍對水兵
+消息係流嘅
+淋到水雞噉
+激到一把火
+激到佢嬲咗
+激到佢發焮
+炒一個牛河
+烏雞啄烏豆
+然之後沖涼
+照遠唔照近
+熱到佢懵咗
+熱戀中嘅人
+熱氣都唔定
+爬咗兩步山
+爸爸發火喇
+牀下底劈柴
+獎勵吓佢啦
+玷親就打你
+理佢死人咩
+琴晚真好瞓
+生人勿近呀
+生得好似你
+用好標準嘅
+用溼電亦得
+甩咗一粒紐
+由今天開始
+畀人打低咗
+畀人拼沉咗
+畀你估啱咗
+畀佢扠堝嗮
+畀佢攪壞咯
+畀佢激奀嗮
+畀啲貼士喇
+畀嚟至得格
+畀埋啲尾數
+畀墨水筆寫
+畀心機研究
+畀心機練呀
+畀次機會我
+畀隻鑊佢孭
+畀面你大佬
+留咗收據嗎
+番薯跌落竈
+番鬼佬月餅
+當佢冇到啦
+當堂打突兀
+發燒都唔定
+發生咩事呀
+白鱔上沙灘
+的吓有幾重
+盞燈光過頭
+盲人吃湯丸
+直頭去學校
+真係估唔到
+真係冇佢收
+真係冇眼睇
+真係唔化算
+真係唔容易
+真係唔生性
+真係唔話得
+真係唔該嗮
+真係好食啦
+真係得人憎
+真係折墮咯
+真係掬鬼氣
+真係搏到盡
+真係搏盡咯
+真係有心喇
+真係枉做咯
+真係污鬼糟
+真係犯衆憎
+真係笑爆肚
+真係落面喇
+真係該煨嘞
+真係識卸膊
+真系唔挐耕
+真系折墮咯
+眼淚嗲嗲渧
+眼瞓到鬼噉
+着多件杉啦
+着大褸啱啲
+着翻件衫吖
+睇乜嘢書呀
+睇乜鬼嘢吖
+睇乜鬼戲吖
+睇你個貓樣
+睇你點收科
+睇佢去邊度
+睇佢咁老積
+睇佢真淒涼
+睇佢點煞科
+睇到都耨喇
+睇吓報紙先
+睇戲睇成套
+睇過三次戲
+睇黎唔錯喎
+瞄吓就算囉
+神台桔陰乾
+神臺桔陰乾
+秀才遇着兵
+秤先啲畀你
+穩軟的來蝦
+突然間覺得
+竈君跌落鑊
+笠翻件衫啦
+筆尖屈彎咗
+等佢慢慢講
+等咗一大輪
+等咗你成日
+等咗好耐啦
+等我一陣間
+等我坐出便
+等我諗吓先
+等車要排隊
+算你唔好彩
+算你好彩呀
+算我黑噶啦
+簡直唔挐耕
+籮放喺開便
+糝啲胡椒粉
+糝啲鹽落去
+索實條褲帶
+紮花好靚喎
+細佬哥剃頭
+細細聲噉講
+終於睇明喇
+經濟不景氣
+總共八千蚊
+羊肉鬼咁臊
+翻屋企再睇
+翻差館至講
+老舉埋年結
+考慮成點呀
+考試就聽衰
+而家享福咯
+而家係兩點
+而家唔得啦
+而家唔憂食
+而家啲仔女
+而家天時旱
+而家好晏喇
+而家就好咯
+而家幾精神
+而家翻工啦
+而家落緊雨
+而家讀完書
+而家話唔埋
+而家都仲有
+而家都未遲
+而家鍾意聽
+聞到一朕味
+聽上去好好
+聽佢講完先
+聽唔聽到呀
+聽日去游水
+肥佬着笠衫
+肥婆坐屎塔
+肯定耨市啦
+腳好似好痛
+自己顧自己
+舂咗佢一拳
+舖頭冧檔咗
+芝麻好細粒
+菠蘿雞靠黏
+落嗮班噶喇
+蒸魚好快熟
+蓮子蓉面口
+薦高啲枕頭
+行到我廥嗮
+行到我癐嗮
+行咗呢一步
+行李冇綁實
+行行出狀元
+行都行唔喐
+裏便開緊會
+褸翻件衫啦
+要一個拼盤
+要實事求是
+要快啲畀我
+要窗口位噶
+要自己喐手
+要讓吓佢噶
+見人就想咬
+見你咁鍾意
+覺得好好笑
+記得囉收據
+記得搇被呀
+記得鎖門呀
+詐假意嘅啫
+詐諦睇唔見
+話唔制又制
+話唔要又要
+話我食軟飯
+話極都係咁
+請兩個散工
+請大家坐低
+請大家埋位
+請等陣再撥
+諗個辦法啦
+諗出嚟既野
+諗多幾日先
+講乜都假啦
+講件事你知
+講到佢掂喇
+講到話佢呢
+講咁多做咩
+講咗佢一輪
+講咗幾句嘢
+講咗都嘥氣
+講極都冇用
+講翻正經呀
+講親呢件事
+講起又講吖
+識啲普通話
+豁咗一啖水
+豆住個箱底
+財到光棍手
+財散人安樂
+買咗對貓仔
+買盒仔飯食
+費時同你講
+賊人一開槍
+賣魚佬沖涼
+賣魚佬洗身
+走到嗍嗮氣
+走到索嗮氣
+起先佢唔肯
+超速嘅罰單
+跪地喂豬母
+路又遠又攣
+躀跤都唔喊
+身水身汗噉
+車埋佢出街
+輸就輸啦嘛
+轉吓眼咁高
+轉頭同你攞
+轉頭話你聽
+辣椒好醒胃
+迆吓都唔得
+近日陰陰凍
+送枝筆畀佢
+透咗一啖氣
+透氣都唔順
+連隨出咗去
+遲吓佢就嚟
+遲啲再聯繫
+遲早畀人拉
+邊使咁貴噶
+邊個夠膽食
+邊個有本事
+邊度有得買
+邊度都冇去
+邊度都唔去
+都係佢去好
+都係飲早茶
+都咪話唔驚
+都唔准參加
+都唔知爲乜
+都唔知點講
+都好值錢噶
+都幾重手喎
+都幾骨緻喎
+都水浸眼眉
+都算你好彩
+都話唔好咯
+醃尖夾孤寒
+鎖匙唔見咗
+鐵木真打仔
+閂埋嗮啲窗
+開頭聽唔明
+間房有冇窗
+閻王爺嫁女
+關你咩事啫
+阻唔阻你吖
+阻唔阻你呀
+阿媽係女人
+阿陀瞓棺材
+陳年中草藥
+陸文庭睇相
+隔夜油炸鬼
+隔夜餸宿嗮
+隻狗咬親人
+隻腳屈親咯
+隻鞋好挾腳
+雙方扎嗮馬
+雞食放光蟲
+雷公劈豆腐
+電線唔夠長
+靠做工搵錢
+面皮都巢嗮
+鞋有啲挾腳
+鞋踭蝕嗮喇
+鞋都未着好
+預兩百蚊啦
+預早講我知
+預早通知佢
+頭先停咗雨
+頭先跣親呀
+頭頭佢嚟過
+風吹雞蛋殼
+飛機撞紙鳶
+飛都買咗嘞
+食咗飯未吖
+食唔食雲吞
+食嘢食味道
+食完飯至去
+食都唔開胃
+食魚要漯骨
+飯熟咁滯咯
+飲到豁豁聲
+飲咗一啖水
+驚你食唔落
+鬼中意佢呀
+魚生粥僅熟
+鯰魚成身潺
+黃皮樹了哥
+點只咁簡單
+點好意思呀
+點會攪成噉
+點極唔明噶
+點止咁簡單
+點知得個吉
+點知話中咗
+點稱呼你呀
+點解你唔走
+點解話佢呢
+點話點好啦
+點都冇研究
+鼻哥窿擔遮
+鼻哥都紅埋
+一係你哋扯先
+一係你行先喇
+一個人喺屋企
+一啲都唔好睇
+一啲都唔好笑
+一啲都唔正經
+一啲都唔清楚
+一埲乜嘢隨呀
+一定係發燒喇
+一定攪得惦嘅
+一定會犯衆憎
+一想起嗰件事
+一斤蝕咗二兩
+一日就攪掂嗮
+一日行七堂路
+一日行幾遠路
+一有人上樓嚟
+一步一步噉行
+一行一行噉數
+一路歎一路讚
+一路睇一路笑
+一路行一路講
+三幾蚊雞之嘛
+三點前翻唔切
+上堂做啲咩嘢
+上堂唔好傾偈
+下一個係邊個
+不如出嚟迆吓
+不如噉樣罷啦
+不如掠佢一筆
+不過呢排好忙
+不過唔係好熟
+不過我唔覺眼
+不過除笨有精
+乜你個人咁倔
+乜你咁大個人
+乜你咁失魂噶
+乜你咁輪盡噶
+乜佢咁爛瞓噶
+乜咁流口水噶
+乜都唔好講住
+乜都幫唔到手
+乜都睇化嗮啦
+乜都睇化嗮喇
+事關我唔得閒
+事關我唔高興
+五點鐘就收檔
+人人都望住我
+人人都話你好
+人哋問你呢樣
+人哋就係勤力
+人哋都唔睬佢
+人哋都未講完
+人唔知走去邊
+人噉做佢噉做
+人怕危米怕篩
+今勻頭次見面
+今日係咁先喇
+今日係噉先喇
+今日係禮拜五
+今日冇人嚟到
+今日實落雨嘅
+今日就發燒喎
+今日屙咗七次
+今日我當日更
+今日熱到冇譜
+今日玩咗一日
+今日真係齊人
+今日雨粉粉噉
+今晚去睇大戲
+今晚食乜餸呀
+今次去見邊個
+今次畀人呃咗
+介紹嚟識吓吖
+以後同你算賬
+以後點嫁人吖
+仲係以前噉樣
+仲傾乜嘢偈呀
+仲唔快啲箍煲
+仲差啲火燭嘞
+仲成日口花花
+仲整鬼整馬咩
+仲有冇其他事
+仲有咩好介紹
+仲有啲嘢要做
+仲死雞撐硬腳
+件事越攪越大
+件事逼到埋身
+件冷衫好拮肉
+件嘢好似爛咗
+件衫溼湆湆噉
+件衫要二十蚊
+份工你做住先
+估吓我係邊個
+但係我做唔到
+但係沙塵得滯
+但算靚仔一個
+你乜咁番鬼噶
+你亂噏啲乜嘢
+你亂發表意見
+你今次玩完喇
+你仲係唔去好
+你仲唔出聲吖
+你仲有咩問題
+你仲講嗰啲嘢
+你份人咁衝動
+你估你好叻衙
+你估好容易噶
+你估我唔知呀
+你估我有幾歲
+你估我驚你呀
+你係咪痴咗線
+你係唔係啞咗
+你係唔係學生
+你係唔係潤我
+你係唔係路呀
+你係幾時嚟噶
+你係邊度嚟噶
+你個名點樣寫
+你做埋我份嘞
+你兩個傍住佢
+你冇埞匿噶喇
+你再等多陣喇
+你冷靜啲先吖
+你去咗邊度嚟
+你又過得點呀
+你叫乜嘢名呀
+你叫佢慳啲呀
+你可以唔可以
+你可以而家訂
+你呢個打靶佬
+你咁做生意法
+你咁唔通氣噶
+你咁遲通知我
+你咬唔入佢嘅
+你哋兩個睇水
+你哋去行吓街
+你哋唔使擔心
+你哋唔好嘈啦
+你哋唔好嘈喇
+你哋唔好屈我
+你哋醒定啲呀
+你哋食住等吖
+你唔使呃我呀
+你唔使嗿我啦
+你唔使嘥氣嘞
+你唔使嚟翻工
+你唔使詐型喇
+你唔好反面噃
+你唔好同佢行
+你唔好埋嚟吖
+你唔好扮嘢啦
+你唔好望住我
+你唔好煩我啦
+你唔好行埋嚟
+你唔好計帶呀
+你唔會呃我嗎
+你唔溫習功課
+你唔食羊肉噶
+你喺度做乜呀
+你喺度做咩呀
+你噉講唔通噃
+你失咗業咁耐
+你好熟面口呀
+你完全攪錯嗮
+你實會鍾意噶
+你幾時去廣州
+你忙緊乜嘢呀
+你快啲同我扯
+你想同佢行呀
+你想搦翻去呀
+你想要嗰隻貨
+你想買啲咩呀
+你想點樣都得
+你愛就愛嗮佢
+你憂佢唔嚟咩
+你成日都衝燈
+你成日針對我
+你挽住咁多嘢
+你搵我嚟做咩
+你曉幾種外文
+你有乜唔妥呀
+你有冇去開會
+你有錢大嗮呀
+你根本冇受傷
+你爲佢地賺錢
+你用乾電又得
+你畀邊個打親
+你真係好人事
+你真係好好人
+你真係好拍檔
+你真係心水清
+你真係有福呀
+你硬係要噉做
+你究竟想點呀
+你篇文作成咁
+你老闆咁有米
+你而家要我揀
+你聽到啲乜野
+你要就攞去啦
+你要求嘅地步
+你要負責嘅噃
+你覺得我人點
+你記得起佢嗎
+你話乜嘢嚟話
+你話啱唔啱吖
+你話幾咁靚呢
+你話得唔得呀
+你話點就點啦
+你講得好岩噶
+你識唔識鬆骨
+你買幾錢飛呀
+你越講我越懵
+你躝咗去邊度
+你迆住嚟玩嘅
+你逼我都冇用
+你還你我還我
+你都冇口齒嘅
+你都幾多事喎
+你都算沙膽啦
+你都黐孖筋嘅
+你間屋好四正
+你食咗飯未呀
+你食唔食煙噶
+你驚冇人吼咩
+你點會喺度噶
+你點解唔理我
+佢一個屈尾十
+佢一定會翻嚟
+佢一時睇唔開
+佢一翻到屋企
+佢乜都賴嗮我
+佢今日放假嘅
+佢仲做係看更
+佢仲喺度傾偈
+佢仲喺度賴死
+佢份人冇乜點
+佢份人咁盟塞
+佢份人好任性
+佢份人好慳皮
+佢份人好求其
+佢份人好爽嘅
+佢份人好直噶
+佢份人好開心
+佢似足佢老豆
+佢住喺我隔籬
+佢係乜嘢顏噶
+佢係我嘅老表
+佢係老板個仔
+佢係都唔肯去
+佢個人咁識撈
+佢個人喪喪哋
+佢個人好木噶
+佢個人沙沙滾
+佢個樣好上鏡
+佢個面口好熟
+佢個面紅紅噉
+佢做嘢好快脆
+佢做嘢好揦西
+佢做嘢好求其
+佢做嘢好爽手
+佢做嘢好爽脆
+佢做嘢好穩陣
+佢入行冇幾耐
+佢兩個好啱偈
+佢兩個好熟落
+佢冇做到功課
+佢出年就畢業
+佢剛啱出咗去
+佢去咗睇醫生
+佢去銀行攞錢
+佢又懶又冇料
+佢咁神高神大
+佢咁耐都唔嚟
+佢哋吹咗都似
+佢哋喺度賴死
+佢哋正話行緊
+佢哋自己去呀
+佢唔想畀你知
+佢唔會唔嚟啩
+佢啱先仲喺度
+佢喊得好淒涼
+佢喺出便等你
+佢喺工廠打工
+佢喺廣州工作
+佢嗍咗一啖煙
+佢嘅作風太浮
+佢嘅成績唔曳
+佢嘅聲喉真大
+佢嚟我度傾偈
+佢地幫你清倉
+佢坐喺我隔籬
+佢好似有病噉
+佢好抵得諗噶
+佢好爛癮捉棋
+佢好錫佢個仔
+佢好鍾意打交
+佢實會講出嚟
+佢專同我拗頸
+佢就成日鬧人
+佢就肯去嘅嘞
+佢已經好翻嗮
+佢幾時都有理
+佢後尾點樣啫
+佢恃自己大力
+佢想搵你傾吓
+佢成個定嗮形
+佢打咗個響指
+佢把口好密實
+佢把口好犀利
+佢把聲咁好聽
+佢押住支手槍
+佢挾住個皮包
+佢捻乾嚿海綿
+佢早就拉柴咯
+佢早就走人咯
+佢有事搵你傾
+佢有兩度死橋
+佢有啲戇戇哋
+佢正一攪屎棍
+佢武功咁使得
+佢生得好細粒
+佢生得好靚仔
+佢產後大出血
+佢畀三本書我
+佢畀老闆炒咗
+佢瘦得真淒涼
+佢真係長氣袋
+佢真有公德心
+佢睇落好後生
+佢睇落好得意
+佢睇落好精神
+佢睇落好細粒
+佢瞓得好淰吖
+佢知呃唔到人
+佢笑笑口噉講
+佢經驗仲未夠
+佢而家唔得閒
+佢而家開緊會
+佢而家食緊飯
+佢耐唔中嚟吓
+佢腳骨好使得
+佢自己唔爭氣
+佢蛇咗去邊呢
+佢蝕咗好多錢
+佢行極都唔癐
+佢見好辛苦喎
+佢詐諦唔識我
+佢話名係經理
+佢諗到定嗮形
+佢講嘢好乸型
+佢講得似層層
+佢講話冇譜嘅
+佢買咗好多嘢
+佢越做越精神
+佢輸到眼光光
+佢輸清光咁滯
+佢邊有咁小器
+佢都一於受落
+佢都咁大個囉
+佢都唔知醜嘅
+佢都幾熟性嘅
+佢隻手有啲震
+佢隻腳鬼咁大
+佢雞咁腳走咗
+佢頭頭唔肯講
+佢飲到醉醉哋
+佢飲得杯落啦
+佢驚到瞓唔着
+佢點極都唔明
+使乜咁巴閉呢
+使乜咁惡死吖
+使乜搭巴士呀
+使唔使咁貴呀
+例牌跟呢度行
+係人都唔制喇
+係呢個地埗咯
+係咪真係得咗
+係唔係咁做呀
+係唔係好啲呀
+係唔係撐我先
+係唔係近視呀
+係唔係黐線噶
+係我嚟早咗啫
+係我應得噶啫
+係我諗多咗啫
+係香港話先啱
+係點你就話點
+保證冇乜差遲
+修咗呢個水庫
+個個玩到喪嗮
+個個都係咁大
+個個都唔理佢
+個個都噉講噶
+個個都媽媽聲
+個個都搏命食
+個個都話係噉
+個嘢好鬼馬噶
+個架唔食力噶
+個柿一捻就爛
+個盒唔合得埋
+個答案諗到未
+個膝頭哥損咗
+個賊喪嗮噶喇
+個鋁窗生嗮鏽
+個雪櫃乜都冇
+偏偏西瓜渴市
+做乜咁開心呀
+做乜嘢咁嬲啫
+做乜要唱衰佢
+做住呢份工先
+做出嚟睇過先
+做到一隻屐噉
+做完戲就落妝
+做散工都可以
+偶然成功之嘛
+先嗰排唔見你
+先排翻學去咗
+先生都嚟咗嘑
+免至老婆掛念
+入冬生魚詐死
+兩隻手指孖埋
+公司生意咁差
+其實冇實權嘅
+冇乜好介紹咯
+冇人嚟就罷就
+冇人屈你承認
+冇人有你咁衰
+冇勾稈得把聲
+冇心就算吧啦
+再攞三支啤酒
+再要半隻燒鴨
+冚翻埋個盒蓋
+凍冰冰又落雨
+凍到面青青噉
+凍就着翻件衫
+出便好危險喎
+出咗乜嘢事呀
+刀用得耐就蝕
+分明係你唔啱
+利息會少好多
+利息高過活期
+到現場睇吓啦
+十一點又唔定
+十月芥菜起心
+千祈唔好亂扠
+千祈唔好學壞
+千祈唔好客氣
+千祈唔好縮沙
+卒之完成任務
+原來我冇估錯
+去嗰便睇吓喇
+去撳機咪得囉
+去香港嘅機位
+參觀吓你間屋
+又係新嘅一日
+又唔記得帶嚟
+又嘥咗一部車
+又搵翻把梳嘞
+又要供書教學
+只要勤力做嘢
+叫佢打個電話
+叫佢自己嚟講
+叫埋佢去罷啦
+叫極佢都唔嚟
+可唔可以同我
+可唔可以唔去
+可能冇聲氣囉
+各花入各眼啫
+同你講過嘅喇
+同佢溝通吓先
+呢一層我知道
+呢件事出咗嚟
+呢件事咁簡單
+呢件事好話爲
+呢件事易話爲
+呢件事瓜褦藤
+呢件事益咗佢
+呢件事硬嗮舦
+呢件衫半唐番
+呢個人好叻呀
+呢個人好陰溼
+呢個人幾做得
+呢個人真掗拃
+呢個人趷腳嘅
+呢個仔咁大咯
+呢個仔好拗頸
+呢個仔好生性
+呢個仔真趣致
+呢個係入牆櫃
+呢個係我亞嫂
+呢個係新牌子
+呢個唔轉唔得
+呢個喼好重噶
+呢個嘢好惡噶
+呢個女好巴揸
+呢個女好聰明
+呢個學生好醒
+呢個客好麻煩
+呢個睇落唔錯
+呢兩個係孖仔
+呢兩日認真熱
+呢出戲悶到死
+呢味嘢得人怕
+呢味餸未食過
+呢啲係小事情
+呢啲先叫唱歌
+呢啲嘢冇得彈
+呢啲嘢咁牙煙
+呢啲嘢好抵錢
+呢啲嘢好閒啫
+呢啲嘢平夾靚
+呢啲嘢放埋啲
+呢啲米糠糠哋
+呢單嘢有着數
+呢單嘢真揦手
+呢嗰仔咁爛瞓
+呢塊板未刨過
+呢套戲睇得吖
+呢幾日落大雪
+呢幾樖竹幾靚
+呢度係乜地方
+呢度係問訊處
+呢度冇乜好玩
+呢度冇呢個人
+呢度冬天咁凍
+呢度唔准泊車
+呢度好近街市
+呢度本錢咁少
+呢度治安唔錯
+呢度真係唔錯
+呢度門好密實
+呢度門閂唔冚
+呢度風涼水冷
+呢張凳真化學
+呢張枱好硬掙
+呢張枱有啲斜
+呢張紙好豆泥
+呢張紙巢孟孟
+呢排晚晚加班
+呢架車好慳油
+呢條友想探盤
+呢次你好彩咋
+呢次保你大嘞
+呢步擸得好大
+呢盞燈唔夠光
+呢種布咁豆泥
+呢種李唔好食
+呢種衫好抵冷
+呢箱係玻璃杯
+呢粒糖嘅味道
+呢處要預寬啲
+呢輪三鳥平咗
+呢輪你得閒嗎
+呢輪到你講喇
+呢道題禁諗咯
+呢部戲好攪笑
+呢間房冇窗口
+呢間房好骨緻
+呢間舖頭真旺
+呢間英文夜校
+呢隻布好幼細
+呢隻粉好幼滑
+呢隻雞蛋堝咗
+呢齣戲好攪笑
+呢齣戲幾收得
+呢齣戲麻麻啫
+周圍乞人幫手
+咁冇公德心架
+咁凍仲去游水
+咁出名都唔識
+咁叻唔切做乜
+咁多位有心喇
+咁夜先食飯呀
+咁大個仔出門
+咁大力羅命咩
+咁失魂做乜吖
+咁好嘅都唔要
+咁少錢唔夠噶
+咁少錢想買樓
+咁快脆就夠鐘
+咁手痕做乜吖
+咁抵死係咪吖
+咁擒青去邊呀
+咁擒青去邊度
+咁熱仲着棉衲
+咁牛王唔得嘅
+咁細個就食煙
+咁耐冇見過佢
+咩事咁勞氣呀
+咩風吹你嚟噶
+咪咁唔通氣喇
+咪屈喺梳化喇
+咪怨命水唔好
+咪搣咁大力吖
+咪落我嘅面啦
+唔使你加把口
+唔使你咁巴閉
+唔使同我慳噶
+唔使唉唉聲嘅
+唔使理都得咯
+唔係佢就假嘅
+唔係佢就有鬼
+唔係冇錢買衫
+唔係爲咗慳錢
+唔係都幾踢腳
+唔信你試吓啦
+唔做都要做啦
+唔准你咁蝦霸
+唔准你咁霸掗
+唔准你打橫嚟
+唔去就正契弟
+唔同你講咁多
+唔夠錢唔緊要
+唔好乜都由佢
+唔好亂講嘢啦
+唔好倒瀉牛奶
+唔好做衰仔啊
+唔好同佢行呀
+唔好咁冇手尾
+唔好咁多廢話
+唔好咁大嘥吖
+唔好咁折墮呀
+唔好咁精至得
+唔好唉唉聲啦
+唔好喐我嘅嘢
+唔好喺度混吉
+唔好四圍走吖
+唔好恃自己叻
+唔好成日玩喇
+唔好成日走趯
+唔好扮唔明呀
+唔好拖佢落水
+唔好拖泥帶水
+唔好撻住對鞋
+唔好放重嘢呀
+唔好整爛佢呀
+唔好焗佢食藥
+唔好玷我啲嘢
+唔好生安白造
+唔好畀人睇見
+唔好畀人見到
+唔好畀佢走雞
+唔好畀雞嚟食
+唔好睇就鬆人
+唔好表錯情呀
+唔好講說話嘞
+唔好逼嚟逼去
+唔好逼過嚟呀
+唔好鬧個仔啦
+唔學電腦唔得
+唔應該嘥人哋
+唔拍烏蠅就奇
+唔會亂講話嘅
+唔會同人頂頸
+唔會咁化學嘅
+唔睇真係後悔
+唔知係咪真噶
+唔知去咗邊度
+唔知發生咩事
+唔翻工點得呀
+唔聽真係後悔
+唔肯聽人勸噶
+唔至於掟煲啩
+唔見咗鎖匙添
+唔該嗮咁多位
+唔該大聲啲啦
+唔認得都似噶
+唔講唔得噶喇
+唔識行情嘅話
+唔通我聽錯咗
+唔阻你休息呀
+唔食咪係算囉
+唯有聽死噶咋
+商店幾點開門
+問你今次死未
+啱先你有電話
+啱啱沓正八點
+啲咑佬跌利是
+啲嘢好易發毛
+啲嘢袋好啲啦
+啲材料散收收
+啲湯唔夠火候
+啲糖水甜到耨
+啲老人家話齋
+啲藥丸細細粒
+啲蘋果點賣呀
+啲蚊鬼死咁多
+啲蛋卷好鬆化
+啲行李散收收
+啲豬肉肥揗揗
+啲賊偷龍轉鳳
+啲香蕉唔夠熟
+喐吓就要使錢
+單係細路仔去
+單眼仔睇老婆
+單眼佬睇老婆
+喺下個站落車
+喺度喊苦喊忽
+喺邊度見過呢
+喺邊度見面呢
+嗌到聲都沙埋
+嗰件衫太巢喇
+嗰個人咁鬼鼠
+嗰個人好面善
+嗰個人邪邪地
+嗰個仔成日病
+嗰單嘢制唔過
+嗰幅畫好威水
+嗰度就係郵局
+嗰度山過呢度
+嗰條友好沓水
+嗰樖樹落嗮葉
+嗰間房喺邊度
+嗰陣你喺邊度
+嗰隻嘢好惡死
+嘜大口得個窿
+噉你行吓街啦
+噉你要幾多吖
+噉做好唔好呢
+噉做法快好多
+噉又真係冇喎
+噉咪唔好玩囉
+噉嘅機會唔多
+噉嘅錯誤都有
+噉實蕩失路啦
+噉就唔使傾呀
+噉玩好易出事
+噉都冇辦法噶
+噍起嚟得棚渣
+噹噉跌咗落地
+嚇到手揗腳震
+嚟咗成百個人
+四便都有圍牆
+因住剕損手吖
+因住唔好凍親
+因住扻親個頭
+因住有人搏亂
+因住笪咗落嚟
+因住跣咗落去
+因爲真係好平
+坐低唞啖氣喇
+坐車逼到鬼噉
+埋便嗰個姓李
+執到乾乾淨淨
+多謝大家畀面
+夜夜都冇翻嚟
+夜麻麻唔好噉
+夠鐘放工囉噃
+大咗仲懶咗添
+大家企埋牆邊
+大家咁高咁大
+大家極之高興
+大家畀啲建議
+大家贊唔贊成
+大家輪住嚟睇
+大家都睇死佢
+大食懶其身晏
+大食懶起身晏
+天氣冇咁凍喇
+奉旨唔會呃人
+奉旨唔會話你
+好人都有限嘞
+好似幾十勾噉
+好似想落雨喎
+好哋哋喊咩啫
+好在得佢喺度
+好多人都係噉
+好威水嘅被面
+好容易亂龍噶
+好容易吞噶咋
+好少唔去祕撈
+好彩佢走甩咗
+好彩佢遇到我
+好得佢嚟幫手
+好快脆就翻嚟
+好梗都推唔開
+好犀利喎呀你
+好食都有限啦
+如果佢打親你
+如果冇咩意見
+嫁個有錢老公
+學校放咗學喇
+實行係噉噶啦
+寫封信畀媽媽
+將啲功課做完
+將張枱抹一抹
+將貨運到北方
+將門油成紅色
+對方交貨之後
+小兒科嘅遊戲
+就嚟夠鐘噶喇
+就嚟開學噶喇
+就知係大客仔
+居然似模似樣
+屎就忍唔得嘞
+工人嚟齊咁滯
+差佬嚟冚檔喇
+差啲畀你嚇親
+已經好好噶喇
+希望係真噶啦
+帶啲手信至好
+年三十晚謝竈
+幾大就幾大啦
+幾大都要頂住
+幾時冇減價啦
+幾難先至做完
+廚房階磚鹹溼
+廚房階磚鹹濕
+張圖睇唔到呀
+張枱唔穩陣噶
+張枱就揗揗震
+張枱通係泥塵
+影多幾張靚相
+後尾先至答應
+得閒就炒吓更
+得閒就祕撈吓
+從來唔搭的士
+快啲嚟睇吓啦
+快啲沖個涼啦
+急到佢氹氹轉
+想去旅行迆吓
+想唔嚟都幾難
+想收買人命咩
+應該拉去打靶
+成世捱飢抵冷
+成世都咁孤寒
+成個人舂落去
+成個大西瓜噉
+成個男人婆咁
+成個經理噉頭
+成年都冇嚟過
+成日喊打喊殺
+成日喺度刨書
+成日坐喺屋企
+成日整蠱人哋
+成日玩幾冇癮
+成日畸畸卡卡
+成日行行企企
+成日都好墟冚
+成晚都眼光光
+成樖光脫脫噉
+成沓都係溼柴
+成盆水倒瀉嗮
+成隻老虎乸咁
+我一啲都唔癐
+我一槍打瓜你
+我一身都鬆嗮
+我亦想共一份
+我今日好眼瞓
+我今晚當夜更
+我仲有嘢要做
+我係唔同意嘅
+我信多你一次
+我個仔唔生性
+我做咗份簡報
+我做嘢好君真
+我冇乜好講喇
+我冇對你唔住
+我冇帶銀喺身
+我即刻去攪惦
+我去過一次咋
+我又冇得罪你
+我可以告你噶
+我同你鬥快吖
+我同佢係鄉里
+我同佢散咗了
+我呢把大葵扇
+我呢排比較忙
+我咀佢一啖囉
+我咩都唔會講
+我哋做埋老襯
+我哋八點鐘去
+我哋幫你唔到
+我哋而家開會
+我哋點聯繫呀
+我唔係好熟行
+我唔係好飲得
+我唔夠佢打噶
+我唔得閒陪你
+我唔會放過你
+我唔識捉棋噶
+我唔贊成你去
+我唔阻你哋啦
+我嚟呢度開會
+我四圍都搵過
+我好快翻嚟呀
+我好翻好多喇
+我實唔睬佢格
+我寫咗成頁紙
+我就倚憑你啦
+我就講呢幾句
+我屋企好屈質
+我帶埋個相機
+我幫你勸吓佢
+我幫你添飯吖
+我幾時都得閒
+我怕佗累大家
+我怕你頂唔住
+我怕畀人見到
+我情願坐巴士
+我想同你斟吓
+我想話去搵你
+我慌你唔同意
+我憎到佢鬼噉
+我承認我冇噶
+我投入得滯呀
+我挐你一齊去
+我接受唔到咯
+我攞過第二名
+我斟杯水畀你
+我早就知到咯
+我最憎畀人屈
+我最鍾意行街
+我有事走先吖
+我有嘢要你做
+我架單車爛咗
+我琴晚瞓唔着
+我畀人打荷包
+我畀啲蚊咬到
+我畀隻狗咬親
+我當佢好人添
+我真係冇估錯
+我真係唔知噶
+我真係服咗你
+我真係未睇過
+我真係頂唔順
+我睇穿佢槓嘢
+我睇都話唔實
+我等咗你好耐
+我約咗朋友去
+我翻到嚟咁耐
+我翻去諗吓先
+我而家唔得閒
+我聽乜誰講過
+我聽到呢件事
+我聽日唔得閒
+我自己有分數
+我落樓買啲嘢
+我要咗你又冇
+我話你冇譜嘅
+我話畀你知啦
+我話過唔去嘅
+我諗你誤會咗
+我諗吓辦法喇
+我護照唔見咗
+我護照跌失咗
+我買呢個就得
+我遲啲搵你吖
+我都係噉話囉
+我都唔知點算
+我都戥你牙煙
+我都戥你難受
+我都覺得唔似
+我都話係吖嘛
+我都費事睬佢
+我都釘咗蓋囉
+我鍾意咗你噶
+我鍾意食新地
+我驚你唔鍾意
+我點行得開啫
+手腳凍到爆坼
+手腳都凍坼嗮
+打乜鬼麻將呀
+打到佢死死吓
+打排球屈親手
+打爛咗眼鏡添
+扽到杯都響嗮
+把聲唔係幾好
+抽水機好有用
+拉曬翻差館先
+拍得好有心機
+拎乜嘢嚟起鑊
+拎住一個皮喼
+拎呢個做標準
+排隊淨係打櫼
+揸住手噉教佢
+搵人抦佢一鑊
+搵把掃嚟掃吓
+摟住一件雨衣
+摸清佢嘅波路
+撍一支簽出嚟
+擙嗰朵花落嚟
+擮到佢哈哈笑
+擰嗰啲嘢出嚟
+擸埋支竹啲衫
+擸把草嚟煮飯
+擺喺你張臺度
+擺喺度好掗拃
+攞嚟頂吓檔先
+攞嚿石責住佢
+攞手巾仔抹汗
+攞枝竹嚟晾衫
+攞條索嚟綁住
+攞齊你啲嘢呀
+攤凍佢先飲得
+攪到佢冇嗮修
+攪到佢好咧氣
+攪到我半天吊
+攪到我揗嗮雞
+攬住枕頭瞓覺
+收吓把口好喇
+收翻埋你支槍
+教咗幾十年書
+整翻好隻手錶
+敵機舂咗落嚟
+數還數路還路
+旅行團散檔咯
+日日逼車翻工
+時間好逼噶啦
+晚晚都咁夜瞓
+晨早流流起身
+最多唔係唔撈
+有事慢慢傾吖
+有些少唔習慣
+有份參加決賽
+有冇咩好事呀
+有冇風球嚟緊
+有咩咁出奇啫
+有嗰句講嗰句
+有好有唔好啦
+有幾十萬揸手
+有意見就開聲
+有理就講清楚
+有近路都唔行
+有錢唔係大嗮
+未有耐放暑假
+本嚟好地地嘅
+杯蓋扱得好冚
+枉你讀咁多書
+架車係棍波嘅
+條樁就揜落嚟
+條蛇捐咗入窿
+條街夜晚好靜
+條褲唔啱我着
+條路凹凹凸凸
+棺材拐杖死頂
+棺材柺杖死頂
+檢查清楚至得
+次次都摸門釘
+歡歡喜喜過年
+歡迎下次再嚟
+正一係學店嚟
+正一係軟皮蛇
+正一攞苦嚟辛
+正一衰人嚟嘅
+正一衰仔嚟噶
+正話要去翻工
+殯儀館大減價
+殺人都有之呀
+氣溫爭一兩度
+求其畀張紙我
+求祈畀張紙我
+汽水凍冰冰嘅
+沓正九點開身
+沙灣燈籠何苦
+油炸鬼啱炸好
+油過一次叻架
+泥水佬開門口
+海底石斑好瘀
+滾攪嗮你哋添
+滾水淥甩咗皮
+漏咗一句台詞
+漯翻啲核出嚟
+漿糊煮得太削
+潑到人成身水
+激到佢死咁滯
+火燒旗杆長嘆
+火燒旗杆長歎
+火燒棺材大嘆
+火燒棺材大歎
+火麒麟周身癮
+火麒麟週身引
+無拏拏話人傻
+無耳藤急靠托
+無耳藤急靠託
+無鼻佬戴眼鏡
+照我噉樣開啦
+煲坐喺風爐度
+煲涼茶飲至得
+爲乜仲唔歇手
+爲我地嘅將來
+玷吓當你賊辦
+現金之類嘅嘢
+琴日經過睇到
+瓦封領包頂頸
+瓦靴唔落得台
+甜嘅抑或鹹噶
+生得真係醜怪
+生得真係醜樣
+用信用卡簽帳
+用紗紙做燈籠
+由上海翻嚟啦
+畀人打咗荷包
+畀人鬧咗一餐
+畀你睇吓吖嗱
+畀佢吓到窒嗮
+畀佢打咗一吓
+畀包花生你呀
+畀半斤番茄我
+畀咁少過人哋
+畀層樓佢揸手
+畀張紙我寫低
+畀我哋捉翻嚟
+畀次機會佢吖
+畀針拮親手指
+番嚟講我聽喇
+番薯跌落風爐
+當時我失嗮魂
+病到佢削笪笪
+病到佢軟笪笪
+痛到佢趷趷吓
+痛得好犀利呀
+發展會好好多
+白雲山一擔泥
+省乾淨個茶杯
+真係冇得彈囉
+真係吊起嚟賣
+真係吹你唔脹
+真係吹佢唔脹
+真係咩人都有
+真係唔好意思
+真係唔想翻工
+真係唔話得咯
+真係夠嗮輪盡
+真係失禮死人
+真係安樂嗮囉
+真係有啲手痕
+真係熱極生風
+真係畀你考起
+真係笑死人啊
+真係險過剃頭
+真係黑過墨斗
+着咁大件棉衲
+着多件衫至好
+睇你個樣咁冧
+睇佢半條命噉
+睇佢好閉翳噉
+睇佢有啲失魂
+睇佢死死吓噉
+睇嘢要睇遠啲
+睇落去幾舒服
+睇落都幾高危
+睇見人哋打波
+睇見佢就擰頭
+瞄咗隔籬一眼
+碗湯淌嗮出嚟
+祕書都兩三個
+祝你新年快樂
+秀才手巾包書
+窒到佢冇聲出
+竈頭抹布鹹溼
+竈頭抹布鹹濕
+竟然想到自殺
+笑到肚都痛嗮
+笑到肚都赤嗮
+第日嚟我屋企
+等我幫吓你啦
+等陣先至食飯
+算你哋走得快
+算係拋磚引玉
+紐約股市暴瀉
+細個超鍾意睇
+緣份只係一啲
+總經理放大假
+翻鄉下個幾日
+翻風兼夾落雨
+老公潑扇淒涼
+老婆擔遮陰功
+老竇出咗事呀
+老鼠貢入牆窿
+考試得五十分
+考試都唔帶筆
+而家又試落過
+而家啲後生仔
+而家沓正三點
+而家硬嗮舦囉
+而家線路正忙
+而家行緊低波
+而家要搵份工
+而家輪到我呀
+耐不耐睇次戲
+耐唔中有一次
+聽唔到你講乜
+聽日要交報告
+聽暇佢唔肯呢
+肉赤都要嘅喇
+肥婆坐屎塔撼
+舊時佢去乞過
+花都耷嗮落嚟
+茅坑裏扔炸彈
+落樓買樽汽水
+落親雨就水浸
+蒸生瓜神神地
+蔗汁真係好飲
+藹個蘇蝦仔瞓
+藹吓個蘇蝦仔
+蘋果跌到瘀咗
+行一陣間就到
+行到腳都癐咯
+行路趷吓趷吓
+行過籠都未知
+衰得你咁關交
+要企高至睇到
+要咁多把鬼咩
+要埋吓尾至得
+要多少就夠喇
+要後生仔至得
+要打開曬吓佢
+要整理吓至得
+要淋吓水先得
+要識得普通話
+要趕工至得喇
+要鋤吓書先得
+要開冷氣至得
+要養幾個孩子
+覺得零舍屈質
+計你話點好吖
+計吓仲有幾日
+計吓睇幾多錢
+計埋條數至瞓
+詐假意唔中意
+詐假意唔鍾意
+詐假意睇唔到
+試吓我嘅手勢
+話咁快就返嚟
+話咗嚟又唔嚟
+話極佢都唔聽
+話死佢都唔聽
+請你仔細睇吓
+請喺呢度簽名
+講你都唔識喇
+講到話呢件事
+講埋啲噉嘅嘢
+講極佢都唔聽
+講話吃口吃舌
+講過就要做到
+費事同佢孭飛
+賣魚佬有聲氣
+賣鯇魚尾搭嘴
+賺人家笑話你
+賺大家唔開心
+贏咗季軍之嘛
+走都唔等埋我
+趯到我一條氣
+趯咗只牛出去
+跌爛咗唔得掂
+踎喺地下寫字
+踢吓波仲好過
+車玻璃被打爛
+辛苦嗮大家啦
+過咗成個鐘頭
+適值你開緊會
+邊個叫你做噶
+邊個唔熟性嘅
+邊個就揾錢多
+邊個敢碰你吖
+邊個有權有勢
+邊度使咁貴噶
+邊度有好嘢食
+邊度有得賣吖
+邊有人咁戇噶
+都乜嘢時代喇
+都係我一腳踢
+都唔似台灣人
+都唔好得去邊
+都唔知係咪噶
+都唔知係咪真
+都唔知咩嚟嘅
+都未用過就抌
+都算攞翻個彩
+都話唔開會咯
+酸辣湯幾開胃
+醉酒佬數街燈
+鋤極都鋤唔入
+錫翻啖當補數
+鍾意唔係食囉
+鎖埋度門佢啦
+門口寫到字嘅
+開便嗰個姓張
+開好啲叻噶先
+間房光掁掁嘅
+關公細佬亦德
+防止賊仔鼠嘢
+阿崩養貓轉性
+隻狗鬼咁惡死
+雖然話行貨啫
+離遠就見到佢
+雪糕筒都好脆
+青瓜與共豆角
+韞住啲俘虜先
+順風屎艇快夾
+預早話畀我知
+頭先差啲穿煲
+頭先落好大雨
+飛機快過汽車
+飛機打交高鬥
+飛機火燭燒雲
+飛機火足燒雲
+飛機飛得真低
+食咗人只車咩
+食埋飯先走啦
+食完飯至埋單
+食糖水易惹痰
+食肥肉易惹痰
+食自助餐嗰陣
+食親就唔自在
+食鬼埋嗰啲嘢
+飲杯茶消吓滯
+養大幾個仔女
+香港制水嗰陣
+馬路邊好大塵
+騎牛搵馬吖嘛
+騷都唔騷一吓
+驚住你食唔落
+鬧鐘唥咗未吖
+魚片粥岩岩熟
+魚片粥巖巖熟
+麻包放喺入便
+黃鱔滑捋捋嘅
+黑皮蔗好爽脆
+點要得安樂吖
+點解你唔搵我
+點解你要呃我
+點解唔講得先
+點解我唔做呢
+點解我唔知嘅
+點解會攪成噉
+點解要噉做呢
+點講都冇用噶
+鼎湖上素好齋
+一世都係好兄弟
+一人行喊窄霸道
+一個人掗兩個位
+一個屈尾十走咗
+一個月幾多家用
+一個月度就翻嚟
+一個麪包兩份食
+一出門就落大雨
+一啲啲就夠個囉
+一啲都唔複雜噶
+一坐親船就頭暈
+一定要落蚊帳啦
+一張相都冇影到
+一早就結咗婚喇
+一百斤都擔唔喐
+一筆扠咗兩個字
+一表揚佢就嚟神
+一起腳都睇唔見
+一路行一路諗嘢
+一部通書睇到老
+一陣要去搵周公
+一陣間就做完咯
+一陣間就出熱頭
+一陣間就唔見咗
+一陣間就唔記得
+一陣間就打好咗
+一食完佢就鬆人
+三元宮土地錫身
+三更出世害死人
+下次唔再走堂了
+不如我哋嗌嘢啦
+不過唱歌好好聽
+之後就訓唔翻喇
+乜你企到咁迆噶
+乜你咁冇記性噶
+乜你咁講時嘜噶
+乜呢度立立亂噶
+乜鬼嘢都唔想要
+九點鐘至開檔呀
+了哥命就食就屙
+事情已經好清楚
+事情都畀佢攪𢰸
+交通燈點紅點綠
+人人都睇我唔起
+人哋一早走咗啦
+人哋兩公婆嘅事
+人嚟齊咁滯噶喇
+人老咗冇記性囉
+今日乜咁錯蕩呀
+今日熱得真淒涼
+今日趁圩好逼人
+今時唔同往日咯
+今晚十二點交更
+今晚又要搏殺嘞
+今晚我瞓唔着呀
+今次佢起步犯規
+以後要畀心機呀
+仲咁走趯做乜吖
+仲未有時間去買
+件事發生咁突然
+件長袍拖到腳面
+伙食唔好咁慳雞
+但係全部解決嗮
+但係我嚟早咗啲
+但係我嚟遲咗啲
+但凡十八歲以下
+但有些時候打風
+住喺呢度幾好丫
+你一早就知噶喇
+你以爲咁着數咩
+你仲用呢隻手機
+你估佢好有錢咩
+你係咪五行欠打
+你係大個仔嚟喇
+你係邊家店買嘢
+你個仔改名未呀
+你個女仲高過你
+你個肚腩都幾大
+你做乜嘢最熟行
+你做乜講大話呀
+你做咗噉嘅錯事
+你做埋呢啲衰嘢
+你即管放膽去啦
+你去開邊度食晏
+你又做咗老襯喇
+你叫佢佢實去嘅
+你呢句話好啱聽
+你咁忙都陪我嚟
+你咁遠都嚟睇我
+你哋做咩唉唉聲
+你哋去嗰處做乜
+你哋唔好亂噉估
+你哋喺度攪攪震
+你哋幾時先翻學
+你哋無謂再嘈啦
+你唔使做都得啦
+你唔使再勸我啦
+你唔使咁長氣喇
+你唔使記掛佢嘅
+你唔可以隨便問
+你唔同我哋合作
+你唔夠佢爭噶喇
+你唔好咁婆媽喇
+你唔好咁醃尖啦
+你唔好喊住先呀
+你唔好噉對我呀
+你唔好大隻講呀
+你唔好當我懵嘅
+你唔好講假呃我
+你唔理得咁多囉
+你唔要就畀我啦
+你唔覺得開心咩
+你唔賠錢乜都假
+你唔食得辣嘅咩
+你啲手勢真係好
+你嗰時好得意咯
+你嗰陣仲瞓緊覺
+你嘅死橋真害人
+你嘅行爲咁西化
+你大個想做乜嘢
+你大個過佢好多
+你失業都成年啦
+你女朋友發嬲啦
+你寄畀我就得嘞
+你就講畀差人知
+你想做咪去做囉
+你成日違例駕駛
+你打咗人仲咁惡
+你攪唔攪得掂呀
+你昧水昧得幾耐
+你晚晚幾點瞓吖
+你有乜嘢好路數
+你有冇約好時間
+你未睇過落雪咩
+你棚牙都唔齊嘅
+你用低波行得啦
+你真係唔識佢呀
+你真係好人事呀
+你真係背得交關
+你真係要嗒真啲
+你真係頭大冇腦
+你睇吓滿唔滿意
+你睇張枱幾多塵
+你翻到嚟香港呀
+你翻到屋企未呀
+你翻唔翻嚟食飯
+你老婆出得廳堂
+你聽唔聽得到呀
+你肉緊都冇用呀
+你腰痛得緊要嗎
+你要吼實佢先好
+你要小心嗰啲人
+你覺得呢鑊嘢點
+你講得實牙實齒
+你識唔識踩雪屐
+你識打乜嘢波呀
+你趕時間走先啦
+你跟手做埋佢啦
+你車我翻屋企吖
+你連句多謝都冇
+你邊度唔舒服呀
+你都幾識嘆個噃
+你都打橫嚟講嘅
+你都貨不對版嘅
+你錫媽咪一啖吖
+你鍾意乜嘢色水
+你除低眼鏡先喇
+你頂唔頂得住呀
+你點鬥得過佢喎
+佢一個人坐喺度
+佢一味喺度畫畫
+佢不溜有信翻嚟
+佢仔女都出咗身
+佢以前做過臥底
+佢仲係好夜先瞓
+佢份人孤寒到死
+佢伯爺過咗身囉
+佢係大廈嘅看更
+佢係幾點鐘走嘅
+佢係畀人捻死嘅
+佢個人好話爲嘅
+佢做乜都好淡定
+佢做事夠嗮他條
+佢做咗幾十年工
+佢偷雞冇去開會
+佢兩個行得好埋
+佢兩兄弟好似樣
+佢冇幾何咁準時
+佢冇理由唔做嘅
+佢同仔女搵學校
+佢同女友散咗檔
+佢吓吓都用電腦
+佢呃咗我好多錢
+佢呢幾日好肉緊
+佢呢排精神唔好
+佢咁耐仲唔翻嚟
+佢咁鬧個老公法
+佢哋一個講英文
+佢哋以前有仇口
+佢哋係公衆人物
+佢哋係孖女嚟噶
+佢哋做得成夫妻
+佢哋到西貢醫肚
+佢哋啲嘢貴咗啲
+佢啱啱執咗個女
+佢啱啱翻咗香港
+佢喺地盤做管工
+佢喺度無理取鬧
+佢嘅作風咁鬼馬
+佢嘅手藝冇得頂
+佢嘅演講好感人
+佢嘅病好噉啲咯
+佢嘅身體好實淨
+佢嘍我去睇電影
+佢噅我借錢畀佢
+佢夠嗮時嘜噶喇
+佢大力到隻牛噉
+佢失敗咗就趯更
+佢好似未瞓醒噉
+佢好早就過埠咯
+佢好易發脾氣噶
+佢守龍門好叻噶
+佢專戥嚟探你噶
+佢就嚟四十歲咯
+佢幫我扠咗一半
+佢幾時翻冇譜噶
+佢得兩個仔噶咋
+佢惹咗一身癩渣
+佢成日同人頂頸
+佢打人好狼胎噶
+佢捻爛咗個氣球
+佢擰轉身就走咗
+佢擸咗大家一眼
+佢改咗好多噶喇
+佢日日都唉唉聲
+佢是必唔高興咯
+佢時不時嚟探我
+佢最後贏翻一棵
+佢最近點解咁耷
+佢會唔會嬲我呢
+佢梗係要養我格
+佢每次都擸網頂
+佢爭一分就合格
+佢生過兩個仔女
+佢畀人打咗一餐
+佢真係大個仔啦
+佢睇落好翻好多
+佢知唔知醜噶啫
+佢等咗你好耐喇
+佢粒聲唔出走咗
+佢經常捱更抵夜
+佢經歷咗咁多嘢
+佢老頂搵佢翻嚟
+佢而家好唔開心
+佢而家就風流囉
+佢聽日就要還錢
+佢至死死氣噉去
+佢行到趷吓趷吓
+佢表演呢項雜技
+佢話佢唔認得我
+佢話名係董事啫
+佢講話嘰嘰趷趷
+佢識咗個女朋友
+佢買嘢好醃尖嘅
+佢輸咗畀佢徒弟
+佢隻手挽住個籮
+佢隻腳鬼死咁大
+佢雖然年紀細細
+佢點會着出嚟吖
+佢點解要呃我呀
+使乜手腳發抖吖
+使唔使我幫手呀
+使唔使灼吓啲菜
+係你自己攞嚟噶
+係佢話畀我知嘅
+係咪噉嘅意思呀
+係咪有乜嘢病呀
+係咪發生啲咩啫
+係唔係寄失咗呀
+係唔係想偷嘢呀
+係無乜私隱噶喇
+係關於邊方面嘅
+個個都係噉噶啦
+個個都咁高咁大
+個個都好使得噶
+個個都成家立業
+個個都身水身汗
+個個都闊佬懶理
+個山冇樹又冇草
+個波畀佢督爆咗
+個波跌咗落樓下
+個畫展開咗十日
+個筆盒唔係我嘅
+個細路認真醒目
+個肚食到漲卜卜
+個衰人真係陰功
+個錶唔記得上鏈
+借住啲錢嚟使吓
+做做吓蝕曬大本
+做到癐嗮就唞吓
+做到癐就唞吓啦
+做呢件事好抵力
+做呢單嘢實撞板
+做嘢應該爽脆啲
+做嘢斷估點得噶
+做嘢要老老實實
+做採購好費事噶
+偷雞唔到蝕揸米
+偷雞唔到蝕摣米
+偷雞唔到蝕渣米
+價錢到時再傾囉
+儲水就靠水塘嘞
+先嗰排我落咗鄉
+先得雞碎咁多錢
+先時生活好艱難
+光住個頭唔凍咩
+入便係乜東東呀
+全部有三百幾人
+六十幾歲嘅人咯
+其實佢乜都唔識
+其實佢冇乜料噶
+其實我都慣噶啦
+冇乜好傾噶咋喎
+冇事幹就鬆噶喇
+冇人有佢咁爛喊
+冇人有咁傻更嘅
+冇人願意負責做
+冇個學位乜都假
+冇嗮錢要去撳機
+冇理由唔見咗嘅
+冇耳茶煲得把嘴
+冇醒起寫信畀佢
+再噅吓佢會得嘅
+再平啲得唔得呀
+凍到思思縮縮噉
+凍咗就唔好食啦
+出去食唔爲得過
+出邊嘅車聲好嘈
+分明係撩交打啦
+到其時你就知死
+到嗰陣你就知喇
+剩得呢個仲未爛
+剩翻地理未考完
+勻勻都係佢第一
+十五蚊就有交易
+十劃都未有一撇
+十月芥菜起曬心
+十月蔗頭甜到尾
+卒之到咗香港啦
+卒之翻到屋企啦
+南無佬跌落糞坑
+即係倒自己米啫
+原來係驚畀人笑
+去嗰度玩幾盞噶
+又唔早啲買定飛
+又唔記得帶鎖匙
+叉燒滾湯冇生肉
+反轉豬肚就是屎
+只狗擔住一隻雞
+叫佢捐啲畀我哋
+叫壽星公切蛋糕
+可以換外幣嘅話
+各人自己執生喇
+合嗮你心水嘞啩
+同細蚊仔做脫衫
+吓吓都要人等你
+吼住你個荷包呀
+呢仗又係佢第一
+呢件事仲晾喺度
+呢件事你話要攪
+呢件事佢好熟檔
+呢件事冇嗮符喇
+呢件事好得人怕
+呢件事實冇走趲
+呢件事攪惦咗喇
+呢件事易過借火
+呢件古董係堅嘅
+呢件衫化學到極
+呢件衫太老土喇
+呢件衫好合心水
+呢位先生好面善
+呢個人下扒輕輕
+呢個人好唔中用
+呢個人好驚死噶
+呢個人有啲生暴
+呢個人雞手鴨腳
+呢個仔太蝦霸喇
+呢個仔好長氣嘅
+呢個仔最擒騎喇
+呢個係你嘅匙羹
+呢個我嚟安排啦
+呢個我好似睇過
+呢個房間好罨汁
+呢個故仔好趣怪
+呢個檔口賣乜嘢
+呢個球隊冇得頂
+呢個組合唔錯呀
+呢停人冇個好嘅
+呢停紙真流口水
+呢兩朝又冷又盛
+呢句好笑過幅圖
+呢只雞公最爛打
+呢啖氣我鯁唔落
+呢啲事你諗你嘞
+呢啲事由得佢喇
+呢啲事睬佢都傻
+呢啲事邊個做呀
+呢啲人同佢發嬲
+呢啲係人哋嘅事
+呢啲係我嘅職責
+呢啲嘢一蚊兩斤
+呢啲嘢唔等使嘅
+呢啲嘢奉旨唔買
+呢啲嘢好貴個噃
+呢啲曳嘢冇人吼
+呢啲書我仲愛噶
+呢啲月餅硬角角
+呢啲柿仲有啲劫
+呢啲鹽白蒙蒙噉
+呢單嘢真係擇使
+呢單案證據唔夠
+呢堆禾稈太罨汁
+呢場波你夠落力
+呢度全變嗮樣咯
+呢度唔準食煙噶
+呢度啲嘢好抵食
+呢度好多倔頭路
+呢度好多車子行
+呢度有乜改變呀
+呢度有冇屋租呀
+呢度未試過落雪
+呢度睇落好幽靜
+呢度賴咗個問號
+呢度風水唔錯喎
+呢張係我嘅卡片
+呢張枱有啲喐動
+呢排中港兩邊走
+呢排做得都幾好
+呢排我好唔得閒
+呢排白菜好耨喉
+呢本相簿幾多錢
+呢枝毛筆唔好寫
+呢條巷係倔篤嘅
+呢條行山徑好長
+呢條褲着到霉嗮
+呢條題目幾難噶
+呢條魚煎到爛嗮
+呢次佢就得米啦
+呢次使費唔少啩
+呢次係打真軍噶
+呢次君之唔去咯
+呢次多得你幫助
+呢次我哋發梗吖
+呢次畀佢過骨添
+呢次畀我過骨咯
+呢球波差啲入咗
+呢種樹生得大樖
+呢種藥我哋有賣
+呢種講法唔科學
+呢部機好多功能
+呢鑊飯有火饠瀡
+呢間屋幾闊落噃
+呢間屋有三間房
+呢間屋有西斜熱
+呢間房太屈質喇
+呢間房有西斜熱
+呢間房都算唔錯
+呢間茶樓嘅晚飯
+呢間餐廳有水吧
+呢隻古仔好盞鬼
+呢隻花布幾靚呀
+呢隻蓮藕至粉嘞
+呢隻西瓜好細個
+呢隻貨質量咁差
+呢隻鞋甩咗線步
+呢首情歌冧到痺
+呢齣戲極之好睇
+呢齣戲邊個擔綱
+周時同人哋頂頸
+咁做嘢法賺辛苦
+咁多嘢送嗮畀你
+咁大個仔仲怕黑
+咁大個仲唔生性
+咁大張好難找喎
+咁大筆錢捐出去
+咁好嘅機會嘥咗
+咁密都會哺出仔
+咁早就打攪你啦
+咁早就瞓覺噶啦
+咁耐仲冇聲氣嘅
+咁肉緊佢做乜呀
+咁高我上唔到去
+咪喺度唱生嗮喇
+咪喺度嘰嘰趷趷
+咪應承得咁容易
+咪木口木面噉啦
+咪聽佢滾紅滾綠
+咭片上面有佢嘅
+唔使你噏三噏四
+唔使你教我點做
+唔使攪到咁大塵
+唔使睇得咁巴閉
+唔係你借錢畀佢
+唔係就攪唔掂喇
+唔係我報警噶喇
+唔可以再讓噶喇
+唔合格都有之啦
+唔單止冇加班費
+唔夠你就要過喇
+唔好亂噉車大炮
+唔好亂抄我嘅嘢
+唔好咁大嘥至得
+唔好咁大陣仗啦
+唔好喐親就嗌交
+唔好恰人哋新嚟
+唔好成日得把口
+唔好成日滾攪人
+唔好扤佢食咁多
+唔好掗住個門口
+唔好攪我電腦呀
+唔好整巢我件衫
+唔好整爛咗個鐘
+唔好枳喺張枱度
+唔好用汽水送藥
+唔好聽佢亂講呀
+唔容易行得出去
+唔應該嘥撻米飯
+唔會就咪咁讕叻
+唔死算佢大命喇
+唔理邊個打邊個
+唔知佢係乜波路
+唔知佢講乜東東
+唔知係唔係生蟲
+唔知個醜字點寫
+唔知又出乜術咯
+唔知幾多林沈嘢
+唔知過唔過得骨
+唔翻屋企食飯喇
+唔考牌點揸車呀
+唔聽你支死人笛
+唔覺意倒瀉盆水
+唔覺意扻親個頭
+唔記得咗咩名喇
+唔該你同我拎住
+唔該你話佢知喇
+唔該借枝筆畀我
+唔該同我剕咗佢
+唔該喺呢度簽名
+唔該畀杯水我吖
+唔該閂冚啲度門
+唔通獨係你至有
+唔通行到倔篤啦
+唔駛我再操心喇
+唱到聲喉都沙嗮
+問佢乜都頭擰擰
+問吓佢有冇路數
+啱先唔見咗車票
+啲人冚唪唥走嗮
+啲仔女陀手褦腳
+啲咁耐就攪惦嘞
+啲字寫得好四正
+啲椰子糖甜得滯
+喐多兩喐就摑你
+單人房住滿嗮啦
+單對單會放膽啲
+喺全市比賽入便
+喺屋企鬼咁屈質
+喺度發乜吽哣呀
+嗰件事成唔成呀
+嗰位係佢嘅外甥
+嗰個人有啲鬼鼠
+嗰個嘢好鬼馬噶
+嗰個壞蛋瓜咗咯
+嗰個山尖筆甩嘅
+嗰個過路嘅女人
+嗰只老鼠走甩咗
+嗰啲嘢係人哋嘅
+嗰啲嘢咁唔乾淨
+嗰啲茶苦刁刁嘅
+嗰嚿石真係大咯
+嗰排我好唔得閒
+嗰條友仔好陰噶
+嗰條題目唔識做
+嗰笪油跡省唔甩
+嗰粒流星好光呀
+嗰賊拮咗佢兩刀
+嗰隻嘢去咗邊呢
+嗰隻狗耷住條尾
+嗰隻老鼠走甩咗
+嗰隻雞有啲吽哣
+嘥到佢一錢不值
+噉你有冇身份證
+噉嘅樣你都話靚
+噉我就唔阻你啦
+噉攪法唔得個噃
+噉樣做實行好啦
+噉着都唔好睇嘅
+噉讀書入腦得多
+嚇到佢手腳發抖
+因住畀警察抄牌
+因住畀隔離聽到
+因住老闆詐型呀
+地基打得好實淨
+地鐵係唔畀食煙
+坐唔正扽咗落地
+坐喺出便聽唔到
+坐開便嗰張凳啦
+塘邊鶴睇准黎食
+塘邊鶴睇準黎食
+墳前燒報紙呃鬼
+外出點解咁嘈呀
+多謝你畀面就真
+夜晚經過要小心
+夜麻麻唔好去咯
+夠唔夠膽輸賭吖
+夠膽你就衝上去
+夠膽就放馬過嚟
+大個唔好蝦細個
+大家傾得咁高興
+大家去食韓國餐
+大家好好坐喺度
+大家宜得你成功
+大家成日都受害
+大家焗住行樓梯
+大家講好一齊去
+大家都費事睬佢
+大家都闊佬懶理
+大家靜英英噉聽
+天時旱就唔怕喇
+天跌落嚟當被搇
+太監磨柱真係滑
+太監騎馬無得頂
+女仔去嗰啲地方
+好似好恐怖咁喎
+好似控制唔到噉
+好似有啲唔係路
+好在後來兜翻住
+好在我唔會噉咯
+好在畀我發現咗
+好多大公司請佢
+好嬲噉走咗出去
+好彩佢幫我執生
+好快就要揭盅喇
+好衰唔衰輸清光
+好難搵得翻嗰噃
+如果佢喺你嗰度
+如果存定期嘅話
+媽咪至關心我哋
+媽媽聲係唔啱嘅
+學咗幾年仲咁水
+完全係生安白造
+完全唔知講咩好
+家下唔同舊時喇
+家陣捱得咁辛苦
+容乜易出問題呀
+容乜易畀佢走咗
+密底算盤冇漏罅
+實斬到你一頸血
+寶寶戒奶食乜好
+將嗰件衫洗乾淨
+將嗰啲嘢擰出嚟
+將垃圾掃埋一堆
+將間樓按畀銀行
+小心駛得晚年船
+就一口價三百啦
+就係我都唔得呀
+就專戥嚟探你噶
+居然揈咗上樓上
+屋企人都幾好嗎
+屋企好多爛鬼嘢
+屋漏更兼連夜雨
+屎坑關刀無張利
+展覽館琴日散檔
+山上嗰啲好貴噶
+山洞入邊黑擝擝
+山窿入便黑孖孖
+山草藥噏得就噏
+差啲又擺烏龍喇
+希望我冇嘈醒你
+帶女朋友去海皮
+幅畫畫得花哩碌
+幅相擺得唔四正
+幫人害自己師父
+幫咗佢仲畀佢鬧
+年齡係屬於私隱
+幾多嘢都冇落剩
+幾時生翻個啤啤
+度住五百蚊嚟先
+廣州話同埋英文
+廥就休息吓先啦
+後尾大家都同意
+後生仔中意走趯
+後生仔咪咁白霍
+後生細仔識咩吖
+得人驚到不得了
+惟獨是冬天太凍
+想加熱個粟米餅
+應該噉先岩噶嘛
+成日苦口苦面噉
+成日都冇餐飯食
+成日都想搵着數
+成組畀佢佗衰嗮
+我一世人未見過
+我下個站落車啦
+我下星期去北京
+我交代你做嘅嘢
+我亦都幫唔到佢
+我以後一定小心
+我以後聽嗮你話
+我仲係心大心細
+我仲緊張過你呀
+我係咪好傻豬呀
+我係得咁多噶嘞
+我係爲你着想噶
+我個心十五十六
+我個肚有啲囉攣
+我冇心機同你傾
+我冇說話可以講
+我到時同你攪掂
+我即刻同你接通
+我去係趁高興啫
+我去同你哋睇水
+我可以同你查吓
+我可唔可以走呀
+我同你換制唔制
+我同你攪笑嘅啫
+我同佢冇乜挐褦
+我呢度有香口膠
+我咩都冇睇過呀
+我哋兩個係老表
+我哋去抦嗰條友
+我哋去海皮行吓
+我哋去飲早茶啦
+我哋啱啱落飛機
+我哋好熟落㗎喇
+我哋好熟落噶喇
+我哋就即刻訂貨
+我哋差啲中招咯
+我哋都唔細噶啦
+我哋都好鍾意佢
+我哋都戥你開心
+我哋都未做完呀
+我哋雜技團裏便
+我唔信呢啲嘢噶
+我唔出聲都唔得
+我唔小心路過咋
+我唔想你難做噶
+我唔明你想講乜
+我唔知佢係邊個
+我唔罰你就假嘅
+我唔記得同佢講
+我問你一個問題
+我啱啱諗住休息
+我嘅事唔使你理
+我嘅存摺唔見咗
+我嘅銀包唔見咗
+我噉做會得罪人
+我嚟係戥興嘅啫
+我地傾緊公司嘢
+我好似唔識得你
+我實告到佢甩褲
+我就打蛇隨棍上
+我幫你整翻好喇
+我情願自己試下
+我想電個新髮型
+我慌怕你趕唔切
+我把刀有記認嘅
+我早就話過噶喇
+我明明放喺呢度
+我會交啲定金先
+我會轉告畀佢知
+我有問過校長噶
+我淨係睇公仔啫
+我無端端上咗鏡
+我用開呢枝筆嘅
+我畀咗三次錢你
+我畀噉好多你喇
+我畀噉好多佢喇
+我當你應承噶囉
+我真係冇睇錯人
+我真係唔係好明
+我真係唔識講價
+我真係戥你難過
+我真係畀佢激死
+我睇死你會噉做
+我簡直一頭霧水
+我聽到後便有聲
+我聽暇話過你知
+我要去吓洗手間
+我要影多幾張相
+我要櫃入便嗰種
+我覺得幾好睇噶
+我訂咗間雙人房
+我話極佢都唔聽
+我諗緊去買新嘅
+我買咗三斤有多
+我買咗好多嘢食
+我買洗衣機嗰陣
+我都唔理得咁多
+我都戥你開心喎
+我鍾意靠窗嘅位
+我隻手瘀咗一笪
+我隻耳仔好痛呀
+我餐餐都好開胃
+我驚個袋唔夠大
+我麻煩你一件事
+我點可以唔理呀
+或者聽日就到啦
+截架的士翻屋企
+戴咗頂紅色嘅帽
+房租都幾乸脷吓
+所以個個自己剪
+所以我嚟唔到吖
+打咗赤肋都仲熱
+打工仔入息好奀
+扽乾淨啲鉛筆碎
+抄到啲嘢立立亂
+抛浪頭嚇唔到人
+拎住咁多嘢搭車
+拎張報紙畀佢睇
+捉棋我唔夠佢嚟
+掟中個籃就有獎
+揇吓張枱有幾長
+揈一揈支墨水筆
+揜到週身都溼嗮
+搬嚟搬去賺麻煩
+搭六路車先至啱
+搵唔到就死心啦
+搵啲嘢嚟醫肚先
+搵條繩索住隻狗
+搵紗罩扱實啲餸
+撞到呢忽肉瘀咗
+擔鋤頭要趷高啲
+擺明係你做噶啦
+攝件衫入條褲讀
+攞個碗扱實個碟
+攞啲錢嚟做散使
+攞嗮啲行李落嚟
+攞埋呢個盆入去
+攞張契畀我睇吓
+攪到佢好冇表情
+攪到啲書亂嗮龍
+攪到我一頭霧水
+攪到我冇覺好瞓
+攪到我爭啲黐線
+整到呢度咁污糟
+整得靚啲唔好咩
+斬一蚊叉燒翻嚟
+斬吓眼唔見咗佢
+斬吓眼就唔見人
+新處長上任之後
+斷柄鋤頭無揸拿
+斷柄鋤頭無摣拿
+於是咪發爛渣囉
+日日都要去睇病
+是但叫一個人去
+是必有乜嘢事咯
+時間冇乜得走盞
+晚晚都捱更抵夜
+晨早流流咁刺激
+晨早流流坐車嚟
+暑假梗係要迆吓
+暫時攞佢嚟頂檔
+曬菲林唔見得光
+書架上有好多塵
+最近佢人氣好旺
+最近同男友散咗
+會唔會諗多咗呀
+有仔唔憂無老婆
+有冇人知點解呢
+有冇睇過本書先
+有咁啱就得咁巧
+有唔少工廠搇斗
+有幾何去一次呀
+有病就好好休息
+木瓜仲未黃乜滯
+未有耐作完篇文
+未睇就快啲睇啦
+本書喺櫃桶埋便
+杯茶攤凍咗至飲
+枉你行咗一次添
+枱椅擺得唔齊整
+架車剷上行人路
+梗係條氣唔順啦
+條數一定有問題
+條繩一剒就斷咗
+條繩咁幼唔得嘅
+條路多人到冇譜
+橋上倒涼茶何苦
+櫃桶擠住好多嘢
+次次都係你埋單
+死人燈籠報大數
+每週先至六節課
+氰化鉀好巴閉噶
+求其放喺度得咯
+求祈放喺度得喇
+汽車撞咗上石壆
+沖過涼零舍爽嘅
+油炸鬼啱啱炸好
+淋到成身溼湆湆
+淨出埋嗮啲屎橋
+溼水棉花冇得彈
+溼水棉花無得彈
+濕水棉花冇得彈
+濕水棉花無得彈
+火浸眼眉唔知死
+灶君跌落鑊精神
+炒茭筍又嫩又甜
+焗住我行呢步棋
+無端白事笑起嚟
+無謂攪咁多嘢喇
+然後就下咗結論
+照睇冇行噉頭喎
+煲湯滾嗮都唔知
+爭兩個先至夠數
+爸爸好惜我哋噶
+犯人喺今朝問吊
+狗上瓦桁有條路
+狗牙邊嘅手巾仔
+琴日仲好哋哋噶
+琴日都好地地嘅
+瓦檐獅子叻到滿
+瓦簷獅子叻到滿
+生得牛高馬大囉
+生抽好味過老抽
+生草藥噏得就噏
+生蟲拐杖累死人
+生蟲拐杖靠吳住
+生蟲拐杖靠唔住
+生蟲柺杖累死人
+生蟲柺杖靠吳住
+生蟲柺杖靠唔住
+用條繩繑幾個圈
+由你住幾耐都得
+由天光坐到天黑
+畀人呃咗咁多年
+畀人棍咗十蚊雞
+畀人省咗個波餅
+畀住三百蚊我先
+畀外面嘅人申請
+畀我唞吓得唔得
+畀隻狗噬咗一啖
+番禺蠟燭假細心
+番薯跌落竈該煨
+番鬼佬月餅悶極
+當然係你去啦嘛
+癐就休息吓先啦
+白白浪費咗幾日
+盲公開眼痠嘟嘟
+盲公開眼酸嘟嘟
+直路唔行行彎路
+直頭就冇呢個人
+省到個盆擸擸炩
+眞係畀佢激死嚟
+真係一啲都唔明
+真係吹你哋唔脹
+真係吹佢哋唔脹
+真係周身唔自在
+真係唔係幾似呀
+真係唔夠攝牙罅
+真係多得你唔少
+真係好多未睇過
+真係戥你開心呀
+真係抵到飛起喎
+真係生人唔生膽
+真係笑大人個口
+真係苦過弟弟咯
+睇你趯得去邊度
+睇佢個嘜頭似乜
+睇吓你哋幾時執
+睇吓你啲棋幾屎
+睇吓呢個得唔得
+睇死你係噉噶啦
+睇見佢咁唔生性
+睇見佢眼溼溼噉
+睇見就唔開胃咯
+睇見就眼火爆囉
+瞓到隻腳都痺嗮
+矮瓜都幾好食嘅
+碰到啲噉嘅衰嘢
+租一間要幾多錢
+究竟結果點樣呀
+突然記起一件事
+竈君跌落鑊精神
+竹籃打水一場空
+第一題好行貨啫
+等一陣間我就去
+等你等到頸都長
+等佢啲錢匯過來
+等我休吓息得啩
+等我入定啲水先
+等我去探吓路先
+等我試吓申請先
+篇稿我趕緊噶喇
+簡直係搵嚟攪嘅
+簡直係雞同鴨講
+紅星艔六點落船
+紙紮下巴口輕輕
+累埋我畀波士鬧
+細個嗰陣時學過
+終於翻到屋企啦
+綁成一孖一孖噉
+網上消息流定堅
+練到隻手就嚟斷
+繡花袋仔人人啱
+羊肉要起骨至賣
+老公成日去賭錢
+老師都倔住佢喇
+考完試就放大假
+而係有衫都唔着
+而家先至九點鐘
+而家冇幾張紗紙
+而家周圍去撲水
+而家唔同舊底咯
+而家啲人噉噶咩
+而家得翻我喺房
+而家淨得個壺身
+而家真係好夜嘞
+而家都仲未整完
+而家點都瞓唔着
+耐唔中都有去吓
+聽日又要翻學啦
+聽日磅水都唔遲
+聽講你手藝唔錯
+聽講佢去咗北京
+聽起身好似好癐
+聽音樂專心啲啦
+膝頭哥跌到瘀咗
+膽生石好難醫噶
+自己帶啲食嘅嘢
+自己心知肚明吖
+自己買餸煮飯食
+航空母艦食水深
+茶餐廳啲嘢夠平
+菜葉瘀咗就會爛
+菠菜灼吓就食得
+萬零蚊唔係好貴
+落咗一場過雲雨
+落街同我買啲嘢
+落車後行翻轉頭
+蒙古皇帝打太子
+薯仔煲糖水心淡
+行行吓就蕩失路
+行路仲冇咁嬲啦
+衫袖長翻啲先啱
+衰鬼鐘累我遲到
+裏頭係乜東東呀
+要唔要識得英語
+要唔要都冇所謂
+要埋咁多做乜吖
+要攝高隻腳先得
+要用槌至揜得開
+要畀心機學至得
+要複印幾多份呀
+要識得即刻執生
+要買嘅仲係要買
+要買就快啲磅水
+見佢騷疊咭出嚟
+見到都唔開胃喇
+計我話仲係噉好
+記住洗咗啲衫呀
+記住買多啲菲林
+認真多謝嗮你呀
+請問你係邊位呀
+請問你搵邊個呀
+請問呢個字點寫
+講乜嘢買新傢俬
+講嘢唔好咁長氣
+講實幾多錢一斤
+講話唔好咁作狀
+講話唔好咁譖氣
+識穿敵人嘅陰謀
+護照照片出洋相
+讀過兩年犦犦齋
+豬仔得食墟墟冚
+貓兒洗面係咁意
+買咗件間條恤衫
+買樓要睇餸食飯
+買開嘢就計平啲
+費事睇咁多文件
+賺大家反面嘅嗻
+起先佢講乜嚟呀
+起頭大家都唔熟
+趁手幫我做埋佢
+趕唔切搭校車啦
+趷高腳跳芭蕾舞
+跌到佢腳都損嗮
+跟住又坐車翻去
+踩凹咗個乒乓波
+身邊有兩位好友
+車一過就好大塵
+車轆啡啡噉漏氣
+轉吓眼又開學咯
+近排我好唔得閒
+通屋都係佢啲書
+通通都係陳皮嘢
+連屋企都好少翻
+連工資都冇添噶
+連自己都攪唔掂
+遊戲機有乜好玩
+過得自己過得人
+邊個係負責人呀
+邊個地方好玩啲
+邊個學你咁叻吖
+邊個聽你支笛吖
+邊個識你係亞誰
+都叫師傅幫吓眼
+都唔知幾時散檔
+鄉下唔興畀利是
+醒神啲得唔得呀
+醫生叫我戒宵夜
+鉛筆剕到尖筆甩
+銀行閂門冇所謂
+錢都搵到多少嘅
+鍾意食乜就食乜
+開親會都要半日
+間屋有兩房一廳
+間舖頭好難爲皮
+阿超着褲谷住來
+阿駝行路中中地
+隔年通勝唔值錢
+隻手錶揜咗落地
+隻老鼠捐咗入窿
+隻腳畀人踢瘀咗
+隻腳痺到唔喐得
+隻貓搲爛我本書
+隻貓擔住隻老鼠
+雖然系鬧佢嘅話
+零加池塘多尻餘
+電話漏咗喺公司
+霎時間唔幾得咗
+非洲和尚乞人憎
+靠搏懵係唔得嘅
+靠輸血吊住條命
+預佢哋出五千蚊
+頭先打場波真爽
+頭先有電話搵你
+頭擰擰噉做乜呀
+頭頭有電話搵你
+食一粒就夠皮喇
+食呢啲餅乾鯁鯁
+食嘢唔好咁狼胎
+食嘢食到咁狼胎
+食埋咁多零食嘢
+食完飯跟手洗碗
+食酸嘢好醒胃噶
+首期要畀三成先
+首歌再長啲就正
+香港有幾多人吖
+馬路曬到焮烚烚
+馬騮仔好得意噶
+點咁遲至做完噶
+點對得住良心呀
+點知條友流定堅
+點解冇人貼呢個
+一個人去我唔夠膽
+一個人喺屋企煮飯
+一個月有幾多人工
+一個跛咗腳嘅細路
+一出街就撞啱落雨
+一定會做好工作嘅
+一定要你至冧得掂
+一擰轉頭就睇見佢
+一於告到佢甩褲啦
+一早就話過你噶喇
+一有動靜就話我知
+一枝公去睇戲冇癮
+一睇到信號就散水
+一聽講考唔到大學
+一邊唞涼一邊傾偈
+三個人豆起個鋼琴
+上次你輸咗唔認數
+下半世就唔使憂啦
+下次你冇咁好彩呀
+下次請你食飯補數
+不如你試吓噅吓佢
+不如契咗佢做女啦
+不宜去睇電影仲好
+中到頭獎就發達喇
+乜今日執到咁正吖
+乜你好似細路仔噉
+乜佢講得咁論盡噶
+乜嘢說話都講嗮咯
+乜嘢風吹到你嚟嘅
+九曲橋散步行彎路
+亞單睇榜一眼睇曬
+亞媽今晚煲咗糖水
+人人都着得好光鮮
+人人都話佢好人事
+人哋好地地坐喺度
+今個月啲生意耷嗮
+今日一定要講清楚
+今日做咗好多事呀
+今日去食齋好唔好
+今日同朋友去出街
+今日呢間舖頭好旺
+今日周圍都溼凹凹
+今日唔係我生日囉
+今日嘅例湯係乜嘢
+今日嘅匯率係幾多
+今日我屙咗七八次
+今日有冇派講義呀
+今日焫咗兩個土匪
+今日玩到夠嗮本啦
+今日略略凍過琴日
+今日稍爲晏啲見面
+今晚一定要早啲瞓
+今晚我唔喺屋企食
+今晚打電話畀你吖
+今次我真係扯嗮火
+今次真係唔該嗮你
+今次真係大出血喇
+今次老細都得罪埋
+以後多啲出嚟飲茶
+仲唔快啲搵翻份工
+仲唔知道我係邊個
+仲要自欺欺人落去
+件事一啲線索都冇
+件蛋糕畀烏蠅摟過
+件衫買咗幾多銀呀
+企喺海邊吹吓海風
+但全部都係肌肉嚟
+住七樓上落唔方便
+你一個人搦得埋咩
+你亞爸喺唔喺度呀
+你今日唔使翻工呀
+你今次又食檸檬呀
+你今次實一身蟻嘞
+你仲有乜嘢意見呀
+你仲有冇房出租呀
+你仲鍾唔鍾意佢呀
+你件衫好似長噉啲
+你伯爺喺唔喺屋企
+你估我唔肚餓嘅咩
+你住得習唔習慣呀
+你個衫袖褦住條線
+你做乜粒聲都唔出
+你做事唔好咁擒青
+你做咁多嘢賺攪啫
+你做咩咁樣話佢呀
+你做嘢做到半天吊
+你冇可能快得過我
+你千祈唔好亂噉講
+你又係到唉唉聲啦
+你只要認真啲讀書
+你告我哋唔入噶喎
+你咁細聲我聽唔到
+你咁遲先至去買飛
+你咪逼我做噉嘅嘢
+你哋唔要就益嗮佢
+你哋幾點鐘關門呀
+你哋等埋林小姐啦
+你唔使咁投入噶喎
+你唔好教壞啲細路
+你唔好臨時縮沙呀
+你唔好要我捐錢呀
+你唔好雞啄唔斷啦
+你唔得閒就咪去啦
+你唔怕人哋話你衙
+你唔通係牛皮燈籠
+你啲書放得咁立亂
+你喺處等住我翻嚟
+你嘅服務態度咁好
+你噉做唔係幾盞噃
+你噉做都係混吉啫
+你噉樣攪法似樣咩
+你坐定定唔好喐啦
+你埋去睇睇系乜嘢
+你夠膽就過嚟吖嗱
+你大個要認真讀書
+你好似好開心噉喎
+你如果唔係眼角高
+你寫嘅字咁核突噶
+你對鞋夠嗮陳皮咯
+你屋企電話冇搇好
+你已經三次遲到啦
+你幫襯呢間舖頭呀
+你張凳褪過去一啲
+你慌失失咁去邊呀
+你成日頻撲都冇用
+你打網球有幾耐呀
+你抵手就試嚇吖嗱
+你抹乾淨個地下啦
+你挐佢同值一個班
+你搵到地方搬未呀
+你攞乜嘢賠翻畀我
+你是但畀啲就得嘞
+你最好都係慳儉啲
+你會唔會有興趣呀
+你有冇乜嘢要報關
+你班兵嚟我都唔怕
+你班同學仲未嚟咩
+你琴日趯咗去邊度
+你用現金定係轆咭
+你畀多次機會我呀
+你眞係蠢到加零一
+你真係一啲都冇變
+你真係懵到上心口
+你眼超超噉想點呀
+你睇你肥屍大隻噉
+你睇佢個樣幾得敕
+你睇吓嗰便個師奶
+你而家去迆一陣先
+你要邊一種款式呢
+你覺得佢份人點呀
+你計吓爲皮要幾多
+你話噉樣做好唔好
+你話落畀佢聽未呀
+你認爲制得過就做
+你講乜我都唔計帶
+你講啲嘢我聽到嗮
+你買咁多蝦把鬼咩
+你跌咗錢落地下喇
+你都幾多花臣噶喎
+你鍾意食咩嘢餸吖
+你間屋幾時入伙吖
+你點對得住你亞爸
+佢一嬲起嚟鬼都驚
+佢一有乜冬瓜豆腐
+佢一路都唔食煙嘅
+佢不溜都唔食辣嘅
+佢不特完成咗任務
+佢五年前就退休嘞
+佢今次痛得好緊要
+佢以前入過黑社會
+佢以前成日做主角
+佢以前用勞力搵錢
+佢份人做嘢好驚青
+佢佗人有六個月咯
+佢係唔瞭解情況嘅
+佢係威係勢噉一講
+佢係用乜嘢料做噶
+佢係老王舉薦嚟嘅
+佢做乜嘢都咁求其
+佢做咗咁多年主席
+佢先至施施然嚟到
+佢兩個早就掟煲咯
+佢八十幾仲好硬掙
+佢叫我畀一千蚊佢
+佢同你三九唔識七
+佢同你究竟咩關係
+佢同女朋友掟咗煲
+佢呢排有多少進步
+佢呢種人睬佢都傻
+佢周時都關心大家
+佢周身的肌肉好實
+佢哋兩個又好翻咯
+佢哋全部都係義工
+佢哋兩個個樣好似
+佢哋兩個好行得埋
+佢哋嚟廣州學粵語
+佢哋會喺度住一陣
+佢唔係幾識陳太噶
+佢啱啱臊咗一個仔
+佢嘅刀法認真犀利
+佢嘅字寫得好四正
+佢嘅成績麻麻哋啦
+佢嘅發言空空洞洞
+佢嘅醫術好巴閉噶
+佢坐到掗開嗮對腳
+佢好大力捻我個面
+佢好鍾意睇公仔書
+佢就宜得你快啲扯
+佢差啲畀壞人棍咗
+佢成日爲大家走趯
+佢攪咗好耐至熟行
+佢改個乜嘢名好呢
+佢既然拍心口應承
+佢最叻就係托老闆
+佢有三十歲咁滯咯
+佢望咗佢爸爸一眼
+佢正話去踢波翻嚟
+佢淨係肉緊啲錢啫
+佢淨係識講唔識做
+佢生成係咁面青青
+佢畀人鬧到一面屁
+佢畀人鬧到死死吓
+佢畀咗袋生果過我
+佢畀我問到口啞啞
+佢畀石頭揜親隻腳
+佢畀老豆徇咗一餐
+佢真係知慳識儉喇
+佢細個嗰陣最曳喇
+佢老公瓜咗好耐囉
+佢而家仲心大心細
+佢自己中意就得啦
+佢自細就鍾意讀書
+佢見到梗係扯嗮火
+佢見到肯定扯嗮火
+佢親自講畀我知格
+佢詐假意嚇你噶咋
+佢話乜都唔關佢事
+佢話唔係佢做個喎
+佢話嗮都係我大佬
+佢講啲說話好陰毒
+佢貪得意學人食煙
+佢賭起嚟好狼胎噶
+佢都唔知我係乜誰
+佢都學得幾快嗰噃
+佢間公司執笠都似
+佢隻手畀滾水焫親
+佢點條黑路畀我行
+例牌要上門多謝嘅
+依度發生乜嘢事呀
+係你至幫到我噶啫
+係佢自己攞嚟噶啫
+係咪今日瞓得太耐
+係咪佢叫你噉做呀
+係咪想攞去炒黃牛
+係唔係要預訂房呀
+係唔係電線漏電呀
+係唔係食水太深喇
+個仔今年考到大學
+個個着到裹蒸粽噉
+個波碌咗入牀下底
+個蘋果又甜又爽脆
+個衰仔做乜仲唔嚟
+個賊即刻擰轉頭走
+個鐘跌爛咗整唔翻
+倒掛臘鴨油嘴滑舌
+做乜嘢總有啲嘰趷
+做人咪咁硬頸至得
+做呢件咁陰功嘅事
+做呢件嘢真嘥心機
+做呢啲事佢最熟落
+做啲少少事都唔識
+傷風咳會惹畀人噶
+先嗰輪我好唔得閒
+先時我哋住喺呢度
+先生睇到實頭擰擰
+光棍佬遇着冇皮柴
+兩三毫子食一餐飯
+八仙過海各有千秋
+公司交翻畀佢打理
+公園嘅草地唔畀戮
+其實戒煙容乜易啫
+冇咗班打工仔幫襯
+冇掩雞籠自出自入
+冇柄士巴拉得棚牙
+冇醒起幫你買嘢添
+冇錢就食唔到噶喇
+冇錯道理係喺你度
+再嘈人哋就嗌噶喇
+到咗我啲噉嘅年紀
+到大個就唔中用咯
+到而家仲係吊吊揈
+前嗰排我去咗英國
+剩得我一個人知道
+加工費五蚊爲得過
+千祈唔好蝕底吖嘛
+卒之畀我剒咗出嚟
+博埋老命都唔惦噶
+去我屋企坐吓吖嗱
+去日本邊幾度呀你
+只貓擔走咗一條魚
+叫佢等耐啲都唔制
+叫佢負責我唔放膽
+可以着成噉翻工噶
+可唔可以幫我問佢
+各位點可以唔撐呀
+同佢調換咗第個喼
+呢一科好難學個噃
+呢件事你應承啦嘛
+呢件事包喺我身上
+呢件事大家都噉睇
+呢件事成數有幾高
+呢件事我都睇化咗
+呢件事畀佢攪瘀咗
+呢件衫佢着最啱蕎
+呢位係亞爺同亞嬤
+呢位先生態度咁好
+呢位先至係董事長
+呢個人好難相與嘅
+呢個仔正一佗衰家
+呢個係我哋自己事
+呢個啤啤仔好得意
+呢個壺外皮都唔錯
+呢個機會唔好嘥吖
+呢個籃織得好幼細
+呢個細佬哥好百厭
+呢個細路仔好精噶
+呢個細路真係得意
+呢個肥妹仔好得意
+呢個臊蝦仔咁囉攣
+呢個號碼取消咗啦
+呢個計劃最慳噶喇
+呢個露台係僭建嘅
+呢個青年仔好馴品
+呢個項目係佢跟嘅
+呢兩條柱有五揇闊
+呢兩碟幫我打包吖
+呢勻畀佢威到盡嘞
+呢包嘢包得散收收
+呢包書躉喺你度先
+呢句說話好有道理
+呢味嘢你真係得啦
+呢啲不明不白嘅錢
+呢啲事都睇到化咯
+呢啲係正英德紅茶
+呢啲全部係假銀紙
+呢啲嘢話得埋嘅咩
+呢啲月餅太耨喉喇
+呢啲樹樖樖都咁高
+呢啲產品乜咁鮓噶
+呢啲詩佢背到爛熟
+呢啲資料真係好廢
+呢單嘢都幾惡作噃
+呢單生意傾咗半年
+呢對鞋做得好瀟湘
+呢幅畫睇極都唔厭
+呢幾個女仔好省鏡
+呢幾年我幫你咁多
+呢幾張枱由我包起
+呢幾日豬肉好爛巿
+呢度佈置得唔錯呀
+呢度又夠養得魚喇
+呢度啲嘢又平又靚
+呢度嘅風景好靚呀
+呢度夜晚黑好靜噶
+呢度好少有鼠摸嘅
+呢度幾時可以食飯
+呢度得三個人嘅嗻
+呢度得佢一個人咋
+呢度頂籠坐三十人
+呢張凳係我坐開嘅
+呢張書枱係夜冷貨
+呢張枱有四揇幾長
+呢招真係萬試萬靈
+呢排做到金睛火眼
+呢排趕工成日開夜
+呢本都唔係廣東話
+呢條友鬼鬼鼠鼠噉
+呢條圍有百戶人家
+呢條擔挑軟笪笪嘅
+呢條數好難計得清
+呢槓嘢我領過檔喇
+呢次真係唔該嗮你
+呢次考車牌又衰咗
+呢班人你都敢得罪
+呢種料好容易巢噶
+呢種涼鞋好渴市噶
+呢笪田泥肉幾厚呀
+呢間公司門面咁窄
+呢間屋地下冇人住
+呢間屋起得好架勢
+呢間房幾乾淨個噃
+呢間房曬到焮烚烚
+呢隻色水我唔鍾意
+呢隻藥果然使得噃
+呢項工作係佢揸嘅
+周先生教書有警逛
+周時要幫佢執手尾
+咁你唔講我點知啫
+咁多人一齊湧入嚟
+咁多資料都睇勻嗮
+咁夜仲打電話畀你
+咁大仲鍾意啲公仔
+咁大個仔仲詐嬌喎
+咁大個仔都唔生性
+咁大個仲着開襠褲
+咁大個唔好碌地沙
+咁容易認低威嘅咩
+咁攪法爲皮唔住噶
+咁照顧我哋啲街坊
+咁牙煙你都夠膽死
+咁短時間通知唔切
+咁重嘅嘢一個人搬
+和尚擔遮無法無天
+咪喺度噅噅篩篩喇
+咪喺度噏三噏四嘞
+咪成日行出行入喇
+咪死死氣認咗佢囉
+咪睇佢係威係勢噉
+咸蛋滾湯心都實曬
+唔下苦功就想成功
+唔使你講我都知啦
+唔使噉樣搏出位啩
+唔係個個都係噉噶
+唔信你問佢係唔係
+唔可以淨係死讀書
+唔好同佢傾咁多嘢
+唔好同佢喺埋一齊
+唔好同啲衰人嘈啦
+唔好喺度思思縮縮
+唔好喺度詐傻扮懵
+唔好屈埋喺個心度
+唔好彩就一條都冇
+唔好意思阻你一陣
+唔好成日同人駁嘴
+唔好掗住個位唔坐
+唔好攪咁多花臣啦
+唔好有頭威冇尾陣
+唔好死雞撐硬腳咯
+唔好求其做吓就算
+唔好求祈做吓就算
+唔小心纊到個花樽
+唔怪之得咁木獨啦
+唔打得都睇得嗰停
+唔明解到明咪得囉
+唔會亂咁同人講嘅
+唔理你邊個打邊個
+唔知喺邊度埋手好
+唔該你同我攞上嚟
+唔該你話畀我知道
+唔該同我開吓門啦
+唔該對住個咪講啦
+唔該幫手拎住啲嘢
+唔該暢開張大紙佢
+唔該洗手間喺邊度
+唔該畀份章程睇吓
+唔識書好丟架嘅噃
+唔通淨係你至得衙
+唯有攞件衫嚟遮雨
+問題就容易解決喇
+啱傾咗幾句就掟煲
+啲名人求其簽個名
+啲格式都睇到眼花
+啲男人都頂佢唔順
+啲磚畀人鼠咗唔少
+啲粟米要壅多啲泥
+啲螺絲生銹食死嗮
+啲錢你緊就攞去先
+喊開就好難得佢停
+喺屋企食飯慳錢啲
+喺戲院大堂等我喇
+喺水入便點透氣啫
+喺辦公室嗰處開會
+嗌到聲沙都冇人應
+嗰件事畀佢一插手
+嗰件大褸賣幾多蚊
+嗰便邊個打緊交呀
+嗰個啤啤仔肥嘟嘟
+嗰個肥佬肥揗揗噉
+嗰埲牆畀風吹冧咗
+嗰幅畫畫得麻麻啫
+嗰架車停喺度落貨
+嗰架車差啲轆親佢
+嗰條友冧咗好耐啦
+嗰條友都唔知去邊
+嗰樣菜我哋唔要啦
+嗰次佢摑咗我一巴
+嗰隻狗擔住一隻雞
+噉你唔講我點知啫
+噉做太冇公德心咯
+噉嘅事你都做得出
+噉嘅回應好行貨啫
+噉我負責做乜嘢呀
+噉攪作唔係幾好噃
+噉會唔會早咗啲呀
+噉樣嘅人真係少見
+噉落去唔係路個噃
+嚇到佢毛管都松嗮
+嚇到佢毛管都鬆嗮
+嚇到個仔粒聲唔出
+嚇到成個人定嗮形
+嚟多個漢堡包添啦
+四張白紙畫個狗頭
+四邊四便都種嗮樹
+因住咁上下就得啦
+因住咪畀滾水淥親
+因住整爛人啲嘢吖
+因住樓上倒水落嚟
+因住畀門挾親隻手
+因爲你着咗鴛鴦襪
+坐低啲嘢唞吓先啦
+垃圾桶要扱實隻蓋
+壽星公吊頸嫌命長
+多人逼埋唞唔到氣
+多幾個人都坐唔落
+夜晚要韞好啲畜牲
+大家舉薦佢做主任
+大家覺得流定堅呢
+大家都以爲係真嘅
+大家都要循例嚟做
+大食懶嘅人最冇用
+天下武功出少林呀
+天堂尿壺全神貫注
+天氣同廣州差唔多
+太平門唔可以鎖住
+好嘅曳嘅都分一啲
+好嘢唔係用嚟嘥噶
+好容易畀人搏懵噶
+好少人同佢夾得嚟
+好彩就釣到幾條魚
+好彩樓上冇住人啫
+如果你通氣就咪去
+如果我屋企附近有
+嬲到佢粒聲都唔出
+學校四圍都又門口
+學校四圍都有門口
+定個個都可以知噶
+寫字寫到手都梗嗮
+寫鬼埋呢個字先去
+將佢哋擺入檔案櫃
+將來嘅事話唔埋嘅
+將來有咩三長兩短
+將個面盆仆轉過嚟
+將啲竹竿企起嚟放
+對襪好似係鴛鴦嘅
+對鞋咁平實唔禁着
+對鞋着咗幾日就爛
+小心畀壞人陰咗你
+就喺你屋企街口啦
+就嬲到連飯都唔食
+屋企有個老人打理
+屋祖包唔包水電費
+屎坑石頭又臭又硬
+屎忽窟生瘡無眼睇
+山上轆咗嚿石落嚟
+帶嗮佢哋翻去落案
+幅畫畫得花哩胡碌
+年晚煎堆人有我有
+床底破柴撞曬大板
+廣州嘅商業好繁榮
+廣州天時冷唔落雪
+後生仔唔好咁沙塵
+得佢一枝公喺屋企
+得閒嘅時間做乜嘢
+得閒嚟傾吓閒偈喇
+得閒我嚟探過你吖
+從來唔會借錢畀人
+情願行路唔願坐車
+慢下手唔見咗點算
+應該嘆翻吓世界嘞
+成份卷得一題識答
+成個會場倒瀉籮蟹
+成日係咁頻頻撲撲
+成日唔記得攞鎖匙
+成日喐喐貢做乜呀
+成日屈喺屋企做乜
+成日屈喺屋企睇書
+成日斟盤都斟唔掂
+成日沖涼都仲係熱
+我不溜都係噉噶啦
+我住開呢區唔想搬
+我使都使得唔安樂
+我係唔係打親你呀
+我保證唔會有差遲
+我個心就好唔安樂
+我前個月試過屙肚
+我同佢講咗幾句嘢
+我同佢識咗冇幾耐
+我同意你後面嗰句
+我呢邊都冇定企喇
+我哋一路行一路傾
+我哋係唔會分開噶
+我哋去食啲乜嘢呢
+我哋只係打個招呼
+我哋唔收現金個噃
+我哋幾個夾手夾腳
+我哋成班人一齊去
+我哋有開呢種課程
+我哋第日再玩過啦
+我唔係好鍾意爬山
+我唔會好似你咁迆
+我唔會畀佢睇死嘅
+我唔記得咗帳號喇
+我唔講佢點會知啫
+我唔鍾意佢個髮型
+我嘅包裹到咗未呀
+我大早話你知噶喇
+我對嗰啲嘢好心淡
+我差啲唔認得你添
+我已經洗溼咗個頭
+我已經盡嗮力噶喇
+我張凳邊個鼠咗去
+我張枱對埋有張凳
+我怕買得多過頭啦
+我想揾個人代我去
+我想約你聽音樂會
+我想話請假翻屋企
+我成晚都冇瞓過呀
+我打籃球好水噶咋
+我教咗你十年英文
+我教咗呢一科十年
+我斟杯水畀你飲呀
+我日日要過對面海
+我有冇得罪咗你呀
+我枝筆賴低喺課室
+我正話想搵你傾吓
+我畀人綁住唔喐得
+我真係接受唔到咯
+我真係畀佢激死呀
+我睇死佢聽日唔嚟
+我睇見佢就唔開胃
+我細個嗰陣成日病
+我總認住佢仲在生
+我聽日嚟睇吓間屋
+我要到藥材舖執藥
+我要買啲送畀朋友
+我覺得你諗多咗啫
+我覺得佢份人唔錯
+我覺得都係行貨啫
+我請你飲茶補數喇
+我諗係我哋攪錯咗
+我諗我要去睇醫生
+我諗都係五五波啫
+我講錯說話攪到個
+我透過老王識得佢
+我過半個鐘頭就到
+我都係估估吓嘅啫
+我都係儘力而爲啫
+我都係唔食晚飯啦
+我都唔想你唔開心
+我開一個活期存摺
+我間廠早就執笠啦
+我隻腳痺到唔喐得
+我點知會惹官非嘅
+我點都捉唔到條魚
+或者打電話訂都得
+手續費要收幾佰蚊
+打咗五個月嘅散工
+打算同老婆去旅行
+投籃技術都丟生嗮
+捉圍棋都似模似樣
+捽吓隻腳就唔痛啦
+掃把放喺角落頭度
+排行第一嘅係邊個
+搞到兄弟姊妹不和
+搵兩個兄弟犦溼佢
+搵咗好耐都搵唔到
+搵唔到着數蝕晒底
+搵啲竹枝嚟做棉簽
+搵翻小學張畢業相
+搵頂帽笠住個頭殼
+撒路溪錢吸引死人
+攝鐵吸住好多釘仔
+攞份不知名嘅文件
+攞少少錢探吓盤先
+攪到佢睇落好師奶
+攪到兄弟姊妹不和
+攪到我成朝喺度搵
+攪呢啲咁危險嘅嘢
+收埋啲嘢入書包度
+散收收噉好難拎噶
+斬吓眼就過咗三年
+星期一例牌要開會
+晨早流流嚇我一驚
+暑假我時時去游水
+最尾第二個站落車
+最後尾嗰樖係李樹
+最憎人成日唉唉聲
+最高分嗰個係邊個
+會唔會有啲唔對路
+會考唔同校內考試
+有一棟樓畀你揸手
+有乜咁雞啄唔斷呀
+有乜方法打破沉默
+有個壞分子想走路
+有啲事想同你斟吓
+有啲人牛王到鬼噉
+有單嘢搵你斟一斟
+有多啲人嚟就好嘞
+有碗話碗有碟話碟
+未見過你咁自大噶
+杉木靈牌做唔得主
+李醫生同人睇緊脈
+架收音機成日跳台
+架車行到半路壞咗
+梗係由你孭飛噶啦
+條羣短翻啲先好睇
+條走廊畀人塞到實
+棚尾拉箱暗中走人
+棺材鋪拜神想人死
+次次都要人幫佢執
+歡迎會開得好巴閉
+每日朝早我都跑步
+水兵對水手水斗水
+水兵對水手水鬥水
+水瓜打狗唔見緊桷
+汽車滾起一埲泥塵
+沖完涼成身都爽嗮
+油畫要離遠至好睇
+洗油漆你唔用電油
+洗腳不抹腳是咁甩
+淨係對白好齋㗎喎
+淨係知佢睇落好勁
+淨落泥搓好易裂咖
+澳門唔單止有賽馬
+火燒豬頭熟口熟面
+無情白事打死只狗
+熱天呢間屋好涼爽
+熱氣最好飲啲涼茶
+燒炮仗燒到夠嗮皮
+爸爸唔畀細佬出街
+牀底破柴撞曬大板
+牛皮燈籠點極唔明
+玩到冇嗮心機讀書
+玩呢啲遊戲真係爽
+玩埋呢兩日先翻去
+琴晚瞓得好唔好呀
+琴晚開夜開到通頂
+用手指頭督咗佢吓
+用雞毛掃掃吓張枱
+田雞過河各有各樣
+田雞過河各有各蹬
+由呢個山窿捐過去
+畀人哋趯到冇埞走
+畀人激到拍枱拍凳
+畀人鬧到一戙都冇
+畀人鬧到一隻屐噉
+畀佢嚇到我死死吓
+畀佢攪到一戙都冇
+畀嗰個人煩咗成日
+畀幾蚊錢佢做散使
+畀心機聽先生講呀
+畀我同埋一齊去吖
+畀我鎖匙即可入住
+畀海關執咗嗰啲嘢
+畀雨揜到張氈溼嗮
+番婆大肚心懷鬼胎
+癐到佢攤喺張牀度
+白鴿眼附旺唔附衰
+真係一啲人性都冇
+真係今時唔同往日
+真係做到金睛火眼
+真係嘥心機捱眼瞓
+真係好似狗咬龜噉
+真係講你都唔信呀
+眼白白畀佢走甩咗
+着咁少衫好易凍親
+着起呢套軍服幾醒
+睇佢個樣都幾叻仔
+睇佢打扮得咁難睇
+睇佢死死氣噉翻嚟
+睇佢肯唔肯幫你咯
+睇佢講話窒口窒舌
+睇佢走到身水身汗
+睇書睇到我眼花花
+瞓到而家先至起身
+神仙放屁不同凡響
+神台貓屎神憎鬼厭
+神臺貓屎神憎鬼厭
+究竟邊個係冠軍呢
+竟然食碗面反碗底
+第處邊度有咁好吖
+等到你嚟蛇都死啦
+等我入舖頭瞄吓先
+等我同佢慢慢解釋
+等我睇吓你寫乜先
+等我睇吓副作用先
+籌款數字節節上升
+約親佢都話唔得閒
+細細個就冇咗亞媽
+細蚊仔成晚囉囉攣
+細路仔唔好咁百厭
+細路哥好驚行雷嘅
+細路女最中意詐嗲
+結果畀個靚仔踩低
+總算係人有我有啦
+老友移咗民都唔知
+老鼠拉龜冇訂埋手
+而家仲係散仔一名
+而家仲制唔制水吖
+而家冇大鑊飯食喇
+而家同朋友食緊飯
+而家外便落好大雨
+而家少人着唐裝嘞
+而家得翻我喺屋企
+而家想戒就艱難喇
+而家畀公司雪藏咗
+而家識得用錢搵錢
+聽日請你大擦一餐
+聽晚又要同佢食飯
+聽朝早請你飲早茶
+自己唔啱仲兼鬧人
+舊底呢度係瓦渣崗
+蘿蔔糕蒸得削坺坺
+蚊零嘢都畀唔起咩
+行嗮要三四個鐘頭
+街頭巷尾都有檔口
+衛生口罩嘴上一套
+要泊就泊入停車場
+要由對面遊繩過去
+計埋呢條數至去瞓
+計我睇今年會增產
+計正佢唔使出錢嘅
+計正佢唔應該噉做
+計起曬條數先行得
+話嗮佢都係你老豆
+話我工作時間蛇王
+話畀我知你要乜嘢
+話過都唔算數個喎
+請個工人打理細路
+請問吉之島點行呀
+請問存錢定係攞錢
+請問有乜可以幫你
+講句話都唔講得掂
+講嘅說話又幾抵死
+講畀我聽你喺邊呀
+講話唔算數唔得噶
+講起話嚟雞啄唔斷
+識到你係我嘅福氣
+識邊度就打個剔喇
+費事遲到又畀人鬧
+走入嚟呢度混吉咩
+越秀山嘅風景真正
+跑一萬米都唔嗦氣
+跟住坐巴士去泰山
+車站啲人即刻走避
+近排唔見你蒲頭嘅
+返潮話梅又鹹又溼
+返潮話梅又鹹又濕
+送呢份禮物畀邊個
+逢親星期日都休息
+連續企咗五個鐘頭
+連隨就要行第二步
+過三個字我就翻嚟
+過雲雨一陣間就停
+邊個夠膽死就嚟搶
+邊個要你啲爛鬼嘢
+邊個踩親你條尾呀
+邊鬼個攪攪震呢吓
+都係留喺室內好啲
+都做到七七八八囉
+都好難搵到份好工
+都未發令你就開始
+鄭秀文跑步吳鎮宇
+酸枝枱椅好矜貴噶
+門環上面褦住條繩
+開完會跟住就討論
+間公司執咗好耐啦
+間屋攪到七國咁亂
+間屋攪到立立亂噉
+間屋細到冇得走趲
+間格間得四正啲喇
+阿崩叫狗越叫越走
+阿爺嘅病好噉啲啦
+阿蘭嫁阿瑞類鬥類
+阿貴買布唔講那筆
+除褲放屁多此一舉
+陳年中草藥發爛渣
+隨得大家自由出入
+隻狗佢買翻嚟幾日
+隻白鴿就變走咗嘞
+隻貓擔走咗一條魚
+難度就梗係有噶啦
+頑強噉戰勝咗大旱
+頭先個人真係好心
+頭頭我哋乜都唔會
+風吹到樹身都喐埋
+飛機上放屁響的開
+食到有咁多得咁多
+食咁多荔枝好燥火
+食咁多荔枝好躁噶
+食咗啲唔乾淨嘅嘢
+食咗黃瓜酸真醒胃
+食得糖多好易爛牙
+飯後甜品係糯米糍
+飲咗幾多傻仔水呀
+香港地曱甴多到死
+香港都唔興呢樣嘢
+高過頭入唔到門口
+鬼叫你唔學電腦呀
+鴛鴦嘅味道好特別
+鷯哥會學人講說話
+鹹蛋滾湯心都實曬
+黐餐飯食得唔得吖
+點會畀老闆睇重吖
+點知佢媽咪唔畀養
+點解可以噉樣做噶
+點解唔去打籃球啫
+一個換一個唔會蝕底
+一千蚊錢我哋冇得暢
+一吓唔覺意打爛隻杯
+一唔注意就畀人鼠咗
+一日到黑週身唔得閒
+一次過搬走嗮啲雜物
+一盒餅乾有成五十件
+一笪落牀就瞓着咗囉
+一見佢衰樣我就眼冤
+一陣放工翻屋企先睇
+一陣間佢唔認賬點算
+三個鼻哥窿多一口氣
+不過唔記得咗係咩片
+不過話嗮三十年夫妻
+乜呢次攪得咁大鑊呀
+乞米佬食死蟹只只好
+五點鐘畀我遲得滯喇
+亞婆行路慢過後生仔
+亞爺通常都錫啲孫嘅
+人人都做到金睛火眼
+人人都好嬲嗰啲賊仔
+人人都有一大抽鎖匙
+人哋幾次請你都唔去
+人哋要出出入入噶嘛
+人哋都冇辦法休息喇
+人老咗做嘢係論盡啲
+今年嘅預算咳咗好多
+今日翻學圖書館閂咗
+今日點解見唔到你嘅
+今晚捱眼瞓都做唔完
+今次個賊實走唔甩嘞
+今次全靠你至攪得惦
+今次唔好再賴貓呀吓
+今餐啱啱使咗一張嘢
+仲有冇第二隻花款呀
+仲有冇質地更加好噶
+仲有半個鐘頭先落堂
+仲畀十個嚟就夠數喇
+仲要人哋同你執手尾
+但係我仲係好掛住佢
+但個價真係高咗啲啲
+你今日嚟得咁早晨呀
+你今日應該幾趕時間
+你仲傻傻更更喺度等
+你仲有乜嘢說話好講
+你件衫真係有型有款
+你係唔係再約個時間
+你個人成日大模斯樣
+你做嘢都幾醒神喇喎
+你再講我告到你甩褲
+你又同我咁高咁大喇
+你可以掂筆甩去揾佢
+你呢世都買唔到飛噶
+你呢幾個月時常出差
+你哋唔好喺度嘈嘈閉
+你唔好再出蠱惑呀吓
+你唔好再擝實我件衫
+你唔好咁自暴自棄啦
+你唔好當我係亞福呀
+你啲手勢越嚟越好啦
+你啲把戲冇人信噶喇
+你嗰條棍因住犦親人
+你嗰槓嘢快啲收檔啦
+你嗰邊係咪剪髮好貴
+你嘅字寫得咁歪斜嘅
+你嘅新存摺已經攪惦
+你嘅說話我會記住嘅
+你夠唔夠膽玩笨豬跳
+你大佬搵到嘢做未呀
+你好聲好氣同佢商量
+你如果想畀多啲人識
+你婆婆退咗休幾耐呀
+你學咗三個月嘅德文
+你就勸吓佢唔好喊嘑
+你居然夠膽上台表演
+你屋企電話係幾多呀
+你得閒鍾意點樣消遣
+你想噅佢就唔使指擬
+你成日話睇嘢有啲矇
+你手腳發抖噉點得呢
+你攪到個個都嬲咗你
+你最鍾意做乜嘢工作
+你有乜嘢健美祕方呀
+你有乜嘢好嘅意見呢
+你有冇聽到電話聲呀
+你有冇試過暈機浪吖
+你未必知道我係邊個
+你架車個車牌幾多號
+你班同事都幾好人嘅
+你用咁大條棍犦落嚟
+你畀朋友出賣都唔知
+你要人哋畀啲咩你先
+你要幫手就好好地做
+你要預早話我知至得
+你話大家都應該參加
+你諗啲計仔都冇用嘅
+你講咗咁都唔到肉嘅
+你講白話定講客家話
+你退咗休乜都唔使做
+你過檔嚟我哋電視台
+你部相機真係好迷你
+你都係長頭髮好睇啲
+你鍾唔鍾意體育活動
+你鍾意食乜嘢生果吖
+你鐘唔鍾意聽粵劇呀
+你頭先打過電話嚟呀
+你點出術我都唔怕你
+佢一個屈尾十就走人
+佢一條氣抄咗兩萬字
+佢一焮起嚟就幾好嘅
+佢一頭煮飯一頭睇書
+佢亦都有唔對嘅地方
+佢以前淨係顧住搵銀
+佢以爲撈到乜嘢筍嘢
+佢係個識飲識食之人
+佢係要嚟做乜嘢用噶
+佢個仔成日同人打交
+佢兩個人喺嗰度斟盤
+佢勢凶夾狼噉沖入嚟
+佢叫我唔好惦呢單嘢
+佢呢個人唔講究着食
+佢呢排傍咗個新老細
+佢呢排撈到風生水起
+佢哋個個都係百厭星
+佢哋傾密偈我就行開
+佢哋入咗公司咁多年
+佢哋兩個早就散咗嘞
+佢哋唱起上嚟好好聽
+佢哋居然敢違反合約
+佢哋畀人劏咗二百蚊
+佢唔係幾鍾意呢件衫
+佢啲嘢畀人講嗮出嚟
+佢喐親就睇醫生食藥
+佢喺辦公室行行企企
+佢嘅仔考到第一名喎
+佢嘅字真係靚到極喇
+佢嘅文章寫得好通掂
+佢嘅球技真係冇得頂
+佢嘅頭髮飛得咁巖巉
+佢嘍我買咗嗰部單車
+佢夾埋個妹嚟呃亞媽
+佢夾硬搶咗我三粒糖
+佢好掛住上海嘅朋友
+佢好細個就去咗外國
+佢將本書畫到花哩碌
+佢居然肯落面嚟見我
+佢屈埋喺個角落頭度
+佢幾乎激瓜咗佢老竇
+佢幾時走咗我唔覺意
+佢惡死能登噉望住我
+佢想話同埋一齊去喎
+佢成日喺度宜咿哦哦
+佢打尖畀人趕咗出嚟
+佢晚晚對住電腦做嘢
+佢最近個面口好差喎
+佢有冇畀面色你睇呀
+佢有幾何考得咁好吖
+佢玩完玩具好冇手尾
+佢現在同個女仔行緊
+佢畀個波省到個鼻哥
+佢畀老竇鬧到死死吓
+佢當你是佢家姐咁滯
+佢真係講得好標準噶
+佢眼定定噉望住幅相
+佢知道冇得升職之後
+佢約我同佢聽晚食飯
+佢耐不耐都會嚟封信
+佢話一陣放工一齊走
+佢話落畀佢個仔噶喇
+佢講嘅說話骨痺到死
+佢部機器擦到擸擸炩
+佢開完會直頭翻屋企
+佢頭先話賺咗筆大錢
+個個都冇嗮佢哋辦法
+個個都學你噉就好啦
+個旅行袋裝到實一實
+個會開唔開都唔緊要
+個棚架畀風吹到冧咗
+個細路肥嘟嘟好趣怪
+個花展今日都收檔啦
+借你個指甲鉗嚟剪吓
+做乜你咁夾硬逼過來
+做乜嘢都要堅持到底
+做呢啲嘢佢仲係初哥
+做呢啲嘢賺人鬧嘅啫
+做咩攪到嘈喧巴閉吖
+做嘢唔得舂瘟雞噉噶
+做嘢雞手鴨腳點得呀
+做完嘢要執齊啲工具
+做記者最叻就係搲料
+光榮噉出席代表大會
+其實我真係唔係好明
+冇毛雞打交啖啖到肉
+冇証據你咬佢唔入嘅
+再唔出門就趕唔切啦
+出去行幾圈至翻嚟喇
+出盡八寶先至勸到佢
+前便有一棟綠色大樓
+包你成績會越嚟越好
+十年冇見都仲係咁靚
+十蚊三對襪真係平嘞
+千祈唔好着高踭鞋呀
+原來佢講一套做一套
+原來係自己擺咗烏龍
+原來大家都咁高咁大
+參加嘅點止幾十人呀
+又有冇人記得呢度嘞
+只有好熟嘅人先會畀
+叫你幫手你就走咗去
+叫你送啲嘢都送錯嗮
+叫你食飯仲死死氣噉
+叫佢帶把遮都嫌論盡
+叫佢打電話去屋企啦
+可以識到你真係好好
+可能我仲會稍爲改吓
+合作嘅事想同你斟吓
+同佢講幾句就扯嗮火
+呢件事交畀我去做啦
+呢件事係佢同我講嘅
+呢件事又畀佢扠堝咗
+呢件事唔使你咁巴揸
+呢件事我冇法提意見
+呢件事我有幾分揸拿
+呢件事我永世都記得
+呢件事我都一頭霧水
+呢件事而家由我跟進
+呢件衫係邊個廠家嘅
+呢個世界冇錢乜都假
+呢個人睇起上嚟唔錯
+呢個人講話冇大冇細
+呢個問題佢咪得好深
+呢個問題正話研究緊
+呢個單字係噉樣串法
+呢個工程仲有啲手尾
+呢個師傅做嘢好落力
+呢個後生仔好精叻噶
+呢個月嘅獎金冇嘢到
+呢個爛盆掉咗佢罷啦
+呢個病人屙得好交關
+呢個發明幾有創意嚇
+呢個看護服務態度好
+呢個禮堂有冇人打理
+呢個細路女好抵得痛
+呢個臊蝦仔仲未改名
+呢個花樽真係好靚呀
+呢停玩具整得真鬼馬
+呢兩年佢大個咗好多
+呢兩日我荷包糠糠哋
+呢兩樣嘢都唔挐耕嘅
+呢勻我啲錢凍過水嘞
+呢包行李放落你度先
+呢味嘢唔係好啱我噶
+呢味嘢真係畀佢考起
+呢啲係蝦餃同埋春捲
+呢啲嘢你睇得上眼嗎
+呢啲嘢有乜好避忌啫
+呢啲小事唔咁扤失嘅
+呢啲檔案係佢揸手嘅
+呢啲舊禮唔使拘執囉
+呢啲話唔好立亂講呀
+呢單嘢又搵邊個孭鑊
+呢單嘢成唔成好難講
+呢單嘢畀佢攪到堝嗮
+呢幾隻爛碗就叫文物
+呢度啲嘢都幾貴噶喎
+呢度啲蚊針人零舍痕
+呢排白菜爛賤到鬼噉
+呢排的西瓜多到爛巿
+呢擔嘢一便輕一便重
+呢支係佢嘅首本名曲
+呢本書借畀我睇下先
+呢條友喺度滾紅滾綠
+呢條友真係勢凶夾狼
+呢樽油唔好打倒掟放
+呢次旅行去唔去得成
+呢間客廳佈置得好靚
+呢間工廠嘅產品真正
+呢間舖頭今日真發市
+呢間酒家啲燒味好靚
+呢間餐廳凈係做堂吃
+呢齣片今日啱啱上畫
+咁嘅屎橋都畀你諗到
+咁多人喺度墟巴嘈閉
+咁大個女講話仲咁嗲
+咁好嘅布就攞嚟抹地
+咁小事使乜吟嚟吟去
+咁短時間點做得嗮呀
+咁細嘅事使乜激氣呢
+咁鬼曳嘅料想做家私
+咪做埋啲唔等使嘅嘢
+咸欖煲茶白欖冇得解
+唔使咁快教佢寫字嘅
+唔使成日喺度唉唉聲
+唔好乜都枳入行李袋
+唔好叫亞媽咁霎氣啦
+唔好立亂攞人哋嘅嘢
+唔好蝦我初嚟甫到吓
+唔好要人哋嚟執手尾
+唔怪得你嘅身體噉好
+唔想一世屈喺寫字樓
+唔成功都唔使心淡吖
+唔知係咪喺度上機呢
+唔該邊個可以翻譯吓
+唔通真係本地薑唔辣
+問到佢擘大口得個窿
+啱種嘅樹唔好成日玷
+啲衫溼凹凹就唔舒服
+單嘢做得七七八八嘞
+單車打過蠟炩咗好多
+喺呢度行前兩個街口
+嗰件事嘥咗好多心機
+嗰個咪就係我老竇囉
+嗰個茂尼咩嘢都唔識
+嗰啲嘢你柄埋喺邊度
+嗰架汽車無端端壞咗
+嗰間涼茶舖係新開嘅
+嗰間涼茶鋪係新開嘅
+嗰間舖頭賺咗我五蚊
+嗰陣時真係拍手無塵
+噉你買禮物畀女友未
+噉即係話佢交行貨啫
+噉即唔係樣樣都得啦
+噉樣做確實太差皮囉
+嚇到佢成個人毛管戙
+嚟呢啲咁高級嘅地方
+因住佢扮豬食老虎啊
+因住嗰嚿石揜親只腳
+因住我告到你甩褲呀
+國家唔富強就聽捱打
+坐佢側邊嗰個係邊個
+坐得耐要喐動吓至得
+坐車扽到腰骨都痛嗮
+坐電單車好危險噶噃
+塊田而家生滿嗮野草
+夜晚黑周圍都靜英英
+大家幫手諗吓辦法啦
+大家認爲佢份人係點
+大家都唔知佢哋噏乜
+大清早流流着咁少衫
+大老倌出臺係威係勢
+天時冷就喺屋企炙火
+好多同事都頂佢唔順
+好多嘢都係做得唔夠
+好多嘢都已經唔同嗮
+好快就做完呢份報告
+好辛苦先扑到兩張飛
+如果你曳曳就唔惜你
+如果貴公司價錢優惠
+婚紗舖啲人好識推銷
+孭住一袋又挽住幾袋
+寄掛號信大概要幾耐
+將個袋啲嘢扽嗮出嚟
+將個鐘較到五點半響
+將呢張紙攝入門罅度
+將封信喺罅度攝入去
+將條鐵線屈成一個圈
+小規模生產太爲皮喇
+小道消息最化學噶喇
+就即刻叫佢個仔翻嚟
+就咁空手掉空臂去咩
+就擰轉頭睇吓乜嘢事
+就第一時間打開電視
+屋企啲嘢都攪惦嗮啦
+左手有三個籮兩個篸
+差啲唔記得咗一件嘢
+差啲啲就畀滾水淥到
+帆布牀中間惰嗮落嚟
+希望你搵到份好工作
+幅相畀我印象好深刻
+幡杆燈籠照遠唔照近
+幫我同佢講聲唔該吖
+幫我派啲講義畀大家
+年初一流流咪講呢啲
+度住幾嚿水嚟使住先
+張枱布長到墮嗮落地
+往時過年可以燒炮仗
+後面啲車畀佢塞死嗮
+得閒聽吓歌都幾疏乎
+慢下手打起身嚟都似
+慢下手攪出個大頭佛
+戇居居噉企喺度做乜
+成一點鐘仲唔翻屋企
+成件事畀佢哋搇實嗮
+成個世界都變緊噶喇
+成日蝦霸人哋太曳咯
+成日都未停過手做嘢
+成間學校得一個波場
+我亞媽又嗌我去相睇
+我今年仲有十日大假
+我仲以爲你出咗國添
+我係佢生意上嘅拍乸
+我做事唔會大細超嘅
+我做親乜嘢佢都彈嘅
+我先生都經常提到你
+我到而家都條氣唔順
+我可唔可以坐車去呀
+我呢件衫係執二攤嘅
+我呢個淨係用嚟測試
+我呢套衫係度身訂造
+我哋兩個部門做嘅事
+我哋公司要請人行街
+我哋啲嘢抵食唔在講
+我哋喺邊度食晚飯呀
+我哋坐火車到濟南先
+我哋無謂做電燈膽啦
+我哋蒔田要講求規格
+我哋行出門口嗰度啦
+我哋雙方都讓吓步啦
+我哋離開咗香港五年
+我唔使捉人哋嘅痛腳
+我唔好意思就真噶啦
+我唔得閒同你打牙鉸
+我唔知點解口嚡脷素
+我唔覺意撞跌咗個杯
+我唔記得你係邊個吖
+我噅媽咪畀我去露營
+我孭住細佬行翻屋企
+我屋企隔籬係生果檔
+我幾時值班都冇研究
+我想買啲唔使燙嘅衫
+我打電話佢嘅手提吖
+我扯嗮火去搵佢波士
+我搵唔到鍾意嘅女仔
+我擝咗好多條白頭髮
+我整翻好部電視機喇
+我有啲嘢想同你斟吓
+我朋友同我搵咗份工
+我梗係有我嘅理由噶
+我每次諗起都扯嗮火
+我相信佢一定未瞓醒
+我真係冇你咁老襯呀
+我真係唔鍾意嗰班人
+我真係好憎做侍應呀
+我知道你份人好老實
+我第日去你屋企探你
+我而家個心立立亂噉
+我聽講黃經理辭咗職
+我自細就好憎貓同狗
+我要做埋啲手尾至得
+我諗呢個人你都識嘅
+我走嗰陣係八點鬆啲
+我部電腦開唔到機呀
+我都唔知點感激你哋
+我都想打個電話畀你
+我都講咗幾十百次嘞
+我鍾意游水同埋跑步
+我預埋你嚟幫手噶喇
+我頭先都話係噉嘑嘛
+我點打都埋唔到佢身
+我點知有乜副作用呀
+或者可以打贏都未定
+打完一場周身淵到死
+扤埋幾件衫入行李袋
+扮到好似個伯爺婆噉
+扯大纜要一齊出力噶
+批評佢兩句就喊噉口
+投石落屎坑激起公憤
+掃把放喺課室角落頭
+搵人嚟同我頂住檔先
+搵車位泊車麻煩到死
+搵間闊落啲嘅房先好
+擡棺材甩褲失禮死人
+擡棺材脫了褲失禮人
+攞枝鉛筆同張紙出嚟
+攞條棍犦嗮啲李落嚟
+攪到大家都冇啖好食
+放喺夾萬就最穩陣啦
+放學咁耐都未翻屋企
+日日翻工都要逼巴士
+昧落游水池底搵眼鏡
+晨早流流就話食雪糕
+晨早流流翻嚟就鬧人
+會有乜嘢知心朋友吖
+有乜嘢事請你講低吖
+有乜差遲就唔妥噶喇
+有乜法子唔乞人憎吖
+有乜緊要得過考試呀
+有事我唔會埋怨你嘅
+有人喺嗰度思思縮縮
+有個細路仔喺街度喊
+有冇去深圳嘅旅行團
+有邊度值得去睇吓噶
+有陣時都陰陰凍凍噶
+未幾耐之前先睇完咋
+本書喺邊間書店買噶
+枝竹竿要咁長先啱用
+枝筆頭先明明喺處嚟
+架車扽到坐都坐唔穩
+求其食啲嘢頂住肚先
+泥普薩過河自身難保
+淨係喺度生人霸死地
+潮州二胡自己顧自己
+澳門咩嘢地方好玩吖
+炒飯要落老抽炒至得
+烏蠅摟過嘅嘢唔好食
+無端白事打爛佢做乜
+爲咗試製呢種新產品
+牀下底踢毽大家咁高
+班咗好多人嚟想鬧事
+琴日又屙又嘔好辛苦
+琴晚到而家都未歇手
+申請表喺門口有得攞
+申請表挐你遞咗上去
+男人老狗小小事就喊
+畀人索油都唔出奇啦
+畀人鼠咗入嚟都唔知
+畀你攪到我要兩頭揗
+畀佢激到我一條氣噉
+畀咗你都手揗腳震啦
+畀槍聲嚇到手揗腳震
+畀老竇鬧到一隻屐噉
+留佢係屋企賺嗮米飯
+當時佢真係想搵窿捐
+當面同佢講一聲多謝
+發現唔對路你會點做
+白糖炒涼瓜同甘共苦
+白菜煮豆腐一清二白
+真係唔知由邊度埋手
+真係想落街飲支可樂
+真係電燈膽唔通氣咯
+着起件軍褸真夠架勢
+睇佢個樣都唔似好人
+睇個樣就知道好醒目
+睇咗兩次醫生就好嘞
+睇咗十分鐘都睇唔明
+睇起上嚟唔多係路噃
+瞓到十一點鐘唔起身
+瞓到咁晏先起身食飯
+禮拜六同禮拜日唞工
+禮拜日做咩唉唉聲呀
+種到密質質就唔好喇
+第處邊有廣州咁好吖
+筷子放喺你嘅右手便
+細佬仔有時好扭計噶
+細佬哥剃頭就快就快
+細佬哥唔好周圍亂趯
+細佬哥畀你錫壞咗喇
+細佬要騎膊馬至睇到
+細個嗰陣唔勤力學習
+細單位嘅樓盤最搶手
+細路仔用匙羹食飯多
+細路哥好驚行雷閃電
+翻一次工就嘥好多錢
+老闆邊度有咁好死吖
+考唔合格你就聽鬧喇
+聽人話食橙會惹痰噶
+聽到佢話遲到要罰錢
+聽晚去逛公園點睇吖
+肥婆坐屎塔滴水不漏
+背默梗係難過讀默喇
+自己唔努力乜都係假
+蔡生坐親巴士都頭暈
+要一步一步嚟至得噶
+要注意啲壞人搏亂呀
+訂計劃要預鬆啲至好
+計我話你唔去好過去
+計我話你都係留低好
+話過都唔食垃圾嘢嘞
+認住呢個嘜頭至好買
+談判專家都攪佢唔惦
+請問票係幾錢一張呀
+識啲唔識啲點得嘅唧
+買包沙蟲翻去餵金魚
+買啲生果點心做手信
+買張碌架牀慳地方啲
+賣魚佬沖涼冇曬腥氣
+走法律罅都冇咁易嘅
+越秀山嘅風景真正斗
+跌落地都要楋翻摣沙
+跪地喂豬母睇錢份上
+跪地餵豬母睇錢份上
+車行嘅天橋唔畀人行
+車轆漏氣漏到啡啡聲
+過咗馬路就搵到噶喇
+遲早都係要還畀你噶
+邊個同你咁大仇口噶
+邊個咁衰潑水出街呀
+邊個詐奸就唔同佢玩
+邊個鼠咗我隻遊戲碟
+邊度有錢攞翻屋企吖
+都十二點咯仲嘈嘈閉
+都未開始就想褪舦喎
+門口啲人企到密質質
+閒閒地打低幾個衰人
+間房一晚收費幾多呀
+阿奇生阿奇奇上加奇
+阿蘭嫁阿瑞累上加累
+隔夜油炸鬼冇厘火氣
+隔夜油炸鬼冇釐火氣
+雞食放光草心知肚明
+雞食放光蟲心知肚明
+電視台通知我去試鏡
+順便幫家姐釘翻粒紐
+預咗要捱更抵夜㗎啦
+頭先佢喺台上畀人瘀
+頭先有隻雀飛咗入嚟
+風吹到啲燈籠吊吊揈
+風吹皇帝褲浪孤鳩寒
+食啲啲咁多就瓜得噶
+食埋咁多花生冇益噶
+食完飯喺天井度唞涼
+食完飯要抹乾淨張枱
+食得鹹魚抵得渴係啦
+食雞抱魚好易中毒喎
+飲酒前要食啲嘢打底
+香港隊以三比零勝出
+馬騮升官唔係人咁品
+騷吓啲實力畀佢哋睇
+鬼鬼鼠鼠噉唔知做乜
+鹹欖煲茶白欖冇得解
+黃皮樹了哥唔熟唔食
+點可以用舊眼光睇人
+點知攪到自己一身潺
+點解一陣間就唔見呢
+點解你而家至話我聽
+點解男人咁鍾意溝女
+點解越向上爬越凍嘅
+點都要搵個人孭飛噶
+一中毒幾分鐘就瓜直嗮
+一件好事就畀佢攪堝咗
+一個人去抑或兩個人去
+一兩蚊雞都要注意節約
+一到天時冷個病就發作
+一到過年啲餐館都好旺
+一到過年的餐館都好旺
+一匙羹生粉開兩匙羹水
+一日唔見個心就囉囉攣
+一眼就睇出件衫有幾長
+一睇到信號大家就埋手
+三步擸埋兩步走上二樓
+上咗車唔好塞住係門口
+上幾級樓梯就猛透大氣
+不溜都覺得有問題噶啦
+不過十年前就已經上岸
+人哋講完你至講都未遲
+人哋都未休息你就去坐
+今年收成比上年仲好咗
+今日到而家都冇食過嘢
+今日嘅報紙我擸咗一眼
+今日晨早起身去屙殊殊
+今日最高氣溫係幾多度
+今日高興大家飲傻仔水
+今晚得到很多善長仁翁
+今次亞爸都畀你考起啦
+今次真係攪出個大頭佛
+今次真係畀佢落嗮面囉
+介唔介意阻你少少時間
+以前嘅嘢唔好擺喺心度
+以前有過拗撬都要合作
+仲要晨早流流起身翻工
+件衫押入條褲度整齊啲
+估唔到佢唱呢首歌咁得
+你今日嘅日程安排係噉
+你今日玩得高唔高興呀
+你今日買嘢用咗幾多錢
+你仲戙喺嗰度做乜嘢呀
+你係唔係仲有事要去做
+你係唔係蝦我唔識嘢呀
+你個荷包有乜嘢記認呀
+你個衰人係咪嫌命長吖
+你做嘅沙律真係好味呀
+你做埋呢啲嘢畀人哋鬧
+你兩個字後再打嚟好嘛
+你去咨詢臺攞張申請表
+你又試咁夜至翻屋企囉
+你呢種做法我好啱心水
+你哋一個禮拜翻幾日工
+你哋仲入唔入呢種貨呀
+你哋呢度有冇加大號噶
+你哋嘅營業時間係幾時
+你哋想整邊一種花款吖
+你哋班師奶理咁多做乜
+你哋細個有冇噉嘅童年
+你唔係好鍾意唱歌嘅咩
+你唔好咁認真得唔得呀
+你唔見咗個手袋咁普通
+你嘈到我個心都立立亂
+你噉講即係話人行貨啫
+你大個要照顧細佬妹呀
+你好似淨係睇咗第一句
+你將呢份合同打嗮之後
+你幾時肯做我老婆仔呀
+你想剪翻個乜嘢髮型呀
+你掛到幅畫歪歪斜斜嘅
+你支唔支持呢個方案呀
+你有冇乜嘢體育愛好呀
+你有冇留意海水嘅顏色
+你有咩事翻入嚟先講吖
+你有幾多料大家心照啦
+你有打電話畀主任吖嗎
+你班埋師兄弟嚟攪乜嘢
+你病咗都唔得閒去探你
+你的書疊咁高因住冧呀
+你要先打個電話翻屋企
+你解釋得我聽到一頭暈
+你講極我都仲係懵閉閉
+你講過乜嘢我都唔記得
+你鍾意打機就打飽佢啦
+你鐘唔鍾意呢種顏色呀
+你間舖頭平時幾點收檔
+你鬧佢佢就對你笑嘻嘻
+你點解將頭髮染成噉嘅
+佢一個人可以托兩包米
+佢一個屈尾十又去澳門
+佢一見咗上司就扮衰仔
+佢乜嘢都落手落腳做噶
+佢份人好鍾意同人頂頸
+佢做生意係有幾度散手
+佢兩個似到好似孖女噉
+佢同佢老豆一個餅印噉
+佢哋兩兄弟成個餅印噉
+佢哋嗰度有好靚嘅海鮮
+佢唔覺意寫錯咗個答案
+佢唔記得帶嚟都有之噶
+佢啲頭髮生得密質質噉
+佢嗰年賣豬仔去咗南洋
+佢好鍾意人哋笠高帽噶
+佢媽媽舊年入咗安老院
+佢寫專欄都係交行貨啫
+佢專門同人哋執臊蝦仔
+佢心情唔好就猛咁鬧人
+佢演老工人似模似樣噃
+佢畀班學生激到扎扎跳
+佢着起呢件衫零舍威水
+佢瞓到過嗮鐘仲唔起身
+佢細個嗰陣時好馴品㗎
+佢而家肯定去搵周公啦
+佢自己嘅事自己都唔緊
+佢行過連我枝筆都擸埋
+佢話一陣出黎再同我傾
+佢話聽日先同我講地點
+佢講啲嘢你唔使理咁多
+佢講親嘢都係陰聲細氣
+佢講親嘢都零舍長氣嘅
+佢超速駕駛畀警察找牌
+佢逼我叫你選佢做班長
+佢邊有咁神心學書法吖
+佢食唔落就唔好扤佢食
+係唔係想我同你鬆骨呀
+個書包上面掛咁多飾物
+個茶壺斷正喺把手嗰度
+個衰仔喊親都好長氣噶
+個衰仔我一見就眼火爆
+個鬧鍾響咗咁耐都唔醒
+做些少嘢都手揗腳震噉
+做呢個櫃爲皮要幾多錢
+做咩佢走到身水身汗嘅
+做採購員成日頻頻撲撲
+先生講書要畀心機聽吖
+入便係唔係會碎嘅嘢呀
+入醫院就好似翻屋企噉
+兩個人唔知密斟啲乜嘢
+兩個人搵錢三個人食飯
+公司啲祕密點會畀人知
+公司準備遷冊去新加坡
+公司股票嘅價格猛噉升
+其實都係呃神騙鬼噶啫
+冇咁大隻蛤乸隨街跳嘅
+出汗到件衫都溼淰淰咯
+前面呢執頭髮遮住隻眼
+去藥材舖執兩劑藥翻嚟
+又做埋嗮啲冇肉食嘅嘢
+口花花嘅人唔一定有料
+台下個個都聽到眼溼溼
+同你捉實畀你剝光豬啦
+同我叫部的士得唔得呀
+呢件事你冇擺喺心度啦
+呢件事你已經洗溼個頭
+呢件事冇辦法講畀人聽
+呢件事我哋坐低慢慢傾
+呢件事系我親眼睇見嘅
+呢件事要做得好好睇睇
+呢份係我哋寫好嘅合同
+呢個係我哋嘅最低報價
+呢個係我屋企嘅全家福
+呢個僆仔做嘢好冇心機
+呢個問題仲真係未諗過
+呢個女人出咗名爛噶喇
+呢個房約莫有十五平方
+呢個打字員打字好快脆
+呢個水庫最益呢條村咯
+呢個細佬仔有啲黐脷筋
+呢個細路仔眞係唔聽話
+呢個運動員真係長氣袋
+呢個重任我交咗畀細佬
+呢個隊的確係幾強個噃
+呢兩日食乜都唔開胃嘅
+呢勻要班兵至攪得掂嘞
+呢句話你實牙實齒講過
+呢啲係你兌換嘅人民幣
+呢啲嘢一腳踢買嗮佢啦
+呢啲嘢叫馬仔做咪得囉
+呢啲小事唔使咁扤失嘅
+呢啲柑兩毫子一斤真抵
+呢單工程差唔多埋尾喇
+呢場波佢哋畀人拼沉嗮
+呢封信唔該你送畀老王
+呢幾日頻頻撲撲爲乜呀
+呢度乜嘢都係我一腳踢
+呢度係年青人嘅新蒲點
+呢度啲嘢要你跟手尾嘞
+呢度嘅炒牛河最好食嘅
+呢度放一張牀唔夠埞方
+呢把檀香扇做得好骨緻
+呢架爛車唔抵得幾多錢
+呢架車停喺呢度好阻埞
+呢條裙你唔中意佢中意
+呢段時間生意好咗好多
+呢班學生好多流口水嘅
+呢種布縮水縮得好緊要
+呢種款式羣衆都幾受落
+呢種病醫唔到斷尾嘅噃
+呢種髮型唔啱我嘅年齡
+呢種髮型好襯你嘅面型
+呢部戲影咗三日就落畫
+呢間工廠嘅產品真正斗
+呢間舖頭啲毛公仔好貴
+呢間餐館嘅菜式好好噶
+呢隻牌子嘅嘢好化學噶
+呢隻貨畀啲假貨頂爛市
+咁多日個傷口都未埋口
+咁多書點咪都咪唔嗮啦
+咁好嘅價位要快啲入貨
+咁肥屍大隻唔一定好睇
+咪喺度行出行入好唔好
+唔係就惹埋畀全家噶喇
+唔係應該戥我開心噶咩
+唔夠瞓遲到佢賠畀我呀
+唔好同啲大炮友傾咁多
+唔好小小事就喊苦喊忽
+唔知而家仲有冇人用呢
+唔試過上身唔知啱唔啱
+唔該同我打印呢啲資料
+唔該四個字之後大嚟啦
+唔該攞幾條領呔嚟睇睇
+唔識路就請問嗰個鄉里
+唔通幾千蚊你都照買咩
+問咗幾次都得唔到答案
+啱有啲成績咁墟冚做乜
+啲嘢又殘又舊都要留翻
+啲嘢覺得鍾意拎翻去先
+啲紙寫墨水筆會化水嘅
+啲舊嘢都唔會有人吼喇
+喺紙度寫收信人嘅地址
+喺賓館可唔可以換銀紙
+嗰個嘢亂咁舂去邊度呀
+嗰個工頭專門刮削工人
+嗰個老而不都幾十歲啦
+嗰本書我搵勻書架都冇
+嗰班友仔唔知打乜主意
+嗰間舖頭執咗笠好耐喇
+噉樣就睇落更加後生喇
+因住咁上下時間就得啦
+多啲運動肌肉先唔會削
+多得你幫我搵翻個手袋
+大家都似你噉樣就好咯
+大家都好聲好氣噉討論
+天時熱個個都想去游水
+套電影好多鏡頭都咳咗
+好唔鍾意溼凹凹嘅感覺
+好多神棍成日喺度呃人
+好少聽到你唉唉聲噶喎
+好辛苦噉樣行入條巷仔
+如果我行路去要幾耐呀
+如果趕唔切上機就弊喇
+安排掂嗮先至去都唔遲
+容乜易畀人斬到一頸血
+封信冇貼郵票就攞去寄
+將呢幾頁講義釘埋一份
+將啲灰沙笪上埲牆嗰度
+小一派位結果聽日公佈
+屈咗好遠先搵到位泊車
+工作緊張兼夾休息唔夠
+巴士擠得好似沙甸魚噉
+年年都有因游水浸死嘅
+幾時得閒出嚟飲兩杯呀
+幾時請我哋去品嚐吓呀
+幾時都要帶眼識人至好
+得閒仲係鍾意飲翻兩杯
+想三四日就築好條基圍
+戇居居企喺度做乜嘢呀
+成日思疑人哋係唔啱嘅
+成日打喊路事關唔夠瞓
+我今日一定要去佢屋企
+我仲以爲係咩咁巴閉添
+我仲以爲係自己諗多咗
+我仲剩低幾多個年休日
+我個仔啲成績麻麻哋啦
+我冇心機睇咁長嘅文章
+我半年都戒咗幾百次啦
+我可唔可以喺呢度埋單
+我同你買咗本書翻嚟喇
+我同呢件畸士冇乜挐褦
+我同老婆等佢家姐放工
+我哋仲要一個鐵板牛肉
+我哋係唔係簽翻個合同
+我哋兩個都咁高咁大喇
+我哋呢度冇人叫呢個名
+我哋廠頭頭得十幾個人
+我哋想食清淡啲嘅餸菜
+我哋行入去埋便避雨喇
+我唔會學似你咁論盡呀
+我啲書你唔好整亂嗮吓
+我地班嘅一哥梗係你喇
+我屈喺梳化度瞓咗成晚
+我後生仔個陣時好食得
+我整幾味粵菜畀你食啦
+我條鎖匙漏咗喺間房度
+我漏咗一本書喺你屋企
+我玩橋牌真係好爛癮噶
+我真係唔捨得離開香港
+我真係好鍾意呢隻狗狗
+我睇你係專門同人頂頸
+我睇死佢唔夠膽同我打
+我知你仲係好冧呢條女
+我總思疑佢攪咗乜嘢鬼
+我耐耐都會去睇吓佢嘅
+我聽聞你嘅大名好耐啦
+我費事同佢解釋咁多啦
+我都話咗我畀人屈咗噶
+我點知你屋企喺邊忽呀
+打親電話搵佢都搵唔到
+投資地產嘅回報率好高
+拜山時候要小心火燭吖
+搵一個麻麻哋嘅就得喇
+搵個鄉里嚟問吓路先得
+搵間闊落啲嘅單位先好
+撒谷種要撒得好勻巡噶
+攞個啤酒樽兜頭犦落去
+攞張枱布嚟摟住個茶几
+放工實唔會即刻翻屋企
+教練成日踎喺場外吼路
+整個公仔畀細路仔玩吓
+日日捱夜成個人落曬形
+明明去咗嗰個女人屋企
+星期一抑或星期二都得
+晨早流流大塞車又整路
+晨早流流就有人嚟檢查
+晨早流流火車站咁多人
+有乜事都要好聲好氣講
+有乜冬瓜豆腐就唔好喇
+有九十分就算優秀噶喇
+有人仲話佢一定係痴線
+有冇人可以幫我嗿吓佢
+有冇人打過電話畀我呀
+有咩冬瓜豆腐點算好呢
+有時真係激到我扯嗮火
+有時飲啲啤酒同拔蘭地
+有樣嘢我好想話畀你聽
+有樣嘢真係講你都唔信
+有錢係唔係就一定開心
+木箱就坐喺個角落頭啦
+李小姐嚟負責佢嘅電話
+梗係要捉住嗰班打靶佬
+條死氣喉好似有啲唔妥
+業界普遍反對呢項措施
+正話入嚟嗰個人係邊個
+每日沓正八點就要上堂
+派個人嚟清理吓得唔得
+消防員上唔到呢座大廈
+淨係用電子郵件傳畀我
+然後就各走各路咁簡單
+爛鬼鐘揼咗都冇人執喇
+爲大衆做事唔好怕蝕底
+王先生喺班房度等緊你
+琴日自己髹灰水好辛苦
+用鉛筆抑或原子筆都得
+男人老狗唔好咁多嘰趷
+男人老狗講嘢陰聲細氣
+畀雨淋到成隻溼水雞噉
+留到幾時做都冇相干噶
+發展吓自己嘅事業先啦
+相架裏便張相係我媽媽
+真係好彩我帶咗身份證
+眼瞓到眼皮都耷咗落嚟
+睇佢嘅樣又唔似廣州人
+禮拜日你呢度夠巴閉咯
+第一次應付咁大個場面
+第處邊度有廣州咁好吖
+等咗兩個鍾頭都未出現
+等陣收工揸車嚟兜埋你
+細蚊仔見到生暴人就怕
+細路仔吮手指容易生積
+細路仔生積就唔生肉咯
+細路仔都畫得靚過你呀
+細路哥最鍾意聽故仔嘞
+絲發畀面摸起嚟最爽手
+老闆話下個月加我人工
+而家唔畀立亂拉人噶嘞
+而家唔識用電腦好蝕底
+而家女權越嚟越受重視
+而家用電話都可以影相
+耐唔耐要畀錢過老媽子
+聽日請你試吓我啲手勢
+聽暇佢嚟唔切去點算呀
+背後講人哋會乞人憎噶
+舊社會窮人要捱飢抵餓
+落雨溼凹凹喐都唔想喐
+衫袖要攞翻梘省多幾吓
+衰鬼學生今日又唔嚟嘞
+西片多數都有中文字幕
+要上位梗係容易好多啦
+要周圍去搲多啲料先得
+要攪到上差館咁大劑呀
+話嗮大家都唔見咁多年
+話嗮我哋以前係好朋友
+請問你呢度有冇屋出租
+請問係唔係搭呢部車呀
+請問呢個位有冇人坐呀
+請問邊度有遊戲機買呀
+請問點樣憑匯款單攞錢
+講嘢唔使負責任嘅風氣
+講話時口水溦飛嗮出嚟
+講起搵工就真係扯嗮火
+警方搇賭行動十分成功
+買嘢嘅錢一定要畀翻你
+賺畀人話公司冇料到啫
+趁手幫我倒埋啲垃圾吖
+越嚟越多人知道呢單嘢
+身子好嘅人禁冷又禁熱
+追女仔唔好勢凶夾狼噉
+過馬路認真小心至好吖
+邊個叻就邊個坐我江山
+邊度有得下載呢首歌啊
+部電腦嘅功能好齊全噶
+間中一兩次會喺外面食
+隻狗唔知做乜嘢猛咁吠
+雖然佢份人古靈精怪噉
+頭先嗰個人熟口熟面噉
+食咗幾件肥肉就好耨喇
+食唔嗮咪攞去派街坊囉
+食填鴨同蝦碌好唔好吖
+食完飯冇話幫手執吓枱
+食生果我多數都唔剕皮
+食餅乾冇水飲好鯁頸噶
+香港天時熱係颱風季節
+馬路度擺咗好多雪糕筒
+鬧鬆佬唔鍾意食馬蹄嘅
+點解呢啲麪包硬瓜瓜嘅
+點解呢啲麪包硬角角嘅
+點解好似有朕怪味噉嘅
+點解我嘅信用咭唔用得
+點解睇咗好耐都唔明噶
+一個人一揪一掕噉拎翻嚟
+一多啲嘢做佢就揗雞噶嘞
+一張票可以褦兩個細蚊仔
+一落班佢就急急腳去醫院
+一落雨啲黃犬就貢嗮出嚟
+一見到生暴人就係噉噶啦
+一鋪輸咗咁多錢真係肉痛
+三百蚊冇人幫親仲要加價
+上樓梯之後向左轉就係啦
+上次決定咗嘅事有冇跟進
+上次走堂去打機畀老師罰
+上落班時坐車梗係逼人喇
+不如我哋傾吓點甩身先啦
+乜近排咁多呢味嘢出嚟噶
+事關有好多急事要請教佢
+五百蚊都驚驚哋唔夠找數
+人哋兩個去街你又跟埋去
+人哋唔話你就算畀面噶喇
+人哋嘅嘢要更加儆錫先得
+今年熱天你哋仲有房租呀
+今日嚟嘅人真係少得淒涼
+今日我一條氣走咗兩堂路
+今日湊我堂妹湊咗成晏晝
+今日郵局嘅人真係好多呀
+今晚佢戙起牀版都抄唔嗮
+任何佢哋方便嘅時間都得
+休完息再同你去都未遲呀
+但係仲成日認住自己有病
+你一個月可唔可以起到貨
+你之前有冇坐過呢班機呀
+你仲想好似舊時咁蝦人呀
+你估佢今天會唔會嚟吖喇
+你做事唔好咁烏龍至得噶
+你可唔可以唔好咁大聲呀
+你唔好同班損友行埋一齊
+你唔好嘥我時間得唔得呀
+你嗰條棍因住犦親人個頭
+你嘅航班喺十一號門登機
+你噉攪法大家賺冇癮嘅啫
+你屋企人都幾戲劇化噶啦
+你幾時得閒同我地食餐飯
+你感冒就快啲去睇醫生啦
+你攞走嗮啲錢係唔啱嗰噃
+你有乜嘢資格同我講數呀
+你真係一啲幽默感都冇喎
+你知唔知我等咗你好耐呀
+你而家改變主意話唔擺酒
+你聽日考試而家都未溫書
+你要做鞋就要先落定至得
+你話太多人去交涉容易亂
+你話買太多青菜容易漚爛
+你講嘅情況確實值得研究
+你越作狀人哋越睇唔起你
+你過畀我啲料全部係流嘅
+你面青青咁邊個嚇親你呀
+佢今日着乜嘢衫我唔覺眼
+佢兩兄弟嗌交一日嘈到黑
+佢同嗰個女人係有啲挐褦
+佢呢排成日爲呢件事閉翳
+佢哋結成婚係我揸大葵扇
+佢唔想講就無謂督爆佢啦
+佢喺我老闆面前督我背脊
+佢喺房度成日放住啲音樂
+佢喺演唱會度唱好多勁歌
+佢喺生暴人面前好扤失嘅
+佢喺生疏人面前好扤失嘅
+佢嘅身家就係呢幾個槓喇
+佢地結成婚係我揸大葵扇
+佢嫌費事所以冇去睇醫生
+佢扮皇帝都幾似模似樣喎
+佢畀人陰到爭啲命都冇呀
+佢眼光光噉唔知喺度諗乜
+佢第一輪就畀人篩咗出局
+佢行行吓忽然仆低喺地下
+佢話要煮啲好嘢畀大家食
+佢講話激動到口水花噴噴
+佢買嘢好似伯爺婆咁醃尖
+佢邊個嘅說話都聽唔入耳
+佢食親蝦蟹都皮膚過敏嘅
+係咪淨係得我哋可以知先
+係朋友使乜講埋呢啲嘢噶
+個仔放假就陪我哋去遊埠
+個衰仔咁晏仲唔翻嚟屋企
+倒一桶水落去就夠有突咯
+借問聲返程機票喺邊度訂
+做呢啲事你唔怕畀人唱咩
+做得好地地做乜要轉工啫
+做生意要搵熟行嘅人至得
+公家嘅嘢要特別儆錫至得
+出咗咁多汗件衫成朕宿味
+出咗問題你自己去執生啦
+出嚟做嘢要識得埋堆至得
+初初佢嚟嗰陣時乜都唔會
+剩翻啲手尾我攪掂得噶喇
+可以話日日做到金睛火眼
+可唔可以使用屋主嘅電話
+台上個歌星人又靚歌又靚
+同個女改個好聽啲嘅名呀
+呢件事唔係事必要咁做嘅
+呢件事教識我要帶眼識人
+呢位歌星最近出咗張大碟
+呢個人嘅行動有啲慌失失
+呢個壺斟滿咗有五斤度啦
+呢個新聞係咪好耐之前噶
+呢個鑽石心口針好值錢噶
+呢啲茶葉係正牌普洱嚟噶
+呢套影片賣埠嘅收入幾好
+呢度咁多位都係我嘅老師
+呢度天時冷都唔使着棉衲
+呢度跌落樓渣都冇得剩呀
+呢排你個面口好咗好多喇
+呢竇雞仔有八隻公七隻乸
+呢部車係唔係去市政府噶
+呢間公司賣嘅都係貴價貨
+呢首歌嘅歌詞真係好鬼正
+咁牛精嘅人實冇好下場嘅
+咪話我少少非士都唔畀你
+唔好再整古弄怪引人笑喇
+唔理幾嘈佢都可以大覺瞓
+唔該你落樓睇下有冇信嚟
+唔該問聲呢個網站流定堅
+唔該我想問中山路點去呀
+問朋友借住啲錢吊住命先
+啲公公婆婆買餸都好慳嘅
+喺海南島永世都睇唔到雪
+喺銀包裏便拎出一張銀紙
+喺餐廳找數嗰時要畀貼士
+喺高手面前我點敢認叻吖
+嗰件事到而家仲係吊吊揈
+嗰件事的確係我有錯在先
+嗰件工作乜嘢時候攪掂呀
+嗰件旗袍貴過呢件牛仔褲
+嗰兩個鬼佬喺度嘰哩咕嚕
+嗰時因爲我要幫人頂更呢
+噉請換一百蚊嘅散紙畀我
+報紙登嘅消息全部係堅嘅
+夜麻麻仲唔瞓覺做乜嘢吖
+大人大姐仲要亞媽照顧咩
+大家不妨睇吓另一組數據
+大家合作唔到不如散檔啦
+大把女仔向你投懷送抱啦
+好多女仔都想第日行天橋
+好多謝大家咁畀面嚟贈慶
+好多謝大家畀咁多鼓勵我
+好心你幫我講兩句好話啦
+如果係都未必係一件壞事
+如果有乜嘢可以幫得手嘅
+婆婆一日到黑都笑口吟吟
+完全唔顧及啲觀衆噶感受
+家陣買樖菜都要蚊幾兩蚊
+宿舍裏便要執拾得齊整啲
+寫大字枝筆要戙篤企至好
+將佢傳真去呢個電話號碼
+將呢啲書用牛皮紙包住先
+對呢啲咁嘅人真係冇曬收
+對於呢個問題大家點睇先
+居然連個微波爐都攪唔定
+幅相裏便嗰個咪就係我囉
+幫我交份文件畀陳經理吖
+幫朋友我一向都好落力噶
+平平哋買翻個玩吓都好喎
+年卅晚人人都翻屋企團年
+年卅晚我帶你去行花街啦
+張梯企過頭好難擒上去噶
+想早啲走就啦啦聲做嘢喇
+應付咁大場面佢都咁老定
+我今日去買咗部二手電腦
+我冇留低佢嘅電話號碼噃
+我可唔可以去睇吓間房先
+我同張生約咗兩點鐘見面
+我哋三個夾份開咗間餐廳
+我哋仲未決定幾時簽合同
+我哋最好行到其他地方買
+我哋會跟進維修保養嘅事
+我唔敢包你買唔買到嘅噃
+我唔鍾意着大花大朵嘅衫
+我喺呢度嘅時間唔係好多
+我想問吓佢喺邊度搵到佢
+我截停咗佢佢先即刻冚旗
+我明明見到你打爛窗玻璃
+我本書唔知畀邊個滾咗去
+我煞唔切掣剷咗上行人路
+我細個嗰陣時試過蕩失路
+我而家噉樣係我應得噶啦
+我而家淨係靠生果金生活
+我諗多數人未必可以受落
+我買咗好多化妝品送畀人
+我需要你打好呢份備忘錄
+我頭先幫呢個亞叔落口供
+打仗嗰陣人人都冇啖好食
+扤唔入就唔好帶咁多嘢啦
+攞個網嚟豆住佢就穩陣啲
+攞個網絡豆住佢就穩陣啲
+放咗工成個人都幾乎散嗮
+效果唔夠好嘅話先搵人啦
+日日晨早流流畀電話嘈醒
+是但搵啲嘢頂吓肚就得嘞
+最篤底嗰啲水就倒咗佢啦
+有乜嘢着數就連汁都撈埋
+有乜嘢說話要同亞媽講吖
+有咩事即管同我亞頭斟吓
+有啲人話自己有特異功能
+本書就擠喺右手便張凳度
+校長親自去後台探我哋班
+次次食完都忍唔住買多個
+死者家屬車禍現場擺路祭
+每日夜晚去炒更搵到啲錢
+烏蠅遛馬尾一拍兩散阿爸
+爸爸同我哋一齊去遊車河
+琴日嘅會議開得唔係好順
+琴日飲醉咗嘔到成地都係
+由朝早八點半到晚黑七點
+直頭咪畀佢哋入嚟就最好
+真冇解八點鐘仲未有人嚟
+睇佢擔心到成日苦口苦面
+睇呢啲溼星嘢你要唔要呀
+睇見人哋有困難就嚟幫手
+睇見有人玩保齡我就手痕
+睇電影抑或睇戲都冇所謂
+睇電影抑或睇戲都冇研究
+等我同你解釋按揭嘅手續
+細個嗰陣屋企人係噉話嘅
+老師有時都會畀學生問起
+而家啲牀好多都冇牀下底
+而家啲細路講嘢都好老積
+而家生老病死都有得照顧
+而家辦公室全部自動化喇
+聽到呢單新聞我起嗮雞皮
+胡胡混混噉又過咗半世嘞
+至憎啲溼凹凹嘅天氣噶啦
+萬一你聽到乜嘢消息嘅話
+落雨絲溼揸車認真要小心
+要一次過交嗮成年嘅學費
+要用幾多人工先整得好吖
+要賣咗啲股票套現嚟救急
+計我話你都係唔好參加喇
+請你講吓大概要訂幾多先
+請問北京嘅區號係幾多呀
+請問呢套時裝要幾多錢呀
+請問我係邊度搭七路車呀
+講實幾時完成就幾時完成
+讀小學嗰陣我好中意畫畫
+贏唔贏都係打五五波嘅咋
+贏翻一場都算係執翻身彩
+都係唔好搵啲咁嘅嘢攪啦
+都唔夠個舖位半年嘅使費
+都要搵人做吓盲公竹先得
+銅鑼灣係港島最旺嘅一區
+限一個鐘頭就交卷太逼喇
+除夕晚會個個都玩到好焮
+隻狗見親生暴人就死咁吠
+雪藏肉邊夠新鮮嘅咁好食
+點知好景可以維持得幾耐
+點解會有啲咁牙煙嘅嘢噶
+點解無拏拏就畀佢批評呀
+一個人拎咁多嘢夠你嗍氣啦
+一揪一掕噉去邊度都唔方便
+一日行七八十里路仲好平常
+三九唔識七我點解要畀錢你
+上晝九點三個字到下晝五點
+下個月大業主就嚟收樓喇喎
+下次有乜嘢筍嘢記住通知我
+不過佢講嘅係正牌廣州話噃
+九樓咁高佢都夠膽死跳落嚟
+亞爺朝朝都喺度飲茶嘆報紙
+人哋兩個人拍拖你仲跟埋去
+人哋寫字你唔好喺度喐喐貢
+今晚嘅演唱會佢唱得好落力
+他特登請個外來師傅來起屋
+份禮物一定係男朋友送噶啦
+估唔到會喺度撞翻嗰個衰人
+但而家旅遊業面對內憂外患
+你一嚟就攪到我啲嘢亂嗮龍
+你亞媽病咗你都唔去探吓佢
+你介唔介意我入嚟旁聽會議
+你個計劃啲董事個個都話好
+你原先嘅髮型都唔係好啱你
+你可以自由自在噉四周圍去
+你可唔可以同我打份備忘錄
+你可唔可以聽日先至打嚟呀
+你咁樣分明係想剃我眼眉啫
+你哋個個出去玩留低我一個
+你唔好講埋咁多唔等使嘅嘢
+你啲文章同題目有啲唔挐耕
+你打算買乜嘢畀你亞爸亞媽
+你日頭打呢個電話就搵到我
+你睇佢企喺台上木口木面噉
+你知唔知邊個會接佢嘅位呀
+你自己衰都唔好帶壞個仔吖
+你講詳細啲嚟聽吓得唔得呀
+你都打冷震嘞仲唔着多件衫
+佢十幾歲就賣豬仔去咗南洋
+佢又點可以代表公司發言嘅
+佢同團友詳細講解參觀路線
+佢哋最鍾意聽男歌星唱冧歌
+佢啱啱輸錢你咪追佢還錢喇
+佢喺一間出入口公司做文員
+佢喺度做都係騎牛搵馬噶啫
+佢嘅真面目卒之畀人識穿嗮
+佢太太攞埋雞湯嚟片場探班
+佢差唔多日日都翻屋企食飯
+佢擊敗咗同組嘅對手而入圍
+佢焮起嚟一氣唱咗十幾隻歌
+佢爸爸做大壽開咗五十圍酒
+佢經常捱更抵夜埋頭學外語
+佢邊度學似你咁晏至起身噶
+個問題佢都未聽嗮就搶住答
+個家姐今日結婚佢都唔見人
+個現場轉播嘅節目突然咳咗
+做人最緊要識得睇餸食飯嘅
+做出啲啲成績就以爲好架勢
+做呢件事一定會惹到一身蟻
+做完呢件工作我就一身鬆咯
+八點鐘以前邊個都唔准鬆人
+其實我都覺真係有啲掃興嘅
+冇咗份工從頭嚟過又咁易咩
+再攞兩個枕頭畀我得唔得呀
+出名嘅球隊都有好多擁躉噶
+到時候我哋就喺山度過一晚
+剩翻幾份雜誌都畀佢擸嗮咯
+原來你哋兩個夾埋嚟玩我嘅
+可唔可以借錢畀我打個電話
+呢件事爛尾係因爲經費唔夠
+呢個人雞手鴨腳做乜都唔得
+呢個係我哋嘅最新科研成果
+呢個場館一年有十幾個大騷
+呢個建議爲國家慳咗幾萬蚊
+呢個細佬哥無端端喊起上嚟
+呢啲係今日啱啱出爐嘅點心
+呢啲嘢離開海水就唔新鮮喇
+呢單工程已經做到七七八八
+呢場波大家都認爲係五五波
+呢幾年佢哋嘅生意風生水起
+呢本書我貪得意買嚟睇吓啫
+呢部巴士到唔到越秀公園呀
+呢間舖頭賣假貨抵畀人唱衰
+呢間酒店嘅服務真係冇得彈
+咪好似個師奶噉吟嚟吟去喇
+咪攪埋嗮嗰啲鬼五馬六嘅嘢
+唔夠佢嚟就虛心向人哋學習
+唔知邊個係第一個被炒嘅呢
+唔該可唔可以幫我接吓電話
+唔該畀三張五毫子嘅郵票我
+唔該要人送份套餐嚟我間房
+喺人哋屋企就唔到你亂嚟囉
+喺公衆場地食煙好乞人憎噶
+喺美國留學一年要幾多使費
+喺香港可以坐飛翼船去澳門
+嗰個嘢明知犯法都仲夠膽死
+嗰個花盆畀風吹到揜咗落嚟
+嗰啲靚仔嘅打扮我睇唔過眼
+嘥咁多時間先搵得嗰少少錢
+噉樣你可以喺網絡上面修改
+噉而家呢個項目做成點樣呀
+噉點樣先至可以恢復使用呢
+天氣預報講聽日會翻風落雨
+好心你哋唔好計得咁犀利啦
+如果你有咩地方睇唔明嘅話
+婆婆幾時都係咁錫啲孫噶啦
+巴士總站同火車站靠得好近
+廣東話讀孭啲就係普通話嘞
+彈唔瞭解情況就咪亂彈人哋
+想去歐洲旅行都怕凍過水喇
+我仲有冇時間出去買啲點心
+我係咪做錯啲乜嘢激親你呀
+我只係一時飲大咗先會噉噶
+我只係想分享嚇自己嘅諗法
+我哋冇辦法接受你哋嘅價錢
+我哋喺側邊行過佢都見唔到
+我哋捱生捱死幾年至有今日
+我唔知應該點同你哋講好呀
+我唔記得同佢講我嘅新號碼
+我嚟廣東旅遊跟住去上海玩
+我已經將大致內容寫落嚟啦
+我幾時幾日做過啲噉嘅衰嘢
+我想搵一個合適自己嘅女仔
+我想租一套唔係幾貴嘅公寓
+我用開嘅嗰把鋤頭去咗邊度
+我落咗班之後經常去健身房
+我諗呢件事都冇乜阻滯嘅咯
+我鍾意喺噉嘅環境入便傾計
+我需要你睇一次客戶嘅名單
+我點會鍾意啲咁乸型嘅男人
+撞到人哋架車都話唔關佢事
+擸埋枱面啲資料塞嗮入櫃桶
+有人笠佢兩句就唔知幾得意
+有啲人好鍾意同你認親認戚
+有邊個細路唔使父母霎氣吖
+架車耷唔切撞埋前面架車度
+淨係識得靠呃呃騙騙過日子
+爆親血管就實死冇生都得嘞
+睇起上嚟點辛苦都係值得嘅
+究竟我緊要定你份工緊要呀
+端午節廣州有扒龍船嘅風俗
+等入場嘅人喺門口打嗮蛇餅
+紅毛泥畀雨揜過就變質噶喇
+細個嗰陣屋企窮冇機會讀書
+老編將我篇文章改淨千零字
+而家仲有大把人踩單車翻工
+而家唔興着呢啲花哩碌嘅裙
+聽暇惹起啲林沈事就論盡囉
+聽講廣州有好多新嘅遊樂場
+行街要因住啲冇掣單車撞人
+要排幾個鐘頭隊至買到飛噶
+要除到光脫脫噉浸先舒服噶
+講咗半日都唔知佢講乜東東
+買咗幾十張獎票得一張入圍
+車站外面嗰啲全部都係水客
+近排去邊間的士高度蒲多呀
+邊個係二五仔我唔會放過佢
+邊樣係合心水嘅你就攞去啦
+都係買呢隻牌子嘅波鞋慳啲
+都唔知入場好定係唔入場好
+頭先我差少少就畀個樽掟中
+點解你哋琴日斟盤斟噉耐嘅
+亞郭叫我幫佢太太搵師傅教車
+仲要我攞住把掃把成個倉庫走
+你以爲你匿喺度就搵唔到你咩
+你使唔使我將呢啲文件派落去
+你可唔可以話畀我知喺邊度呀
+你咁嘅嘜頭想搵人請你都好難
+你咪以爲匿埋咗我就睇你唔見
+你煮呢味餸嘅味道真係冇得頂
+你要我將你嘅電話轉去第二度
+你覺得佢幾時回電話畀你好呢
+你鍾意坐靠窗定係靠通道嘅位
+佢一早就推架木頭車出嚟開檔
+佢一見到生暴人就思思縮縮嘅
+佢呢個人鬼五馬六嘅事零舍多
+佢從來都唔會喺人面前認低威
+使唔使將我份報告印一份畀你
+係人都想有啖安樂茶飯食噶喇
+個名師講座你冇去聽真係嘥嗮
+個細路擒高擒低好似隻馬騮噉
+個雜技演員一隻手托起個女仔
+借咗大耳窿貴利就好難還清咯
+全國游泳比賽你哋省擸嗮網頂
+冬天捐咗入被竇度就唔願起身
+出埋錢畀埋假你去旅行都唔去
+十分感謝你哋今晚嘅熱情招呼
+去到發現原來佢女朋友都喺到
+可唔可以幫我介紹吓佢係咩嚟
+呢個團有得去浸溫泉又幾盞喎
+呢個真係呢排見過最好笑嘅圖
+呢個老板仲欠伙記三個月人工
+呢個酒會招呼嘅都係啲大粒佬
+呢啲都係我哋應該學習嘅地方
+呢本書你睇開就畀你睇埋先啦
+呢次運動會佢哋學校擸嗮網頂
+呢間裝修公司嘅手工認真嘛嘛
+咁多人睇住自己跌低真係好瘀
+咁清楚嘅事實都已經擺喺眼前
+唔好以爲我哋啲老嘢唔中用噃
+唔該換啲散紙打個電話得唔得
+唔該睇吓寄呢個包裹要幾多錢
+唔通唔可以畀多啲折頭我哋咩
+啱先燒炮仗喺露台度往天一揈
+喺賓館度打國際長途好唔抵噶
+夜晚仲有歌舞表演同放煙花添
+大家熟口熟面有問題唔怕講呀
+女仔之家唔好隨便去人哋屋企
+就算你有兩度散手亦唔好牙擦
+希望多啲外國友人學廣州話啦
+我勸你諗清楚唔好走倔頭路呀
+我同你將個喼擺喺行李架上便
+我哋呢排一直都好努力噉做嘢
+我哋嘅醫療保險包唔包括門診
+我最鍾意嘅呢件衫燒穿咗個窿
+我決定打電話畀以前同行陳生
+我篇文佢擸咗一眼就話我唔得
+我而家只係希望可以再見翻佢
+我都唔記得幾耐未整過嘢食喇
+我需要你將呢個包裹囉去郵局
+我點會亂食呢啲冇寫名嘅藥丸
+或者你應該去同佢嘅經理傾吓
+戲院門口有幾個靚妹喺度食煙
+搵塊索水啲嘅布抹吓枱面啲水
+擸埋書架啲書放嗮入個紙箱度
+新樓入伙前要一次過畀嗮欠款
+然後先至決定喺唔喺投資落去
+現代油畫又唔係咩嘢大師作品
+用牛犁田快極都冇拖拉機咁快
+由琴日起個個月要畀錢過屋企
+男裝真皮皮鞋要幾多錢一對呀
+畀啲唔等使嘅嘢佢做就得㗎喇
+畀啲唔等使嘅嘢佢做就得噶喇
+當時嘅情景唔係你哋想象噉噶
+真係估唔到喺呢度都撞得到你
+眼光光畀人攞咗去都唔敢出聲
+等我話畀你聽菜單裏便嘅菜啦
+老師教過你咁多勻都仲係唔識
+被身邊嘅朋友形容得天花龍鳳
+隻貓好似專登喺人面前扮可愛
+一睇你揸拍啲姿勢就知你係初哥
+今日港紙同美金嘅兌換率係幾多
+你今日有冇睇過公司嘅股票價格
+你咁做因住畀人話你性別歧視呀
+你唔做我保你第二日唔使再翻工
+佢偷咗嘢仲大模斯樣噉行出門口
+佢啲半鹹淡普通話笑到人哋肚赤
+佢將成副身家都投資到呢間工廠
+佢慣咗做夜遊神晚晚兩三點至瞓
+佢晚晚玩到半夜一兩點至翻屋企
+佢用件衫摟住個頭唔想畀人睇到
+係人都知呢度熱天成日落雨嘅啦
+做得嘢嗰幾個都被佢個部門擸嗮
+劫匪再奸都飛唔過公安嘅手指罅
+去旅行跟呢啲旅行團係至慳噶啦
+合同由我哋同你哋各自保存一份
+同埋想問吓你哋今晚想食咩外賣
+呢個衰仔喺班入便係頭號攪屎棍
+呢個課程係爲旅遊業度身訂造嘅
+呢啲瓷器係江西景德鎮嘅正斗貨
+呢條天橋日日都有人喺度派單張
+呢部奧斯卡獲獎影片真係冇得彈
+唔記得多句嘴叫佢今晚翻嚟食飯
+唔該訂三張廿一號去上海嘅機票
+噉你點解唔搵多幾個人幫你手呀
+大家聽到比賽結果即刻冇嗮表情
+大家要將旅行社嘅標貼貼喺身上
+如果提前攞走定期存摺入便嘅錢
+居然咁大手購入我哋公司嘅股份
+我一剒佢啲衫鈕就全部甩嗮出嚟
+我係拎住佢畀嘅地埗搵到呢處嘅
+我哋嘅訂數要睇貴方嘅價錢嚟定
+我喺一個好偶然嘅機會下認識佢
+我喺外便住咗幾個月都冇穿冇爛
+我建議你搵熟人問吓有冇房出租
+我老板成日黑口黑面對住啲員工
+我諗我哋仲未做任何最後嘅決定
+打電話到深圳一分鐘要幾多錢呀
+用咁多人工去做呢件嘢唔制得過
+由三月到而家一直做到金睛火眼
+細路仔咪一味食餸唔食飯先得噶
+老闆當住咁多人面前省咗佢一輪
+而家啲后生仔至鍾意去拉薩旅行
+聽講話佢屋企有隻正牌北京狗噃
+舊時呢度乜嘢鬼五馬六嘅人都有
+話人冇咁大個頭唔好戴咁大頂帽
+請你去人事辦公室攞張申請表先
+請問呢個係唔係寄掛號信嘅窗口
+請問廣州到北京一日有幾個航班
+請問李生屋企嘅電話號碼係幾多
+請幫我將一千蚊美金換成人民幣
+警方根據線報破獲一個犯毒集團
+貴公司嘅報價幾多日之內有效呢
+霎時間你叫我去邊度搵咁多錢噃
+今日氣溫介乎十五度至十六度之間
+但係睇落你哋嘅價錢係唔係太高啦
+你哋呢個書店有冇細路仔嘅數買呀
+佢講啲嘢同今次嘅主題都唔挐耕嘅
+係唔係請貴方報吓產品嘅價錢先呢
+其實佢哋嘅部門一路都有好多問題
+十幾度使乜又頸巾又手套咁大陣仗
+原來電視上便講嘢嗰個人係市長喎
+去旅行梗要買翻啲特產翻去做手信
+呢件事畀班記者知道就唔得掂噶啦
+呢度成條街嘅攤檔都係賣女人嘢嘅
+呢首歌幾個星期都穩坐流行榜首位
+啲爛銅爛鐵佢執埋好多翻嚟當係寶
+喺朋友噶朋友噶微博度見到呢張圖
+夜晚一個人出街要小心畀人劏死牛
+我哋去樹蔭底下嗰個大排檔開煲啦
+我哋呢一季嘅係列產品質地十分好
+我打死唔信台灣人唱粵語歌咁標準
+我淨係帶咗一啲衫同埋部手提電腦
+我睇你堅持唔肯降價係好唔明智嘅
+我聽到啲人傳話公司要裁員一百人
+我聽講話下個禮拜會公佈呢個消息
+服務係幾咁低劣最後攪到我扯嗮火
+而家你仲同啲仔女講乜嘢門當戶對
+而家同佢行嗰個男人究竟係咪娶佢
+聽晚個舞會你可唔可以做我嘅拍乸
+聽講話係諗住由最遲被僱佣嘅開始
+連老人家幾十年積埋啲錢都呃走咗
+你哋呢度嘅絲綢產品都係國貨嚟噶嗎
+你睇山頂嚿石危危乎好似要跌落嚟噉
+佢慳埋咁大筆錢結婚嗰時一次過使嗮
+佢行過我張枱順手就撻咗我枝筆去用
+再畀五萬蚊落去呢個工程仲未埋得尾
+可唔可以請你將呢張發票攞去會計部
+唔該同我將十蚊紙暢開一蚊張嘅散紙
+啱先翻屋企途中竟然撞到小學嘅同學
+女仔之家做嘢唔好咁冇釐搭霎先得噶
+我哋唔會打完齋唔要和尚咁冇腰骨嘅
+我哋最好將呢件行李擺喺行李架上便
+我想話嘍埋班同學禮拜六上白雲山玩
+我都同你解釋咗咁多次你都仲係唔明
+搵舊年購買超過一百萬蚊設備嘅客戶
+請問你仲記唔記得存摺嘅帳號同密碼
+請問由深圳到珠海一日有幾多班車呀
+佢眼光光噉望住啲劫匪將珠寶首飾搶掠一空
