@@ -8926,7 +8926,8 @@ use_preset_vocabulary: true
 呐	na	90.82%
 呐	ne	9.18%
 呑	tun
-呒	fu
+呒 fu
+呒	mu
 呓	yi
 呔	dai
 呔	tai
@@ -11073,7 +11074,8 @@ use_preset_vocabulary: true
 嫎	pang
 嫏	lang
 嫐	nao
-嫑	bao
+嫑 bao
+嫑	biao
 嫒	ai
 嫓	pi
 嫔	pin
@@ -28552,7 +28554,6 @@ use_preset_vocabulary: true
 釖	dao
 釗	zhao
 釘	ding
-釙	li
 釙	po
 釙	pu
 釚	chou
