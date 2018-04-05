@@ -15,24 +15,7 @@ ifeq ($(RIME_DATA_DIR),)
 	RIME_DATA_DIR=$(PREFIX)/share/rime-data
 endif
 
-preset extra all: clean
-	bash $(SRCDIR)/scripts/install-packages.sh :$@ $(OUTPUT)
-	@if [[ -n "$$build_bin" ]]; then \
-	  $(MAKE) build; \
-	fi
+preset extra all minimal build install clean:
+	$(MAKE) -C plum OUTPUT=$(OUTPUT) $(@)
 
-minimal: clean
-	bash $(SRCDIR)/scripts/minimal-build.sh $(OUTPUT)
-
-build:
-	rime_deployer --build $(OUTPUT)
-
-install:
-	@echo "Installing Rime data to '$(DESTDIR)$(RIME_DATA_DIR)'."
-	@install -d $(DESTDIR)$(RIME_DATA_DIR)
-	@install -m 644 $(OUTPUT)/*.* $(DESTDIR)$(RIME_DATA_DIR)
-
-clean:
-	rm -rf $(OUTPUT) > /dev/null 2>&1 || true
-
-.PHONY: all preset minimal build install clean
+.PHONY: preset extra all minimal build install clean

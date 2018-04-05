@@ -1,4 +1,5 @@
 *~
 /output/
 /[-_[:alnum:]]*/
+!/plum
 !/scripts/
