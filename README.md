@@ -26,11 +26,14 @@ Install
 
 The Makefile builds and installs Rime data as a binary package on Unix systems.
 
+Please check out submodule `plum` before building, as the `Makefile` simply pass through make targets to `plum/Makefile`.
+
 Build dependencies
 ---
 
 - git
 - librime>=1.3 (for `rime_deployer`)
+- plum (submodule)
 
 Run-time dependencies
 ---
