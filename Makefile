@@ -21,4 +21,9 @@ all preset extra minimal:
 build install clean:
 	$(MAKE) -C plum OUTPUT=$(OUTPUT) $(@)
 
-.PHONY: all preset extra minimal build install clean
+tarball:
+	git submodule update --init
+	$(MAKE) -C plum OUTPUT=$(OUTPUT) all
+	tar czvf brise-all.tar.gz --exclude=.git --exclude=output -C .. brise
+
+.PHONY: all preset extra minimal build install clean tarball
