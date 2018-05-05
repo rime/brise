@@ -15,7 +15,10 @@ ifeq ($(RIME_DATA_DIR),)
 	RIME_DATA_DIR=$(PREFIX)/share/rime-data
 endif
 
-preset extra all minimal build install clean:
+all preset extra minimal:
+	$(MAKE) -C plum OUTPUT=$(OUTPUT) $(@) build
+
+build install clean:
 	$(MAKE) -C plum OUTPUT=$(OUTPUT) $(@)
 
-.PHONY: preset extra all minimal build install clean
+.PHONY: all preset extra minimal build install clean
