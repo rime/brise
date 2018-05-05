@@ -16,7 +16,7 @@ ifeq ($(RIME_DATA_DIR),)
 endif
 
 all preset extra minimal:
-	$(MAKE) -C plum OUTPUT=$(OUTPUT) $(@) build
+	no_update=1 $(MAKE) -C plum OUTPUT=$(OUTPUT) $(@) build
 
 build install clean:
 	$(MAKE) -C plum OUTPUT=$(OUTPUT) $(@)
