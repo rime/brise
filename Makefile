@@ -1,29 +1,38 @@
 ifeq ($(SRCDIR),)
-	SRCDIR=$(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
+	SRCDIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 endif
 
 # Tips: you can set OUTPUT to Rime user directory in the command line
 ifeq ($(OUTPUT),)
-	OUTPUT:=$(SRCDIR)/output
+	OUTPUT := $(SRCDIR)/output
 endif
 
 ifeq ($(PREFIX),)
-	PREFIX=/usr
+	PREFIX := /usr
 endif
 
 ifeq ($(RIME_DATA_DIR),)
-	RIME_DATA_DIR=$(PREFIX)/share/rime-data
+	RIME_DATA_DIR := $(PREFIX)/share/rime-data
 endif
 
+# `build_bin=1 make` would build binaries for input schemas enabled by default.
+# Note this doesn't work for `extra`, because non of the extra input schemas are
+# enabled by default.
 all preset extra minimal:
-	no_update=1 $(MAKE) -C plum OUTPUT=$(OUTPUT) $(@) build
+	no_update=1 $(MAKE) -C plum OUTPUT=$(OUTPUT) $(@)$${build_bin:+-bin}
 
-build install clean:
+install clean:
 	$(MAKE) -C plum OUTPUT=$(OUTPUT) $(@)
 
-tarball:
+VERSION = $(shell date "+%Y%m%d")
+
+dist:
 	git submodule update --init
 	$(MAKE) -C plum OUTPUT=$(OUTPUT) all
-	tar czvf brise-all.tar.gz --exclude=.git --exclude=output -C .. brise
+	tar czf brise-$(VERSION).tar.gz \
+	  --exclude=.git \
+	  --exclude=output \
+	  --exclude='brise-*.tar.gz' \
+	  -C .. brise
 
-.PHONY: all preset extra minimal build install clean tarball
+.PHONY: all preset extra minimal install clean dist
