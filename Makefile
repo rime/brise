@@ -19,7 +19,7 @@ endif
 # Note this doesn't work for `extra`, because non of the extra input schemas are
 # enabled by default.
 all preset extra minimal:
-	no_update=1 $(MAKE) -C plum OUTPUT=$(OUTPUT) $(@)$${build_bin:+-bin}
+	$(MAKE) -C plum OUTPUT=$(OUTPUT) $(@)$${build_bin:+-bin}
 
 install clean:
 	$(MAKE) -C plum OUTPUT=$(OUTPUT) $(@)
