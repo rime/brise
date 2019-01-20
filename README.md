@@ -12,7 +12,7 @@ and decide whether you want to deprecate the `brise` or `rime-data` package.
 
 Project home
 ---
-[rime.im](http://rime.im)
+[rime.im](https://rime.im)
 
 License
 ---
